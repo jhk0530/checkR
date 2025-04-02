@@ -56,12 +56,22 @@ func generateFeedFor(subreddit string, client *reddit.Client) error {
 		}
 	}
 
+	// 🐱 글이 없을 경우, 안내 메시지용 아이템 추가
+	if len(items) == 0 {
+		items = append(items, Item{
+			Title:       "최근 2시간 이내 작성된 글이 없습니다",
+			Link:        fmt.Sprintf("https://www.reddit.com/r/%s/", subreddit),
+			PubDate:     now.Format(time.RFC1123Z),
+			Description: "조금만 기다려 주세요. 새로운 글이 곧 올라올 거예요! 😺",
+		})
+	}
+
 	rss := RSS{
 		Version: "2.0",
 		Channel: Channel{
-			Title:       fmt.Sprintf("r/%s - 최근 24시간 글", subreddit),
+			Title:       fmt.Sprintf("r/%s - 최근 2시간 글", subreddit),
 			Link:        fmt.Sprintf("https://www.reddit.com/r/%s/", subreddit),
-			Description: fmt.Sprintf("Reddit r/%s 서브레딧에서 최근 하루 동안 작성된 글들", subreddit),
+			Description: fmt.Sprintf("Reddit r/%s 서브레딧에서 최근 2시간 동안 작성된 글들입니다.", subreddit),
 			Items:       items,
 		},
 	}
@@ -77,6 +87,7 @@ func generateFeedFor(subreddit string, client *reddit.Client) error {
 	enc.Indent("", "  ")
 	return enc.Encode(rss)
 }
+
 
 func main() {
 	_ = godotenv.Load()
