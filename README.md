@@ -26,6 +26,7 @@ GitHub Actions를 통해 매시간 자동으로 실행되며, 결과물은 GitHu
 
 ## 🌐 RSS 피드 주소
 
-- jhk0530.github.io/checkR/rstats.xml
-- jhk0530.github.io/checkR/datascience.xml
-
+```
+/feed subscribe jhk0530.github.io/checkR/rstats.xml
+/feed subscribe jhk0530.github.io/checkR/rprogramming.xml
+```
