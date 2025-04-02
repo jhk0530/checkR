@@ -35,5 +35,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/rss.xml
-          git commit -m "🔄 자동 생성된 RSS 업데이트"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "🔄 자동 생성된 RSS 업데이트"
+            git push
+          else
+            echo "😸 변경된 내용이 없어요. 커밋하지 않아요."
+          fi
