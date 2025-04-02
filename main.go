@@ -5,6 +5,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"os"
+	"path/filepath"
 	"time"
 
 	"github.com/joho/godotenv"
@@ -18,10 +19,10 @@ type RSS struct {
 }
 
 type Channel struct {
-	Title       string  `xml:"title"`
-	Link        string  `xml:"link"`
-	Description string  `xml:"description"`
-	Items       []Item  `xml:"item"`
+	Title       string `xml:"title"`
+	Link        string `xml:"link"`
+	Description string `xml:"description"`
+	Items       []Item `xml:"item"`
 }
 
 type Item struct {
@@ -31,30 +32,12 @@ type Item struct {
 	Description string `xml:"description"`
 }
 
-func main() {
-	err := godotenv.Load()
-	if err != nil {
-		fmt.Println("⚠️ .env 파일을 로드하지 못했어요:", err)
-	}
-
-	credentials := reddit.Credentials{
-		ID:       os.Getenv("REDDIT_CLIENT_ID"),
-		Secret:   os.Getenv("REDDIT_CLIENT_SECRET"),
-		Username: os.Getenv("REDDIT_USERNAME"),
-		Password: os.Getenv("REDDIT_PASSWORD"),
-	}
-	userAgent := os.Getenv("REDDIT_USER_AGENT")
-
-	client, err := reddit.NewClient(credentials, reddit.WithUserAgent(userAgent))
-	if err != nil {
-		panic(err)
-	}
-
-	posts, _, err := client.Subreddit.NewPosts(context.Background(), "rstats", &reddit.ListOptions{
+func generateFeedFor(subreddit string, client *reddit.Client) error {
+	posts, _, err := client.Subreddit.NewPosts(context.Background(), subreddit, &reddit.ListOptions{
 		Limit: 100,
 	})
 	if err != nil {
-		panic(err)
+		return err
 	}
 
 	now := time.Now().UTC()
@@ -76,24 +59,47 @@ func main() {
 	rss := RSS{
 		Version: "2.0",
 		Channel: Channel{
-			Title:       "r/rstats - 최근 24시간 글",
-			Link:        "https://www.reddit.com/r/rstats/",
-			Description: "Reddit r/rstats 서브레딧에서 최근 하루 동안 작성된 글들",
+			Title:       fmt.Sprintf("r/%s - 최근 24시간 글", subreddit),
+			Link:        fmt.Sprintf("https://www.reddit.com/r/%s/", subreddit),
+			Description: fmt.Sprintf("Reddit r/%s 서브레딧에서 최근 하루 동안 작성된 글들", subreddit),
 			Items:       items,
 		},
 	}
 
-	file, err := os.Create("docs/rss.xml")
+	outputPath := filepath.Join("docs", subreddit+".xml")
+	file, err := os.Create(outputPath)
 	if err != nil {
-		panic(err)
+		return err
 	}
 	defer file.Close()
 
 	enc := xml.NewEncoder(file)
 	enc.Indent("", "  ")
-	if err := enc.Encode(rss); err != nil {
+	return enc.Encode(rss)
+}
+
+func main() {
+	_ = godotenv.Load()
+
+	credentials := reddit.Credentials{
+		ID:       os.Getenv("REDDIT_CLIENT_ID"),
+		Secret:   os.Getenv("REDDIT_CLIENT_SECRET"),
+		Username: os.Getenv("REDDIT_USERNAME"),
+		Password: os.Getenv("REDDIT_PASSWORD"),
+	}
+	userAgent := os.Getenv("REDDIT_USER_AGENT")
+
+	client, err := reddit.NewClient(credentials, reddit.WithUserAgent(userAgent))
+	if err != nil {
 		panic(err)
 	}
 
-	fmt.Println("✅ rss.xml 생성 완료!")
+	subreddits := []string{"rstats", "rprogramming"}
+
+	for _, sub := range subreddits {
+		fmt.Printf("🔄 %s 피드 생성 중...\n", sub)
+		if err := generateFeedFor(sub, client); err != nil {
+			fmt.Printf("⚠️ %s 처리 중 에러: %v\n", sub, err)
+		}
+	}
 }
