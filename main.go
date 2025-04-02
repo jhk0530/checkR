@@ -41,12 +41,12 @@ func generateFeedFor(subreddit string, client *reddit.Client) error {
 	}
 
 	now := time.Now().UTC()
-	oneDayAgo := now.Add(-24 * time.Hour)
+	cutoff := now.Add(-2 * time.Hour)
 
 	var items []Item
 	for _, post := range posts {
 		postTime := post.Created.Time
-		if postTime.After(oneDayAgo) {
+		if postTime.After(cutoff) {
 			items = append(items, Item{
 				Title:       post.Title,
 				Link:        "https://reddit.com" + post.Permalink,
