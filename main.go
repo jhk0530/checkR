@@ -57,6 +57,7 @@ func generateFeedFor(subreddit string, client *reddit.Client) error {
 	}
 
 	// 🐱 글이 없을 경우, 안내 메시지용 아이템 추가
+	/*
 	if len(items) == 0 {
 		items = append(items, Item{
 			Title:       "최근 2시간 이내 작성된 글이 없습니다",
@@ -64,7 +65,13 @@ func generateFeedFor(subreddit string, client *reddit.Client) error {
 			PubDate:     now.Format(time.RFC1123Z),
 			Description: "조금만 기다려 주세요. 새로운 글이 곧 올라올 거예요! 😺",
 		})
+	}*/
+
+	if len(items) == 0 {
+		fmt.Printf("😺 [%s] 최근 글이 없어 RSS 생성을 생략합니다.\n", subreddit)
+		return nil // RSS 파일을 생성하지 않고 함수 종료
 	}
+	
 
 	rss := RSS{
 		Version: "2.0",
