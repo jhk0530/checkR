@@ -9,17 +9,5 @@
       <pubDate>Thu, 03 Apr 2025 17:45:30 +0000</pubDate>
       <description>    Warning in install.packages :&#xA;      package ‘ULT’ is not available for this version of R&#xA;    &#xA;    A version of this package for your version of R might be available elsewhere,&#xA;    see the ideas at&#xA;    https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages&#xA;&#xA;When trying to download the ULT package I get this error, does anyone know how to fix it I don&#39;t really know what all the information is meaning when I click the link   &#xA;</description>
     </item>
-    <item>
-      <title>Building a Weather App in Go with OpenWeather API – A Step-by-Step Guide</title>
-      <link>https://reddit.com/r/rprogramming/comments/1jqnahl/building_a_weather_app_in_go_with_openweather_api/</link>
-      <pubDate>Thu, 03 Apr 2025 16:40:11 +0000</pubDate>
-      <description>I recently wrote a detailed guide on building a weather app in Go using the OpenWeather API. It covers making API calls, parsing JSON data, and displaying the results. If you&#39;re interested, here&#39;s the link: [https://gomasterylab.com/tutorialsgo/go-fetch-api-data](https://gomasterylab.com/tutorialsgo/go-fetch-api-data) . I&#39;d love to hear your feedback!</description>
-    </item>
-    <item>
-      <title>Can&#39;t install r-base</title>
-      <link>https://reddit.com/r/rprogramming/comments/1jqms65/cant_install_rbase/</link>
-      <pubDate>Thu, 03 Apr 2025 16:20:49 +0000</pubDate>
-      <description>I&#39;m using Pop os 22.04. I&#39;m trying to install R and this is what I&#39;m getting.  &#xA;The following packages have unmet dependencies:&#xA;&#xA;r-base-core : Depends: libc6 (&amp;gt;= 2.38) but 2.35-0ubuntu3.9 is to be installed&#xA;&#xA;Depends: libcurl4t64 (&amp;gt;= 7.28.0) but it is not installable&#xA;&#xA;Depends: libglib2.0-0t64 (&amp;gt;= 2.12.0) but it is not installable&#xA;&#xA;Depends: libicu74 (&amp;gt;= 74.1-1\~) but it is not installable&#xA;&#xA;Depends: libpng16-16t64 (&amp;gt;= 1.6.2) but it is not installable&#xA;&#xA;Depends: libreadline8t64 (&amp;gt;= 6.0) but it is not installable&#xA;&#xA;Depends: libtiff6 (&amp;gt;= 4.0.3) but it is not installable&#xA;&#xA;Depends: libtirpc3t64 (&amp;gt;= 1.0.2) but it is not installable&#xA;&#xA;Depends: libxt6t64 but it is not installable&#xA;&#xA;Recommends: r-base-dev but it is not going to be installed&#xA;&#xA;E: Unable to correct problems, you have held broken packages.&#xA;&#xA;/etc/apt/sources.list has this entry: deb [https://cloud.r-project.org/bin/linux/ubuntu](https://cloud.r-project.org/bin/linux/ubuntu) jammy-cran40/&#xA;&#xA;</description>
-    </item>
   </channel>
 </rss>
