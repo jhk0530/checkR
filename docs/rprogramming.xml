@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Trying to download ULT package to do a multivariate kruskal-wallis, help!</title>
+      <link>https://reddit.com/r/rprogramming/comments/1jqp08n/trying_to_download_ult_package_to_do_a/</link>
+      <pubDate>Thu, 03 Apr 2025 17:45:30 +0000</pubDate>
+      <description>    Warning in install.packages :&#xA;      package ‘ULT’ is not available for this version of R&#xA;    &#xA;    A version of this package for your version of R might be available elsewhere,&#xA;    see the ideas at&#xA;    https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages&#xA;&#xA;When trying to download the ULT package I get this error, does anyone know how to fix it I don&#39;t really know what all the information is meaning when I click the link   &#xA;</description>
+    </item>
+    <item>
       <title>Building a Weather App in Go with OpenWeather API – A Step-by-Step Guide</title>
       <link>https://reddit.com/r/rprogramming/comments/1jqnahl/building_a_weather_app_in_go_with_openweather_api/</link>
       <pubDate>Thu, 03 Apr 2025 16:40:11 +0000</pubDate>
