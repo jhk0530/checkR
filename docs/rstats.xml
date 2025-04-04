@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>r/forhire Analyst roles</title>
-      <link>https://reddit.com/r/rstats/comments/1jr8dwp/rforhire_analyst_roles/</link>
-      <pubDate>Fri, 04 Apr 2025 10:10:24 +0000</pubDate>
-      <description>&#xA;HELLO, &#xA;&#xA;I am on the lookout for an analyst role and thought I’d put this out here in case someone knows of an opportunity!&#xA;&#xA;About Me:&#xA;&#xA;✅ Strong experience in programming languages SQL, R. &#xA;Data visualization software tools : Power BI, tableau - Qlikview, data analysis, and reporting&#xA;- requirements gathering both functional and non functional &#xA;- stakeholder management and communication &#xA;✅ Skilled in data cleaning (GROUP BY, JOINs, aggregations), statistical modeling, forecast and risk assessment&#xA;✅ Experience working on Cyber Security and AI-driven payment platforms&#xA;✅ Background in business process improvement&#xA;✅ Adept at translating large and complex datasets and recommending insights for non-technical and technical stakeholders&#xA;&#xA;Other Technical &amp;amp; Visual Tools I Use:&#xA;&#x9;•&#x9;CRM&#xA;&#x9;•&#x9;Excel (pivot tables, advanced formulas, automation)&#xA;&#x9;•&#x9;Visio (process mapping, workflow visualization)&#xA;&#x9;I thrive in problem-solving and translating messy data into actionable insights. &#xA;&#xA;&#xA;I am skilled and well trained with 5yrs+ experience working with consulting firms, different industries and fields  &#xA;&#xA;If you know of any roles that fit, or if you’re hiring, I’d love to chat!&#xA;&#xA;I’m open to remote, hybrid, or in-office roles and willing to discuss opportunities across industries. Feel free to DM me or drop a comment if you have any leads!&#xA;&#xA;Appreciate any connections or referrals—thanks in advance!</description>
+      <title>R in Maine: Connecting Ecologists, Medical Researchers, and Data Scientists</title>
+      <link>https://reddit.com/r/rstats/comments/1jrkwr2/r_in_maine_connecting_ecologists_medical/</link>
+      <pubDate>Fri, 04 Apr 2025 19:50:17 +0000</pubDate>
+      <description>Donald Szlosek, the MaineR Users Group organizer, recently spoke with the R Consortium about the group’s transition from a city-based meetup to a statewide community and its efforts to engage a diverse audience. Donald shared insights into organizing events, the challenges of hybrid formats, and the shift toward virtual workshops based on community feedback. &#xA;&#xA;He also highlighted his work in real-world evidence studies, where R is critical in causal inference and machine learning validation.&#xA;&#xA;[https://r-consortium.org/posts/r-in-maine-connecting-ecologists-medical-researchers-and-data-scientists/](https://r-consortium.org/posts/r-in-maine-connecting-ecologists-medical-researchers-and-data-scientists/)</description>
+    </item>
+    <item>
+      <title>Please help! Need help creating a table from ANOVA to publication ready chapter 4</title>
+      <link>https://reddit.com/r/rstats/comments/1jrk86p/please_help_need_help_creating_a_table_from_anova/</link>
+      <pubDate>Fri, 04 Apr 2025 19:21:03 +0000</pubDate>
+      <description>Hello guys, so i need help in creating a publication ready table from my ANOVA data. i know about the gt\_summary function however, my professor want the data presented in a particular format (mean + or \_ SEM (sample size n)) any help will be very much appreciated&#xA;&#xA;https://preview.redd.it/eh1b2pcsbvse1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d810e266d2e8c9ff7db8f14878ce08f94b41e1c3&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
