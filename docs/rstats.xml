@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>최근 2시간 이내 작성된 글이 없습니다</title>
-      <link>https://www.reddit.com/r/rstats/</link>
-      <pubDate>Thu, 03 Apr 2025 00:34:11 +0000</pubDate>
-      <description>조금만 기다려 주세요. 새로운 글이 곧 올라올 거예요! 😺</description>
+      <title>PLEASE HELP MY PROJECT IS DUE IN 12 HOURS</title>
+      <link>https://reddit.com/r/rstats/comments/1jr2sts/please_help_my_project_is_due_in_12_hours/</link>
+      <pubDate>Fri, 04 Apr 2025 03:52:08 +0000</pubDate>
+      <description>so basically i have data that i want to plot in r studio. however, everytime i put in my code, I keep getting an error message either saying:&#xA;&#xA; (Error in x[floor(d)] + x[ceiling(d)] : non-numeric argument to binary operator) or (Error in hist.default(tandp$streams, xlab = &#34;Streams on Spotify&#34;, main = &#34;Distribution of Spotify Streams&#34;,  :   &#39;x&#39; must be numeric)&#xA;&#xA;even though my values are numeric. I thought the problem was that my values had commas but i removed them and still got the same thing. i am in need of urgent help since my project is due is 12 hours. my values range from 3000-1000000000 so im not sure whats happening. all i’m trying to do is make a histogram or box plot of the distribution but r is not letting me :( if someone wants to run the code to see if they could help PLEASE by all means. </description>
     </item>
   </channel>
 </rss>
