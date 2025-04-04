@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R in Maine: Connecting Ecologists, Medical Researchers, and Data Scientists</title>
-      <link>https://reddit.com/r/rstats/comments/1jrkwr2/r_in_maine_connecting_ecologists_medical/</link>
-      <pubDate>Fri, 04 Apr 2025 19:50:17 +0000</pubDate>
-      <description>Donald Szlosek, the MaineR Users Group organizer, recently spoke with the R Consortium about the group’s transition from a city-based meetup to a statewide community and its efforts to engage a diverse audience. Donald shared insights into organizing events, the challenges of hybrid formats, and the shift toward virtual workshops based on community feedback. &#xA;&#xA;He also highlighted his work in real-world evidence studies, where R is critical in causal inference and machine learning validation.&#xA;&#xA;[https://r-consortium.org/posts/r-in-maine-connecting-ecologists-medical-researchers-and-data-scientists/](https://r-consortium.org/posts/r-in-maine-connecting-ecologists-medical-researchers-and-data-scientists/)</description>
-    </item>
-    <item>
-      <title>Please help! Need help creating a table from ANOVA to publication ready chapter 4</title>
-      <link>https://reddit.com/r/rstats/comments/1jrk86p/please_help_need_help_creating_a_table_from_anova/</link>
-      <pubDate>Fri, 04 Apr 2025 19:21:03 +0000</pubDate>
-      <description>Hello guys, so i need help in creating a publication ready table from my ANOVA data. i know about the gt\_summary function however, my professor want the data presented in a particular format (mean + or \_ SEM (sample size n)) any help will be very much appreciated&#xA;&#xA;https://preview.redd.it/eh1b2pcsbvse1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d810e266d2e8c9ff7db8f14878ce08f94b41e1c3&#xA;&#xA;</description>
+      <title>[Question] [Rstudio] linear regression model standardised residuals</title>
+      <link>https://reddit.com/r/rstats/comments/1jrp59r/question_rstudio_linear_regression_model/</link>
+      <pubDate>Fri, 04 Apr 2025 22:55:58 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
