@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R Portfolio Project: Analyze Substack Readership Stats</title>
-      <link>https://reddit.com/r/rstats/comments/1jrto3x/r_portfolio_project_analyze_substack_readership/</link>
-      <pubDate>Sat, 05 Apr 2025 02:50:33 +0000</pubDate>
-      <description>I’m looking for someone with R experience who’d be interested in a portfolio-worthy project analyzing newsletter performance data from Substack. Substack provides basic metrics (e.g., location, views, traffic sources), and I’m hoping to uncover insights that might help improve subscriber growth and engagement.&#xA;&#xA;This would be a great opportunity for someone looking to apply R in a real-world context. In exchange for access to all available stats, I’m asking for a copy of the resulting analysis. You’re welcome to use the results in your portfolio or as a public case study. I’m also happy to credit your work and share it with my readers.&#xA;&#xA;You might also consider opening your own Substack—it’s free, easy to set up, and a great way to profile your work and potentially attract freelance opportunities.&#xA;&#xA;This isn’t a paid gig, but it could be a valuable project for your portfolio. Let me know if you’re interested and want to take a look at the data.</description>
+      <title>Mixed models: results from summary() and anova() in separate tables?</title>
+      <link>https://reddit.com/r/rstats/comments/1js269n/mixed_models_results_from_summary_and_anova_in/</link>
+      <pubDate>Sat, 05 Apr 2025 12:18:59 +0000</pubDate>
+      <description>Is it common to present model results from summary() and anova() Type III table from the same model in two tables for scientific papers? Alternatively incorporate results for both in one table (seems like it would make for a lot of columns…). Or just one of them? What do people in here do? </description>
     </item>
   </channel>
 </rss>
