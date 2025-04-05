@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Mixed models: results from summary() and anova() in separate tables?</title>
-      <link>https://reddit.com/r/rstats/comments/1js269n/mixed_models_results_from_summary_and_anova_in/</link>
-      <pubDate>Sat, 05 Apr 2025 12:18:59 +0000</pubDate>
-      <description>Is it common to present model results from summary() and anova() Type III table from the same model in two tables for scientific papers? Alternatively incorporate results for both in one table (seems like it would make for a lot of columns…). Or just one of them? What do people in here do? </description>
+      <title>Q: Coding a CLPM with 3 mediators</title>
+      <link>https://reddit.com/r/rstats/comments/1js4mbe/q_coding_a_clpm_with_3_mediators/</link>
+      <pubDate>Sat, 05 Apr 2025 14:25:50 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
