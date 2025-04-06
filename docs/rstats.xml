@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Designing a table with ages over time and doctor appointments</title>
-      <link>https://reddit.com/r/rstats/comments/1jsa7wn/designing_a_table_with_ages_over_time_and_doctor/</link>
-      <pubDate>Sat, 05 Apr 2025 18:34:18 +0000</pubDate>
-      <description></description>
+      <title>Am unfamiliar with R and statistics in general - need help with ANOVAs!</title>
+      <link>https://reddit.com/r/rstats/comments/1jsvc7y/am_unfamiliar_with_r_and_statistics_in_general/</link>
+      <pubDate>Sun, 06 Apr 2025 14:27:23 +0000</pubDate>
+      <description>So I&#39;m currently using R to perform statistical analysis for an undergrad project. I&#39;m essentially applying 3 different treatments to the subjects (24 total for each treatment, n=72) and recording different measures over a period of a few days. &#xA;&#xA;Two of my measures are heart rate and body length, so the ANOVAs was relatively simple to do (since heart rate and body length represent the quantitative variable and the treatment represents the categorical variable). However, my other 2 measures are yes/no (abnormality, survival), so aren&#39;t really quantitative. &#xA;&#xA;With this in mind, what is the best way to go about seeing if there is a statistically signficant relationship between my treatments and the yes/no measures? Can I adapt the data to fit an ANOVA (quantifying the numbers of Yes&#39;s for abnormality, number of No&#39;s for survival)? How do I make sure I&#39;m relating my analysis to the day of measurement or subject number?&#xA;&#xA;  &#xA;Thanks in advance!</description>
     </item>
   </channel>
 </rss>
