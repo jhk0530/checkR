@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>hybrid method of random forest survival and SVM model</title>
-      <link>https://reddit.com/r/rstats/comments/1jt4wac/hybrid_method_of_random_forest_survival_and_svm/</link>
-      <pubDate>Sun, 06 Apr 2025 21:23:32 +0000</pubDate>
-      <description>hi. I want to do a hybrid method of random forest survival and SVM model in R software . does anyone have the R codes for running the hybrid one to help me? thanks in advanced</description>
+      <title>Help understanding &#34;tuneLength&#34; in the caret library for elastic net parameter tuning?</title>
+      <link>https://reddit.com/r/rstats/comments/1jtcxw4/help_understanding_tunelength_in_the_caret/</link>
+      <pubDate>Mon, 07 Apr 2025 04:25:40 +0000</pubDate>
+      <description>I&#39;m trying to find the optimal alpha &amp;amp; lambda parameters in my elastic net model, and came across this github page [https://daviddalpiaz.github.io/r4sl/elastic-net.html](https://daviddalpiaz.github.io/r4sl/elastic-net.html)&#xA;&#xA;In the example from the page (code shown below) it sets tuneLength = 10, &amp;amp; describes it as such:&#xA;&#xA;&#34;by setting `tuneLength = 10`, we will search 10 α values and 10 λ values for each. &#34;. What exactly is mean by &#34;for each&#34;, for each what? And how many different combinations and values of alpha and lambda will it search?&#xA;&#xA;    set.seed(42)&#xA;    cv_5 = trainControl(method = &#34;cv&#34;, number = 5)&#xA;&#xA;`hit_elnet_int = train(Salary ~ . ^ 2, data = Hitters, method = &#34;glmnet&#34;, trControl = cv_5, tuneLength = 10)`</description>
     </item>
   </channel>
 </rss>
