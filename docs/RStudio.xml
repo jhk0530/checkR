@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to create paired stacked bar charts in ggplot2?</title>
-      <link>https://reddit.com/r/RStudio/comments/1jub2x9/how_to_create_paired_stacked_bar_charts_in_ggplot2/</link>
-      <pubDate>Tue, 08 Apr 2025 11:18:24 +0000</pubDate>
-      <description>Hi everyone,&#xA;&#xA;I&#39;m currently doing some work that requires me to compare the results for multiple individuals between two studies. Let&#39;s say I have the following columns:&#xA;&#xA;`population` `component` `study` `percentage`&#xA;&#xA;  &#xA;The first column, *population*, forms the x-axis and *percentage* is the y variable. These are grouped into components to form a stacked bar chart. However, I would like to compare these between the two studies. How can I create a bar chart that pairs stacked bars for each *population* based on the study? &#xA;&#xA;This is my basic code: &#xA;&#xA;`admixture_comparison_chart &amp;lt;- ggplot(comparison_table_transformed, aes(x = Population, y = percentage, fill = component))+`&#xA;&#xA;  `geom_bar(stat = &#34;identity&#34;, position = &#34;stack&#34;)+`&#xA;&#xA;  `theme(axis.text.x = element_text(angle = 45, hjust = 1))+`&#xA;&#xA;  `facet_grid(.~study)`&#xA;&#xA;However, instead of creating one set of paired bars, it creates two separate sets of bars. How can I change this? </description>
+      <title>Assignment Help</title>
+      <link>https://reddit.com/r/RStudio/comments/1juiffy/assignment_help/</link>
+      <pubDate>Tue, 08 Apr 2025 16:54:29 +0000</pubDate>
+      <description>Hey! I am taking an online class that requires us to use R studio. I have just recently gotten a full time job and I am struggling and overwhelmed with what R studio takes to learn and I am well behind in the class. Is anyone available to help me out with what steps I should take to get started? I&#39;ve tried looking at youtube tutorials but I seem to get lost pretty quickly. Thanks!</description>
     </item>
   </channel>
 </rss>
