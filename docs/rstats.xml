@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>How to sum across rows with misspelled data while keeping non-misspelled data</title>
+      <link>https://reddit.com/r/rstats/comments/1jufv6a/how_to_sum_across_rows_with_misspelled_data_while/</link>
+      <pubDate>Tue, 08 Apr 2025 15:08:25 +0000</pubDate>
+      <description>Let&#39;s say I have the following dataset:&#xA;&#xA;`temp &amp;lt;- data.frame(ID = c(1,1,2,2,2,3,3,4,4,4),`&#xA;&#xA;`year = c(2023, 2024, 2023, 2023, 2024, 2023, 2024, 2023, 2024, 2024),`&#xA;&#xA;`tool = c(&#34;Mindplay&#34;, &#34;Mindplay&#34;, &#34;MindPlay&#34;, &#34;Mindplay&#34;, &#34;Mindplay&#34;, &#34;Amira&#34;, &#34;Amira&#34;, &#34;Freckle&#34;, &#34;Freckle&#34;, &#34;Frekcle&#34;),`&#xA;&#xA;`avg_weekly_usage = c(14, 15, 11, 10, 20, 12, 15, 25, 13, 10))`&#xA;&#xA;Mindplay, Amira, and Freckle are reading remediation tools schools use to help K-3 students improve reading. Data registered for Mindplay is sometimes spelled &#34;Mindplay&#34; and &#34;MindPlay&#34; even though it&#39;s data from the same tool; same with &#34;Freckle&#34; and &#34;Frekcle.&#34; I need to add avg\_weekly\_usage for the rows with the same ID and year but with the two different spellings of Mindplay and Freckle while keeping the avg\_weekly\_usage for all other rows with correctly spelled tool names. So for participant #2, year 2023, tool Mindplay average weekly usage should be 21 minutes and for #4, 2024, Freckle, average weekly usage should be 23 minutes.&#xA;&#xA;Please help!</description>
+    </item>
+    <item>
       <title>Modeling Highly Variable Fisheries Discard Data — Seeking Advice on GAMs, Interpretability, and Strategy Changes Over Time</title>
       <link>https://reddit.com/r/rstats/comments/1judpsx/modeling_highly_variable_fisheries_discard_data/</link>
       <pubDate>Tue, 08 Apr 2025 13:35:38 +0000</pubDate>
