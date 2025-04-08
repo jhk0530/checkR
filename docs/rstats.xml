@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How do I check a against a vector of thresholds?</title>
-      <link>https://reddit.com/r/rstats/comments/1juh4vi/how_do_i_check_a_against_a_vector_of_thresholds/</link>
-      <pubDate>Tue, 08 Apr 2025 16:01:06 +0000</pubDate>
-      <description>I have two data sets: one with my actual data and one with thresholds for the variables I measured. I want to check if the value I measured is above the threshold stored in the second data set for all data columns, but I can&#39;t figure out how. I have tried to search online, but haven&#39;t found the answer to my problem yet. I would like to create new columns that show whether a value is equal to or less than the threshold or not.&#xA;&#xA;Edit: I figured it out, see comments.&#xA;&#xA;    df_1 &amp;lt;- data.frame(ID = LETTERS[1:10], var1 = rnorm(10, 5, 1), var2 = rnorm(10, 1, 0.25), var3 = rnorm(10, 0.01, 0.02))&#xA;    df_2 &amp;lt;- data.frame(var1 = 3.0, var2 = 0.75, var3 = 0.001)</description>
+      <title>Need code for PCA on R</title>
+      <link>https://reddit.com/r/rstats/comments/1junvps/need_code_for_pca_on_r/</link>
+      <pubDate>Tue, 08 Apr 2025 20:36:12 +0000</pubDate>
+      <description>So I have a dataset with a bunch of explanatory variables and about 1300 observations. The observations are grouped per site (6 sites) (and in 2 transects within the sites). One of the variables is  frequency, which is a factor variable with 2 levels (long and short)&#xA;&#xA;I want to create a PCA with all the explanatory variables and grouped per site. I also want a legend whereby the dots are coloured by long or short frequencies.&#xA;&#xA;THANK YOU FOR YOUr heeeeelp</description>
     </item>
   </channel>
 </rss>
