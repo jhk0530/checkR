@@ -9,11 +9,5 @@
       <pubDate>Tue, 08 Apr 2025 21:22:44 +0000</pubDate>
       <description></description>
     </item>
-    <item>
-      <title>Need code for PCA on R</title>
-      <link>https://reddit.com/r/rstats/comments/1junvps/need_code_for_pca_on_r/</link>
-      <pubDate>Tue, 08 Apr 2025 20:36:12 +0000</pubDate>
-      <description>So I have a dataset with a bunch of explanatory variables and about 1300 observations. The observations are grouped per site (6 sites) (and in 2 transects within the sites). One of the variables is  frequency, which is a factor variable with 2 levels (long and short)&#xA;&#xA;I want to create a PCA with all the explanatory variables and grouped per site. I also want a legend whereby the dots are coloured by long or short frequencies.&#xA;&#xA;THANK YOU FOR YOUr heeeeelp</description>
-    </item>
   </channel>
 </rss>
