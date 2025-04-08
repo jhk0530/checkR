@@ -112,7 +112,7 @@ func main() {
 		panic(err)
 	}
 
-	subreddits := []string{"rstats", "rprogramming"}
+	subreddits := []string{"rstats", "rprogramming", "RStudio"}
 
 	for _, sub := range subreddits {
 		fmt.Printf("🔄 %s 피드 생성 중...\n", sub)
