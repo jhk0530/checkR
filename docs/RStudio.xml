@@ -9,11 +9,5 @@
       <pubDate>Wed, 09 Apr 2025 17:43:38 +0000</pubDate>
       <description>Hi! &#xA;&#xA;My screen (with the R Studio logo) keeps freezing whenever I open R Studio. Sometimes the software starts, but the UX shows me the tab titles... and nothing more! (I can&#39;t do anything.)&#xA;&#xA;I ask Chat GPT, of course. However, the solutions can&#39;t work with me...  &#xA;I tried to reinstall R Studio and R about three times.&#xA;&#xA;Does anybody have any idea about what could be the problem?</description>
     </item>
-    <item>
-      <title>Compare and match data in columns from 2 different dataframes</title>
-      <link>https://reddit.com/r/RStudio/comments/1jvae2g/compare_and_match_data_in_columns_from_2/</link>
-      <pubDate>Wed, 09 Apr 2025 16:43:16 +0000</pubDate>
-      <description>I did a survey, and have a dataframe of 35 variables as columns (df1), one of which is the participant email address.  I have another dataframe that has data from everyone who received the survey (df2) - 4 variables as columns, one of which is email address.&#xA;&#xA;I want to add a column to df2 that tells me (yes or no) for each email in df2, does it exist in df1.  In other words, who out of the list of people in df2 has taken the survey.&#xA;&#xA;I&#39;m relatively new to R, so apologies if this is a really basic question.  I&#39;d appreciate any help I can get!</description>
-    </item>
   </channel>
 </rss>
