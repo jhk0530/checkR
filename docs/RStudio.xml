@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Correlation matrix</title>
-      <link>https://reddit.com/r/RStudio/comments/1jut4e1/correlation_matrix/</link>
-      <pubDate>Wed, 09 Apr 2025 00:35:51 +0000</pubDate>
-      <description>Hey guys. So i have a dataset with 186 observations, how do i formulate a the correlation matrix please 😭( i am used to small data sets, that i can just input into R manually)</description>
-    </item>
-    <item>
-      <title>Creating Publishable Figures</title>
-      <link>https://reddit.com/r/RStudio/comments/1jusi9n/creating_publishable_figures/</link>
-      <pubDate>Wed, 09 Apr 2025 00:04:50 +0000</pubDate>
-      <description>G’day lads and ladies.&#xA;&#xA;I am currently working on a systems biology paper concerning a novel mathematical model of the bacterial Calvin Benson Bassham cycle in which I need to create publish quality figures.&#xA;&#xA;The figures will mostly be in the format of Metabolite Concentration (Mol/L) over Time (s). Assume that my data is correctly formatted before uploading to the working directory.&#xA;&#xA;Any whizzes out there know how I can make a high quality figure using R studio? &#xA;&#xA;I can be more specific for anyone that needs supplemental information.&#xA;&#xA;MANY THANKS 😁</description>
+      <title>Connecting to the Polymarket API in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1juv0zq/connecting_to_the_polymarket_api_in_r/</link>
+      <pubDate>Wed, 09 Apr 2025 02:13:59 +0000</pubDate>
+      <description>Hello, I’ve looked online and I don’t see a good answer, but has anyone connected to the polymarket API and downloaded historic and/or live data into RStudio? I’ve seen options for python but not R. Interested in doing some personal research and would like to know if anyone has any tips, links, or packages that might be helpful in achieving this goal.</description>
     </item>
   </channel>
 </rss>
