@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Correlation matrix</title>
+      <link>https://reddit.com/r/RStudio/comments/1jut4e1/correlation_matrix/</link>
+      <pubDate>Wed, 09 Apr 2025 00:35:51 +0000</pubDate>
+      <description>Hey guys. So i have a dataset with 186 observations, how do i formulate a the correlation matrix please 😭( i am used to small data sets, that i can just input into R manually)</description>
+    </item>
+    <item>
       <title>Creating Publishable Figures</title>
       <link>https://reddit.com/r/RStudio/comments/1jusi9n/creating_publishable_figures/</link>
       <pubDate>Wed, 09 Apr 2025 00:04:50 +0000</pubDate>
