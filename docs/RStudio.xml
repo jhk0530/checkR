@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Having problems with R Studio (Windows 11)</title>
+      <link>https://reddit.com/r/RStudio/comments/1jvbvs4/having_problems_with_r_studio_windows_11/</link>
+      <pubDate>Wed, 09 Apr 2025 17:43:38 +0000</pubDate>
+      <description>Hi! &#xA;&#xA;My screen (with the R Studio logo) keeps freezing whenever I open R Studio. Sometimes the software starts, but the UX shows me the tab titles... and nothing more! (I can&#39;t do anything.)&#xA;&#xA;I ask Chat GPT, of course. However, the solutions can&#39;t work with me...  &#xA;I tried to reinstall R Studio and R about three times.&#xA;&#xA;Does anybody have any idea about what could be the problem?</description>
+    </item>
+    <item>
       <title>Compare and match data in columns from 2 different dataframes</title>
       <link>https://reddit.com/r/RStudio/comments/1jvae2g/compare_and_match_data_in_columns_from_2/</link>
       <pubDate>Wed, 09 Apr 2025 16:43:16 +0000</pubDate>
