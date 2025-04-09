@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Extremely Wide confidence intervals</title>
-      <link>https://reddit.com/r/rstats/comments/1jv0hcz/extremely_wide_confidence_intervals/</link>
-      <pubDate>Wed, 09 Apr 2025 08:01:26 +0000</pubDate>
-      <description>Hey guys! Hope you all have a blessed week.&#xA;I’ve been running some logistic and multinomial regressions in R, trying to analyse a survey I conducted a few months back. Unfortunately I ran into a problem. In multiple regressions (mainly multinomials), ORs as well as CIs are extremely wide, and some range from 0 to inf. How should I proceed? I feel kinda stucked. Is there any way to check for multicollinearity or perfect separation in multinomial regressions? Results from the questionnaire seemed fine, with adequate respondents in each category. Any insight would be of great assistance!!! Thank you in advance. Have a great end of the week.</description>
+      <title>Two way mixed effects anova controlling for a variable</title>
+      <link>https://reddit.com/r/rstats/comments/1jv9gfo/two_way_mixed_effects_anova_controlling_for_a/</link>
+      <pubDate>Wed, 09 Apr 2025 16:04:51 +0000</pubDate>
+      <description>Hello!! I need to analyse data for a long term experiment looking at the impact of three treatment types on plant growth overtime. I thought I had the correct analysis (a two way mixed effects ANOVA), which (with a post hoc test) gave me two nice table outputs showing me the significance between treatments at each timepoint and within treatment type across timepoints. However, I&#39;ve just realised that a two way mixed effects ANOVA might not work because my data is count data and more importantly I need to account for the fact that some of the plants are in the same pond and some are not (eg accounting for pseudoreplication). I then thought that a glmer may be the most suitable but I can&#39;t seem to get a good post hoc test to give me the same output as previously. Any suggestions on which test or even where I should be looking for extra info would be greatly appreciated! TIA</description>
     </item>
   </channel>
 </rss>
