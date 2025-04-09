@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Having problems with R Studio (Windows 11)</title>
-      <link>https://reddit.com/r/RStudio/comments/1jvbvs4/having_problems_with_r_studio_windows_11/</link>
-      <pubDate>Wed, 09 Apr 2025 17:43:38 +0000</pubDate>
-      <description>Hi! &#xA;&#xA;My screen (with the R Studio logo) keeps freezing whenever I open R Studio. Sometimes the software starts, but the UX shows me the tab titles... and nothing more! (I can&#39;t do anything.)&#xA;&#xA;I ask Chat GPT, of course. However, the solutions can&#39;t work with me...  &#xA;I tried to reinstall R Studio and R about three times.&#xA;&#xA;Does anybody have any idea about what could be the problem?</description>
+      <title>.RData file not opening :( Help!!</title>
+      <link>https://reddit.com/r/RStudio/comments/1jviw6y/rdata_file_not_opening_help/</link>
+      <pubDate>Wed, 09 Apr 2025 22:38:16 +0000</pubDate>
+      <description>Hi! I&#39;m very new to Rstudio so please bear with me. &#xA;&#xA;My professor provided a file with a .RData and I&#39;m trying to open it in RStudio. I changed it from R to RStudio in the &#34;open with&#34; area on my computer, but when I try to open the file all I get is: load(&#34;\~/Desktop/File-1 (1).RData&#34;)  &#xA;&#xA;Nothing happens after I see that in the Console.  How do I actually get it to open? Is there something that I&#39;m missing?  &#xA;&#xA;Thanks in advance!! </description>
     </item>
   </channel>
 </rss>
