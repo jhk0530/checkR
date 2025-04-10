@@ -4,10 +4,22 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>[Q] Career advice, pharmacist</title>
-      <link>https://reddit.com/r/RStudio/comments/1jvv7ol/q_career_advice_pharmacist/</link>
-      <pubDate>Thu, 10 Apr 2025 11:05:56 +0000</pubDate>
-      <description></description>
+      <title>Object not found, why?</title>
+      <link>https://reddit.com/r/RStudio/comments/1jvx4c1/object_not_found_why/</link>
+      <pubDate>Thu, 10 Apr 2025 12:50:57 +0000</pubDate>
+      <description>I&#39;m working on a compact letter display with three way Anova. My dataframe is an excel sheet. The first step is already not working because it says my variable couldn&#39;t be found. Why?&#xA;&#xA;    &amp;gt; mod &amp;lt;- aov(RMF~Artname+Treatment+Woche)&#xA;    Fehler in eval(predvars, data, env) : Objekt &#39;RMF&#39; nicht gefunden</description>
+    </item>
+    <item>
+      <title>How can I make this run faster</title>
+      <link>https://reddit.com/r/RStudio/comments/1jvwxrh/how_can_i_make_this_run_faster/</link>
+      <pubDate>Thu, 10 Apr 2025 12:41:57 +0000</pubDate>
+      <description>I’m currently running a multilevel logistical regression analysis with adaptive intercepts. I have an enormous imputed data set, over 4million observations and 94 variables. &#xA;Currently I’m using a glmmTMB model with 15 variables. I also have 18 more outcome variables I need to run through. &#xA;&#xA;Example code: model &amp;lt;- with(Data, glmmTMB(DV1 ~IV1 + IV2 + IV3 ….  IV15 + (1|Cohort), family =binomial, data = Data)) &#xA;&#xA;Data is in mids formate: &#xA;&#xA;The code has been running for 5hours at this point, just for a single outcome variable. What can I do to speed this up. &#xA;I’ve tried using future_lappy but in tests this has resulted in the inability to pool results. &#xA;&#xA;I’m using a gaming computer with intel core i9 and 30gbs of memory. And barely touching 10% of the CPU capacity.</description>
+    </item>
+    <item>
+      <title>Help with regression and association</title>
+      <link>https://reddit.com/r/RStudio/comments/1jvwge2/help_with_regression_and_association/</link>
+      <pubDate>Thu, 10 Apr 2025 12:16:23 +0000</pubDate>
+      <description>Hi everyone we have an excel dataset that looks like it’s from an online shop, and includes 13 variables:&#xA;&#x9;•&#x9;Gender (M/F)&#xA;&#x9;•&#x9;Partner, Service, Billing, Churn (Yes/No)&#xA;&#x9;•&#x9;Payment method, Geography (Categorical)&#xA;&#x9;•&#x9;Monthly, Total, Score, Age, Salary (Numerical)&#xA;&#x9;•&#x9;Active (0/1)&#xA;&#xA;We have to deeply analyse it until the multiple regression (not the logistic one). We started by doing the descriptive analysis of each variable and correcting some errors like NA terms. And we also created the graphics for the numerical and categorical variables.&#xA;&#xA;We would like an hand in identifying a possible association between the variables and then conduct the regression analysis, since the only numerical variables that are correlated are useless (monthly/annual) and we&#39;ve just found an association for churn and totalcharges. &#xA;&#xA;Let me know if I need to add more information to make it clearer, we&#39;re really stuck </description>
     </item>
   </channel>
 </rss>
