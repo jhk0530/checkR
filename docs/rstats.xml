@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Two way mixed effects anova controlling for a variable</title>
-      <link>https://reddit.com/r/rstats/comments/1jv9gfo/two_way_mixed_effects_anova_controlling_for_a/</link>
-      <pubDate>Wed, 09 Apr 2025 16:04:51 +0000</pubDate>
-      <description>Hello!! I need to analyse data for a long term experiment looking at the impact of three treatment types on plant growth overtime. I thought I had the correct analysis (a two way mixed effects ANOVA), which (with a post hoc test) gave me two nice table outputs showing me the significance between treatments at each timepoint and within treatment type across timepoints. However, I&#39;ve just realised that a two way mixed effects ANOVA might not work because my data is count data and more importantly I need to account for the fact that some of the plants are in the same pond and some are not (eg accounting for pseudoreplication). I then thought that a glmer may be the most suitable but I can&#39;t seem to get a good post hoc test to give me the same output as previously. Any suggestions on which test or even where I should be looking for extra info would be greatly appreciated! TIA</description>
+      <title>[Q] Career advice, pharmacist</title>
+      <link>https://reddit.com/r/rstats/comments/1jvv70w/q_career_advice_pharmacist/</link>
+      <pubDate>Thu, 10 Apr 2025 11:04:47 +0000</pubDate>
+      <description>Hi everyone, I am a pharmacist in Europe, age early thirties, , working in regulatory affairs.&#xA;&#xA; Currently I am doing a post grad statistics and data science course.&#xA;&#xA;I am hoping this will present new opportunities.  Am I being too optimistic / naive in thinking so? &#xA;&#xA;Do you have any suggestions / advice moving forward? &#xA;&#xA;Is it worth  pursuing such a course? Anyone in a similar career path?&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
