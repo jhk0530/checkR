@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Post hoc dunns test not printing all rows- only showing 1000</title>
-      <link>https://reddit.com/r/rprogramming/comments/1jvvk81/post_hoc_dunns_test_not_printing_all_rows_only/</link>
-      <pubDate>Thu, 10 Apr 2025 11:26:39 +0000</pubDate>
-      <description>I&#39;ve performed 2 post hoc dunns tests after a multivariate kuskall and neither one of the &#39;tables&#39;/results are showing all the data/rows. For one I have 1,653 rows and it only shows 1000 and the other I have 14,028 rows and again it only shows 1000.&#xA;&#xA;I have read online it only shows rows that have data or something along those lines but shouldn&#39;t they all have data as groups with data are being tested against groups with data and therefore have data and will output a result?&#xA;&#xA;Also both my multivariate kuskalls indicated a significant result but in the dunn tests I haven&#39;t seen one significant result so far in what has been printed. Why would this be? </description>
+      <title>Best R Books for beginners to advanced</title>
+      <link>https://reddit.com/r/rprogramming/comments/1jw709l/best_r_books_for_beginners_to_advanced/</link>
+      <pubDate>Thu, 10 Apr 2025 19:51:17 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
