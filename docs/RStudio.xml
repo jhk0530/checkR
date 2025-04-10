@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Changing values to numbers across multiple columns</title>
-      <link>https://reddit.com/r/RStudio/comments/1jvm50r/changing_values_to_numbers_across_multiple_columns/</link>
-      <pubDate>Thu, 10 Apr 2025 01:20:20 +0000</pubDate>
-      <description>Hi! I have a dataframe that contains the answers to my survey questions - stored as factors. How can I change the values from factors to numbers across multiple columns at a time? &#xA;&#xA;  &#xA;For example, one section of my dataset asks questions about ADHD. The columns for this are called adhd1, adhd2, adhd3, ..., adhd18. The possible answers to these questions are &#34;Just a little/ Once in a while&#34;, &#34;Not at all/ Never&#34;, &#34;Pretty much/ Often&#34;, and &#34;Very much/ Very frequently&#34;. I need to change those values to the numeric values 1, 2, 3, 4, respectively.  &#xA;&#xA;https://preview.redd.it/sli23fwtswte1.png?width=1432&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6d8120fbbb8c87d240628116c55044256685a803&#xA;&#xA;One problem I&#39;ve encountered is that some of the questions have not received all possible answers, so their levels are different: &#xA;&#xA;https://preview.redd.it/xukd0aseswte1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e9b9aeaede6282d5b685e77b7eb3c41438b99530&#xA;&#xA;</description>
+      <title>Quarto vs r markdown</title>
+      <link>https://reddit.com/r/RStudio/comments/1jvr3gg/quarto_vs_r_markdown/</link>
+      <pubDate>Thu, 10 Apr 2025 06:12:07 +0000</pubDate>
+      <description>Anyone have an idea of which is best for website?</description>
     </item>
   </channel>
 </rss>
