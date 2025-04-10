@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>.RData file not opening :( Help!!</title>
-      <link>https://reddit.com/r/RStudio/comments/1jviw6y/rdata_file_not_opening_help/</link>
-      <pubDate>Wed, 09 Apr 2025 22:38:16 +0000</pubDate>
-      <description>Hi! I&#39;m very new to Rstudio so please bear with me. &#xA;&#xA;My professor provided a file with a .RData and I&#39;m trying to open it in RStudio. I changed it from R to RStudio in the &#34;open with&#34; area on my computer, but when I try to open the file all I get is: load(&#34;\~/Desktop/File-1 (1).RData&#34;)  &#xA;&#xA;Nothing happens after I see that in the Console.  How do I actually get it to open? Is there something that I&#39;m missing?  &#xA;&#xA;Thanks in advance!! </description>
+      <title>Changing values to numbers across multiple columns</title>
+      <link>https://reddit.com/r/RStudio/comments/1jvm50r/changing_values_to_numbers_across_multiple_columns/</link>
+      <pubDate>Thu, 10 Apr 2025 01:20:20 +0000</pubDate>
+      <description>Hi! I have a dataframe that contains the answers to my survey questions - stored as factors. How can I change the values from factors to numbers across multiple columns at a time? &#xA;&#xA;  &#xA;For example, one section of my dataset asks questions about ADHD. The columns for this are called adhd1, adhd2, adhd3, ..., adhd18. The possible answers to these questions are &#34;Just a little/ Once in a while&#34;, &#34;Not at all/ Never&#34;, &#34;Pretty much/ Often&#34;, and &#34;Very much/ Very frequently&#34;. I need to change those values to the numeric values 1, 2, 3, 4, respectively.  &#xA;&#xA;https://preview.redd.it/sli23fwtswte1.png?width=1432&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6d8120fbbb8c87d240628116c55044256685a803&#xA;&#xA;One problem I&#39;ve encountered is that some of the questions have not received all possible answers, so their levels are different: &#xA;&#xA;https://preview.redd.it/xukd0aseswte1.png?width=1024&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e9b9aeaede6282d5b685e77b7eb3c41438b99530&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
