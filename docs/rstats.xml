@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Post hoc dunns test not printing all rows- only showing 1000</title>
-      <link>https://reddit.com/r/rstats/comments/1jvvkg7/post_hoc_dunns_test_not_printing_all_rows_only/</link>
-      <pubDate>Thu, 10 Apr 2025 11:26:58 +0000</pubDate>
-      <description></description>
-    </item>
-    <item>
-      <title>[Q] Statistical advice for entomology research; NMDS?</title>
-      <link>https://reddit.com/r/rstats/comments/1jvvgdy/q_statistical_advice_for_entomology_research_nmds/</link>
-      <pubDate>Thu, 10 Apr 2025 11:20:27 +0000</pubDate>
-      <description></description>
+      <title>POTUS economic scorecard shinylive app</title>
+      <link>https://reddit.com/r/rstats/comments/1jwa45k/potus_economic_scorecard_shinylive_app/</link>
+      <pubDate>Thu, 10 Apr 2025 22:03:15 +0000</pubDate>
+      <description>Built this [shinylive app ](https://jhelvy.github.io/potus-econ-scorecard/) to track economic indicators over different administrations going back to Eisenhower (1957). It was fun to build and remarkably simple now with shinylive and Quarto. I wanted to share it with R users in case you&#39;re interested in building something similar for other applications.&#xA;&#xA;It was inspired by my [post](https://www.reddit.com/r/dataisbeautiful/comments/1jqy998/comparison_of_sp_500_performance_dyeing_first_100/?utm_source=share&amp;amp;utm_medium=web3x&amp;amp;utm_name=web3xcss&amp;amp;utm_term=1&amp;amp;utm_content=share_button) from last week in r/dataisbeautiful (which was taken down for no stated reason) and allows users to view different indicators, including market indicators, unemployment, and inflation. You can also view performance referenced to either inauguration day or the day before the election. &#xA;&#xA;The app is built using:&#xA;&#xA;* [R Shiny](https://shiny.posit.co/) for the interactive web application.&#xA;* [shinylive](https://posit-dev.github.io/r-shinylive/) for browser-based execution without a server.&#xA;* [Quarto](https://quarto.org/) for website publishing.&#xA;* [plotly](https://plotly.com/r/) for interactive visualizations.&#xA;&#xA;Live app is available at [https://jhelvy.github.io/potus-econ-scorecard/](https://jhelvy.github.io/potus-econ-scorecard/)&#xA;&#xA;Source code is available at [https://github.com/jhelvy/potus-econ-scorecard](https://github.com/jhelvy/potus-econ-scorecard)</description>
     </item>
   </channel>
 </rss>
