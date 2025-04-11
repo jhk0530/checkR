@@ -4,22 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>New to R, no coding background – need help with a practice exam task (visualizations, regression, etc.)</title>
-      <link>https://reddit.com/r/RStudio/comments/1jw61cm/new_to_r_no_coding_background_need_help_with_a/</link>
-      <pubDate>Thu, 10 Apr 2025 19:10:39 +0000</pubDate>
-      <description>Hey folks! I&#39;m learning R for the first time as part of a course, but I don’t have a relevant background, so it’s been a bit overwhelming.&#xA;&#xA;I need to work with a dataset in RStudio: visualize it, explore relationships, find trends, customize plots, and add a regression line.&#xA;&#xA;If someone can help me solve it or guide me through the steps, I’d be super grateful. Thanks a lot in advance!</description>
-    </item>
-    <item>
-      <title>Computer Specs</title>
-      <link>https://reddit.com/r/RStudio/comments/1jw53g6/computer_specs/</link>
-      <pubDate>Thu, 10 Apr 2025 18:31:18 +0000</pubDate>
-      <description>Hi all,&#xA;&#xA;I’m looking to replace a laptop I have that is on its way out the door. &#xA;&#xA;I plan on learning R and doing analysis to supplement SAS in the near future and just wanted to pick brains on computer needs.&#xA;&#xA;I figure 16g of RAM is probably fine, but will it be a noticeable difference compared to 40g RAM? Data sets would typically range in the ~15k observations with occasional 50-100k. CPU models comparable between the two options.&#xA;&#xA;Sorry if this is asked frequently, I looked through the pinned posts and didn’t see anything about this. </description>
-    </item>
-    <item>
-      <title>Codebook?</title>
-      <link>https://reddit.com/r/RStudio/comments/1jw4x5k/codebook/</link>
-      <pubDate>Thu, 10 Apr 2025 18:24:05 +0000</pubDate>
-      <description>Hi! I am new to R and trying to figure out how to make a codebook. I am a social scientist and plan to use R to analyze self-report survey data. I would like to be able to easily see the item text for each variable. I have searched the internet and am having trouble figuring out how to make a codebook... I am starting to wonder if the terminology I&#39;m using (i.e., codebook) doesn&#39;t describe the function in R. Any suggestions would be greatly appreciated!</description>
+      <title>Why isn&#39;t my object found?</title>
+      <link>https://reddit.com/r/RStudio/comments/1jwpj1a/why_isnt_my_object_found/</link>
+      <pubDate>Fri, 11 Apr 2025 13:12:06 +0000</pubDate>
+      <description>Hi all - I&#39;m working with ACS data and trying to create a descriptive Table 1. I don&#39;t understand why my factored gender variable isn&#39;t found. I know it&#39;s in my dataset, and I can see it in the survey design object summary in the console at the bottom. I made sure the spelling and capitalization are correct. Any ideas? Thank you for your help!</description>
     </item>
   </channel>
 </rss>
