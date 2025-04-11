@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Best R Books for beginners to advanced</title>
-      <link>https://reddit.com/r/rprogramming/comments/1jw709l/best_r_books_for_beginners_to_advanced/</link>
-      <pubDate>Thu, 10 Apr 2025 19:51:17 +0000</pubDate>
-      <description></description>
+      <title>Binary classification</title>
+      <link>https://reddit.com/r/rprogramming/comments/1jwndk9/binary_classification/</link>
+      <pubDate>Fri, 11 Apr 2025 11:17:57 +0000</pubDate>
+      <description>Hello everyone,&#xA;&#xA;I wanted to start doing kaggle competitions. I also need to study and prepare binary classifications for college. With that, I decided to focus on it a little bit.&#xA;&#xA;Could you recommend to me where can I find a list of interesting binary classifiers programmed in R? If not actually implemented, a list of possible algorithms to implement?&#xA;&#xA;It can come from almost anything, from the simplest model to complex neural networks.&#xA;&#xA;If you have any hint on where I can find them, or even, in the perfect scenario, a repo with a lot of different implementations I would be very thankful!&#xA;&#xA;  &#xA;Again, thank you and good learning!</description>
     </item>
   </channel>
 </rss>
