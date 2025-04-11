@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Having a frustrating problem with R when trying to replicate a pandas project</title>
-      <link>https://reddit.com/r/rprogramming/comments/1jwq4gb/having_a_frustrating_problem_with_r_when_trying/</link>
-      <pubDate>Fri, 11 Apr 2025 13:39:38 +0000</pubDate>
-      <description>Background i work for a company. We have to provide data but my role isn&#39;t data analytics its just some of the work I do. I have learnt pandas myself to automate some tasks I have to do with manipulating excel docs.&#xA;&#xA;My work system is locked down and does not have any way of running python or jupyter notebook. In our works software centre I see they allow us to download R for windows.  &#xA;&#xA;So I got my python program which reads a excel file. Performs filters on the data and writes differe it filtered data back into different sheets in a work book.  &#xA;  &#xA;  &#xA;&#xA;With the help of a.i I thought I&#39;d try and have it convert my program to R and achieve the same result. &#xA;&#xA;The conversion seems to work fine and it write the sheets correctly. But the numbers are different. I know the python one is correct as it matches the numbers me and others get by doing the filtering manually in excel.&#xA;&#xA;All the numbers agree after each filter until one part of the R code.&#xA;&#xA;    `tdf &amp;lt;- tdf %&amp;gt;% filter(!((`Reason 2 Description` == &#34;condition 1&#34;) &amp;amp; (`Reason 2 Descripion` %in% c (&#34;thing1&#34;,&#34;thing2&#34;,&#34;thing3&#34;)) ))&#xA;&#xA;&#xA;  &#xA;  &#xA;I can&#39;t pose the code or the sample due to data protection issues. But I count the rows before this action and say I have 3000. Which matches with the python program.&#xA;&#xA;If I do a deleteddf and remove the ! From the filter I get 150 rows. Which is how many should be deleted. And how many is deleted by the python program. But when I count the rows of tdf after this it hasn&#39;t removed 150 rows from tdf. Which throws the numbers off.&#xA;&#xA;I&#39;m not sure why this is happening and only guess is I&#39;m applying the filter wrong. It should delete anything where Reason 1 is x and Reason 2 is either of 3 things. &#xA;&#xA;</description>
+      <title>Help with Bibliometrix</title>
+      <link>https://reddit.com/r/rprogramming/comments/1jwtfns/help_with_bibliometrix/</link>
+      <pubDate>Fri, 11 Apr 2025 16:02:22 +0000</pubDate>
+      <description>The biblioshiny/bibliometrix is not working same. The thematic evolution map is showing different than the usual and the time slice part as well. Can anyone help me out fix the issue?</description>
     </item>
   </channel>
 </rss>
