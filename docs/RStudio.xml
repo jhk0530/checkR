@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Fixest DiD Issue</title>
+      <link>https://reddit.com/r/RStudio/comments/1jwquk4/fixest_did_issue/</link>
+      <pubDate>Fri, 11 Apr 2025 14:11:51 +0000</pubDate>
+      <description>Was wondering if someone could help. I am using iplot() to plot a DiD event study using the feols() function. However, when I see my results it seems that, whatever changes I make, I always have a completely flat line pre treatment. &#xA;&#xA;This is clearly wrong but I am not sure why? Has anyone had an issue like this before or does anyone have any suggestions to try fix? &#xA;&#xA;  &#xA;Thanks</description>
+    </item>
+    <item>
       <title>Why isn&#39;t my object found?</title>
       <link>https://reddit.com/r/RStudio/comments/1jwpj1a/why_isnt_my_object_found/</link>
       <pubDate>Fri, 11 Apr 2025 13:12:06 +0000</pubDate>
