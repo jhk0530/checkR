@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Regression model violates assumptions even after transformation — what should I do?</title>
-      <link>https://reddit.com/r/rstats/comments/1jwb3p0/regression_model_violates_assumptions_even_after/</link>
-      <pubDate>Thu, 10 Apr 2025 22:47:52 +0000</pubDate>
-      <description>hi everyone, i&#39;m working on a project using the &#34;balanced skin hydration&#34; dataset from kaggle. i&#39;m trying to predict electrical capacitance (a proxy for skin hydration) using TEWL, ambient humidity, and a binary variable called target.&#xA;&#xA;i fit a linear regression model and did box-cox transformation. TEWL was transformed using log based on the recommended lambda. after that, i refit the model but still ran into issues.&#xA;&#xA;here’s the problem:&#xA;&#xA;* shapiro-wilk test fails (residuals not normal, p &amp;lt; 0.01)&#xA;* breusch-pagan test fails (heteroskedasticity, p &amp;lt; 2e-16)&#xA;* residual plots and qq plots confirm the violations&#xA;&#xA;[Before and After Transformation](https://preview.redd.it/uxte99ve63ue1.png?width=558&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=113de10d394e9521a290b6231841606360a624fb)</description>
+      <title>Help writing a function</title>
+      <link>https://reddit.com/r/rstats/comments/1jwge8i/help_writing_a_function/</link>
+      <pubDate>Fri, 11 Apr 2025 03:22:24 +0000</pubDate>
+      <description>I struggle a lot with writing function code to automate some processes. I end up manually writing the code for everything, copying and replacing the parts to get the results I want.&#xA;&#xA;For example, while doing descriptive statistics, I have a categorical variable with 3-6 groups, and I want to cross-tab with other variables (categorical and continuous). When I get a response, I want to get proportions for categorical variables, central tendency values for continuous variables, and a p-value from chi-squared, t-test, ANOVA, etc. (depending on which one is necessary).&#xA;&#xA;Can someone help me figure out how to write functions to automate this process?&#xA;&#xA;I have been reading the data science R markdown book but still can’t get this right. But I also can’t get my function code correct.&#xA;&#xA;I appreciate any help in troubleshooting this example. Thank you all!</description>
+    </item>
+    <item>
+      <title>Does it make sense to use cross-validation on a small dataset (n = 314) w/ a high # of variables (29) to find the best parameters for a MLR model?</title>
+      <link>https://reddit.com/r/rstats/comments/1jwgdtp/does_it_make_sense_to_use_crossvalidation_on_a/</link>
+      <pubDate>Fri, 11 Apr 2025 03:21:45 +0000</pubDate>
+      <description>I have a small dataset, and was wondering if it would make sense to do CV to fit a MLR with a high number of variables? There&#39;s an R data science book I&#39;m looking through that recommends CV for regularization techniques, but it didn&#39;t use CV for MLR, and I&#39;m a bit confused why. </description>
     </item>
   </channel>
 </rss>
