@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Why isn’t my Stargazer table displaying in the format I want it to?</title>
-      <link>https://reddit.com/r/rstats/comments/1jxg7r3/why_isnt_my_stargazer_table_displaying_in_the/</link>
-      <pubDate>Sat, 12 Apr 2025 12:31:02 +0000</pubDate>
-      <description>I am trying to have my table formatted in a more presentable way, but despite including all the needing changes, it still outputs in default text form. Why is this?&#xA;&#xA;</description>
+      <title>Negative correlation random intercept slope with negative values - help interpreting!</title>
+      <link>https://reddit.com/r/rstats/comments/1jxo4md/negative_correlation_random_intercept_slope_with/</link>
+      <pubDate>Sat, 12 Apr 2025 18:37:02 +0000</pubDate>
+      <description>Can someone please help me correctly interpret this: In my lmer models there is a negative correlation between the random intercept and slope.  &#xA;In model 1, the outcome variable is positive (ie +12 cmH2O) with a negative intercept/slope correlation (-0.63): does that mean &#34;patients with a larger (more positive) baseline value tend to have smaller (more negative) values of the slope and therefore more rapid decrease/steeper slopes over time?&#xA;&#xA;And if that is correct;  &#xA;In model 2, the outcome var is negative (ie. -20 cmH20), also w/ a neg. correlation (-0.5), does that mean patients with more negative baseline values (ie. -35 cmH2O) will have steeper or more shallow slopes?&#xA;&#xA;The negative values with the negative correlation really confuses my interpretation of this correlation....</description>
     </item>
   </channel>
 </rss>
