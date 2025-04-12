@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>How to properly install and use bvpSolve</title>
+      <link>https://reddit.com/r/RStudio/comments/1jxbl1r/how_to_properly_install_and_use_bvpsolve/</link>
+      <pubDate>Sat, 12 Apr 2025 07:10:04 +0000</pubDate>
+      <description>Hi everyone! Maybe this is a naive question, but here is what has bothered me for several days.&#xA;&#xA;I want to use the package [bvpSolve](https://bvpsolve.r-forge.r-project.org/), I have tried many ways to install this package, for example, install from the official: `install.packages(&#34;bvpSolve&#34;)` , install from a mirror `install.packages(&#34;bvpSolve&#34;, repos = &#34;http://R-Forge.R-project.org&#34;)` or directly install from local repository, but all these methods failed with error message `installation of package ‘bvpSolve’ had non-zero exit status`, I found out that this package was removed from the CRAN repository: [https://cran.r-project.org/web/packages/bvpSolve/index.html](https://cran.r-project.org/web/packages/bvpSolve/index.html) and the tricky ting about this package is that it&#39;s interfacing some Fortran code, but I do really want to use this package, is there are any other ways or was I doing wrong? Thanks in advance!</description>
+    </item>
+    <item>
       <title>I need help for a college project</title>
       <link>https://reddit.com/r/RStudio/comments/1jx9ziv/i_need_help_for_a_college_project/</link>
       <pubDate>Sat, 12 Apr 2025 05:20:56 +0000</pubDate>
