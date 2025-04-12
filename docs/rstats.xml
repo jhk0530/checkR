@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Why isn’t my Stargazer table displaying in the format I want it to?</title>
+      <link>https://reddit.com/r/rstats/comments/1jxg7r3/why_isnt_my_stargazer_table_displaying_in_the/</link>
+      <pubDate>Sat, 12 Apr 2025 12:31:02 +0000</pubDate>
+      <description>I am trying to have my table formatted in a more presentable way, but despite including all the needing changes, it still outputs in default text form. Why is this?&#xA;&#xA;</description>
+    </item>
+    <item>
       <title>Interpretation of elastic net Regressioncoefficients</title>
       <link>https://reddit.com/r/rstats/comments/1jxfbh3/interpretation_of_elastic_net/</link>
       <pubDate>Sat, 12 Apr 2025 11:38:06 +0000</pubDate>
