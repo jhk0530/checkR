@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How bad is it that I don&#39;t seem to &#34;get&#34; a lot of dplyr and tidyverse?</title>
-      <link>https://reddit.com/r/rstats/comments/1jwwkxs/how_bad_is_it_that_i_dont_seem_to_get_a_lot_of/</link>
-      <pubDate>Fri, 11 Apr 2025 18:13:47 +0000</pubDate>
-      <description>It&#39;s not that I can&#39;t read or use it, in fact I use the pipe and other tidyverse functions fairly regularly. But I don&#39;t understand why I&#39;d exclusively use dplyr. It doesn&#39;t seem to give me a lot of solutions that base R can&#39;t already do. &#xA;&#xA;Am I crazy? Again, I&#39;m not *against* it, but stuff like boolean indexing, lists, %in% and so on are very flexible and are very explicit about what they do. &#xA;&#xA;Curious to know what you guys think, and also what other languages you like. I think it might be a preference thing; While i&#39;m primarily an R user I really learned to code using Java and C, so syntax that looks more C-like and using lists as pseudo-pointers has always felt very intuitive for me. </description>
-    </item>
-    <item>
-      <title>Does anyone know where I can find data that I doesn&#39;t require complex survey procedures?</title>
-      <link>https://reddit.com/r/rstats/comments/1jwvujz/does_anyone_know_where_i_can_find_data_that_i/</link>
-      <pubDate>Fri, 11 Apr 2025 17:43:17 +0000</pubDate>
-      <description>I have the WORST biostats professor, who is the most unhelpful professor ever. I was trying to complete an assignment, and he said this: &#34;I noticed you&#39;re using nationally representative data sources requiring complex survey analytical procedures (e.g., YRBS, NHANES, BRFSS, NSFG). These national data are a great source of public health information. However, they cannot be appropriately analyzed without using complex survey procedures&#34;. I can&#39;t find any data that matches what he is looking for. Does anyone know where I can find local public health data that I do not have to use complex survey procedures?</description>
+      <title>Looking for a guide to read code</title>
+      <link>https://reddit.com/r/rstats/comments/1jx8c5s/looking_for_a_guide_to_read_code/</link>
+      <pubDate>Sat, 12 Apr 2025 03:39:27 +0000</pubDate>
+      <description>&#xA;&#xA;I want to be able to *read* code and understand it, not necessarily *write* it.&#xA;&#xA;Does that make sense? Is there an app or other reference that teaches how ro read R code?&#xA;&#xA;Thanks.</description>
     </item>
   </channel>
 </rss>
