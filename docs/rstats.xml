@@ -9,11 +9,5 @@
       <pubDate>Sat, 12 Apr 2025 12:31:02 +0000</pubDate>
       <description>I am trying to have my table formatted in a more presentable way, but despite including all the needing changes, it still outputs in default text form. Why is this?&#xA;&#xA;</description>
     </item>
-    <item>
-      <title>Interpretation of elastic net Regressioncoefficients</title>
-      <link>https://reddit.com/r/rstats/comments/1jxfbh3/interpretation_of_elastic_net/</link>
-      <pubDate>Sat, 12 Apr 2025 11:38:06 +0000</pubDate>
-      <description>Can I classify my regression coefficients from elastic net regression using a scale like RC = 0-0.1 for weak effect, 0.1-0.2 for moderate effect, and 0.2-0.3 for strong effect? I&#39;m looking for a way to identify the best predictors among highly correlated variables, but I haven’t found any literature on this so far. Any thoughts or insights on this approach? I understood that a higher RC means that the effect of the variable on the model is higher than the effect of a variable with a lower RC. I really appreciate your help, thanks in advance.&#xA;&#xA;&#xA;&#xA;https://preview.redd.it/k5jrdhkm4eue1.jpg?width=605&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=022593e963a4bb97b73d5fd645c0ea8e03a75893&#xA;&#xA;</description>
-    </item>
   </channel>
 </rss>
