@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Looking for a guide to read code</title>
-      <link>https://reddit.com/r/rstats/comments/1jx8c5s/looking_for_a_guide_to_read_code/</link>
-      <pubDate>Sat, 12 Apr 2025 03:39:27 +0000</pubDate>
-      <description>&#xA;&#xA;I want to be able to *read* code and understand it, not necessarily *write* it.&#xA;&#xA;Does that make sense? Is there an app or other reference that teaches how ro read R code?&#xA;&#xA;Thanks.</description>
+      <title>Interpretation of elastic net Regressioncoefficients</title>
+      <link>https://reddit.com/r/rstats/comments/1jxfbh3/interpretation_of_elastic_net/</link>
+      <pubDate>Sat, 12 Apr 2025 11:38:06 +0000</pubDate>
+      <description>Can I classify my regression coefficients from elastic net regression using a scale like RC = 0-0.1 for weak effect, 0.1-0.2 for moderate effect, and 0.2-0.3 for strong effect? I&#39;m looking for a way to identify the best predictors among highly correlated variables, but I haven’t found any literature on this so far. Any thoughts or insights on this approach? I understood that a higher RC means that the effect of the variable on the model is higher than the effect of a variable with a lower RC. I really appreciate your help, thanks in advance.&#xA;&#xA;&#xA;&#xA;https://preview.redd.it/k5jrdhkm4eue1.jpg?width=605&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=022593e963a4bb97b73d5fd645c0ea8e03a75893&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
