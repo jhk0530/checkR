@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Need help with a project</title>
-      <link>https://reddit.com/r/RStudio/comments/1jybn1j/need_help_with_a_project/</link>
-      <pubDate>Sun, 13 Apr 2025 16:30:07 +0000</pubDate>
-      <description>I have this school project where I have to replicate models from a mathematical biology article and it is beyond what I have done in R so far and would love some help. It is a set of differential equations relating to bats and rabies that I am trying to replicate. I have several attempts, but they all give me plots with almost vertical lines at 0. Heres the article this is all based on as well: [https://www.sciencedirect.com/science/article/pii/S0022519308004219?ref=pdf\_download&amp;amp;fr=RR-2&amp;amp;rr=92fc0c237fcac4aa](https://www.sciencedirect.com/science/article/pii/S0022519308004219?ref=pdf_download&amp;amp;fr=RR-2&amp;amp;rr=92fc0c237fcac4aa)&#xA;&#xA;I am using the &#34;deSolve&#34; and &#34;ggplot2&#34; packages</description>
-    </item>
-    <item>
-      <title>Updated R and R studio: How to tell if a code is running</title>
-      <link>https://reddit.com/r/RStudio/comments/1jybbg9/updated_r_and_r_studio_how_to_tell_if_a_code_is/</link>
-      <pubDate>Sun, 13 Apr 2025 16:16:14 +0000</pubDate>
-      <description>Okay, I feel like I am going crazy. I was trying to run some old R code to save it in a neat document, and I kept getting errors because I was using an old version of R.&#xA;&#xA;I finally decided to update R and RStudio both, and now every time I try to run my code I cannot tell if it is running or not. I remembr RStudio used to have a small red button on the right side that you could click on to stop a code from running. Now, nothing appears. I now the code is running because my laptop si complaining and overheating, and I can see the  memory in use, but why don&#39;t I see that graphical warning/dot anymore?</description>
+      <title>Why does my RevealJS presentation lose sharpness when I have a slide with a pause?</title>
+      <link>https://reddit.com/r/RStudio/comments/1jyh00w/why_does_my_revealjs_presentation_lose_sharpness/</link>
+      <pubDate>Sun, 13 Apr 2025 20:19:32 +0000</pubDate>
+      <description>I am creating a RevealJS presentation in Quarto and I have noticed that if I have a slide with a pause, all text after the first pause lose their accuracy. It&#39;s as if all text, including those in subsequent slides, became a bit hazy. I can&#39;t figure it out why.&#xA;&#xA;To show what I mean, here&#39;s a piece of code that does not have a pause. The screenshot shows how the text shows up on my screen.&#xA;&#xA;    ## Title &#xA;    &#xA;    Anna and John are friends &#xA;    and &#xA;    They both live in NYC&#xA;&#xA;[Text when there are no pauses. ](https://preview.redd.it/oxec73yztnue1.png?width=392&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0a016ea884229502a3c66aa1126b812ce8647e92)&#xA;&#xA;Now, the same text and screenshots with pauses.&#xA;&#xA;    ## Title &#xA;    &#xA;    Anna and John are friends &#xA;     . . . &#xA;    and &#xA;    . . . &#xA;    They both live in NYC.&#xA;&#xA;[Text when there are pauses. ](https://preview.redd.it/uhr5ohl6unue1.png?width=394&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e1828acab083a5c963cd21adf60d6da04aa06d62)&#xA;&#xA;I am not sure it&#39;s clear, but in the second image, both &#34;and&#34; and &#34;They both live in NYC&#34; seem out of focus to me.&#xA;&#xA;All help welcome.</description>
     </item>
   </channel>
 </rss>

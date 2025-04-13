@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Two Complaints about R</title>
+      <link>https://reddit.com/r/rstats/comments/1jyh0z3/two_complaints_about_r/</link>
+      <pubDate>Sun, 13 Apr 2025 20:20:43 +0000</pubDate>
+      <description>I have been using R almost every day for more than 10 years. It is perfect for my work but has two issues bothering me. &#xA;&#xA;First, the naming convention is bad. Since the dot (.) has many functional meanings, it should not be allowed in variable names. I am glad that Tidyverse encourages the snake case naming convention. Also, I don&#39;t understand why package names cannot be snake case. &#xA;&#xA;Second, the OOP design is messy. Not only do we have S3 and S4, R6 is also used by some packages. S7 is currently being worked on. Not sure how this mess will end.     </description>
+    </item>
+    <item>
       <title>Paired t-test. &#34;cannot use &#39;paired&#39; in formula method&#34;</title>
       <link>https://reddit.com/r/rstats/comments/1jyg7xg/paired_ttest_cannot_use_paired_in_formula_method/</link>
       <pubDate>Sun, 13 Apr 2025 19:45:41 +0000</pubDate>
