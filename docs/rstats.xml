@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Regression &amp;amp; Full Information Maximum Likelihood (FIML)</title>
-      <link>https://reddit.com/r/rstats/comments/1jxyw4s/regression_full_information_maximum_likelihood/</link>
-      <pubDate>Sun, 13 Apr 2025 03:45:37 +0000</pubDate>
-      <description>I have 2 analyses (primary = regression; secondary = mediation using lavaan)&#xA;&#xA;I want them to have the same sample size&#xA;&#xA;I&#39;d lose a lot of cases doing list wise&#xA;&#xA;Can you use FIML to impute in regression.&#xA;&#xA;I can see, in Rstudio, it does run!&#xA;&#xA;But theoretically does this make sense?</description>
+      <title>Ordered factors in Binary Logistic Regression</title>
+      <link>https://reddit.com/r/rstats/comments/1jy25ur/ordered_factors_in_binary_logistic_regression/</link>
+      <pubDate>Sun, 13 Apr 2025 07:25:05 +0000</pubDate>
+      <description>Hi! I&#39;m working on a binary logistic regression for my special project, and I have ordinal predictors. I&#39;m using the glm function, just like we were taught. However, the summary of my model includes .L, .Q, and .C for my ordinal variables. I just want to ask how I can remove these while still treating the variables as ordinal.</description>
     </item>
   </channel>
 </rss>
