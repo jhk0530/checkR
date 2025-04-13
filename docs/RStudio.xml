@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Multiple FREE tier shinyapps accounts</title>
-      <link>https://reddit.com/r/RStudio/comments/1jxmp18/multiple_free_tier_shinyapps_accounts/</link>
-      <pubDate>Sat, 12 Apr 2025 17:33:37 +0000</pubDate>
-      <description>Hi All,&#xA;&#xA;For non-enterprise/non-commercial use, is there concern of running apps on multiple free tiers of shinyapps? I am not in a position to upgrade, but expect to exceed my personal app hours. I reviewed the ToS and didn&#39;t find anything explicit to this extent. Has anyone had experience with this?&#xA;&#xA;Appreciated!</description>
+      <title>Need help with a project</title>
+      <link>https://reddit.com/r/RStudio/comments/1jybn1j/need_help_with_a_project/</link>
+      <pubDate>Sun, 13 Apr 2025 16:30:07 +0000</pubDate>
+      <description>I have this school project where I have to replicate models from a mathematical biology article and it is beyond what I have done in R so far and would love some help. It is a set of differential equations relating to bats and rabies that I am trying to replicate. I have several attempts, but they all give me plots with almost vertical lines at 0. Heres the article this is all based on as well: [https://www.sciencedirect.com/science/article/pii/S0022519308004219?ref=pdf\_download&amp;amp;fr=RR-2&amp;amp;rr=92fc0c237fcac4aa](https://www.sciencedirect.com/science/article/pii/S0022519308004219?ref=pdf_download&amp;amp;fr=RR-2&amp;amp;rr=92fc0c237fcac4aa)&#xA;&#xA;I am using the &#34;deSolve&#34; and &#34;ggplot2&#34; packages</description>
+    </item>
+    <item>
+      <title>Updated R and R studio: How to tell if a code is running</title>
+      <link>https://reddit.com/r/RStudio/comments/1jybbg9/updated_r_and_r_studio_how_to_tell_if_a_code_is/</link>
+      <pubDate>Sun, 13 Apr 2025 16:16:14 +0000</pubDate>
+      <description>Okay, I feel like I am going crazy. I was trying to run some old R code to save it in a neat document, and I kept getting errors because I was using an old version of R.&#xA;&#xA;I finally decided to update R and RStudio both, and now every time I try to run my code I cannot tell if it is running or not. I remembr RStudio used to have a small red button on the right side that you could click on to stop a code from running. Now, nothing appears. I now the code is running because my laptop si complaining and overheating, and I can see the  memory in use, but why don&#39;t I see that graphical warning/dot anymore?</description>
     </item>
   </channel>
 </rss>
