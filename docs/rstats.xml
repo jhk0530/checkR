@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>more debugging information (missing points with go-lot)</title>
-      <link>https://reddit.com/r/rstats/comments/1jy6vu2/more_debugging_information_missing_points_with/</link>
-      <pubDate>Sun, 13 Apr 2025 12:48:58 +0000</pubDate>
-      <description>With ggplot, I sometimes get the message:&#xA;&#xA;    4: Removed 291 rows containing missing values or values outside the scale range (geom_point()`).`&#xA;&#xA;but this often happens on a page with multiple plots, so it is unclear where the error is.&#xA;&#xA;Is there an option to make &#39;R&#39; tell me what line produced the error message?  Better still, to tell me which rows had the bad points?</description>
+      <title>Paired t-test. &#34;cannot use &#39;paired&#39; in formula method&#34;</title>
+      <link>https://reddit.com/r/rstats/comments/1jyg7xg/paired_ttest_cannot_use_paired_in_formula_method/</link>
+      <pubDate>Sun, 13 Apr 2025 19:45:41 +0000</pubDate>
+      <description>Dear smart people,&#xA;&#xA;I just don’t understand what happened to my R (or my brain), but all my scripts that used a paired t-test have suddenly stopped working. Now I get the error: *&#34;cannot use &#39;paired&#39; in formula method.&#34;*&#xA;&#xA;Everything worked perfectly until I updated R and RStudio.&#xA;&#xA;Here’s a small table with some data: I just want to run a t-test for InvvStan by type. To make it work now I have to rearrange the table for some reason... Do you have any idea why this is happening or how to fix it?&#xA;&#xA;    &amp;gt; t.Abund &amp;lt;- t.test(InvStan ~ Type, data = Inv, paired = TRUE)&#xA;    Error in t.test.formula(InvStan ~ Type, data = Inv, paired = TRUE) : &#xA;      cannot use &#39;paired&#39; in formula method&#xA;&#xA;https://preview.redd.it/ek8055ajnnue1.png?width=490&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=878af29facf4e81eccd2b279e659a196da6d42f9&#xA;&#xA;  &#xA;</description>
+    </item>
+    <item>
+      <title>Data Profiling in R</title>
+      <link>https://reddit.com/r/rstats/comments/1jyg3u3/data_profiling_in_r/</link>
+      <pubDate>Sun, 13 Apr 2025 19:40:42 +0000</pubDate>
+      <description>Hey! I got a uni assignment to do Data Profiling on a set of data representing reviews about different products. I got a bunch of CSV files. &#xA;&#xA;The initial idea of the task was to use sql server integration services: load the data into the database and explore it using different profiles, e.g. detect foreign keys, anomalies, check data completeness, etc.&#xA;&#xA;Since I already chose the path of completing this course in R, I was wondering what is the set of libraries designed specifically for profiling? Which tools I should better use to match the functionality of SSIS?&#xA;&#xA;I already did some profiling here and there just using skimr and tidyverse libraries, I&#39;m just wondering whether there are more libraries available&#xA;&#xA;Any suggestions about the best practices will be welcomed too</description>
     </item>
   </channel>
 </rss>
