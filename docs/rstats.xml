@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>March YoY CPI prediction model</title>
-      <link>https://reddit.com/r/rstats/comments/1jxsnq5/march_yoy_cpi_prediction_model/</link>
-      <pubDate>Sat, 12 Apr 2025 22:04:54 +0000</pubDate>
-      <description>I used time series forecasting to predict CPI for March and this is what I got. I also place a $30 bet on kalshi for &#34;Yes above 2.7%&#34;. Was I wrong to place that bet?&#xA;&#xA;https://preview.redd.it/bhlu7zjq8hue1.png?width=472&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0ef22400d8cac171b1b96ece9c1d66050f35d3ff</description>
+      <title>Regression &amp;amp; Full Information Maximum Likelihood (FIML)</title>
+      <link>https://reddit.com/r/rstats/comments/1jxyw4s/regression_full_information_maximum_likelihood/</link>
+      <pubDate>Sun, 13 Apr 2025 03:45:37 +0000</pubDate>
+      <description>I have 2 analyses (primary = regression; secondary = mediation using lavaan)&#xA;&#xA;I want them to have the same sample size&#xA;&#xA;I&#39;d lose a lot of cases doing list wise&#xA;&#xA;Can you use FIML to impute in regression.&#xA;&#xA;I can see, in Rstudio, it does run!&#xA;&#xA;But theoretically does this make sense?</description>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help with Bibliometrix</title>
-      <link>https://reddit.com/r/rprogramming/comments/1jwtfns/help_with_bibliometrix/</link>
-      <pubDate>Fri, 11 Apr 2025 16:02:22 +0000</pubDate>
-      <description>The biblioshiny/bibliometrix is not working same. The thematic evolution map is showing different than the usual and the time slice part as well. Can anyone help me out fix the issue?</description>
+      <title>New Tool That Turns Story Points Into Real Time Estimates</title>
+      <link>https://reddit.com/r/rprogramming/comments/1jxzbr8/new_tool_that_turns_story_points_into_real_time/</link>
+      <pubDate>Sun, 13 Apr 2025 04:12:23 +0000</pubDate>
+      <description>I got tired of guessing sprint timelines and want to help managers be confident of what their team can accomplish. So I’m building a tool that turns story points into real-time estimates. Velocity is fine if your team has the same type and difficulty of work, but this tool can help managers predict far into the future (WITH CONFIDENCE) what they can get done. I&#39;m excited to be working on this and love others thoughts. Early access here: [https://planaia.carrd.co/](https://planaia.carrd.co/)</description>
     </item>
   </channel>
 </rss>
