@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>more debugging information (missing points with go-lot)</title>
+      <link>https://reddit.com/r/rstats/comments/1jy6vu2/more_debugging_information_missing_points_with/</link>
+      <pubDate>Sun, 13 Apr 2025 12:48:58 +0000</pubDate>
+      <description>With ggplot, I sometimes get the message:&#xA;&#xA;    4: Removed 291 rows containing missing values or values outside the scale range (geom_point()`).`&#xA;&#xA;but this often happens on a page with multiple plots, so it is unclear where the error is.&#xA;&#xA;Is there an option to make &#39;R&#39; tell me what line produced the error message?  Better still, to tell me which rows had the bad points?</description>
+    </item>
+    <item>
       <title>Is R really dying slowly?</title>
       <link>https://reddit.com/r/rstats/comments/1jy5nq4/is_r_really_dying_slowly/</link>
       <pubDate>Sun, 13 Apr 2025 11:36:02 +0000</pubDate>
