@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>please help!</title>
+      <link>https://reddit.com/r/RStudio/comments/1jypn4b/please_help/</link>
+      <pubDate>Mon, 14 Apr 2025 03:38:15 +0000</pubDate>
+      <description>i’m in a psychological statistics class and i have some data that i need to perform a t-test on for a project. my data is from two groups, one listens to classical music while exercising and the other listens to rock music, (the amount of seconds it took for their heart rates return to return to baseline is reported in the data). i hypothesized that classical music will help participants heart rates to slow down quicker. since my hypothesis is that the time for the classical music group will be less on average, do i have to perform a one-tailed test? i’m thinking of doing a two-tailed test regardless of my hypothesis because i’m still open to the possibility of my data being in a different direction. &#xA;&#xA;if i were to do a one tailed test, my code would look like this: t.test(hrt$group==“classical”, hrt$group==“rock”, alternative=“less”). for some reason, my confidence interval is missing the lower bound and shows “-Inf”, and i don’t know what that means. my p-value is .5. &#xA;&#xA;if i were to do a two tailed test, my code would look like this: t.test(hrt$group==“classical”, hrt$group==“rock”, paired=FALSE). my two tailed test gives me a p-value of 1 and the lower bound of my confidence interval is -.2.&#xA;&#xA;so, my question is, which test should i do?</description>
+    </item>
+    <item>
       <title>NetCDF- and shape-files</title>
       <link>https://reddit.com/r/RStudio/comments/1jyornw/netcdf_and_shapefiles/</link>
       <pubDate>Mon, 14 Apr 2025 02:47:16 +0000</pubDate>
