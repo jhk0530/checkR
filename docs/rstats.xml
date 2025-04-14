@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>checking normality only after running a test</title>
-      <link>https://reddit.com/r/rstats/comments/1jynyku/checking_normality_only_after_running_a_test/</link>
-      <pubDate>Mon, 14 Apr 2025 02:03:03 +0000</pubDate>
-      <description>i just learned that we test the normaity on the residuals, not on the raw data. unfortunately, i have ran nonparametric tests due to the data not meeting the assumptions after days of checking normality of the raw data instead.  waht should i do?&#xA;&#xA;&#xA;&#xA;1. should i rerun all tests with 2way anova? then swtich to non parametric (ART ANOVA) if the residuals fail the assumptions?&#xA;&#xA;2. does this also go with eequality of variances?&#xA;&#xA;3. is there a more efficient way of checking the assumptions before deciding which test to  perform? </description>
-    </item>
-    <item>
-      <title>checking normality assumptio ony after running anova</title>
-      <link>https://reddit.com/r/rstats/comments/1jynx5z/checking_normality_assumptio_ony_after_running/</link>
-      <pubDate>Mon, 14 Apr 2025 02:01:02 +0000</pubDate>
-      <description>i just learned that we test the normaity on the residuals, not on the raw data. unfortunately, i have ran nonparametric tests due to the data not meeting the assumptions after days of checking normality of the raw data instead.  waht should i do?&#xA;&#xA;&#xA;&#xA;1. should i rerun all tests with 2way anova? then swtich to non parametric (ART ANOVA) if the residuals fail the assumptions?&#xA;&#xA;2. does this also goes with eequality of variances?&#xA;&#xA;3. is there a more efficient way iof checking the assumptions before deciding which test to  perform? </description>
+      <title>Probability Measurement in Survival Analysis - Rackenzik</title>
+      <link>https://reddit.com/r/rstats/comments/1jyulyz/probability_measurement_in_survival_analysis/</link>
+      <pubDate>Mon, 14 Apr 2025 09:20:58 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
