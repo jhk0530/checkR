@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Why does my RevealJS presentation lose sharpness when I have a slide with a pause?</title>
-      <link>https://reddit.com/r/RStudio/comments/1jyh00w/why_does_my_revealjs_presentation_lose_sharpness/</link>
-      <pubDate>Sun, 13 Apr 2025 20:19:32 +0000</pubDate>
-      <description>I am creating a RevealJS presentation in Quarto and I have noticed that if I have a slide with a pause, all text after the first pause lose their accuracy. It&#39;s as if all text, including those in subsequent slides, became a bit hazy. I can&#39;t figure it out why.&#xA;&#xA;To show what I mean, here&#39;s a piece of code that does not have a pause. The screenshot shows how the text shows up on my screen.&#xA;&#xA;    ## Title &#xA;    &#xA;    Anna and John are friends &#xA;    and &#xA;    They both live in NYC&#xA;&#xA;[Text when there are no pauses. ](https://preview.redd.it/oxec73yztnue1.png?width=392&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0a016ea884229502a3c66aa1126b812ce8647e92)&#xA;&#xA;Now, the same text and screenshots with pauses.&#xA;&#xA;    ## Title &#xA;    &#xA;    Anna and John are friends &#xA;     . . . &#xA;    and &#xA;    . . . &#xA;    They both live in NYC.&#xA;&#xA;[Text when there are pauses. ](https://preview.redd.it/uhr5ohl6unue1.png?width=394&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e1828acab083a5c963cd21adf60d6da04aa06d62)&#xA;&#xA;I am not sure it&#39;s clear, but in the second image, both &#34;and&#34; and &#34;They both live in NYC&#34; seem out of focus to me.&#xA;&#xA;All help welcome.</description>
+      <title>NetCDF- and shape-files</title>
+      <link>https://reddit.com/r/RStudio/comments/1jyornw/netcdf_and_shapefiles/</link>
+      <pubDate>Mon, 14 Apr 2025 02:47:16 +0000</pubDate>
+      <description>Hi community&#xA;&#xA;I was wondering if any of you are great with NetCDF-files and shapefiles R? I really need help for a thesis, where I can’t succeed merging NetCDF-data to a shapefile.&#xA;&#xA;The NetCDF-file I am using is the SPEI01, which contains spei-data worldwide (https://digital.csic.es/handle/10261/364137)&#xA;&#xA;Looking forward to hopefully hear from you!&#xA;&#xA;Best regards&#xA;Jacob&#xA;&#xA;</description>
+    </item>
+    <item>
+      <title>Is There Still Room for Brazilian Portuguese Machine Learning Content on YouTube?</title>
+      <link>https://reddit.com/r/RStudio/comments/1jyorlt/is_there_still_room_for_brazilian_portuguese/</link>
+      <pubDate>Mon, 14 Apr 2025 02:47:12 +0000</pubDate>
+      <description>Hi, everything okay?&#xA;&#xA;I program a lot in R and study Machine Learning extensively. I use Kaggle competitions to practice what I&#39;ve learned and as a kind of &#34;test.&#34;&#xA;&#xA;However, much of the content for Kaggle&#39;s machine learning competitions is quite outdated (the most recent is 3 years old) and in English. Many machine learning libraries and methods have changed and improved.&#xA;&#xA;I&#39;ve always enjoyed teaching/helping others and have been wanting to make YouTube videos. Straight to the point: is there still room on YouTube for this type of content, made in Brazilian Portuguese?&#xA;&#xA;What do you think?</description>
     </item>
   </channel>
 </rss>
