@@ -4,22 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>please help!</title>
-      <link>https://reddit.com/r/RStudio/comments/1jypn4b/please_help/</link>
-      <pubDate>Mon, 14 Apr 2025 03:38:15 +0000</pubDate>
-      <description>i’m in a psychological statistics class and i have some data that i need to perform a t-test on for a project. my data is from two groups, one listens to classical music while exercising and the other listens to rock music, (the amount of seconds it took for their heart rates return to return to baseline is reported in the data). i hypothesized that classical music will help participants heart rates to slow down quicker. since my hypothesis is that the time for the classical music group will be less on average, do i have to perform a one-tailed test? i’m thinking of doing a two-tailed test regardless of my hypothesis because i’m still open to the possibility of my data being in a different direction. &#xA;&#xA;if i were to do a one tailed test, my code would look like this: t.test(hrt$group==“classical”, hrt$group==“rock”, alternative=“less”). for some reason, my confidence interval is missing the lower bound and shows “-Inf”, and i don’t know what that means. my p-value is .5. &#xA;&#xA;if i were to do a two tailed test, my code would look like this: t.test(hrt$group==“classical”, hrt$group==“rock”, paired=FALSE). my two tailed test gives me a p-value of 1 and the lower bound of my confidence interval is -.2.&#xA;&#xA;so, my question is, which test should i do?</description>
+      <title>need help with code to plot my data</title>
+      <link>https://reddit.com/r/RStudio/comments/1jyqg3h/need_help_with_code_to_plot_my_data/</link>
+      <pubDate>Mon, 14 Apr 2025 04:26:17 +0000</pubDate>
+      <description>i have a data set that has a column named group and a column named value. the group column has either “classical” or “rock” and the value column has numbers for each participant in each group. i’m really struggling on creating a bar graph for this data, i want one bar to be the mean value of the classical group and the other bar to be the mean value of the rock group. please help me on what code i need to use to get this bar graph! my data set is named “hrt”&#xA;&#xA;i’m also struggling with performing an independent two sample t-test for all of the values in regards to each group. i can’t get the code right</description>
     </item>
     <item>
-      <title>NetCDF- and shape-files</title>
-      <link>https://reddit.com/r/RStudio/comments/1jyornw/netcdf_and_shapefiles/</link>
-      <pubDate>Mon, 14 Apr 2025 02:47:16 +0000</pubDate>
-      <description>Hi community&#xA;&#xA;I was wondering if any of you are great with NetCDF-files and shapefiles R? I really need help for a thesis, where I can’t succeed merging NetCDF-data to a shapefile.&#xA;&#xA;The NetCDF-file I am using is the SPEI01, which contains spei-data worldwide (https://digital.csic.es/handle/10261/364137)&#xA;&#xA;Looking forward to hopefully hear from you!&#xA;&#xA;Best regards&#xA;Jacob&#xA;&#xA;</description>
-    </item>
-    <item>
-      <title>Is There Still Room for Brazilian Portuguese Machine Learning Content on YouTube?</title>
-      <link>https://reddit.com/r/RStudio/comments/1jyorlt/is_there_still_room_for_brazilian_portuguese/</link>
-      <pubDate>Mon, 14 Apr 2025 02:47:12 +0000</pubDate>
-      <description>Hi, everything okay?&#xA;&#xA;I program a lot in R and study Machine Learning extensively. I use Kaggle competitions to practice what I&#39;ve learned and as a kind of &#34;test.&#34;&#xA;&#xA;However, much of the content for Kaggle&#39;s machine learning competitions is quite outdated (the most recent is 3 years old) and in English. Many machine learning libraries and methods have changed and improved.&#xA;&#xA;I&#39;ve always enjoyed teaching/helping others and have been wanting to make YouTube videos. Straight to the point: is there still room on YouTube for this type of content, made in Brazilian Portuguese?&#xA;&#xA;What do you think?</description>
+      <title>Model Selection</title>
+      <link>https://reddit.com/r/RStudio/comments/1jyqd28/model_selection/</link>
+      <pubDate>Mon, 14 Apr 2025 04:20:57 +0000</pubDate>
+      <description>Can someone please check to see if this is right? For context, we were given a data frame that I broke up into model\_train and test. The problem is to create a linear model with AIC and BIC out of model\_train. Then, create a model based on adjusted r squared, ridge regression, and LASSO.&#xA;&#xA;Here are my codes for AIC:&#xA;&#xA;https://preview.redd.it/xzx54lp44que1.png?width=914&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=77fb8eef8db6e09a2743eba485da219500250041&#xA;&#xA;BIC:&#xA;&#xA;https://preview.redd.it/so93bt464que1.png?width=896&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4d6054aad72b268b430f38058048401c48949fed&#xA;&#xA;Adjusted R Squared:&#xA;&#xA;https://preview.redd.it/lxjubqe74que1.png?width=898&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8a737d7f98a9a42918cc6913feb3e42cf0ef889d&#xA;&#xA;https://preview.redd.it/owbf9az84que1.png?width=921&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c2f2b26dd12c0ef14874bf7c91b970de6798f55f&#xA;&#xA;Ridge Regression:&#xA;&#xA;https://preview.redd.it/0bt825da4que1.png?width=911&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e06c040738176fa125f07022dff4081491a428c8&#xA;&#xA;LASSO:&#xA;&#xA;https://preview.redd.it/kk1wmhmb4que1.png?width=899&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0c82efb8abffbbedf971bb776e5799ba91fa29b3&#xA;&#xA;I honestly missed a lot of what the professor said in class, so I tried to relearn this stuff by piecing together what I found in the notes/ on the internet, but I&#39;m not sure if everything is correct. Any feedback given would be really appreciated. Thank you</description>
     </item>
   </channel>
 </rss>
