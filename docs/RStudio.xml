@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Multiple variable scatterplot with two x axes</title>
-      <link>https://reddit.com/r/RStudio/comments/1jyse6r/multiple_variable_scatterplot_with_two_x_axes/</link>
-      <pubDate>Mon, 14 Apr 2025 06:36:38 +0000</pubDate>
-      <description>I&#39;m trying to make a scatterplot with two x axes (comparing temperature and fluorescence to depth). Is there any way to do this? The problem I&#39;m running into is that temperature and fluorescence need to be plotted on different x axes as they have different units and scales.</description>
+      <title>For those writing dissertations/theses in Quarto</title>
+      <link>https://reddit.com/r/RStudio/comments/1jywvxq/for_those_writing_dissertationstheses_in_quarto/</link>
+      <pubDate>Mon, 14 Apr 2025 11:48:32 +0000</pubDate>
+      <description>Do you prefer writing everything in one single qmd file, or using individual files for each chapter and then including them in the YAML? I&#39;m finishing my dissertation (paper-based) and now it&#39;s time to put everything together. So I was wondering which would be more practical.&#xA;&#xA;I wrote my master&#39;s thesis in Rmarkdown in one single file and I acknowledge it took a little bit to knit everything back then. Quarto was just starting back then and I didn&#39;t know about this possibility of having separate files for each chapter. And since I knit/render everything with the minimal changes I make, in the end I would just waste a lot of time every day with that process.&#xA;&#xA;If I opt for having separate files, what would be your suggestions about what to take care when writing, etc? Btw, because the chapters that are from the papers must have the actual format of the papers, each chapter would need to have it&#39;s own reference list.&#xA;&#xA;Thanks!</description>
     </item>
   </channel>
 </rss>
