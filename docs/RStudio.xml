@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>package for finding genetic relationships from loci allele frequencies</title>
-      <link>https://reddit.com/r/RStudio/comments/1jz1lz1/package_for_finding_genetic_relationships_from/</link>
-      <pubDate>Mon, 14 Apr 2025 15:25:42 +0000</pubDate>
-      <description>Hello! I&#39;ve been trying to search for a package for finding familial relationships, and come up with a long list of various packages, but I&#39;m not sure which one would be best for my data...&#xA;&#xA;We have thousands of lynx dna samples (hundreds of unique individuals) from scat collected over the years. We have been using the determined sex and allele frequencies from 10 allele pairs to manually figure out family groups (pulling up the current year&#39;s samples and figuring out parents by finding matched alleles from a male/female cat, using GIS data to partly help with this).&#xA;&#xA;I&#39;m new to this position, and am trying to find a more efficient way to do this....  &#xA;</description>
+      <title>Plotting Sea Surface Temp Data</title>
+      <link>https://reddit.com/r/RStudio/comments/1jz5y8s/plotting_sea_surface_temp_data/</link>
+      <pubDate>Mon, 14 Apr 2025 18:22:10 +0000</pubDate>
+      <description>Hi guys! I’m extremely new to RStudio. I am working on a project for a GIS course that involves looking at SST data over a couple of decades. My current data is a .nc thread from NOAA. Ideally, I want to have a line plot showing any trend throughout the timespan. How can I do this? (Maybe explained like I’m 7…)</description>
     </item>
   </channel>
 </rss>

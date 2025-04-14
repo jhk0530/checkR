@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>I can&#39;t open my proyect in R</title>
-      <link>https://reddit.com/r/rstats/comments/1jz2kxk/i_cant_open_my_proyect_in_r/</link>
-      <pubDate>Mon, 14 Apr 2025 16:05:11 +0000</pubDate>
-      <description>Hi, I have a problem&#xA;&#xA;I was working in R when suddenly my computer turned off.&#xA;&#xA;When I turned it on again I opened my project in R and I got the following message &#xA;&#xA;`Project ‘C:/Users/.....’ could not be opened: file line number 2 is invalid.`&#xA;&#xA;And the project closes. I can&#39;t access it, what can I do?</description>
+      <title>Use use() in R</title>
+      <link>https://reddit.com/r/rstats/comments/1jz675s/use_use_in_r/</link>
+      <pubDate>Mon, 14 Apr 2025 18:32:11 +0000</pubDate>
+      <description>[https://erikgahner.dk/2025/use-use-in-r/](https://erikgahner.dk/2025/use-use-in-r/)</description>
     </item>
   </channel>
 </rss>
