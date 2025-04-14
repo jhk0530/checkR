@@ -4,22 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Multiple variable scatterplot with two x axes</title>
+      <link>https://reddit.com/r/RStudio/comments/1jyse6r/multiple_variable_scatterplot_with_two_x_axes/</link>
+      <pubDate>Mon, 14 Apr 2025 06:36:38 +0000</pubDate>
+      <description>I&#39;m trying to make a scatterplot with two x axes (comparing temperature and fluorescence to depth). Is there any way to do this? The problem I&#39;m running into is that temperature and fluorescence need to be plotted on different x axes as they have different units and scales.</description>
+    </item>
+    <item>
       <title>Help with code linear regression/ ANOVA Table</title>
       <link>https://reddit.com/r/RStudio/comments/1jyrj8o/help_with_code_linear_regression_anova_table/</link>
       <pubDate>Mon, 14 Apr 2025 05:36:28 +0000</pubDate>
       <description>Hi all,&#xA;&#xA;I just started a unit in R, and I&#39;m just going through some practice questions.  &#xA;One of them is:  &#xA;  &#xA; **A)**   In a simple linear regression on 21 data points, I get the following ANOVA table: (fill in #)&#xA;&#xA;Df        Sum Sq            Mean Sq    F value      Pr(&amp;gt;F)  &#xA;&#xA;x                      #          179.72             #                #                #&#xA;&#xA;Residuals         #          #                      20.531   &#xA;&#xA;  &#xA;**B)** In a one-way ANOVA with three treatments, and six replicates in each treatment, I get the following ANOVA table:&#xA;&#xA; &#xA;&#xA;Df        Sum Sq            Mean Sq          F value              Pr(&amp;gt;F) &#xA;&#xA;tr                      #          #                      #                      5.9615             #&#xA;&#xA;Residuals         #          39                    #  &#xA;&#xA;\-------------------------------  &#xA;What I have so far for **(A)** is:&#xA;&#xA;SS\_model &amp;lt;- 179.72             &#xA;MS\_resid &amp;lt;- 20.531             &#xA;n &amp;lt;- 21                     &#xA;df\_model &amp;lt;- 1                &#xA;df\_resid &amp;lt;- n - 2            &#xA;&#xA;&#xA;and then:  (??)  &#xA;sum(differences.explained\^2)               &#xA;sum(differences.explained\^2) / 1    &#xA;sum(differences.explained\^2) / (sum(differences.remaining\^2)/16)  &#xA;sum(differences.explained\^2)/(sum(differences.remaining\^2)/16)&#xA;&#xA;&#xA;&#xA;For B, do I have to tackle it in a similar way?      &#xA;&#xA;Thank for the help, its all still so confusing :)&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;</description>
-    </item>
-    <item>
-      <title>need help with code to plot my data</title>
-      <link>https://reddit.com/r/RStudio/comments/1jyqg3h/need_help_with_code_to_plot_my_data/</link>
-      <pubDate>Mon, 14 Apr 2025 04:26:17 +0000</pubDate>
-      <description>i have a data set that has a column named group and a column named value. the group column has either “classical” or “rock” and the value column has numbers for each participant in each group. i’m really struggling on creating a bar graph for this data, i want one bar to be the mean value of the classical group and the other bar to be the mean value of the rock group. please help me on what code i need to use to get this bar graph! my data set is named “hrt”&#xA;&#xA;i’m also struggling with performing an independent two sample t-test for all of the values in regards to each group. i can’t get the code right</description>
-    </item>
-    <item>
-      <title>Model Selection</title>
-      <link>https://reddit.com/r/RStudio/comments/1jyqd28/model_selection/</link>
-      <pubDate>Mon, 14 Apr 2025 04:20:57 +0000</pubDate>
-      <description>Can someone please check to see if this is right? For context, we were given a data frame that I broke up into model\_train and test. The problem is to create a linear model with AIC and BIC out of model\_train. Then, create a model based on adjusted r squared, ridge regression, and LASSO.&#xA;&#xA;Here are my codes for AIC:&#xA;&#xA;https://preview.redd.it/xzx54lp44que1.png?width=914&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=77fb8eef8db6e09a2743eba485da219500250041&#xA;&#xA;BIC:&#xA;&#xA;https://preview.redd.it/so93bt464que1.png?width=896&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4d6054aad72b268b430f38058048401c48949fed&#xA;&#xA;Adjusted R Squared:&#xA;&#xA;https://preview.redd.it/lxjubqe74que1.png?width=898&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8a737d7f98a9a42918cc6913feb3e42cf0ef889d&#xA;&#xA;https://preview.redd.it/owbf9az84que1.png?width=921&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c2f2b26dd12c0ef14874bf7c91b970de6798f55f&#xA;&#xA;Ridge Regression:&#xA;&#xA;https://preview.redd.it/0bt825da4que1.png?width=911&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e06c040738176fa125f07022dff4081491a428c8&#xA;&#xA;LASSO:&#xA;&#xA;https://preview.redd.it/kk1wmhmb4que1.png?width=899&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0c82efb8abffbbedf971bb776e5799ba91fa29b3&#xA;&#xA;I honestly missed a lot of what the professor said in class, so I tried to relearn this stuff by piecing together what I found in the notes/ on the internet, but I&#39;m not sure if everything is correct. Any feedback given would be really appreciated. Thank you</description>
     </item>
   </channel>
 </rss>
