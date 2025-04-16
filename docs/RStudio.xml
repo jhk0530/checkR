@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Cant Install Keras/Tensorflow</title>
-      <link>https://reddit.com/r/RStudio/comments/1jzurjz/cant_install_kerastensorflow/</link>
-      <pubDate>Tue, 15 Apr 2025 15:28:19 +0000</pubDate>
-      <description>Hey guys, I had some issues with my R. Had to re-install R and RStudio...now I cant get Keras/Tensorflow to work and I have a deadline by the end of the week for one of my projects. :( &#xA;&#xA;Tried using [https://tensorflow.rstudio.com/reference/tensorflow/install\_tensorflow#install\_tensorflow](https://tensorflow.rstudio.com/reference/tensorflow/install_tensorflow#install_tensorflow)&#xA;&#xA;I run: devtools::install\_github(&#34;rstudio/keras&#34;, dependencies = TRUE)                and devtools::install\_github(&#34;rstudio/tensorflow&#34;, dependencies = TRUE)  &#xA;Using the devtools package. From here, I&#39;m supposed to be able to install everything. But I&#39;m getting warning messages saying files cannot be accesed(see provided screenshot). Any help is \*\*greatly\*\* appreciated. &#xA;&#xA;Images for code-chunk I&#39;m struggling with, as well as the warning I&#39;m getting.</description>
+      <title>Can anyone tell me how I would change the text from numbers to the respective country names?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k06xhn/can_anyone_tell_me_how_i_would_change_the_text/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:34 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
