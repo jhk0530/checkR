@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Edinburgh R User group is expanding collaborations with neighboring user groups</title>
+      <link>https://reddit.com/r/rstats/comments/1k0rm6f/edinburgh_r_user_group_is_expanding/</link>
+      <pubDate>Wed, 16 Apr 2025 18:26:45 +0000</pubDate>
+      <description>Ozan Evkaya, University Teacher at the University of Edinburgh and one of the local organizers of the Edinburgh R User group, spoke with the R Consortium about his journey in the R community and his efforts to strengthen R adoption in Edinburgh. &#xA;&#xA;Ozan discussed his experiences hosting R events in Turkey during the pandemic, the importance of online engagement, and his vision for expanding collaborations with neighboring user groups. &#xA;&#xA;He covers his research in dependence modeling and contributions to open-source R packages, highlighting how R continues to shape his work in academia and community building.&#xA;&#xA;[https://r-consortium.org/posts/strengthening-r-communities-across-borders-ozan-evkaya-on-organizing-the-edinburgh-r-user-group/](https://r-consortium.org/posts/strengthening-r-communities-across-borders-ozan-evkaya-on-organizing-the-edinburgh-r-user-group/)</description>
+    </item>
+    <item>
       <title>Quick question regarding nested resampling and model selection workflow</title>
       <link>https://reddit.com/r/rstats/comments/1k0qvx0/quick_question_regarding_nested_resampling_and/</link>
       <pubDate>Wed, 16 Apr 2025 17:57:28 +0000</pubDate>
