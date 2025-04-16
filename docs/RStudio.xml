@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R Studio - Collapsing a section</title>
-      <link>https://reddit.com/r/RStudio/comments/1k0pwbc/r_studio_collapsing_a_section/</link>
-      <pubDate>Wed, 16 Apr 2025 17:18:08 +0000</pubDate>
-      <description>Please help. I am very new to Rstudio and I am at my wits end. I am trying to collapse a couple of tables in my quarto document.  The document renders fine apart from the collapsable block. The table disappears and all I have is the header and a link symbol which shows nothing when I click on on it. I have opened up a new qmd to test and it is still not working. Am I being stupid? Thanks &#xA;&#xA;https://preview.redd.it/a4ts1kotc8ve1.png?width=1035&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=715cab0ebbd401b3604c5fea83903315c57ea8ed&#xA;&#xA;</description>
+      <title>Duplicating and consolidating into one?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k0syan/duplicating_and_consolidating_into_one/</link>
+      <pubDate>Wed, 16 Apr 2025 19:21:43 +0000</pubDate>
+      <description>Hi, so I am cleaning survey data and merging it with some lab files. The lab files have multiple entries of one person so say there are 15000 entries in the lab file. The main core file I have to merge with has, say 7000. I have tries to use !duplicate and unique functions but those don&#39;t work. The data looks like, for eg.,: &#xA;&#xA;A   B C D E&#xA;&#xA;1    2.5 NA 3 8.8&#xA;&#xA;1  NA 3.2 NA NA&#xA;&#xA;(A say is the ID of the person and B, C, D, E are lab variables)  &#xA;so to make it into one entry, how do I do that? like to make all two rows into 1?&#xA;&#xA;i hope I am making sense! </description>
     </item>
   </channel>
 </rss>
