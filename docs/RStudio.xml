@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Duplicating and consolidating into one?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k0syan/duplicating_and_consolidating_into_one/</link>
-      <pubDate>Wed, 16 Apr 2025 19:21:43 +0000</pubDate>
-      <description>Hi, so I am cleaning survey data and merging it with some lab files. The lab files have multiple entries of one person so say there are 15000 entries in the lab file. The main core file I have to merge with has, say 7000. I have tries to use !duplicate and unique functions but those don&#39;t work. The data looks like, for eg.,: &#xA;&#xA;A   B C D E&#xA;&#xA;1    2.5 NA 3 8.8&#xA;&#xA;1  NA 3.2 NA NA&#xA;&#xA;(A say is the ID of the person and B, C, D, E are lab variables)  &#xA;so to make it into one entry, how do I do that? like to make all two rows into 1?&#xA;&#xA;i hope I am making sense! </description>
+      <title>R encountered fatal error (upon running any line of code)</title>
+      <link>https://reddit.com/r/RStudio/comments/1k0vurx/r_encountered_fatal_error_upon_running_any_line/</link>
+      <pubDate>Wed, 16 Apr 2025 21:22:46 +0000</pubDate>
+      <description>Hello all,&#xA;&#xA;I&#39;m new to R and RStudio. I&#39;m on an MacOS 12 so I installed the following versions &#xA;&#xA;* R version 4.5.0 (2025-04-11) -- &#34;How About a Twenty-Six&#34; &#xA;* Rstudio Version 1.1.46 ([this post](https://forum.posit.co/t/rstudio-desktop-releases-on-unsupported-versions-of-macos/176074) lists this version as compatible with OS12 ).&#xA;&#xA;When I run some basic R functions directly in the Computer Terminal, it works.  &#xA;But in Rstudio, if I run anything, I get the **R encountered a fatal error. The session was terminated**&#xA;&#xA;I tried already re-installing R an RStudio, but in vain.&#xA;&#xA;I noticed that, when I open the R Console, I get some warning messages.&#xA;&#xA;    During startup - Warning messages:&#xA;    1: Setting LC_CTYPE failed, using &#34;C&#34; &#xA;    2: Setting LC_COLLATE failed, using &#34;C&#34; &#xA;    3: Setting LC_TIME failed, using &#34;C&#34; &#xA;    4: Setting LC_MESSAGES failed, using &#34;C&#34; &#xA;    5: Setting LC_MONETARY failed, using &#34;C&#34; &#xA;    [R.app GUI 1.81 (8526) x86_64-apple-darwin20]&#xA;    &#xA;    WARNING: You&#39;re using a non-UTF8 locale, therefore only ASCII characters will work.&#xA;    Please read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.&#xA;&#xA;Could those be the culprit? How to fix the LC errors (what is LC?)</description>
     </item>
   </channel>
 </rss>
