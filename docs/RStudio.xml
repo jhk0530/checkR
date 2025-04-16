@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Assignment help!</title>
-      <link>https://reddit.com/r/RStudio/comments/1k0f77n/assignment_help/</link>
-      <pubDate>Wed, 16 Apr 2025 08:10:56 +0000</pubDate>
-      <description>I am a biomedical student, with an R studio assignment, it’s based using GrindR, yet I’m having issues loading it, I’ve tried reinstalling the program, but it won’t work, therefore when I try to run lines they aren’t working. If anyone can help please!!</description>
+      <title>R Studio - Collapsing a section</title>
+      <link>https://reddit.com/r/RStudio/comments/1k0pwbc/r_studio_collapsing_a_section/</link>
+      <pubDate>Wed, 16 Apr 2025 17:18:08 +0000</pubDate>
+      <description>Please help. I am very new to Rstudio and I am at my wits end. I am trying to collapse a couple of tables in my quarto document.  The document renders fine apart from the collapsable block. The table disappears and all I have is the header and a link symbol which shows nothing when I click on on it. I have opened up a new qmd to test and it is still not working. Am I being stupid? Thanks &#xA;&#xA;https://preview.redd.it/a4ts1kotc8ve1.png?width=1035&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=715cab0ebbd401b3604c5fea83903315c57ea8ed&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Should you use polars in R? [Erik Gahner Larsen]</title>
-      <link>https://reddit.com/r/rstats/comments/1jzfh8z/should_you_use_polars_in_r_erik_gahner_larsen/</link>
-      <pubDate>Tue, 15 Apr 2025 01:16:02 +0000</pubDate>
-      <description></description>
+      <title>Quick question regarding nested resampling and model selection workflow</title>
+      <link>https://reddit.com/r/rstats/comments/1k0qvx0/quick_question_regarding_nested_resampling_and/</link>
+      <pubDate>Wed, 16 Apr 2025 17:57:28 +0000</pubDate>
+      <description>Just wanted some feedback as to if my though process is correct.  &#xA;  &#xA;The premise:&#xA;&#xA;Need to train dev a model and I will need to perform nested resmapling to prevent against spatial and temporal leakage.  &#xA;Outer samples will handle spatial leakage.  &#xA;Inner samples will handle temporal leakage.  &#xA;I will also be tuning a model.&#xA;&#xA;Via the diagram below, my model tuning and selection will be as follows:  &#xA;\-Make inital 70/30 data budget  &#xA;\-Perfrom some number of spatial resamples (4 shown here)  &#xA;\-For each spatial resample (1-4), I will make N (4 shown) spatial splits  &#xA;\-For each inner time sample i will train and test N (4 shown) models and mark their perfromance  &#xA;\-For each outer samples&#39; inner samples - one winner model will be selected based on some criteria  &#xA;\--e.g Model A out performs all models trained innner samples 1-4 for outer sample #1  &#xA;\----Outer/spatial #1 -- winner model A  &#xA;\----Outer/spatial #2 -- winner model D  &#xA;\----Outer/spatial #3 -- winner model C  &#xA;\----Outer/spatial #4 -- winner model A  &#xA;\-I take each winner from the previous step and train them on their entire train sets and validate on their test sets  &#xA;\--e.g train model A on outer #1 train and test on outer #1 test  &#xA;\----- train model D on outer #2 train and test on outer #2 test  &#xA;\----- and so on   &#xA;\-From this step the model the perfroms the best is then selected from these 4 and then trained on the entire inital 70% train and evalauated on the inital 30% holdout.&#xA;&#xA;https://preview.redd.it/7ugl5oqyj8ve1.png?width=1260&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0ddc21e57126a94ba6d4c6f3870f050e0cb72217&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
