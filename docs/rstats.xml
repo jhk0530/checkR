@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Decent crosstable functions in R</title>
+      <link>https://reddit.com/r/rstats/comments/1k19h5r/decent_crosstable_functions_in_r/</link>
+      <pubDate>Thu, 17 Apr 2025 10:28:51 +0000</pubDate>
+      <description>I&#39;ve just been banging my head against a wall trying to look for decent crosstable functions in R that do all of the following things:&#xA;&#xA;1) Provide counts, totals, row percentages, column percentages, and cell percentages.&#xA;&#xA;2) Provide clean output in the console.&#xA;&#xA;3) Show percentages of missing values as well.&#xA;&#xA;4) Provide outputs in formats that can be readily exported to Excel.&#xA;&#xA;If you know of functions that do all of these things, then please let me know.</description>
+    </item>
+    <item>
       <title>Differences in R and Stata for logistic regression?</title>
       <link>https://reddit.com/r/rstats/comments/1k190ls/differences_in_r_and_stata_for_logistic_regression/</link>
       <pubDate>Thu, 17 Apr 2025 09:57:39 +0000</pubDate>
