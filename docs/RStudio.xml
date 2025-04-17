@@ -4,6 +4,24 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>File name starting with numbers?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k1mh0m/file_name_starting_with_numbers/</link>
+      <pubDate>Thu, 17 Apr 2025 20:12:13 +0000</pubDate>
+      <description>I am totally new to R and am having a problem importing a csv file as a dataframe because it doesn&#39;t want to read a filename that starts with a number. The text here is blue. why is this an issue?&#xA;&#xA;https://preview.redd.it/zrxri086dgve1.png?width=1824&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7b68659fce30268a8b7a8e510274f731a10e5e2b&#xA;&#xA;</description>
+    </item>
+    <item>
+      <title>Having issues creating data frames that carry over to another r chunk in a Quarto document.</title>
+      <link>https://reddit.com/r/RStudio/comments/1k1m7ln/having_issues_creating_data_frames_that_carry/</link>
+      <pubDate>Thu, 17 Apr 2025 20:01:17 +0000</pubDate>
+      <description>Pretty much the title.  I am creating a quarto document with format : live-html and engine :knitr.&#xA;&#xA;I have made a data frame in chunk 1, say data\_1. &#xA;&#xA;I want to manipulate data\_1 in the next chunk, but when I run the code in chunk 2 I am told that &#xA;&#xA;    Error: object &#39;data_1&#39; not found&#xA;&#xA;I have looked up some ideas online and saw some thoughts about ojs chunks but I was wondering if there was an easier way to create the data so that it is persistent across the document. TIA.  &#xA;</description>
+    </item>
+    <item>
+      <title>Finding lat Lon from zip code</title>
+      <link>https://reddit.com/r/RStudio/comments/1k1ls5z/finding_lat_lon_from_zip_code/</link>
+      <pubDate>Thu, 17 Apr 2025 19:43:29 +0000</pubDate>
+      <description>Hey I have zip codes from all around the world and need to get the latitude and longitude of the locations. I tried geocoder, but the query didn’t return all results. I’m looking to avoid paying for an api and am more familiar with api requests in python anyways so lmk what you guys think! </description>
+    </item>
+    <item>
       <title>trouble with ggmap()</title>
       <link>https://reddit.com/r/RStudio/comments/1k1kqc7/trouble_with_ggmap/</link>
       <pubDate>Thu, 17 Apr 2025 18:58:59 +0000</pubDate>
