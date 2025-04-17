@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>S.O.S with dplyr</title>
-      <link>https://reddit.com/r/RStudio/comments/1k12yd8/sos_with_dplyr/</link>
-      <pubDate>Thu, 17 Apr 2025 03:08:30 +0000</pubDate>
-      <description>I have the **4.1.0** R (and R Studio) version and I have troubles with dplyr… the error message says:&#xA;&#xA;&#xA;&#xA;*“Warning message:*&#xA;&#xA;*package ‘dplyr’ was built under R version 4.1.3”*&#xA;&#xA;&#xA;&#xA;Shall I download that version??&#xA;&#xA;Is that possible??&#xA;&#xA;</description>
+      <title>trouble with ggmap()</title>
+      <link>https://reddit.com/r/RStudio/comments/1k1kqc7/trouble_with_ggmap/</link>
+      <pubDate>Thu, 17 Apr 2025 18:58:59 +0000</pubDate>
+      <description>I&#39;m pretty unfamiliar with mapping on R, so forgive my ignorance. But I get this error when trying to run this simple get\_stadiamap. (I have the coordinates assigned to bbox, and the API key on a different line). Any ideas? What filetype?</description>
     </item>
   </channel>
 </rss>
