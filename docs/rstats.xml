@@ -9,11 +9,5 @@
       <pubDate>Thu, 17 Apr 2025 10:28:51 +0000</pubDate>
       <description>I&#39;ve just been banging my head against a wall trying to look for decent crosstable functions in R that do all of the following things:&#xA;&#xA;1) Provide counts, totals, row percentages, column percentages, and cell percentages.&#xA;&#xA;2) Provide clean output in the console.&#xA;&#xA;3) Show percentages of missing values as well.&#xA;&#xA;4) Provide outputs in formats that can be readily exported to Excel.&#xA;&#xA;If you know of functions that do all of these things, then please let me know.</description>
     </item>
-    <item>
-      <title>Differences in R and Stata for logistic regression?</title>
-      <link>https://reddit.com/r/rstats/comments/1k190ls/differences_in_r_and_stata_for_logistic_regression/</link>
-      <pubDate>Thu, 17 Apr 2025 09:57:39 +0000</pubDate>
-      <description>Hi all, &#xA;&#xA;Beginner in econometrics and in R here, I&#39;m much more familiar with Stata but unfortunately I need to switch to R. So I&#39;m replicating a paper. I&#39;m using the same data than author, and I know I&#39;m doing alright so far because the paper involves a lot of variables creation and descriptive statistics and so far I end up with exactly the same numbers, every digit is the same. &#xA;&#xA;But the problem comes when I try to replicate the regression part. I&#39;m heavily suspecting the author worked on Stata. The author mentionned the type of model she did (logit regression), the variables she used, and explained everything in the table. What I don&#39;t know tho is what command with what options exactly she ran. &#xA;&#xA;I&#39;m getting completely different marginal effects and SEs than hers. I suspect this is because of the model. Could there be this much difference between Stata and R? &#xA;&#xA;I&#39;m using &#xA;&#xA;`design &amp;lt;- svydesign(ids = ~1, weights = ~pond, data = model_data)`&#xA;&#xA;`model &amp;lt;- y ~ x`&#xA;&#xA;`svyglm(model, design, family = quasibinomial())`&#xA;&#xA;&#xA;&#xA;is this a perfect equivalent on the Stata command &#xA;&#xA;`logit y x [pweight = pond]`&#xA;&#xA;? If no, could you explain what options do I have to try to estimate as closely as possible the equivalent of a logistic regression in Stata please. </description>
-    </item>
   </channel>
 </rss>
