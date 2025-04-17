@@ -4,6 +4,18 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Writing functions</title>
+      <link>https://reddit.com/r/RStudio/comments/1k1nc86/writing_functions/</link>
+      <pubDate>Thu, 17 Apr 2025 20:49:23 +0000</pubDate>
+      <description>Just starting to turn my code into functions after starting work 6 months ago. How important is it to go back and reorganize my code into functions? &#xA;&#xA;Side question: if you were running a function compiling “dates” and another column “col1” but the dates were different formats how many try catches would you write before leaving it out of the formula? Or how would you go about this? </description>
+    </item>
+    <item>
+      <title>How do I create a link to rShinyApp</title>
+      <link>https://reddit.com/r/RStudio/comments/1k1mrv1/how_do_i_create_a_link_to_rshinyapp/</link>
+      <pubDate>Thu, 17 Apr 2025 20:25:07 +0000</pubDate>
+      <description>So I&#39;ve managed to create an app that loads in my OneDrive however when I go to try and make a link through inputting my token and password etc from shiny app nothing seems to happen? &#xA;&#xA;Any ideas why?&#xA;&#xA;Thanks </description>
+    </item>
+    <item>
       <title>File name starting with numbers?</title>
       <link>https://reddit.com/r/RStudio/comments/1k1mh0m/file_name_starting_with_numbers/</link>
       <pubDate>Thu, 17 Apr 2025 20:12:13 +0000</pubDate>
@@ -20,12 +32,6 @@
       <link>https://reddit.com/r/RStudio/comments/1k1ls5z/finding_lat_lon_from_zip_code/</link>
       <pubDate>Thu, 17 Apr 2025 19:43:29 +0000</pubDate>
       <description>Hey I have zip codes from all around the world and need to get the latitude and longitude of the locations. I tried geocoder, but the query didn’t return all results. I’m looking to avoid paying for an api and am more familiar with api requests in python anyways so lmk what you guys think! </description>
-    </item>
-    <item>
-      <title>trouble with ggmap()</title>
-      <link>https://reddit.com/r/RStudio/comments/1k1kqc7/trouble_with_ggmap/</link>
-      <pubDate>Thu, 17 Apr 2025 18:58:59 +0000</pubDate>
-      <description>I&#39;m pretty unfamiliar with mapping on R, so forgive my ignorance. But I get this error when trying to run this simple get\_stadiamap. (I have the coordinates assigned to bbox, and the API key on a different line). Any ideas? What filetype?</description>
     </item>
   </channel>
 </rss>
