@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>IA escrevendo código: por que isso não garante que o sistema funcione como deveria</title>
-      <link>https://reddit.com/r/rprogramming/comments/1k1ipgq/ia_escrevendo_código_por_que_isso_não_garante_que/</link>
-      <pubDate>Thu, 17 Apr 2025 17:35:43 +0000</pubDate>
-      <description>[https://www.linkedin.com/posts/gleison-brito-4347647b\_engenhariadesoftware-inteligenciaartificial-activity-7318680741683298304-z4MY?utm\_source=social\_share\_send&amp;amp;utm\_medium=member\_desktop\_web&amp;amp;rcm=ACoAABEFB2gBmuHWE7vbXZTYh21fJ-jvBx8OxEM](https://www.linkedin.com/posts/gleison-brito-4347647b_engenhariadesoftware-inteligenciaartificial-activity-7318680741683298304-z4MY?utm_source=social_share_send&amp;amp;utm_medium=member_desktop_web&amp;amp;rcm=ACoAABEFB2gBmuHWE7vbXZTYh21fJ-jvBx8OxEM)</description>
+      <title>Built a tool to auto-generate READMEs – looking for feedback</title>
+      <link>https://reddit.com/r/rprogramming/comments/1k1pc8s/built_a_tool_to_autogenerate_readmes_looking_for/</link>
+      <pubDate>Thu, 17 Apr 2025 22:17:26 +0000</pubDate>
+      <description>https://preview.redd.it/kgk8y3yxzgve1.png?width=827&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=43890348af8dd0797cac8ed71c0de02533b70670&#xA;&#xA;&#xA;&#xA;Hey everyone!&#xA;&#xA;I&#39;m a front-end dev, but recently I built a little Python tool called **lazyREADME**. The idea is simple: it helps you create a clean, standardized README file automatically when starting a new project.&#xA;&#xA;I’ve published it on GitHub and even pushed it to PyPI — but now I’m looking for something even more valuable: **real feedback from other devs.**&#xA;&#xA;* Is this something useful?&#xA;* Does the idea make sense?&#xA;* Anything I could improve or add?&#xA;&#xA;If you have a moment to check it out and share your thoughts, I’d really appreciate it!&#xA;&#xA;👉 [Github](https://github.com/raphaeleliass/lazyREADME)&#xA;&#xA;👉 [PyPI](https://pypi.org/project/lazyreadme/)</description>
     </item>
   </channel>
 </rss>
