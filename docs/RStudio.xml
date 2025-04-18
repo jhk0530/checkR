@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Prediction Error on joint model does not work when interval=TRUE</title>
-      <link>https://reddit.com/r/RStudio/comments/1k1ygmq/prediction_error_on_joint_model_does_not_work/</link>
-      <pubDate>Fri, 18 Apr 2025 06:40:33 +0000</pubDate>
-      <description>I am running an example from the Joint Modelling book by Dimitris Rizopolous on the publicly available pbc2 dataset. I am trying to compute prediction error for a joint model, but it explicitly gives this error only when interval=TRUE (when interval=FALSE it works):&#xA;&#xA;    ####prediction error####&#xA;    # we construct the composite event indicator (transplantation or death)&#xA;    pbc2$status2 &amp;lt;- as.numeric(pbc2$status != &#34;alive&#34;)&#xA;    pbc2.id$status2 &amp;lt;- as.numeric(pbc2.id$status != &#34;alive&#34;)&#xA;    # we fit the joint model using splines for the subject-specific&#xA;    # longitudinal trajectories and a spline-approximated baseline&#xA;    # risk function&#xA;    lmeFit &amp;lt;- lme(log(serBilir) ~ ns(year, 3),&#xA;    +               random = list(id = pdDiag(form = ~ ns(year, 3))), data = pbc2)&#xA;    survFit &amp;lt;- coxph(Surv(years, status2) ~ drug, data = pbc2.id, x = TRUE)&#xA;    jointFit &amp;lt;- jointModel(lmeFit, survFit, timeVar = &#34;year&#34;,&#xA;    +                        method = &#34;piecewise-PH-aGH&#34;)&#xA;&#xA;    # we construct the composite event indicator (transplantation or death)# prediction error at year 10 using longitudinal data up to year 5&#xA;    prederrJM(jointFit, pbc2, Tstart = 5, Thoriz = 10, interval = TRUE)&#xA;    Error in Surv(TimeCens, deltaCens) : &#xA;      Time and status are different lengths&#xA;    In addition: There were 50 or more warnings (use warnings() to see the first 50)&#xA;&#xA;Now, pbc2 is used to fit the lme model whereas [pbc2.id](http://pbc2.id) is used to fit the Cox model, and that should not be  a problem, especially since the composite event indicator is created in both at the beginning. I cannot seem to debug the issue and could really use some help!&#xA;&#xA;(I also looked into this and am assuming it may be the problem, but I am not sure why an example from the book that should work is giving errors for me:)&#xA;&#xA;    &amp;gt; length(pbc2$years)&#xA;    [1] 1945&#xA;    &amp;gt; length(pbc2$status2)&#xA;    [1] 1945&#xA;    &amp;gt; length(pbc2.id$years)&#xA;    [1] 312&#xA;    &amp;gt; length(pbc2.id$status2)&#xA;    [1] 312</description>
-    </item>
-    <item>
-      <title>How to Add regions to my bilateral trade Data in R?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k1yd3w/how_to_add_regions_to_my_bilateral_trade_data_in_r/</link>
-      <pubDate>Fri, 18 Apr 2025 06:33:52 +0000</pubDate>
-      <description>I got 6 trading nations connected with the rest of the world. I need to plot the region using ITN and for that I need to add region maybe using the country code. Help me out with the coding 🥲. #r</description>
+      <title>Suggestions for data visualization</title>
+      <link>https://reddit.com/r/RStudio/comments/1k25wo0/suggestions_for_data_visualization/</link>
+      <pubDate>Fri, 18 Apr 2025 14:12:17 +0000</pubDate>
+      <description>Hi everyone, I constructed a negative binomial regression model where I used the following covariates (data type):&#xA;&#xA;Age (numerical, continuous)&#xA;Sex (categorical, male/female) &#xA;Drug type (categorical, Drug 1... Drug 7)&#xA;&#xA;During model fitting, I cycled through each of the 7 drugs as reference categories, and have subsequently obtained the point estimates (rate ratios) and 95% CIs. &#xA;&#xA;Now here&#39;s the issue, I technically have 21 unique Drug A/Drug B combinations and I&#39;m not sure how best to present it. &#xA;In addition, if anyone has ever encountered a similar problem and thinks my approach isn&#39;t great, I&#39;m all ears. Should I have transformed the drug types to a different data type? </description>
     </item>
   </channel>
 </rss>
