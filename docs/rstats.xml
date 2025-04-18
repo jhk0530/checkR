@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>The real reson for R package names</title>
-      <link>https://reddit.com/r/rstats/comments/1k1zdmx/the_real_reson_for_r_package_names/</link>
-      <pubDate>Fri, 18 Apr 2025 07:45:25 +0000</pubDate>
-      <description></description>
+      <title>Posit is being rude (R)</title>
+      <link>https://reddit.com/r/rstats/comments/1k2979z/posit_is_being_rude_r/</link>
+      <pubDate>Fri, 18 Apr 2025 16:32:14 +0000</pubDate>
+      <description>So, I&#39;m having issues rendering a quarto document through Posit. The code I have within the document runs to make a histogram, and that part runs perfectly. However, when I try to render the document to make it a website link, it says that the file used to make that histogram cannot be found, and it stops rendering that document. Anyone have any ideas on what this can be? I&#39;ve left my screen above with the code it backtraced to.</description>
     </item>
   </channel>
 </rss>
