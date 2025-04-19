@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Suggestions for data visualization</title>
-      <link>https://reddit.com/r/RStudio/comments/1k25wo0/suggestions_for_data_visualization/</link>
-      <pubDate>Fri, 18 Apr 2025 14:12:17 +0000</pubDate>
-      <description>Hi everyone, I constructed a negative binomial regression model where I used the following covariates (data type):&#xA;&#xA;Age (numerical, continuous)&#xA;Sex (categorical, male/female) &#xA;Drug type (categorical, Drug 1... Drug 7)&#xA;&#xA;During model fitting, I cycled through each of the 7 drugs as reference categories, and have subsequently obtained the point estimates (rate ratios) and 95% CIs. &#xA;&#xA;Now here&#39;s the issue, I technically have 21 unique Drug A/Drug B combinations and I&#39;m not sure how best to present it. &#xA;In addition, if anyone has ever encountered a similar problem and thinks my approach isn&#39;t great, I&#39;m all ears. Should I have transformed the drug types to a different data type? &#xA;&#xA;Edit: I forgot to establish that I had to do multiple testing, because I have 8-9 response variables.</description>
+      <title>Why does console keep repeating commands</title>
+      <link>https://reddit.com/r/RStudio/comments/1k2jq3o/why_does_console_keep_repeating_commands/</link>
+      <pubDate>Sat, 19 Apr 2025 00:20:17 +0000</pubDate>
+      <description>I have to learn to use Rstudio for university, but often when I run something in the script pane it just gets duplicated in the console or an error message comes up and I have no idea what I&#39;m doing wrong. I get even more confused when I try and it works because often I don&#39;t think I&#39;ve done anything different. I&#39;ve attached an image as an example. Any help would be amazing because I have a test that is solely on using Rstudio and I have no idea what I&#39;m doing&#xA;&#xA;https://preview.redd.it/x9108d1dqove1.png?width=1164&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=62efd0c3c655dadb04e690e2c815b8a46dfc38c2&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
