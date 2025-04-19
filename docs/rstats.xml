@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Posit is being rude (R)</title>
-      <link>https://reddit.com/r/rstats/comments/1k2979z/posit_is_being_rude_r/</link>
-      <pubDate>Fri, 18 Apr 2025 16:32:14 +0000</pubDate>
-      <description>So, I&#39;m having issues rendering a quarto document through Posit. The code I have within the document runs to make a histogram, and that part runs perfectly. However, when I try to render the document to make it a website link, it says that the file used to make that histogram cannot be found, and it stops rendering that document. Anyone have any ideas on what this can be? I&#39;ve left my screen above with the code it backtraced to.</description>
+      <title>Has anyone tried working with Cursor?</title>
+      <link>https://reddit.com/r/rstats/comments/1k2vl3a/has_anyone_tried_working_with_cursor/</link>
+      <pubDate>Sat, 19 Apr 2025 12:52:35 +0000</pubDate>
+      <description>The title says it all.&#xA;&#xA;Lately I&#39;ve been looking into AI tools to speed up work and I see that Rstudio is lagging far behind as an IDE. Don&#39;t get me wrong, I love RStudio, it&#39;s still my IDE of choice for R. &#xA;&#xA;I&#39;ve also been trying out positron, I like the idea of opening and coding, avoiding all the Vscode setup to use R, but you can&#39;t access copilot like you can in Vscode, and I don&#39;t really like the idea of using LLM&#39;s Api Keys.&#xA;&#xA;This is where Cursor comes in. I came across it this week and have been looking for information about how to use R. Apparently, it&#39;s the same setup steps as Vscode (terrible), but Cursor might be worth all the hassle. Yes, it&#39;s paid and there are local alternatives, but I like the idea of a single monthly payment and one-click access to the latest models.&#xA;&#xA;Has anyone had experience with Cursor for R programming? I&#39;m very interested in being able to execute code line by line.&#xA;&#xA;Thanks a lot community!</description>
     </item>
   </channel>
 </rss>
