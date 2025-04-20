@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Popular python packages among R users</title>
-      <link>https://reddit.com/r/rstats/comments/1k3hdyo/popular_python_packages_among_r_users/</link>
-      <pubDate>Sun, 20 Apr 2025 07:40:51 +0000</pubDate>
-      <description>I&#39;m currently writing an R package called [rixpress](https://github.com/b-rodrigues/rixpress) which aims to set up reproducible pipelines with simple R code by using Nix as the underlying build tool. Because it uses Nix as the build tool, it is also possible to write targets that are built using Python. [Here is an example of a pipeline that mixes R and Python.&#xA;](https://github.com/b-rodrigues/rixpress_demos/tree/master/python_r)&#xA;&#xA;To make sure I test most use cases, I&#39;m looking for examples of popular Python packages among R users.&#xA;&#xA;So R users, which Python packages do you use, if any?</description>
+      <title>Why I&#39;m still betting on R</title>
+      <link>https://reddit.com/r/rstats/comments/1k3ruma/why_im_still_betting_on_r/</link>
+      <pubDate>Sun, 20 Apr 2025 17:32:18 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
