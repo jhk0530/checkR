@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How do I organise my data for this?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k2xfk3/how_do_i_organise_my_data_for_this/</link>
-      <pubDate>Sat, 19 Apr 2025 14:25:12 +0000</pubDate>
-      <description>I&#39;m new to R and have been trying to organise my messy excel table of data, so that Rstudio can create graphs with it. But I&#39;m struggling to understand how I should organise it. This isn&#39;t much of a code problem yet as I am not even to that stage yet. &#xA;&#xA;https://preview.redd.it/cackovivrsve1.png?width=1492&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3801ddb2895f97c451a59c9469ce96e58249254e&#xA;&#xA;This is how it is laid out atm. With IP address as a proxy for participant number, and then the table continuing with the B1,B2 etc referring to the animal species question in Questionnaire 1 and Questionnaire 2 that participants have answered. Correct answers are in green whilst incorrect are uncoloured. This continues for a total of 20 species (so 40 columns) with total score columns for Questionnaire 1 and 2 at the end. I&#39;ve been told that I could just convert the participant answers to either 1 or 0 (correct or not) but for a mosaic plot, which is a plot i would like to make as it shows which species is most commonly misidentified as what, then just binary would not be suitable.&#xA;&#xA;I was told that this table is wide format, and R works better with long format, but i worked out that to manually change it to long format it would be around 4,000 rows... please help.</description>
+      <title>Package for search in biology</title>
+      <link>https://reddit.com/r/RStudio/comments/1k3yqda/package_for_search_in_biology/</link>
+      <pubDate>Sun, 20 Apr 2025 22:51:27 +0000</pubDate>
+      <description>Hey guys, I need a package that compares several different cells from a tissue between two species — does anyone have a suggestion??</description>
     </item>
   </channel>
 </rss>
