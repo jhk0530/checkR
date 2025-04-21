@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Package for search in biology</title>
-      <link>https://reddit.com/r/RStudio/comments/1k3yqda/package_for_search_in_biology/</link>
-      <pubDate>Sun, 20 Apr 2025 22:51:27 +0000</pubDate>
-      <description>Hey guys, I need a package that compares several different cells from a tissue between two species — does anyone have a suggestion??</description>
+      <title>Calculating percent loss over 6 months within ID groups in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1k49rza/calculating_percent_loss_over_6_months_within_id/</link>
+      <pubDate>Mon, 21 Apr 2025 09:56:46 +0000</pubDate>
+      <description>Hi guys, I&#39;m new to R and mostly use ChatGPT to help me solve Problems or to code complex codes, but I am stuck with a new variable I would like to create:&#xA;&#xA;I have 3 columns: `ID` ,`Date` and `Measurement`. All calculations should be done within the same `ID`. I only want to use rows for my calculation where all values are not `NA`. Among these valid rows, I want to find the oldest Measurement within the last 6 months and calculate the percent loss between the current measurement and the oldest measurement within the last 6 months. The result should then become my new variable: `Measurement_loss_percent`.&#xA;&#xA;Can someone please help me find a way to calculate that? If possible using the dplyr-package or easy coding language, thank you so much!&#xA;&#xA;&#xA;&#xA;# </description>
     </item>
   </channel>
 </rss>
