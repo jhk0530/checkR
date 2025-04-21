@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Why I&#39;m still betting on R</title>
-      <link>https://reddit.com/r/rstats/comments/1k3ruma/why_im_still_betting_on_r/</link>
-      <pubDate>Sun, 20 Apr 2025 17:32:18 +0000</pubDate>
-      <description></description>
+      <title>How can I get daily average climate data for a specific location in R?</title>
+      <link>https://reddit.com/r/rstats/comments/1k4oa45/how_can_i_get_daily_average_climate_data_for_a/</link>
+      <pubDate>Mon, 21 Apr 2025 20:50:22 +0000</pubDate>
+      <description>I want to obtain daily average climate data (rainfall, snowfall, temps) for specific locations (preferably using lat/long coordinates). Is there a function that can do this simply? I don&#39;t need to map the data as raster, I just want to be able to generate a dataframe and make simple plots. X would be days of the year, 1-365, Y would be the climate variable. Thanks.</description>
     </item>
   </channel>
 </rss>
