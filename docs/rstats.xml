@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How can I get daily average climate data for a specific location in R?</title>
-      <link>https://reddit.com/r/rstats/comments/1k4oa45/how_can_i_get_daily_average_climate_data_for_a/</link>
-      <pubDate>Mon, 21 Apr 2025 20:50:22 +0000</pubDate>
-      <description>I want to obtain daily average climate data (rainfall, snowfall, temps) for specific locations (preferably using lat/long coordinates). Is there a package that can do this simply? I don&#39;t need to map the data as raster, I just want to be able to generate a dataframe and make simple plots. X would be days of the year, 1-365, Y would be the climate variable. Thanks.</description>
+      <title>I set up a Github Actions workflow to update this graph each day. Link to repo with code and documentation in the description.</title>
+      <link>https://reddit.com/r/rstats/comments/1k5fbwj/i_set_up_a_github_actions_workflow_to_update_this/</link>
+      <pubDate>Tue, 22 Apr 2025 19:34:53 +0000</pubDate>
+      <description>I shared a version of this years ago. At some point in the interim, the code broke, so I&#39;ve gone back and rewritten the workflow. It&#39;s much simpler now and takes advantage of some improvement in R&#39;s Github Actions ecosystem.&#xA;&#xA;Here&#39;s the link: [https://github.com/jdjohn215/milwaukee-weather](https://github.com/jdjohn215/milwaukee-weather)&#xA;&#xA;I&#39;ve benefited a lot from tutorials on the internet written by random people like me, so I figured this might be useful to someone too.</description>
     </item>
   </channel>
 </rss>
