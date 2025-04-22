@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Calculating percent loss over 6 months within ID groups in R</title>
-      <link>https://reddit.com/r/RStudio/comments/1k49rza/calculating_percent_loss_over_6_months_within_id/</link>
-      <pubDate>Mon, 21 Apr 2025 09:56:46 +0000</pubDate>
-      <description>Hi guys, I&#39;m new to R and mostly use ChatGPT to help me solve Problems or to code complex codes, but I am stuck with a new variable I would like to create:&#xA;&#xA;I have 3 columns: `ID` ,`Date` and `Measurement`. All calculations should be done within the same `ID`. I only want to use rows for my calculation where all values are not `NA`. Among these valid rows, I want to find the oldest Measurement within the last 6 months and calculate the percent loss between the current measurement and the oldest measurement within the last 6 months. The result should then become my new variable: `Measurement_loss_percent`.&#xA;&#xA;Can someone please help me find a way to calculate that? If possible using the dplyr-package or easy coding language, thank you so much!&#xA;&#xA;&#xA;&#xA;# </description>
+      <title>Unable to login to Posit Connect</title>
+      <link>https://reddit.com/r/RStudio/comments/1k4ys6q/unable_to_login_to_posit_connect/</link>
+      <pubDate>Tue, 22 Apr 2025 05:30:50 +0000</pubDate>
+      <description>Hi All,&#xA;&#xA;I would like to seek help. I migrated Posit connect from 1.8.2-10 version to latest version 2025.03.0 version. Before upgrade, login is still working in Posit Connect. Now no longer works with error &#34;Unable to verify credentials: LDAPResult Code 200 \&#34;Network Error\&#34;: remote error: tls: handshake failure&#34;. &#xA;&#xA;I&#39;m using ldap as my authentication method. All configurations seems ok since login is working before upgrade. Would appreciate any help. Thanks!&#xA;&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
