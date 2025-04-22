@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Unable to login to Posit Connect</title>
-      <link>https://reddit.com/r/RStudio/comments/1k4ys6q/unable_to_login_to_posit_connect/</link>
-      <pubDate>Tue, 22 Apr 2025 05:30:50 +0000</pubDate>
-      <description>Hi All,&#xA;&#xA;I would like to seek help. I migrated Posit connect from 1.8.2-10 version to latest version 2025.03.0 version. Before upgrade, login is still working in Posit Connect. Now no longer works with error &#34;Unable to verify credentials: LDAPResult Code 200 \&#34;Network Error\&#34;: remote error: tls: handshake failure&#34;. &#xA;&#xA;I&#39;m using ldap as my authentication method. All configurations seems ok since login is working before upgrade. Would appreciate any help. Thanks!&#xA;&#xA;&#xA;</description>
+      <title>How do I make a graph using multiple sample sites?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k55p9j/how_do_i_make_a_graph_using_multiple_sample_sites/</link>
+      <pubDate>Tue, 22 Apr 2025 13:00:24 +0000</pubDate>
+      <description>So basically I have an excel spreadsheet with 30 sample sites, however each site has multiple samples, one site for example is J19-1A, J19-1B, J19-1C, since it has 3 samples. Another is J19-2A, J19-2B, J19-2C etc etc..... each sample contains dna from animals&#xA;&#xA;There is 30 sites in total&#xA;&#xA;&#xA;I want to be able to make a graph that compares the livestock species (sheep, cattle, chickens) to the other species found, but I am struggling with telling R that &#34;x&#34; has multiple factors&#xA;&#xA;&#xA;If anyone could help it would be really appreciated, and I&#39;m happy to supply the data sheet if needed&#xA;&#xA;EDIT - I am very new at r studio so apologies if this isn&#39;t very informative, but I will try answer best I can</description>
     </item>
   </channel>
 </rss>
