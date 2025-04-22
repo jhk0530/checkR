@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How do I make a graph using multiple sample sites?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k55p9j/how_do_i_make_a_graph_using_multiple_sample_sites/</link>
-      <pubDate>Tue, 22 Apr 2025 13:00:24 +0000</pubDate>
-      <description>So basically I have an excel spreadsheet with 30 sample sites, however each site has multiple samples, one site for example is J19-1A, J19-1B, J19-1C, since it has 3 samples. Another is J19-2A, J19-2B, J19-2C etc etc..... each sample contains dna from animals&#xA;&#xA;There is 30 sites in total&#xA;&#xA;&#xA;I want to be able to make a graph that compares the livestock species (sheep, cattle, chickens) to the other species found, but I am struggling with telling R that &#34;x&#34; has multiple factors&#xA;&#xA;&#xA;If anyone could help it would be really appreciated, and I&#39;m happy to supply the data sheet if needed&#xA;&#xA;EDIT - I am very new at r studio so apologies if this isn&#39;t very informative, but I will try answer best I can</description>
+      <title>Error bars issue</title>
+      <link>https://reddit.com/r/RStudio/comments/1k5a0wd/error_bars_issue/</link>
+      <pubDate>Tue, 22 Apr 2025 16:03:25 +0000</pubDate>
+      <description>Hi, &#xA;I&#39;ve added error bars to my scatter plot.&#xA;However, the error bars look really tiny and squashed, the mean on the bars isn&#39;t really visible. how do I fix this issue please?</description>
     </item>
   </channel>
 </rss>
