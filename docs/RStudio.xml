@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Creating a dataset from counts of an exisiting dataset</title>
+      <link>https://reddit.com/r/RStudio/comments/1k5xvpk/creating_a_dataset_from_counts_of_an_exisiting/</link>
+      <pubDate>Wed, 23 Apr 2025 12:26:55 +0000</pubDate>
+      <description>Hi all, I have some data that I am trying to get into a specific format to create a plot (kinda like a heat map). I have a dataset with a lot of columns/ rows and for the plot I&#39;m making I need counts across two columns/ variables. I.e., I want counts for when variable x == 1 and variable y == 1 etc. I can do this, but I then want to use these counts to create a dataset. So this count would be in column x and row y of the new dataset as it is showing the counts for when these two variables are both 1. Is there a way to do this? I have a lot of columns so I was hoping there&#39;s a relatively simple way to automate this but I just can&#39;t think of a way to do it. Not sure if this made sense at all, I couldn&#39;t think of a good way to visualise it. Thanks!</description>
+    </item>
+    <item>
       <title>Error with unknown cause</title>
       <link>https://reddit.com/r/RStudio/comments/1k5wsat/error_with_unknown_cause/</link>
       <pubDate>Wed, 23 Apr 2025 11:28:51 +0000</pubDate>
