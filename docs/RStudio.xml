@@ -4,6 +4,18 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Help Accessing a One Drive Folder with Multiple Other Folders</title>
+      <link>https://reddit.com/r/RStudio/comments/1k5r06s/help_accessing_a_one_drive_folder_with_multiple/</link>
+      <pubDate>Wed, 23 Apr 2025 04:54:18 +0000</pubDate>
+      <description>Someone shared a one drive link with me to a folder, that contains a .txt file and other folders within it. I have tried downloading the folder to my personal laptop; however the folder is 150 GB and zipped, but my connection is weak, so my computer denies the download. I decided to just call the folder into RStudio that way it does not have to be downloaded to my laptop. The issue with that is that I do not know how to call the shared link into RStudio THEN redirect it to download all the contents into a folder directory of my choosing. From that point I figured that I could unzip the entire thing myself (backwards way of getting the folder downloaded I guess). Sadly I am unsure if that is a possibility and could use some help. The folder does not contain any Excel files, nor .csv files, simply a folder with another folder containing sequencing data, READ ME, and .txt files. Does anyone know how I would call that information into R? Or what functions? If it is even possible.</description>
+    </item>
+    <item>
+      <title>Decision Trees</title>
+      <link>https://reddit.com/r/RStudio/comments/1k5r026/decision_trees/</link>
+      <pubDate>Wed, 23 Apr 2025 04:54:05 +0000</pubDate>
+      <description>Can someone please help me make this tree more readable? Here are my codes:&#xA;&#xA;https://preview.redd.it/xfx3gx8imiwe1.png?width=606&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e0cf63b537f1067a29608038d1dbbd255159aa43&#xA;&#xA;I tried to make the text bigger but the words were overlapping:&#xA;&#xA;https://preview.redd.it/56yylidfmiwe1.png?width=625&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c74ad5317a5678e8c3f1e5738fb4439b1fdefc15&#xA;&#xA;Any help provided would be appreciate. Thank you</description>
+    </item>
+    <item>
       <title>Help with deploying an R Markdown HTML document and automatically sending it to Slack at scheduled times.</title>
       <link>https://reddit.com/r/RStudio/comments/1k5q4wm/help_with_deploying_an_r_markdown_html_document/</link>
       <pubDate>Wed, 23 Apr 2025 04:01:58 +0000</pubDate>
