@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Vibe coding rebrand to slop coding</title>
-      <link>https://reddit.com/r/rprogramming/comments/1k2hmjv/vibe_coding_rebrand_to_slop_coding/</link>
-      <pubDate>Fri, 18 Apr 2025 22:35:43 +0000</pubDate>
-      <description>We should start calling vibe coding what it truly is: slop coding</description>
+      <title>Need to connect R to Azure Data Lake to pull data via token authentication. Is that done via the AzureR family of packages?</title>
+      <link>https://reddit.com/r/rprogramming/comments/1k5ltls/need_to_connect_r_to_azure_data_lake_to_pull_data/</link>
+      <pubDate>Wed, 23 Apr 2025 00:17:20 +0000</pubDate>
+      <description>I have used the `RODBC`, `odbc`, and `DBI` packages to connect to data warehouses stored on premises to submit SQL queries via R to extract data. Now I need to connect to our Azure data lake. I have heard this can be done two ways: 1. via my local laptop, and 2. via a virtual machine. I&#39;m not sure if that changes things, but, eventually, the latter (virtual machine, with multiple users) will be the ultimate goal.&#xA;&#xA;I spoke with IT and they said I need an Azure authentication token, which differs from simply needing a username and password for when I connected to the on-premise data wareshouses via `RODBC`, `odbc`, and `DBI`. I found a way to obtain that via PowerShell and CMD, but it also seems like I can get that in R via one of the `AzureR` family of packages: https://github.com/Azure/AzureR&#xA;&#xA;Do I also use one of those `AzureR` packages to do the data pulls too, such as via a SQL query? I&#39;m not sure, but I also worry that the GitHub commits for most of them seem to be many years old. Are they abandoned? Should I be doing this some other way instead?</description>
     </item>
   </channel>
 </rss>
