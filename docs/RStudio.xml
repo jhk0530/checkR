@@ -4,16 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Color codes for ggcuminc</title>
+      <link>https://reddit.com/r/RStudio/comments/1k67xof/color_codes_for_ggcuminc/</link>
+      <pubDate>Wed, 23 Apr 2025 19:25:03 +0000</pubDate>
+      <description>Hi everyone&#xA;&#xA;I am making a cumulative incidence plot using this template:&#xA;&#xA;[https://www.danieldsjoberg.com/ggsurvfit/reference/ggcuminc.html](https://www.danieldsjoberg.com/ggsurvfit/reference/ggcuminc.html)&#xA;&#xA;I would like to use the same colors in other kinds of plots. I am just getting the default red/blue colors, but what are the exact colur codes for the red and blue.&#xA;&#xA;&#xA;&#xA;Thanks in advance!</description>
+    </item>
+    <item>
       <title>How to merge/aggregate rows?</title>
       <link>https://reddit.com/r/RStudio/comments/1k67cjq/how_to_mergeaggregate_rows/</link>
       <pubDate>Wed, 23 Apr 2025 19:01:11 +0000</pubDate>
       <description>I know this is super simple but I’m struggling figuring out what to do here. I am thinking the aggregate function is best but not sure how to write it. I have a large dataset (portion of it in image). I want to combine the rows that are “under 1 year” and “1-4” years into one row for all of those instances that share a year, month, and county (the combining would occur on the “Count” value). I want all the other age strata to stay separated as they are. How can I do this?&#xA;&#xA;&#xA;&#x9;</description>
-    </item>
-    <item>
-      <title>Google drive desktop can´t sync &#34;renv&#34; folders</title>
-      <link>https://reddit.com/r/RStudio/comments/1k654ah/google_drive_desktop_cant_sync_renv_folders/</link>
-      <pubDate>Wed, 23 Apr 2025 17:32:26 +0000</pubDate>
-      <description>I created a private package library for one of my projects in Rstudio using the &#34;renv&#34; package, that also creates a &#34;renv&#34; folder whithin the project folder. The thing is, Google drive wont sync most of the files inside &#34;renv&#34;, and i have absolutely no idea why. Can someone help?</description>
     </item>
   </channel>
 </rss>
