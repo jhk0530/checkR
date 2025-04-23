@@ -9,11 +9,5 @@
       <pubDate>Wed, 23 Apr 2025 12:26:55 +0000</pubDate>
       <description>Hi all, I have some data that I am trying to get into a specific format to create a plot (kinda like a heat map). I have a dataset with a lot of columns/ rows and for the plot I&#39;m making I need counts across two columns/ variables. I.e., I want counts for when variable x == 1 and variable y == 1 etc. I can do this, but I then want to use these counts to create a dataset. So this count would be in column x and row y of the new dataset as it is showing the counts for when these two variables are both 1. Is there a way to do this? I have a lot of columns so I was hoping there&#39;s a relatively simple way to automate this but I just can&#39;t think of a way to do it. Not sure if this made sense at all, I couldn&#39;t think of a good way to visualise it. Thanks!</description>
     </item>
-    <item>
-      <title>Error with unknown cause</title>
-      <link>https://reddit.com/r/RStudio/comments/1k5wsat/error_with_unknown_cause/</link>
-      <pubDate>Wed, 23 Apr 2025 11:28:51 +0000</pubDate>
-      <description>Hello everyone,  &#xA;I build a SCM-Model using R-Studio and everything worked fine. Now I&#39;m trying to build a new one with more datapoints but for some reason it spits out the error: &#xA;&#xA;    control unit: NA ; predictor: [Predictorname] has missing data for all periods in time.predictors.priorcontrol&#xA;    &#xA;    I checked everyting and if I use summery the data shows up. I did everything the same way as before but it doesnt work. Can someone help me?</description>
-    </item>
   </channel>
 </rss>
