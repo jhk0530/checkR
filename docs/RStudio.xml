@@ -4,16 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>How to merge/aggregate rows?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k67cjq/how_to_mergeaggregate_rows/</link>
+      <pubDate>Wed, 23 Apr 2025 19:01:11 +0000</pubDate>
+      <description>I know this is super simple but I’m struggling figuring out what to do here. I am thinking the aggregate function is best but not sure how to write it. I have a large dataset (portion of it in image). I want to combine the rows that are “under 1 year” and “1-4” years into one row for all of those instances that share a year, month, and county (the combining would occur on the “Count” value). I want all the other age strata to stay separated as they are. How can I do this?&#xA;&#xA;&#xA;&#x9;</description>
+    </item>
+    <item>
       <title>Google drive desktop can´t sync &#34;renv&#34; folders</title>
       <link>https://reddit.com/r/RStudio/comments/1k654ah/google_drive_desktop_cant_sync_renv_folders/</link>
       <pubDate>Wed, 23 Apr 2025 17:32:26 +0000</pubDate>
       <description>I created a private package library for one of my projects in Rstudio using the &#34;renv&#34; package, that also creates a &#34;renv&#34; folder whithin the project folder. The thing is, Google drive wont sync most of the files inside &#34;renv&#34;, and i have absolutely no idea why. Can someone help?</description>
-    </item>
-    <item>
-      <title>Any tidycensus users here?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k64ho8/any_tidycensus_users_here/</link>
-      <pubDate>Wed, 23 Apr 2025 17:07:24 +0000</pubDate>
-      <description>I&#39;m analyzing the demographic characteristics of nurse practitioners in the US using the 2023 ACS survey and tidycensus.&#xA;&#xA;I&#39;ve downloaded the data using this code:&#xA;&#xA;    pums_2023 = get_pums(&#xA;      variables = c(&#34;OCCP&#34;, &#34;SEX&#34;, &#34;AGEP&#34;, &#34;RAC1P&#34;, &#34;COW&#34;, &#34;ESR&#34;, &#34;WKHP&#34;, &#34;ADJINC&#34;),&#xA;      state = &#34;all&#34;,&#xA;      survey = &#34;acs1&#34;,&#xA;      year = 2023,&#xA;      recode = TRUE&#xA;    )&#xA;    &#xA;&#xA;I filtered the data to the occupation code for NPs using this code:&#xA;&#xA;    pums_2023.NPs = pums_2023 %&amp;gt;%&#xA;      filter(OCCP == 3258)&#xA;    &#xA;&#xA;And I&#39;m trying to create a survey design object using this code:&#xA;&#xA;    pums_2023_survey.NPs =&#xA;      to_survey(&#xA;        pums_2023.NPs,&#xA;        type = c(&#34;person&#34;),&#xA;        class = c(&#34;srvyr&#34;, &#34;survey&#34;),&#xA;        design = &#34;rep_weights&#34;&#xA;      )&#xA;    &#xA;    class(pums_2023_survey.NPs)&#xA;    &#xA;&#xA;However, I keep getting this error:&#xA;&#xA;    Error: Not all person replicate weight variables are present in input data.&#xA;    &#xA;&#xA;I&#39;ve double-checked the data, and the person weight column is included. I redownloaded my dataset (twice). All of the data seems to be there, as the number of raw and then filtered observations represent \~1% of their respective populations. I&#39;ve messed around with my survey design code, but I keep getting the same error. Any ideas as to why this is happening?</description>
     </item>
   </channel>
 </rss>
