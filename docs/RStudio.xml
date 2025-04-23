@@ -9,11 +9,5 @@
       <pubDate>Wed, 23 Apr 2025 19:25:03 +0000</pubDate>
       <description>Hi everyone&#xA;&#xA;I am making a cumulative incidence plot using this template:&#xA;&#xA;[https://www.danieldsjoberg.com/ggsurvfit/reference/ggcuminc.html](https://www.danieldsjoberg.com/ggsurvfit/reference/ggcuminc.html)&#xA;&#xA;I would like to use the same colors in other kinds of plots. I am just getting the default red/blue colors, but what are the exact colur codes for the red and blue.&#xA;&#xA;&#xA;&#xA;Thanks in advance!</description>
     </item>
-    <item>
-      <title>How to merge/aggregate rows?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k67cjq/how_to_mergeaggregate_rows/</link>
-      <pubDate>Wed, 23 Apr 2025 19:01:11 +0000</pubDate>
-      <description>I know this is super simple but I’m struggling figuring out what to do here. I am thinking the aggregate function is best but not sure how to write it. I have a large dataset (portion of it in image). I want to combine the rows that are “under 1 year” and “1-4” years into one row for all of those instances that share a year, month, and county (the combining would occur on the “Count” value). I want all the other age strata to stay separated as they are. How can I do this?&#xA;&#xA;&#xA;&#x9;</description>
-    </item>
   </channel>
 </rss>
