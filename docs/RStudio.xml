@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help with creating numbers on a log10 plot</title>
-      <link>https://reddit.com/r/RStudio/comments/1k5w952/help_with_creating_numbers_on_a_log10_plot/</link>
-      <pubDate>Wed, 23 Apr 2025 10:57:45 +0000</pubDate>
-      <description>Hi there! I&#39;m relatively new to coding and still finding my footing with it—it can definitely be a challenge. I work in scientific research, and from time to time I need to process and visualize data using RStudio.&#xA;&#xA;Right now, I&#39;m working on a poster presentation for next week, and I could use some help with creating a few graphs. For the first one, I’m trying to plot N₂O emissions against air temperature using a log10 scale on the y-axis. Here&#39;s the script I have so far:&#xA;&#xA;    # Create geom_smooth chart for N2O related to Tair&#xA;    ggplot(field_all_data, aes(x = T_air, y = N2O_mg_m2_h1)) +&#xA;      geom_point() +&#xA;      geom_smooth(method = &#34;loess&#34;, se = TRUE) +&#xA;      theme_minimal() +&#xA;      scale_y_log10() +&#xA;      stat_cor(method = &#34;pearson&#34;, label.x = 4, label.y = 3) +&#xA;      labs(x = expression(&#34;Air temperature&#34; ~ (degree*C)), &#xA;           y = &#34;N2O (mg/m²/h)&#34;, &#xA;           title = &#34;N2O Emissions by Air Temperature&#34;)&#xA;    &#xA;&#xA;My issue is that my N₂O values range from -0.76 to 711 mg/m²/h, and I know log10 can&#39;t handle negative or zero values. I also don&#39;t want to use continuous scale as the majority of my values are clustered below 10.  What&#39;s the best way to handle this kind of data so I can still use a log scale for the y-axis? </description>
-    </item>
-    <item>
-      <title>Help in SDM pls</title>
-      <link>https://reddit.com/r/RStudio/comments/1k5uv0m/help_in_sdm_pls/</link>
-      <pubDate>Wed, 23 Apr 2025 09:24:53 +0000</pubDate>
-      <description></description>
+      <title>Error with unknown cause</title>
+      <link>https://reddit.com/r/RStudio/comments/1k5wsat/error_with_unknown_cause/</link>
+      <pubDate>Wed, 23 Apr 2025 11:28:51 +0000</pubDate>
+      <description>Hello everyone,  &#xA;I build a SCM-Model using R-Studio and everything worked fine. Now I&#39;m trying to build a new one with more datapoints but for some reason it spits out the error: &#xA;&#xA;    control unit: NA ; predictor: [Predictorname] has missing data for all periods in time.predictors.priorcontrol&#xA;    &#xA;    I checked everyting and if I use summery the data shows up. I did everything the same way as before but it doesnt work. Can someone help me?</description>
     </item>
   </channel>
 </rss>
