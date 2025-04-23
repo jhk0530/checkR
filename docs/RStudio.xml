@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Google drive desktop can´t sync &#34;renv&#34; folders</title>
+      <link>https://reddit.com/r/RStudio/comments/1k654ah/google_drive_desktop_cant_sync_renv_folders/</link>
+      <pubDate>Wed, 23 Apr 2025 17:32:26 +0000</pubDate>
+      <description>I created a private package library for one of my projects in Rstudio using the &#34;renv&#34; package, that also creates a &#34;renv&#34; folder whithin the project folder. The thing is, Google drive wont sync most of the files inside &#34;renv&#34;, and i have absolutely no idea why. Can someone help?</description>
+    </item>
+    <item>
       <title>Any tidycensus users here?</title>
       <link>https://reddit.com/r/RStudio/comments/1k64ho8/any_tidycensus_users_here/</link>
       <pubDate>Wed, 23 Apr 2025 17:07:24 +0000</pubDate>

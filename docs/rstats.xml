@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Please show your daughter how to suck me</title>
-      <link>https://reddit.com/r/rstats/comments/1k5tru4/please_show_your_daughter_how_to_suck_me/</link>
-      <pubDate>Wed, 23 Apr 2025 08:04:50 +0000</pubDate>
-      <description>I’m </description>
+      <title>Beta diversity analysis question.</title>
+      <link>https://reddit.com/r/rstats/comments/1k65nuz/beta_diversity_analysis_question/</link>
+      <pubDate>Wed, 23 Apr 2025 17:54:05 +0000</pubDate>
+      <description>I have a question about ecological analysis and R programming that is stumping me. &#xA;&#xA;I am trying to plot results from a beta-diversity analysis done in the adespatial package in a simplex/ternary plot. Every plot has the data going in a straight line. I have encountered several papers that are able to display the results in the desired plot but I am having problems doing it in my own code. I feel like the cbind step is where the error happens but I am not sure how to fix it. Does anyone know how to plot the resultant distance matrices this way? Below is a reproducible example and output that reflects my problem. Thanks.&#xA;&#xA;    require(vegan)&#xA;    require(ggtern)&#xA;    require(adespatial)&#xA;    &#xA;    data(dune)&#xA;    beta.dens &amp;lt;- beta.div.comp(dune, coef=&#34;J&#34;, quant=T) &#xA;    repl &amp;lt;- beta.dens$repl&#xA;    diff &amp;lt;- beta.dens$rich&#xA;    beta.d &amp;lt;- beta.dens$D&#xA;    df &amp;lt;- cbind(repl, diff, beta.d)&#xA;    ggtern(data=df,aes(repl, diff, beta.d)) + &#xA;      geom_mask() +&#xA;      geom_point(fill=&#34;red&#34;,shape=21,size=4) + &#xA;      theme_bw() +&#xA;      theme_showarrows() +&#xA;      theme_clockwise() + ggtitle(&#34;Density&#34;)&#xA;&#xA;https://preview.redd.it/fu026eczhmwe1.jpg?width=1064&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=ad9ec6db6dd31a725645b6a8070385e32dad39ba&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
