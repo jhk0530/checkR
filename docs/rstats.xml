@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Request for R scripts handling monthly data</title>
-      <link>https://reddit.com/r/rstats/comments/1k5qpdc/request_for_r_scripts_handling_monthly_data/</link>
-      <pubDate>Wed, 23 Apr 2025 04:35:51 +0000</pubDate>
-      <description>I absolutely love how the R community publishes the script to allow the user to exactly replicate the examples (see R-Graph-Gallery website). This allows me to systematically work from code that works(!) and modify the script with my own data and allows me to change attributes as needed. &#xA;&#xA;The main challenge I have is that all of my datasets are monthly. I am required to publish my data in a MMM-YYYY format. I can easily do this in excel. I have found no ggplot2 R scripts that I can work from that allow me to import my data in a MM/DD/YYYY format and publish in MMM-YYYY format. If anyone has seen scripts that involve creating graphics (ggplot2 or gganimate) with a monthly interval (and multi-year) interval, I would love to see and study it! I&#39;ve seen the examples that go from Jan, Feb...Dec, but they only cover the span of 1 year. I&#39;m interesting in creating graphics with data displayed on monthly interval from Jan-1985 through Dec-1988. If you have any tips or tricks to deal with monthly data, I&#39;d love to hear them because I&#39;m about to throw my computer out the window. Thanks in advance!  </description>
+      <title>Please show your daughter how to suck me</title>
+      <link>https://reddit.com/r/rstats/comments/1k5tru4/please_show_your_daughter_how_to_suck_me/</link>
+      <pubDate>Wed, 23 Apr 2025 08:04:50 +0000</pubDate>
+      <description>I’m </description>
     </item>
   </channel>
 </rss>
