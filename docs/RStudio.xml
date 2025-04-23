@@ -15,11 +15,5 @@
       <pubDate>Wed, 23 Apr 2025 04:54:05 +0000</pubDate>
       <description>Can someone please help me make this tree more readable? Here are my codes:&#xA;&#xA;https://preview.redd.it/xfx3gx8imiwe1.png?width=606&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e0cf63b537f1067a29608038d1dbbd255159aa43&#xA;&#xA;I tried to make the text bigger but the words were overlapping:&#xA;&#xA;https://preview.redd.it/56yylidfmiwe1.png?width=625&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c74ad5317a5678e8c3f1e5738fb4439b1fdefc15&#xA;&#xA;Any help provided would be appreciate. Thank you</description>
     </item>
-    <item>
-      <title>Help with deploying an R Markdown HTML document and automatically sending it to Slack at scheduled times.</title>
-      <link>https://reddit.com/r/RStudio/comments/1k5q4wm/help_with_deploying_an_r_markdown_html_document/</link>
-      <pubDate>Wed, 23 Apr 2025 04:01:58 +0000</pubDate>
-      <description>I built an R Markdown HTML document, and the idea is to automate the run, generate the HTML output, and host the link so it can be shared in a Slack channel. Has anyone done something similar? How did you approach it? Thank you so much! </description>
-    </item>
   </channel>
 </rss>
