@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Online R Program?</title>
-      <link>https://reddit.com/r/rstats/comments/1k721ax/online_r_program/</link>
-      <pubDate>Thu, 24 Apr 2025 20:08:12 +0000</pubDate>
-      <description>I hope this hasn’t been asked here a ton of times, but I’m looking for advice on a good online course to take to learn R for total beginners. I’m a psych major and only know SPSS but want to learn R too. Recommendations?</description>
+      <title>How to assess the quality of written feedback/ comments given my managers.</title>
+      <link>https://reddit.com/r/rstats/comments/1k74a2x/how_to_assess_the_quality_of_written_feedback/</link>
+      <pubDate>Thu, 24 Apr 2025 21:42:35 +0000</pubDate>
+      <description>&#xA;I have the feedback/comments given by managers from the past two years (all levels).&#xA;&#xA;My organization already has an LLM model. They want me to analyze these feedbacks/comments and come up with a framework containing dimensions such as clarity, specificity, and areas for improvement. The problem is how to create the logic from these subjective things to train the LLM model (the idea is to create a dataset of feedback). How should I approach this?&#xA;&#xA;I have tried LIWC (Linguistic Inquiry and Word Count), which has various word libraries for each dimension and simply checks those words in the comments to give a rating. But this is not working.&#xA;&#xA;Currently, only word count seems to be the only quantitative parameter linked with feedback quality (longer comments = better quality).&#xA;&#xA;Any reading material on this would also be beneficial.</description>
     </item>
   </channel>
 </rss>
