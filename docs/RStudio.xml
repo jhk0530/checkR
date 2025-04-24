@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to do this urgent ?????</title>
-      <link>https://reddit.com/r/RStudio/comments/1k6uef8/how_to_do_this_urgent/</link>
-      <pubDate>Thu, 24 Apr 2025 15:00:54 +0000</pubDate>
-      <description>Need advice.&#xA;I want to check the quality of written feedback/comment given by managers. (Can&#39;t use chatgpt - Company doesn&#39;t want that)&#xA;&#xA;I have all the feedback of all the employee&#39;s of past 2 years.&#xA;&#xA;1. How to choose the data or parameters on which the LLM model should be trained ( example length - employees who got higher rating generally get good long feedback) So, similarly i want other parameter to check and then quantify them if possible.&#xA;&#xA;2. What type of framework/ libraries these text analysis software use ( I want to create my own libraries under certain theme and then train LLM model).&#xA;&#xA;&#xA;Anyone who has worked on something similar.&#xA;Any source to read.&#xA;Any software i can use.&#xA;Any approach to quantify the quality of comments.It would mean a lot if you guys could give some good ideas.&#xA;</description>
+      <title>Adding Logos to Datapoints in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1k6zbd2/adding_logos_to_datapoints_in_r/</link>
+      <pubDate>Thu, 24 Apr 2025 18:18:26 +0000</pubDate>
+      <description>Hello!&#xA;&#xA;I’m currently working on a dataset about NBA teams with respect to their starting 5 players, and I was interested in adding each team’s logo to represent each of the 5 starting players.&#xA;&#xA;I’ve been able to get this to work when I subset the dataset by team and use one logo, but I was wondering how I would do this for my general data set which involves all 30 teams.&#xA;&#xA;I’ve seen a previous post that involved NFL logos, but I was unable to figure out how to retool it to help with my dataset. &#xA;&#xA;Any suggestions?</description>
     </item>
   </channel>
 </rss>
