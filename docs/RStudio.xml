@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Adding Logos to Datapoints in R</title>
-      <link>https://reddit.com/r/RStudio/comments/1k6zbd2/adding_logos_to_datapoints_in_r/</link>
-      <pubDate>Thu, 24 Apr 2025 18:18:26 +0000</pubDate>
-      <description>Hello!&#xA;&#xA;I’m currently working on a dataset about NBA teams with respect to their starting 5 players, and I was interested in adding each team’s logo to represent each of the 5 starting players.&#xA;&#xA;I’ve been able to get this to work when I subset the dataset by team and use one logo, but I was wondering how I would do this for my general data set which involves all 30 teams.&#xA;&#xA;I’ve seen a previous post that involved NFL logos, but I was unable to figure out how to retool it to help with my dataset. &#xA;&#xA;Any suggestions?</description>
+      <title>Comparing the Statistical Significance of a Proportion Across Data Sets?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k764n2/comparing_the_statistical_significance_of_a/</link>
+      <pubDate>Thu, 24 Apr 2025 23:06:11 +0000</pubDate>
+      <description>I&#39;m having difficulty constructing a two sample z-test for the question above. What I&#39;m trying to determine is whether the difference of proportions between the regular season and the playoffs changes from season to season (is it statistically significant one season and not the next?, if so, where is it significant?). The graph above is to help better understand what I&#39;m saying if it didn&#39;t come across clearly in my phrasing of it. I currently have this for my test:&#xA;&#xA;        prop.test(PlayoffStats$proportion ~ StatsFinalProp$proportion, correct = FALSE, alternative = &#34;greater&#34;)&#xA;&#xA;The code for the graph above is done using:&#xA;&#xA;        gf\_line(proportion\~Start, data = PlayoffStats, color = \~Season) %&amp;gt;% &#xA;             gf\_line(proportion\~Start, data = StatsFinalProp, color = \~Season) %&amp;gt;% &#xA;                 gf\_labs(color = &#34;Proportion of Three&#39;s Out of \\nTotal Field Goal Attempts&#34;) + &#xA;             scale\_color\_manual(labels = c(&#34;Playoffs&#34;, &#34;Regular Season&#34;), values = c(&#34;red&#34;,&#34;blue&#34;))&#xA;&#xA;I appreciate any feedback, both coding and general feedback wise. I apologize for the ugly formatting of the code.</description>
     </item>
   </channel>
 </rss>
