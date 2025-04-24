@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Beta diversity analysis question.</title>
-      <link>https://reddit.com/r/rstats/comments/1k65nuz/beta_diversity_analysis_question/</link>
-      <pubDate>Wed, 23 Apr 2025 17:54:05 +0000</pubDate>
-      <description>I have a question about ecological analysis and R programming that is stumping me. &#xA;&#xA;I am trying to plot results from a beta-diversity analysis done in the adespatial package in a simplex/ternary plot. Every plot has the data going in a straight line. I have encountered several papers that are able to display the results in the desired plot but I am having problems doing it in my own code. I feel like the cbind step is where the error happens but I am not sure how to fix it. Does anyone know how to plot the resultant distance matrices this way? Below is a reproducible example and output that reflects my problem. Thanks.&#xA;&#xA;    require(vegan)&#xA;    require(ggtern)&#xA;    require(adespatial)&#xA;    &#xA;    data(dune)&#xA;    beta.dens &amp;lt;- beta.div.comp(dune, coef=&#34;J&#34;, quant=T) &#xA;    repl &amp;lt;- beta.dens$repl&#xA;    diff &amp;lt;- beta.dens$rich&#xA;    beta.d &amp;lt;- beta.dens$D&#xA;    df &amp;lt;- cbind(repl, diff, beta.d)&#xA;    ggtern(data=df,aes(repl, diff, beta.d)) + &#xA;      geom_mask() +&#xA;      geom_point(fill=&#34;red&#34;,shape=21,size=4) + &#xA;      theme_bw() +&#xA;      theme_showarrows() +&#xA;      theme_clockwise() + ggtitle(&#34;Density&#34;)&#xA;&#xA;https://preview.redd.it/fu026eczhmwe1.jpg?width=1064&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=ad9ec6db6dd31a725645b6a8070385e32dad39ba&#xA;&#xA;</description>
+      <title>Cascadia R Conf 2025 – Come Hang Out with R Folks in Portland</title>
+      <link>https://reddit.com/r/rstats/comments/1k6dvas/cascadia_r_conf_2025_come_hang_out_with_r_folks/</link>
+      <pubDate>Wed, 23 Apr 2025 23:37:18 +0000</pubDate>
+      <description>Hey r/rstats folks,&#xA;&#xA;Just wanted to let you know that registration is now open for **Cascadia R Conf 2025**, happening June 20–21 in Portland, Oregon at PSU and OHSU.&#xA;&#xA;A few reasons you might want to come:&#xA;&#xA;* **David Keyes is giving the keynote**, talking about &#34;25 Things You Didn’t Know You Could Do with R.&#34; It’s going to be fun and actually useful.&#xA;* We’ve got **workshops on everything from Shiny to GIS to Rust for R users** (yep, that’s a thing now).&#xA;* It&#39;s a good chance to **meet other R users**, share ideas, and gripe about package dependencies in person.&#xA;&#xA;Register (and check out the agenda) here: [https://cascadiarconf.com](https://cascadiarconf.com/)&#xA;&#xA;If you’re anywhere near the Pacific Northwest, this is a great regional conf with a strong community vibe. Come say hi!&#xA;&#xA;Happy to answer questions in the comments. Hope to see some of you there!</description>
+    </item>
+    <item>
+      <title>Quarterly Round Up from the R Consortium</title>
+      <link>https://reddit.com/r/rstats/comments/1k6dm7t/quarterly_round_up_from_the_r_consortium/</link>
+      <pubDate>Wed, 23 Apr 2025 23:25:38 +0000</pubDate>
+      <description>Executive Director Terry Christiani highlights upcoming events like R/Medicine 2025 and useR! 2025, opportunities for non-members to join Working Groups, and tons more! &#xA;&#xA;[https://r-consortium.org/posts/quarterly-round-up-from-the-r-consortium/](https://r-consortium.org/posts/quarterly-round-up-from-the-r-consortium/)</description>
     </item>
   </channel>
 </rss>
