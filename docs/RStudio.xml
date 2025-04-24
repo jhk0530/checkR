@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>How to do this urgent ?????</title>
+      <link>https://reddit.com/r/RStudio/comments/1k6uef8/how_to_do_this_urgent/</link>
+      <pubDate>Thu, 24 Apr 2025 15:00:54 +0000</pubDate>
+      <description>Need advice.&#xA;I want to check the quality of written feedback/comment given by managers. (Can&#39;t use chatgpt - Company doesn&#39;t want that)&#xA;&#xA;I have all the feedback of all the employee&#39;s of past 2 years.&#xA;&#xA;1. How to choose the data or parameters on which the LLM model should be trained ( example length - employees who got higher rating generally get good long feedback) So, similarly i want other parameter to check and then quantify them if possible.&#xA;&#xA;2. What type of framework/ libraries these text analysis software use ( I want to create my own libraries under certain theme and then train LLM model).&#xA;&#xA;&#xA;Anyone who has worked on something similar.&#xA;Any source to read.&#xA;Any software i can use.&#xA;Any approach to quantify the quality of comments.It would mean a lot if you guys could give some good ideas.&#xA;</description>
+    </item>
+    <item>
       <title>PLS-SEM (plspm) for Master&#39;s Thesis error</title>
       <link>https://reddit.com/r/RStudio/comments/1k6shd4/plssem_plspm_for_masters_thesis_error/</link>
       <pubDate>Thu, 24 Apr 2025 13:40:30 +0000</pubDate>
