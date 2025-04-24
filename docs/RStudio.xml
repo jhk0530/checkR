@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Color codes for ggcuminc</title>
-      <link>https://reddit.com/r/RStudio/comments/1k67xof/color_codes_for_ggcuminc/</link>
-      <pubDate>Wed, 23 Apr 2025 19:25:03 +0000</pubDate>
-      <description>Hi everyone&#xA;&#xA;I am making a cumulative incidence plot using this template:&#xA;&#xA;[https://www.danieldsjoberg.com/ggsurvfit/reference/ggcuminc.html](https://www.danieldsjoberg.com/ggsurvfit/reference/ggcuminc.html)&#xA;&#xA;I would like to use the same colors in other kinds of plots. I am just getting the default red/blue colors, but what are the exact colur codes for the red and blue.&#xA;&#xA;&#xA;&#xA;Thanks in advance!</description>
+      <title>Uneven rows using facet_grid</title>
+      <link>https://reddit.com/r/RStudio/comments/1k6fmzx/uneven_rows_using_facet_grid/</link>
+      <pubDate>Thu, 24 Apr 2025 01:04:31 +0000</pubDate>
+      <description>Hi there! I have been fiddling with some code in an attempt to make some graphs for a project. I am at the tail end, but am running into an issue. I&#39;m making a graph that is separated by year, and then again by species. The issue is that one year has 5 subsections, and the other only has 3, but 4 sections are generated. I have attempted to use nrow but I&#39;m not sure if I&#39;m missing anything simple here. Any advice is much appreciated!&#xA;&#xA;https://preview.redd.it/8nmbu1cqmowe1.png?width=862&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5c2f7dfa7793e8c7150b44d6182f24acb426871f&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
