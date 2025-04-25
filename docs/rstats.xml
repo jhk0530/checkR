@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Trouble using KNN in RStudio</title>
+      <link>https://reddit.com/r/rstats/comments/1k7oo0o/trouble_using_knn_in_rstudio/</link>
+      <pubDate>Fri, 25 Apr 2025 16:05:48 +0000</pubDate>
+      <description>Hello All,&#xA;&#xA;I am attempting to perform a KNN function on a dataset I got from Kaggle (link below) and keep receiving this error. I did some research and found that some of the causes might stem from Factor Variables and/or Colinear Variables. All of my predictors are qualitative with several levels, and my response variable is quantitative. I was having issues with QDA using the same data and I solved the issue by deleting a variable &#34;Extent\_Of\_Fire&#34; and it seemed to help. When I tried the same for KNN it did not solve my issue. I am very new to RStudio and R so I apologize in advance if this is a very trivial problem, but any help is greatly appreciated!&#xA;&#xA;[https://www.kaggle.com/datasets/reihanenamdari/fire-incidents](https://www.kaggle.com/datasets/reihanenamdari/fire-incidents)</description>
+    </item>
+    <item>
       <title>How R&#39;s data analysis ecosystem shines against Python</title>
       <link>https://reddit.com/r/rstats/comments/1k7m1dr/how_rs_data_analysis_ecosystem_shines_against/</link>
       <pubDate>Fri, 25 Apr 2025 14:16:33 +0000</pubDate>
