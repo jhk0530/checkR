@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Is it OK R Studio 4.1.0 for dplyr, tidyverse &amp;amp; quarto ?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k76dhh/is_it_ok_r_studio_410_for_dplyr_tidyverse_quarto/</link>
-      <pubDate>Thu, 24 Apr 2025 23:17:58 +0000</pubDate>
-      <description>Is it R Studio 4.1.0 a suitable version for using dplyr, tidyverse &amp;amp; quarto ?&#xA;&#xA;(I can’t updated the last version because Windows 11 can’t open the ux normally)</description>
-    </item>
-    <item>
-      <title>Comparing the Statistical Significance of a Proportion Across Data Sets?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k764n2/comparing_the_statistical_significance_of_a/</link>
-      <pubDate>Thu, 24 Apr 2025 23:06:11 +0000</pubDate>
-      <description>I&#39;m having difficulty constructing a two sample z-test for the question above. What I&#39;m trying to determine is whether the difference of proportions between the regular season and the playoffs changes from season to season (is it statistically significant one season and not the next?, if so, where is it significant?). The graph above is to help better understand what I&#39;m saying if it didn&#39;t come across clearly in my phrasing of it. I currently have this for my test:&#xA;&#xA;        prop.test(PlayoffStats$proportion ~ StatsFinalProp$proportion, correct = FALSE, alternative = &#34;greater&#34;)&#xA;&#xA;The code for the graph above is done using:&#xA;&#xA;        gf\_line(proportion\~Start, data = PlayoffStats, color = \~Season) %&amp;gt;% &#xA;             gf\_line(proportion\~Start, data = StatsFinalProp, color = \~Season) %&amp;gt;% &#xA;                 gf\_labs(color = &#34;Proportion of Three&#39;s Out of \\nTotal Field Goal Attempts&#34;) + &#xA;             scale\_color\_manual(labels = c(&#34;Playoffs&#34;, &#34;Regular Season&#34;), values = c(&#34;red&#34;,&#34;blue&#34;))&#xA;&#xA;I appreciate any feedback, both coding and general feedback wise. I apologize for the ugly formatting of the code.</description>
+      <title>image analysis pliman</title>
+      <link>https://reddit.com/r/RStudio/comments/1k79lmr/image_analysis_pliman/</link>
+      <pubDate>Fri, 25 Apr 2025 01:59:55 +0000</pubDate>
+      <description>hey there! i’m helping with a research lab project using the pliman library (plant image analysis) to measure the area of leaves, ideally in large batches without too much manual work. i’m very new to R and coding in general, and i’m just SO confused lol. i’m encountering a ton of issues getting the analyze objects function to pick up on just the leaf, not the ruler or other small objects.&#xA;&#xA;this is the closest that I’ve gotten:&#xA;&#xA;leaf_img &amp;lt;- image_import(&#34;Test/IMG_0610.jpeg&#34;)&#xA;leaf_analysis &amp;lt;- analyze_objects(&#xA;  img          = leaf_img,&#xA;  index        = &#34;R&#34;,&#xA;  filter       = &#34;convex&#34;,&#xA;  fill_hull    = TRUE,&#xA;  show_contour = TRUE&#xA;)&#xA;areas &amp;lt;- leaf_analysis$results$area&#xA;biggest &amp;lt;- max(areas)&#xA;keep &amp;lt;- which(areas &amp;gt; 0.2 * biggest)&#xA;&#xA;but the stem is not included in the leaf, and the outline is not lined up with the leaf (instead the whole outline is the right size and shape but shifted upwards when image is plotted. &#xA;&#xA;if i try object_isolate() or object_rgb(), I get errors like:&#xA; &#34;Error in R + G: non-numeric argument to binary operator”&#xA;&#xA;and when i use max.which to get the largest “Error in R + G: non-numeric argument to binary operator &#xA;used which.max result and passed it as object in object_isolate (leaf_analysis, object = max_id)”&#xA;&#xA;any ideas?? (also i’m sorry that it’s written as text and not code, i’ve tried the backticks and it’s not working, i am really not tech savvy or familiar with reddit)&#xA;&#xA;also, if anyone has a good pipeline for batch analysis in pliman, please let me know!&#xA;&#xA;thanks so much!🤗🌱🌱</description>
     </item>
   </channel>
 </rss>
