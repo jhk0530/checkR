@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to assess the quality of written feedback/ comments given my managers.</title>
-      <link>https://reddit.com/r/rstats/comments/1k74a2x/how_to_assess_the_quality_of_written_feedback/</link>
-      <pubDate>Thu, 24 Apr 2025 21:42:35 +0000</pubDate>
-      <description>&#xA;I have the feedback/comments given by managers from the past two years (all levels).&#xA;&#xA;My organization already has an LLM model. They want me to analyze these feedbacks/comments and come up with a framework containing dimensions such as clarity, specificity, and areas for improvement. The problem is how to create the logic from these subjective things to train the LLM model (the idea is to create a dataset of feedback). How should I approach this?&#xA;&#xA;I have tried LIWC (Linguistic Inquiry and Word Count), which has various word libraries for each dimension and simply checks those words in the comments to give a rating. But this is not working.&#xA;&#xA;Currently, only word count seems to be the only quantitative parameter linked with feedback quality (longer comments = better quality).&#xA;&#xA;Any reading material on this would also be beneficial.</description>
+      <title>R Newsletters/Communities in 2025?</title>
+      <link>https://reddit.com/r/rstats/comments/1k7hitc/r_newsletterscommunities_in_2025/</link>
+      <pubDate>Fri, 25 Apr 2025 10:22:44 +0000</pubDate>
+      <description>I&#39;m a daily R user, still thoroughly enjoy using it and am reluctant to move to Python. However, mostly due to my own fault, I feel like I&#39;m stalling a bit as an intemediate user; I&#39;m not really staying on top of new packages and releases, or improving my programming. I&#39;m wondering where the most active R communities/newsletters are in 2025, beyond this subreddit. I&#39;d like to somehow stay on top of the big new developments in the R ecosystem.&#xA;&#xA;Stackoverflow acitivity is, as we know, hitting lows not seen since the early teens—unsurprising given the advent of LLMs, though the downward trend predates their widespread usage. Is there an R-bloggers or R-weekly newsletter that is good?&#xA;&#xA;Would be grateful if you could point me to some valuable streams, it&#39;d be great if R users get news and use state of the art packages!</description>
     </item>
   </channel>
 </rss>
