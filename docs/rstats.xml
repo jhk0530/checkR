@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>H</title>
-      <link>https://reddit.com/r/rstats/comments/1k8dtzc/h/</link>
-      <pubDate>Sat, 26 Apr 2025 14:10:22 +0000</pubDate>
-      <description>Check out this app and use my code JX7QQG to get your face analyzed and see what you would look like as a 10/10</description>
+      <title>Help with two-way repeated measures ANOVA</title>
+      <link>https://reddit.com/r/rstats/comments/1k8ldkf/help_with_twoway_repeated_measures_anova/</link>
+      <pubDate>Sat, 26 Apr 2025 19:42:29 +0000</pubDate>
+      <description>Hi, I hope this is allowed and if so I appreciate any help. I am trying to run a Two-Way repeated measures ANOVA. However, when I get to the code: res.aov &amp;lt;- anova\_test( data = data, dv = VALUE, wid = ID, within = c(TREATMENT, TIME) ) get\_anova\_table(res.aov)&#xA;&#xA;I get an error saying 0 non-NA cases. I checked if I have all cases and I do. When I do colSums(is.na(data)), I get 0 for all my columns.&#xA;&#xA;I suspect it may be related to the way my ID is set up but unsure of how to do it. I have esentially 5 treatments with 5 time points for each treatment and 5 replicates for each time point for each treatment for a total of 125 values and therefore an ID for each value. For example&#xA;&#xA;ID : A1 Treatment : Apple Time: 0 Value: 100&#xA;&#xA;ID: A2 Treatment: Apple Time: 0 Value: 120&#xA;&#xA;ID: A3 Treatment: Apple Time: 10 Value: 150&#xA;&#xA;ID: A4 Treatment: Pear Time: 0 Value: 90&#xA;&#xA;ID: A5 Treatment: Pear Time: 0 Value: 100&#xA;&#xA;ID: A6 Treatment: Pear Time: 10 Value: 160&#xA;&#xA;If related to the way ID is set up, how could I fix it or if not I appreciate any help!</description>
     </item>
   </channel>
 </rss>
