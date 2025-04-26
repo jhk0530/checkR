@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Please help with file opening</title>
-      <link>https://reddit.com/r/RStudio/comments/1k888p2/please_help_with_file_opening/</link>
-      <pubDate>Sat, 26 Apr 2025 08:30:24 +0000</pubDate>
-      <description>I have an assignment due soon which needs me to open this file in R, no one else on my course has had any problems opening it, it seems. Whenever I try to open it I get the same error message and I have no idea what it means. Any help would be really appreciated</description>
+      <title>Best Fit Line not working?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k8et6d/best_fit_line_not_working/</link>
+      <pubDate>Sat, 26 Apr 2025 14:55:33 +0000</pubDate>
+      <description>Ive attempted to fit a best fit line to the following plot, using the code seen below. It says it has plotted a best fit line, but one doesn&#39;t appear to be visible. The X-axis is also a mess and im not sure how to make it clearer&#xA;&#xA;dat %&amp;gt;%&#xA;&#xA;  filter(Natural==&#34;yes&#34;) %&amp;gt;%&#xA;&#xA;  ggplot(aes(y = Density, &#xA;&#xA;x = neutron\_scattering\_length)) +&#xA;&#xA;  geom\_point() +&#xA;&#xA;  geom\_smooth(method=&#34;lm&#34;) +&#xA;&#xA;  xlab(&#39;Neutron Scattering Length (fm)&#39;) +&#xA;&#xA;  ylab(&#39;Density (kg m\^3)&#39;) +&#xA;&#xA;  theme\_light()&#xA;&#xA;As far as I understand, the &#39;geom\_smooth(method=&#34;lm&#34;)&#39; piece of code should be responsible for the line of best fit but doesnt seem to do anything, is there something I&#39;m missing? Any help would be greatly appreciated!</description>
     </item>
   </channel>
 </rss>

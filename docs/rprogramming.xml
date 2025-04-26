@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Data Engineering, Scientific Applications and AI - Inside R User Group Philippines’ Growth</title>
-      <link>https://reddit.com/r/rprogramming/comments/1k78297/data_engineering_scientific_applications_and_ai/</link>
-      <pubDate>Fri, 25 Apr 2025 00:40:50 +0000</pubDate>
-      <description>Joe Brillantes, organizer of the R User Group Philippines (RUG-PH), shares how the group has evolved with new interests emerging among its members.&#xA;&#xA;From a growing presence of data engineers exploring R to an increasing focus on scientific applications, the group continues to expand its reach. He discussed their upcoming plans for AI-focused meetups, the importance of ethical considerations in predictive modeling, and their efforts to support members in software engineering and analytics.&#xA;&#xA;Find out more!&#xA;&#xA;[https://r-consortium.org/posts/data-engineering-scientific-applications-and-ai-inside-r-user-group-philippines-growth/](https://r-consortium.org/posts/data-engineering-scientific-applications-and-ai-inside-r-user-group-philippines-growth/)</description>
+      <title>Help with two-way repeated measures ANOVA</title>
+      <link>https://reddit.com/r/rprogramming/comments/1k8f1fj/help_with_twoway_repeated_measures_anova/</link>
+      <pubDate>Sat, 26 Apr 2025 15:05:34 +0000</pubDate>
+      <description>Hi, I hope this is allowed and if so I appreciate any help. I am trying to run a Two-Way repeated measures ANOVA. However, when I get to the code:&#xA;res.aov &amp;lt;- anova_test(&#xA;data = data, dv = VALUE, wid = ID, within = c(TREATMENT, TIME)&#xA;)&#xA;get_anova_table(res.aov)&#xA;&#xA;I get an error saying 0 non-NA cases. &#xA;I checked if I have all cases and I do.&#xA;When I do colSums(is.na(data)), I get 0 for all my columns. &#xA;&#xA;I suspect it may be related to the way my ID is set up but unsure of how to do it. I have esentially 5 treatments with 5 time points for each treatment and 5 replicates for each time point for each treatment for a total of 125 values and therefore an ID for each value. For example&#xA;&#xA;ID : A1&#xA;Treatment : Apple&#xA;Time: 0&#xA;Value: 100&#xA;&#xA;ID: A2&#xA;Treatment: Apple&#xA;Time: 0&#xA;Value: 120&#xA;&#xA;ID: A3&#xA;Treatment: Apple&#xA;Time: 10&#xA;Value: 150&#xA;&#xA;ID: A4&#xA;Treatment: Pear&#xA;Time: 0&#xA;Value: 90&#xA;&#xA;ID: A5&#xA;Treatment: Pear&#xA;Time: 0&#xA;Value: 100&#xA;&#xA;ID: A6&#xA;Treatment: Pear&#xA;Time: 10&#xA;Value: 160&#xA;&#xA;If related to the way ID is set up, how could I fix it or if not I appreciate any help!</description>
     </item>
   </channel>
 </rss>
