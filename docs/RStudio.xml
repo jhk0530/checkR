@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Scales</title>
-      <link>https://reddit.com/r/RStudio/comments/1k7nkk3/scales/</link>
-      <pubDate>Fri, 25 Apr 2025 15:20:10 +0000</pubDate>
-      <description>Hi, please how do I adjust the scale, using scale  y continuous on a scatter plot so it goes from one number to another&#xA;&#xA;For example If I want the scatter plot to go up from 50 to 100.&#xA;&#xA;Thank you.</description>
+      <title>Need guideline</title>
+      <link>https://reddit.com/r/RStudio/comments/1k86tqt/need_guideline/</link>
+      <pubDate>Sat, 26 Apr 2025 06:51:01 +0000</pubDate>
+      <description>I am a finance major. I want to have some level of proficiency in R for financial analysis, would appreciate some tips and guidelines on what topics or what type of calculations I should learn in R for it.&#xA;I have grasped the basics of R so I can operate it, but kinda lost now so have no idea how to proceed from here.</description>
     </item>
   </channel>
 </rss>
