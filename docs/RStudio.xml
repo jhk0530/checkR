@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help with turning a binary attribute table into a network</title>
-      <link>https://reddit.com/r/RStudio/comments/1k8qlo8/help_with_turning_a_binary_attribute_table_into_a/</link>
-      <pubDate>Sat, 26 Apr 2025 23:49:55 +0000</pubDate>
-      <description>Hello! I am new to R, and am attempting to turn a binary attribute table into a network. The general format of the CSV file is as follows:&#xA;&#xA;|Figure #|Location|Trait 1|Trait 2...|&#xA;|:-|:-|:-|:-|&#xA;|1.01|Cub Creek|1|0|&#xA;&#xA;I did all of the data collection, so I can also adjust the original spreadsheet if there is a format that would work better for what I am attempting to do. There are about 280 figures, and 46 distinct traits. I want to create a network that analyzes the traits shared based on the different locations. The only networks I learned how to do in class were pretty simple and based off of small adjacency matrices with nominal data, so I honestly don&#39;t really even know where to start. I have started creating smaller adjacency matrices, but would really appreciate input into better ways of tackling this. Thanks!</description>
+      <title>How to specify a range of data?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k9dgyc/how_to_specify_a_range_of_data/</link>
+      <pubDate>Sun, 27 Apr 2025 20:21:08 +0000</pubDate>
+      <description>Sorry if this is a really simple question, i have very limited experience. I have been given a dataset of elements, with them being numbered 1-118. I have been tasked with testing a correlation between two variables for elements 1-20, how would i specify to R that i ONLY want them elements included in all my plotting and analysis. This is something we have not covered and a couple of things i have found online haven&#39;t helped, any help would be greatly appreciated!</description>
     </item>
   </channel>
 </rss>
