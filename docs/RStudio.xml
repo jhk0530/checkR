@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Bioinformatics without R is like Jai without Veeru</title>
-      <link>https://reddit.com/r/RStudio/comments/1k9prsv/bioinformatics_without_r_is_like_jai_without_veeru/</link>
-      <pubDate>Mon, 28 Apr 2025 07:26:45 +0000</pubDate>
-      <description>Hi! I’m an online educator with a strong background in computer science, now helping biotech and life sciences students learn programming intuitively — rooted in the true origins and history of computing, not just for jobs or certifications.&#xA;&#xA;DM me if you’re ready to explore programming the right way!</description>
+      <title>Creating infrastructure for codes and databases directly in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1k9xyc1/creating_infrastructure_for_codes_and_databases/</link>
+      <pubDate>Mon, 28 Apr 2025 15:12:23 +0000</pubDate>
+      <description>Hi Reddit!&#xA;&#xA;I wanted to ask whether someone had experience (or thought or tried) creating an infrastructure for datasets and codes directly in R? no external additional databases, so no connection to Git Hub or smt. I have read about [The *Repo* R Data Manager](https://cran.rstudio.com/web/packages/repo/vignettes/index.html), [Fetch](https://cran.r-project.org/web/packages/fetch/vignettes/fetch.html), [Sinew](https://cran.r-project.org/web/packages/sinew/vignettes/motivation.html) and [CodeDepends package](https://cran.r-project.org/web/packages/CodeDepends/vignettes/intro.html) but the first one seems more comfortable. Yet it feels a bit incomplete. </description>
+    </item>
+    <item>
+      <title>CAN ANYONE HELP ME!!!</title>
+      <link>https://reddit.com/r/RStudio/comments/1k9wlvu/can_anyone_help_me/</link>
+      <pubDate>Mon, 28 Apr 2025 14:15:33 +0000</pubDate>
+      <description>i am currently trying to do some analysis for my dissertation and am so lost. So, I used a survey and have nominal and ordinal data. most of it is **likert scaling** from 0- not at all important to 4-extremely important and then some yes, no, unsure options and a few multiple choice questions selecting through a few options. I only have 153 responses so quite a small sample. I use **Rstudio**&#xA;&#xA;I literally have no clue how to analyse it. I am currently trying to do a **multiple correspondence analysis** and I think I can use **spearmans rank?**&#xA;&#xA;Would anyone be able to give me some advice or help? i can show you my data !&#xA;&#xA;THANKS SO MUCH!!!!</description>
     </item>
   </channel>
 </rss>
