@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to specify a range of data?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k9dgyc/how_to_specify_a_range_of_data/</link>
-      <pubDate>Sun, 27 Apr 2025 20:21:08 +0000</pubDate>
-      <description>Sorry if this is a really simple question, i have very limited experience. I have been given a dataset of elements, with them being numbered 1-118. I have been tasked with testing a correlation between two variables for elements 1-20, how would i specify to R that i ONLY want them elements included in all my plotting and analysis. This is something we have not covered and a couple of things i have found online haven&#39;t helped, any help would be greatly appreciated!</description>
+      <title>How to put horizontal ends on my bar and whisker plot and show the mean instead of the median?</title>
+      <link>https://reddit.com/r/RStudio/comments/1k9ipmm/how_to_put_horizontal_ends_on_my_bar_and_whisker/</link>
+      <pubDate>Mon, 28 Apr 2025 00:25:29 +0000</pubDate>
+      <description>Sorry for the simple question but ive had no luck trying suggestions ive found on forums. &#xA;&#xA;I&#39;m trying to put horizontal ends on my whiskers and change the mean line to the median since im running a kruskal test. &#xA;&#xA;ggboxplot(ManagementdataforR, x = &#34;SiteTypeTemp&#34;, y = &#34;DataTemp&#34;,&#xA;&#xA;color = &#34;SiteTypeTemp&#34;, palette = c(&#34;blue2&#34;, &#34;green4&#34;, &#34;coral2&#34;, &#34;red2&#34;),&#xA;&#xA;order = c(&#34;KED1&#34;, &#34;KED2&#34;, &#34;KAT1&#34;, &#34;YOS1&#34;),&#xA;&#xA;ylab = &#34;Temperature&#34;, xlab = &#34;Sites&#34;)&#xA;&#xA;  &#xA;Help greatly appreciated&#xA;&#xA;https://preview.redd.it/i6bfkk7azgxe1.png?width=736&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1e016b1470a73f97cc8d9168e37da9219e1614e8&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
