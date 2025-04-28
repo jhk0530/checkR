@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R Plumber API course with free access</title>
-      <link>https://reddit.com/r/rstats/comments/1k9dvap/r_plumber_api_course_with_free_access/</link>
-      <pubDate>Sun, 27 Apr 2025 20:38:02 +0000</pubDate>
-      <description>I created a comprehensive course on how to build and host APIs with R using the Plumber package - it&#39;s live on Udemy and I&#39;m hopeful that it will be useful to those looking to deploy their own web server on the internet from the beautiful language of R :D&#xA;&#xA;[https://www.udemy.com/course/r-plumber/?referralCode=7F65E66306A0F95EFC91](https://www.udemy.com/course/r-plumber/?referralCode=7F65E66306A0F95EFC91)&#xA;&#xA;The first 100 people to sign up with the coupon code **PLUMBER\_FREE** by 24th May will access the course for free!&#xA;&#xA;The course begins by explaining basic networking and API principles, and then gradually working towards creating a sophisticated API for an airline, Rairways, with tons of quizzes and practical assignments along the way. Security, asynchronous execution, authorisation, frontend file serving, and local testing are all included. Finally, there is a section on how to host the API on the web, using either Digital Ocean or AWS.&#xA;&#xA;The final website that the API is running on is: [https://rplumberapi.com/rairways](https://rplumberapi.com/rairways)</description>
+      <title>Need help understanding which tests to use for data set</title>
+      <link>https://reddit.com/r/rstats/comments/1k9npgr/need_help_understanding_which_tests_to_use_for/</link>
+      <pubDate>Mon, 28 Apr 2025 05:03:58 +0000</pubDate>
+      <description>Hi guys, &#xA;&#xA;I am really lost at understanding which tests to use when looking at my data sample for a university practice report. I know roughly how to perform tests in R but knowing what ones to use in this instance really confuses me.&#xA;&#xA;They have given use 2 sets of before and after for a test something like this:  &#xA;Test values are given on a scale of 1-7&#xA;&#xA;Test 1   &#xA;ID 1-30 | Before | After |&#xA;&#xA;Test 2  &#xA;ID 31-60 | Before | After |&#xA;&#xA;(not going to input all the values) &#xA;&#xA;My thinking is that I should run 2 different paired tests as the factors are dependent but then I am lost at comparing Test 1 and 2 to each other. &#xA;&#xA;Should I perhaps calculate the differences between before and after for each ID and then run nonpaired t-test to compare Test 1 to Test 2? My end goal is to see which test has the higher result (closer to 7). &#xA;&#xA;Because there are only 2 groups my understanding is that I shouldnt use ANOVA?&#xA;&#xA;Thank you, </description>
     </item>
   </channel>
 </rss>
