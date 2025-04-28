@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to put horizontal ends on my bar and whisker plot and show the mean instead of the median?</title>
-      <link>https://reddit.com/r/RStudio/comments/1k9ipmm/how_to_put_horizontal_ends_on_my_bar_and_whisker/</link>
-      <pubDate>Mon, 28 Apr 2025 00:25:29 +0000</pubDate>
-      <description>Sorry for the simple question but ive had no luck trying suggestions ive found on forums. &#xA;&#xA;I&#39;m trying to put horizontal ends on my whiskers and change the mean line to the median since im running a kruskal test. &#xA;&#xA;ggboxplot(ManagementdataforR, x = &#34;SiteTypeTemp&#34;, y = &#34;DataTemp&#34;,&#xA;&#xA;color = &#34;SiteTypeTemp&#34;, palette = c(&#34;blue2&#34;, &#34;green4&#34;, &#34;coral2&#34;, &#34;red2&#34;),&#xA;&#xA;order = c(&#34;KED1&#34;, &#34;KED2&#34;, &#34;KAT1&#34;, &#34;YOS1&#34;),&#xA;&#xA;ylab = &#34;Temperature&#34;, xlab = &#34;Sites&#34;)&#xA;&#xA;  &#xA;Help greatly appreciated&#xA;&#xA;https://preview.redd.it/i6bfkk7azgxe1.png?width=736&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1e016b1470a73f97cc8d9168e37da9219e1614e8&#xA;&#xA;</description>
+      <title>Bioinformatics without R is like Jai without Veeru</title>
+      <link>https://reddit.com/r/RStudio/comments/1k9prsv/bioinformatics_without_r_is_like_jai_without_veeru/</link>
+      <pubDate>Mon, 28 Apr 2025 07:26:45 +0000</pubDate>
+      <description>Hi! I’m an online educator with a strong background in computer science, now helping biotech and life sciences students learn programming intuitively — rooted in the true origins and history of computing, not just for jobs or certifications.&#xA;&#xA;DM me if you’re ready to explore programming the right way!</description>
     </item>
   </channel>
 </rss>

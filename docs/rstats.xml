@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Need help understanding which tests to use for data set</title>
-      <link>https://reddit.com/r/rstats/comments/1k9npgr/need_help_understanding_which_tests_to_use_for/</link>
-      <pubDate>Mon, 28 Apr 2025 05:03:58 +0000</pubDate>
-      <description>Hi guys, &#xA;&#xA;I am really lost at understanding which tests to use when looking at my data sample for a university practice report. I know roughly how to perform tests in R but knowing what ones to use in this instance really confuses me.&#xA;&#xA;They have given use 2 sets of before and after for a test something like this:  &#xA;Test values are given on a scale of 1-7&#xA;&#xA;Test 1   &#xA;ID 1-30 | Before | After |&#xA;&#xA;Test 2  &#xA;ID 31-60 | Before | After |&#xA;&#xA;(not going to input all the values) &#xA;&#xA;My thinking is that I should run 2 different paired tests as the factors are dependent but then I am lost at comparing Test 1 and 2 to each other. &#xA;&#xA;Should I perhaps calculate the differences between before and after for each ID and then run nonpaired t-test to compare Test 1 to Test 2? My end goal is to see which test has the higher result (closer to 7). &#xA;&#xA;Because there are only 2 groups my understanding is that I shouldnt use ANOVA?&#xA;&#xA;Thank you, </description>
+      <title>Bioinformatics without R is like Jai without Veeru</title>
+      <link>https://reddit.com/r/rstats/comments/1k9pqo2/bioinformatics_without_r_is_like_jai_without_veeru/</link>
+      <pubDate>Mon, 28 Apr 2025 07:24:25 +0000</pubDate>
+      <description>Hi! I’m an online tutor with a strong background in computer science, now helping biotech and life sciences students learn programming intuitively — rooted in the true origins and history of computing, not just for jobs or certifications.&#xA;&#xA;DM me if you’re ready to explore programming the right way!</description>
     </item>
   </channel>
 </rss>
