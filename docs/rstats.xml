@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Career transition into Selling Data Science</title>
-      <link>https://reddit.com/r/rstats/comments/1ka30dv/career_transition_into_selling_data_science/</link>
-      <pubDate>Mon, 28 Apr 2025 18:37:20 +0000</pubDate>
-      <description>Having done this technical work in R for more than 15 years, I do see that a strong component of my skill set is the personal engagement with new clients and managing deliverable requirements. These are product and sales skills, and I know that there are companies that desperately need more technical acumen and more efficient approaches to customer delight.&#xA;&#xA;I searched the board, but there isn’t very much discussion, in the last year at least, about the sales necessities with data science products. I think I’m at the stage of my career where I can make this transition into a sales-focused product/project manager, customer engagement, sales “farming” role.&#xA;&#xA;Has anybody used or found good resources for making this transition? Has anyone here successfully made this transition by moving into a new company? Any tips or tricks, etc.?&#xA;&#xA;Note: dumb dumb r/datascience subreddit said this post isn’t appropriate for the sub. Someone should really fix the censorious tribes roaming among us.</description>
+      <title>why can&#39;t I add geom_line()?</title>
+      <link>https://reddit.com/r/rstats/comments/1kaay8u/why_cant_i_add_geom_line/</link>
+      <pubDate>Tue, 29 Apr 2025 00:24:16 +0000</pubDate>
+      <description>Im trying to do an very simple plot, but I can&#39;t add geom\_line().&#xA;&#xA;This is the code I used:&#xA;&#xA;`estudios %&amp;gt;%`&#xA;&#xA;  `arrange(fecha) %&amp;gt;%`&#xA;&#xA;  `ggplot(aes(x = fecha,` &#xA;&#xA;`y = col)) +`&#xA;&#xA;  `geom_line(size = 1) +`&#xA;&#xA;  `geom_point(size = 2) +`&#xA;&#xA;  `labs(x = &#34;Fecha&#34;,`&#xA;&#xA;`y = &#34;Valor&#34;) +`&#xA;&#xA;  `theme_minimal() +`&#xA;&#xA;  `theme(legend.title = element_blank())`&#xA;&#xA;  &#xA;This is my plot&#xA;&#xA;https://preview.redd.it/qymst3444oxe1.png?width=1040&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=edba9bb81587ded756cbee06635be9b96aaa4e51&#xA;&#xA;And this is what R tells me&#xA;&#xA;    geom_line()`: Each group consists of only one observation.&#xA;    ℹ Do you need to adjust the group aesthetic?&#xA;&#xA;&amp;gt;</description>
     </item>
   </channel>
 </rss>
