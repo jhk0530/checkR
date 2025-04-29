@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>How to Fuzzy Match Two Data Tables with Business Names in R or Excel?</title>
+      <link>https://reddit.com/r/rstats/comments/1kau28c/how_to_fuzzy_match_two_data_tables_with_business/</link>
+      <pubDate>Tue, 29 Apr 2025 17:42:58 +0000</pubDate>
+      <description>I have two data tables:&#xA;&#xA;* **Table 1:** Contains 130,000 unique business names.&#xA;* **Table 2:** Contains 1,048,000 business names along with approximately 4 additional data fields.&#xA;&#xA;I need to find the best match for each business name in Table 1 from the records in Table 2. Once the best match is identified, I want to append the corresponding data fields from Table 2 to the business names in Table 1.&#xA;&#xA;I would like to know the best way to achieve this using either **R** or **Excel**. Specifically, I am looking for guidance on:&#xA;&#xA;1. **Fuzzy Matching Techniques:** What methods or functions can be used to perform fuzzy matching in R or Excel?&#xA;2. **Implementation Steps:** Detailed steps on how to set up and execute the fuzzy matching process.&#xA;3. **Handling Large Data Sets:** Tips on managing and optimizing performance given the large size of the data tables.&#xA;&#xA;Any advice or examples would be greatly appreciated!</description>
+    </item>
+    <item>
       <title>Plain-language reporting of comparisons from ordinal logistic regression?</title>
       <link>https://reddit.com/r/rstats/comments/1kasd4k/plainlanguage_reporting_of_comparisons_from/</link>
       <pubDate>Tue, 29 Apr 2025 16:34:46 +0000</pubDate>
