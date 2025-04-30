@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Virtual R/Medicine data challenge - Analyze MMR vaccination rates over time</title>
+      <link>https://reddit.com/r/rstats/comments/1kbrbfk/virtual_rmedicine_data_challenge_analyze_mmr/</link>
+      <pubDate>Wed, 30 Apr 2025 21:02:36 +0000</pubDate>
+      <description>Deadline May 20, 2025&#xA;&#xA;$200 prize each for Students or Professionals. Submit as an individual or a team!&#xA;&#xA;Changing attitudes towards vaccination in the US have significantly lowered childhood measles vaccination rates, as uptake of the recommended two doses of MMR vaccine before entering school has frequently fallen below the 95% recommended for community immunity.&#xA;&#xA;Analyze MMR vaccination rates over time and by geographical area, as well as measles case rates and complications.&#xA;&#xA;Examples, guidelines, and more available at:&#xA;&#xA;[https://rconsortium.github.io/RMedicine_website/Competition.html](https://rconsortium.github.io/RMedicine_website/Competition.html)</description>
+    </item>
+    <item>
       <title>Display Live R Console Message in Shiny Dashboard</title>
       <link>https://reddit.com/r/rstats/comments/1kbp9xm/display_live_r_console_message_in_shiny_dashboard/</link>
       <pubDate>Wed, 30 Apr 2025 19:35:48 +0000</pubDate>

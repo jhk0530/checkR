@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Create new column based on specific row / cols of a data table</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kblxac/create_new_column_based_on_specific_row_cols_of_a/</link>
-      <pubDate>Wed, 30 Apr 2025 17:16:18 +0000</pubDate>
-      <description>I have a data table A with two columns, ID and DURATION.&#xA;I have another data table B with ID in the rows (1st column) and 100 columns with specific values &#xA;&#xA;I want to create a new column in data table A that is assigned values from data table B that have matching ID row and have col index = DURATION.&#xA;&#xA;It’s sort of like an excel index match&#xA;Is there any way to do this in one go, preferably inside a mutate?</description>
+      <title>Virtual R/Medicine data challenge - Analyze MMR vaccination rates over time</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kbrbkz/virtual_rmedicine_data_challenge_analyze_mmr/</link>
+      <pubDate>Wed, 30 Apr 2025 21:02:46 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
