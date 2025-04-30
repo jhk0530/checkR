@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Issue with Confidence Interval when Making Kaplan-Meier Curve</title>
-      <link>https://reddit.com/r/rstats/comments/1kb06aq/issue_with_confidence_interval_when_making/</link>
-      <pubDate>Tue, 29 Apr 2025 21:56:53 +0000</pubDate>
-      <description>Hello. I am having difficulty with my confidence interval go to the end of my follow-up time frame when I use ggsurvplot. When I use plot survfit, it works, but when I use ggsurvplot it does not and idk why. If anyone has any insight into how to remedy this I would greatly appreciate it. I attached photos to illustrate what I mean. It should go all the way because the sample size is large enough for a 95% CI and when I run the summary function I get values for the upper and lower bounds. Thank you in advance.&#xA;&#xA;https://preview.redd.it/c27fta57juxe1.jpg?width=2387&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=d92382dfbe32a30018591572be8a3a8341855428&#xA;&#xA;</description>
+      <title>Test-retest reliability and validity of a questionnaire</title>
+      <link>https://reddit.com/r/rstats/comments/1kb9qdi/testretest_reliability_and_validity_of_a/</link>
+      <pubDate>Wed, 30 Apr 2025 06:21:08 +0000</pubDate>
+      <description>Hey guys!!! Good morning :) &#xA;&#xA;I conduct a questionnaire-based study and I want to assess the reliability and its validity. As far as am concerned for the reliability I will need to calculate Cohen&#39;s kappa. Is there any strategy on how to apply that? Let&#39;s say I have two respondents taking the questionnaire at two different time-points, a week apart. My questionnaire consists of 2 sections of only categorical questions. What I have done so far is calculating a Cohen&#39;s Kappa for each section per student. Is that meaningful and scientifically approved ? Do I just report the Kappa of each section of my questionnaire as calculated per student, or is there any way to draw an aggregate value ? &#xA;&#xA;Regarding the validation process ? What is an easy way to perform ? &#xA;&#xA;Thank you in advance for your time, may you all have a blessed day!!!!  </description>
     </item>
   </channel>
 </rss>
