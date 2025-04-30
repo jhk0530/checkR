@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to Fuzzy Match Two Data Tables with Business Names in R or Excel?</title>
-      <link>https://reddit.com/r/RStudio/comments/1kau0tl/how_to_fuzzy_match_two_data_tables_with_business/</link>
-      <pubDate>Tue, 29 Apr 2025 17:41:20 +0000</pubDate>
-      <description>I have two data tables:&#xA;&#xA;* **Table 1:** Contains 130,000 unique business names.&#xA;* **Table 2:** Contains 1,048,000 business names along with approximately 4 additional data coloumns.&#xA;&#xA;I need to find the best match for each business name in Table 1 from the records in Table 2. Once the best match is identified, I want to append the corresponding data fields from Table 2 to the business names in Table 1.&#xA;&#xA;I would like to know the best way to achieve this using either **R** or **Excel**. Specifically, I am looking for guidance on:&#xA;&#xA;1. **Fuzzy Matching Techniques:** What methods or functions can be used to perform fuzzy matching in R or Excel?&#xA;2. **Implementation Steps:** Detailed steps on how to set up and execute the fuzzy matching process.&#xA;3. **Handling Large Data Sets:** Tips on managing and optimizing performance given the large size of the data tables.&#xA;&#xA;Any advice or examples would be greatly appreciated!</description>
+      <title>I need help with my PCA Bi-Plot</title>
+      <link>https://reddit.com/r/RStudio/comments/1kbe9fl/i_need_help_with_my_pca_biplot/</link>
+      <pubDate>Wed, 30 Apr 2025 11:37:31 +0000</pubDate>
+      <description>Hi, &#xA;does anyone know why the labels of the variables don&#39;t show up in the plot?&#xA;I think I set all the necassary commands in the code (label = &#34;all&#34;, labelsize = 5).&#xA;If anyone has experienced this before please contact me.&#xA;Thanks in advance.</description>
+    </item>
+    <item>
+      <title>Measuring effect size of 2x3 (or larger) contingency table with fisher.test</title>
+      <link>https://reddit.com/r/RStudio/comments/1kbe4e8/measuring_effect_size_of_2x3_or_larger/</link>
+      <pubDate>Wed, 30 Apr 2025 11:29:50 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>

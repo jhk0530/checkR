@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Test-retest reliability and validity of a questionnaire</title>
-      <link>https://reddit.com/r/rstats/comments/1kb9qdi/testretest_reliability_and_validity_of_a/</link>
-      <pubDate>Wed, 30 Apr 2025 06:21:08 +0000</pubDate>
-      <description>Hey guys!!! Good morning :) &#xA;&#xA;I conduct a questionnaire-based study and I want to assess the reliability and its validity. As far as am concerned for the reliability I will need to calculate Cohen&#39;s kappa. Is there any strategy on how to apply that? Let&#39;s say I have two respondents taking the questionnaire at two different time-points, a week apart. My questionnaire consists of 2 sections of only categorical questions. What I have done so far is calculating a Cohen&#39;s Kappa for each section per student. Is that meaningful and scientifically approved ? Do I just report the Kappa of each section of my questionnaire as calculated per student, or is there any way to draw an aggregate value ? &#xA;&#xA;Regarding the validation process ? What is an easy way to perform ? &#xA;&#xA;Thank you in advance for your time, may you all have a blessed day!!!!  </description>
+      <title>Measuring effect size of 2x3 (or larger) contingency table with fisher.test</title>
+      <link>https://reddit.com/r/rstats/comments/1kbdxio/measuring_effect_size_of_2x3_or_larger/</link>
+      <pubDate>Wed, 30 Apr 2025 11:18:42 +0000</pubDate>
+      <description>Hey, &#xA;&#xA;I have a dataset with categorical (dichotomous and more) and continuous data. I wanna measure association between categorical/categorical and categorical/continous variables using chisq.test and fisher.test. Since most of my expected chisq.test-values are below 5, I used fisher.test. Now I wanna calculate the effect size of chisq.test and fisher.test. For chisq.test I used Cramers V, but for fisher.test it doesn&#39;t work. Odds ratio isn&#39;t shown in a test for 2x3 contingency tables.&#xA;&#xA;What do I do?&#xA;&#xA;  &#xA;Thanks for your help :)</description>
     </item>
   </channel>
 </rss>
