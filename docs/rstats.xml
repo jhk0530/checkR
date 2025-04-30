@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Measuring effect size of 2x3 (or larger) contingency table with fisher.test</title>
-      <link>https://reddit.com/r/rstats/comments/1kbdxio/measuring_effect_size_of_2x3_or_larger/</link>
-      <pubDate>Wed, 30 Apr 2025 11:18:42 +0000</pubDate>
-      <description>Hey, &#xA;&#xA;I have a dataset with categorical (dichotomous and more) and continuous data. I wanna measure association between categorical/categorical and categorical/continous variables using chisq.test and fisher.test. Since most of my expected chisq.test-values are below 5, I used fisher.test. Now I wanna calculate the effect size of chisq.test and fisher.test. For chisq.test I used Cramers V, but for fisher.test it doesn&#39;t work. Odds ratio isn&#39;t shown in a test for 2x3 contingency tables.&#xA;&#xA;What do I do?&#xA;&#xA;  &#xA;Thanks for your help :)</description>
+      <title>Oggi ho chiamato “mamma” la mia capa davanti a tutti</title>
+      <link>https://reddit.com/r/rstats/comments/1kbginp/oggi_ho_chiamato_mamma_la_mia_capa_davanti_a_tutti/</link>
+      <pubDate>Wed, 30 Apr 2025 13:29:00 +0000</pubDate>
+      <description>Oggi, durante una riunione con tutta la mia squadra e il direttore generale, la mia capa mi stava spiegando una procedura piuttosto complicata. Io, stressato e con tre caffè addosso, ho cercato di rispondere con sicurezza ma invece le ho detto: *“Sì mamma… ehm, volevo dire sì, dottoressa.”*&#xA;&#xA;Silenzio. Poi risate. Tante risate. La mia capa ha detto sorridendo: *“Beh, almeno so di essere autoritaria.”*  &#xA;Io invece sto ancora pensando di cambiare città.</description>
     </item>
   </channel>
 </rss>
