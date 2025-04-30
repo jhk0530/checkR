@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Dickey-Fuller Testing in R</title>
-      <link>https://reddit.com/r/rstats/comments/1kbiujo/dickeyfuller_testing_in_r/</link>
-      <pubDate>Wed, 30 Apr 2025 15:09:02 +0000</pubDate>
-      <description>Could anybody help me with some code on how to do the Dickey Fuller test/test for stationary in R without using the adf.test() command. Specifically on how to do what my professor said:&#xA;&#xA;If you want to know the exact model that makes the series stationary, you need to know how to do the test yourself (more detailed code. The differenced series as a function of other variables). You should also know when you run the test yourself, which parameter is used to conclude.&#xA;&#xA;Thank you!! </description>
+      <title>Display Live R Console Message in Shiny Dashboard</title>
+      <link>https://reddit.com/r/rstats/comments/1kbp9xm/display_live_r_console_message_in_shiny_dashboard/</link>
+      <pubDate>Wed, 30 Apr 2025 19:35:48 +0000</pubDate>
+      <description>I have a R Shiny app which i am running from Posit. It is running perfectly by running app.R file and the dashboard is launching and the corresponding logs / outputs are getting displayed in R studio in Posit.&#xA;Is there a way i can show live real time outputs/logs from R studio consol directly to R Shiny Dashboard frontend? Also adding a progress bar to check status how much percentage of the overall code has run in the UI ?&#xA;&#xA;I have this attached function  LogMessageWithTimestamp which logs all the messages in the Posit R Studio Console. Can i get exactly the same messages in R Shiny dashboard real time. For example if i see something in console like&#xA;Timestamp Run Started!&#xA;&#xA;At the same time same moment i should see the same message in the Shiny Dashboard&#xA;&#xA;Timestamp Run Started!&#xA;&#xA;Everything will happen in real time live logs.&#xA;&#xA;I was able to mirror the entire log in the Shiny dashboard once the entire application/program runs in the backend, that once the entire program finishes running in the backend smoothly. &#xA;&#xA;But i want to see the updates real time in the frontend which is not happening.&#xA;&#xA;I tried with future and promise. I tried console.output&#xA;I tried using withCallinghandlers and observe as below. But nothing is working.</description>
     </item>
   </channel>
 </rss>
