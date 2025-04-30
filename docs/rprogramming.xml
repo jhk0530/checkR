@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to Fuzzy Match Two Data Tables with Business Names in R or Excel?</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kau1pk/how_to_fuzzy_match_two_data_tables_with_business/</link>
-      <pubDate>Tue, 29 Apr 2025 17:42:23 +0000</pubDate>
-      <description>I have two data tables:&#xA;&#xA;* **Table 1:** Contains 130,000 unique business names.&#xA;* **Table 2:** Contains 1,048,000 business names along with approximately 4 additional data fields.&#xA;&#xA;I need to find the best match for each business name in Table 1 from the records in Table 2. Once the best match is identified, I want to append the corresponding data fields from Table 2 to the business names in Table 1.&#xA;&#xA;I would like to know the best way to achieve this using either **R** or **Excel**. Specifically, I am looking for guidance on:&#xA;&#xA;1. **Fuzzy Matching Techniques:** What methods or functions can be used to perform fuzzy matching in R or Excel?&#xA;2. **Implementation Steps:** Detailed steps on how to set up and execute the fuzzy matching process.&#xA;3. **Handling Large Data Sets:** Tips on managing and optimizing performance given the large size of the data tables.&#xA;&#xA;Any advice or examples would be greatly appreciated!&#xA;&#xA;</description>
+      <title>Create new column based on specific row / cols of a data table</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kblxac/create_new_column_based_on_specific_row_cols_of_a/</link>
+      <pubDate>Wed, 30 Apr 2025 17:16:18 +0000</pubDate>
+      <description>I have a data table A with two columns, ID and DURATION.&#xA;I have another data table B with ID in the rows (1st column) and 100 columns with specific values &#xA;&#xA;I want to create a new column in data table A that is assigned values from data table B that have matching ID row and have col index = DURATION.&#xA;&#xA;It’s sort of like an excel index match&#xA;Is there any way to do this in one go, preferably inside a mutate?</description>
     </item>
   </channel>
 </rss>
