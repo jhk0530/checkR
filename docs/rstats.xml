@@ -4,16 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Post-hoc Procedures for Ordinal GEE</title>
+      <link>https://reddit.com/r/rstats/comments/1kbru5k/posthoc_procedures_for_ordinal_gee/</link>
+      <pubDate>Wed, 30 Apr 2025 21:24:56 +0000</pubDate>
+      <description>The `emmeans` package supports `geeglm(`) objects from the package `geepack`. However, `emmeans` throws errors for `ordgee(`) objects. Should I use a different post-hoc package? Or, maybe I need an entirely different toolchain other than `geepack` and `emmeans`?</description>
+    </item>
+    <item>
       <title>Virtual R/Medicine data challenge - Analyze MMR vaccination rates over time</title>
       <link>https://reddit.com/r/rstats/comments/1kbrbfk/virtual_rmedicine_data_challenge_analyze_mmr/</link>
       <pubDate>Wed, 30 Apr 2025 21:02:36 +0000</pubDate>
       <description>Deadline May 20, 2025&#xA;&#xA;$200 prize each for Students or Professionals. Submit as an individual or a team!&#xA;&#xA;Changing attitudes towards vaccination in the US have significantly lowered childhood measles vaccination rates, as uptake of the recommended two doses of MMR vaccine before entering school has frequently fallen below the 95% recommended for community immunity.&#xA;&#xA;Analyze MMR vaccination rates over time and by geographical area, as well as measles case rates and complications.&#xA;&#xA;Examples, guidelines, and more available at:&#xA;&#xA;[https://rconsortium.github.io/RMedicine_website/Competition.html](https://rconsortium.github.io/RMedicine_website/Competition.html)</description>
-    </item>
-    <item>
-      <title>Display Live R Console Message in Shiny Dashboard</title>
-      <link>https://reddit.com/r/rstats/comments/1kbp9xm/display_live_r_console_message_in_shiny_dashboard/</link>
-      <pubDate>Wed, 30 Apr 2025 19:35:48 +0000</pubDate>
-      <description>I have a R Shiny app which i am running from Posit. It is running perfectly by running app.R file and the dashboard is launching and the corresponding logs / outputs are getting displayed in R studio in Posit.&#xA;Is there a way i can show live real time outputs/logs from R studio consol directly to R Shiny Dashboard frontend? Also adding a progress bar to check status how much percentage of the overall code has run in the UI ?&#xA;&#xA;I have this attached function  LogMessageWithTimestamp which logs all the messages in the Posit R Studio Console. Can i get exactly the same messages in R Shiny dashboard real time. For example if i see something in console like&#xA;Timestamp Run Started!&#xA;&#xA;At the same time same moment i should see the same message in the Shiny Dashboard&#xA;&#xA;Timestamp Run Started!&#xA;&#xA;Everything will happen in real time live logs.&#xA;&#xA;I was able to mirror the entire log in the Shiny dashboard once the entire application/program runs in the backend, that once the entire program finishes running in the backend smoothly. &#xA;&#xA;But i want to see the updates real time in the frontend which is not happening.&#xA;&#xA;I tried with future and promise. I tried console.output&#xA;I tried using withCallinghandlers and observe as below. But nothing is working.</description>
     </item>
   </channel>
 </rss>
