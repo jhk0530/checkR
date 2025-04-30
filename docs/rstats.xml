@@ -9,11 +9,5 @@
       <pubDate>Wed, 30 Apr 2025 21:24:56 +0000</pubDate>
       <description>The `emmeans` package supports `geeglm(`) objects from the package `geepack`. However, `emmeans` throws errors for `ordgee(`) objects. Should I use a different post-hoc package? Or, maybe I need an entirely different toolchain other than `geepack` and `emmeans`?</description>
     </item>
-    <item>
-      <title>Virtual R/Medicine data challenge - Analyze MMR vaccination rates over time</title>
-      <link>https://reddit.com/r/rstats/comments/1kbrbfk/virtual_rmedicine_data_challenge_analyze_mmr/</link>
-      <pubDate>Wed, 30 Apr 2025 21:02:36 +0000</pubDate>
-      <description>Deadline May 20, 2025&#xA;&#xA;$200 prize each for Students or Professionals. Submit as an individual or a team!&#xA;&#xA;Changing attitudes towards vaccination in the US have significantly lowered childhood measles vaccination rates, as uptake of the recommended two doses of MMR vaccine before entering school has frequently fallen below the 95% recommended for community immunity.&#xA;&#xA;Analyze MMR vaccination rates over time and by geographical area, as well as measles case rates and complications.&#xA;&#xA;Examples, guidelines, and more available at:&#xA;&#xA;[https://rconsortium.github.io/RMedicine_website/Competition.html](https://rconsortium.github.io/RMedicine_website/Competition.html)</description>
-    </item>
   </channel>
 </rss>
