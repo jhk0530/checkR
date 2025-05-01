@@ -4,10 +4,22 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help with a task in R</title>
-      <link>https://reddit.com/r/RStudio/comments/1kbhh6g/help_with_a_task_in_r/</link>
-      <pubDate>Wed, 30 Apr 2025 14:10:07 +0000</pubDate>
-      <description>Hello guys, i have some things to do for a task in R Studio and i wanted someone to help me with (with payment). If anyone is available, send me a  DM. Thanks.</description>
+      <title>Why is this happening ?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kccdqf/why_is_this_happening/</link>
+      <pubDate>Thu, 01 May 2025 16:02:51 +0000</pubDate>
+      <description>Sorry if this has been asked before, but im panicking as I have an exam tomorrow, my rstudio keeps on creating this error whenever I run any code, I have tried running simple code such as 1 + 1 and it still won&#39;t work&#xA;&#xA;https://preview.redd.it/fybjpc0m17ye1.jpg?width=2164&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=878fb8ffa18a55ce8a22ae97d778ae96fe7a5cca</description>
+    </item>
+    <item>
+      <title>Social network analysis plot is unreadable</title>
+      <link>https://reddit.com/r/RStudio/comments/1kcbn0h/social_network_analysis_plot_is_unreadable/</link>
+      <pubDate>Thu, 01 May 2025 15:32:21 +0000</pubDate>
+      <description>Does anyone know what settings I need to adjust to be able to see this properly? </description>
+    </item>
+    <item>
+      <title>How do i change my working directory so it’s not an ‘absolute path’?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kcb97x/how_do_i_change_my_working_directory_so_its_not/</link>
+      <pubDate>Thu, 01 May 2025 15:16:47 +0000</pubDate>
+      <description>I’ve got some coding coursework on R and in order for my teacher to be able to run my code on her computer she says the working directory can’t be an absolute path.&#xA;She said “substitute “YOURPATH” with the one on your computer: setwd(“YOURPATH/Coursework_ay2425/“) &#xA;and then use relative paths throughout the code.&#xA;But i’m not too sure how to do this - any help is greatly appreciated thanks</description>
     </item>
   </channel>
 </rss>
