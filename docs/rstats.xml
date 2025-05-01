@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Post-hoc Procedures for Ordinal GEE</title>
-      <link>https://reddit.com/r/rstats/comments/1kbru5k/posthoc_procedures_for_ordinal_gee/</link>
-      <pubDate>Wed, 30 Apr 2025 21:24:56 +0000</pubDate>
-      <description>The `emmeans` package supports `geeglm(`) objects from the package `geepack`. However, `emmeans` throws errors for `ordgee(`) objects. Should I use a different post-hoc package? Or, maybe I need an entirely different toolchain other than `geepack` and `emmeans`?</description>
+      <title>Interview with R Users and R-Ladies Warsaw</title>
+      <link>https://reddit.com/r/rstats/comments/1kcdr64/interview_with_r_users_and_rladies_warsaw/</link>
+      <pubDate>Thu, 01 May 2025 16:59:35 +0000</pubDate>
+      <description>Kamil Sijko, organizer of both the R Users and R-Ladies Warsaw groups, recently spoke with the R Consortium about the evolving R community in Poland and the group&#39;s efforts to connect users across academia, industry, and open-source development. &#xA;&#xA;Kamil shared his journey from discovering R as a student to taking over the leadership of the Warsaw R community in 2024. &#xA;&#xA;He discussed the group’s hybrid meetups, industry collaborations with companies like AstraZeneca and Appsilon, and the importance of making R accessible through recorded sessions and international outreach. &#xA;&#xA;He also highlighted a recent open-source project on patient randomization, demonstrating how R can be effectively integrated into modern software ecosystems, particularly in medical applications.&#xA;&#xA;[https://r-consortium.org/posts/microservices-randomization-apis-and-r-in-the-medical-sector-warsaws-data-community-in-focus/](https://r-consortium.org/posts/microservices-randomization-apis-and-r-in-the-medical-sector-warsaws-data-community-in-focus/)</description>
     </item>
   </channel>
 </rss>
