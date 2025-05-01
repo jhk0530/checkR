@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Definitive Screening Designs in R</title>
+      <link>https://reddit.com/r/rstats/comments/1kcer9g/definitive_screening_designs_in_r/</link>
+      <pubDate>Thu, 01 May 2025 17:40:38 +0000</pubDate>
+      <description>Is there a way to fit a DSD in R and find the estimates of the coefficients of the factors?</description>
+    </item>
+    <item>
       <title>Interview with R Users and R-Ladies Warsaw</title>
       <link>https://reddit.com/r/rstats/comments/1kcdr64/interview_with_r_users_and_rladies_warsaw/</link>
       <pubDate>Thu, 01 May 2025 16:59:35 +0000</pubDate>
