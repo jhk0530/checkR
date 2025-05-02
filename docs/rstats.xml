@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Shinyscholar - a template for creating reproducible shiny apps</title>
-      <link>https://reddit.com/r/rstats/comments/1kczbn4/shinyscholar_a_template_for_creating_reproducible/</link>
-      <pubDate>Fri, 02 May 2025 12:07:39 +0000</pubDate>
-      <description>I&#39;m the developer of this package and am giving a workshop about it next month in case anyone is interested in learning more: [https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.svl2ujruwf92](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.svl2ujruwf92) It enables producing shiny apps to conduct complex analyses which are also fully reproducible outside of the app. Other features include being able to load/save at any point, a flexible logging system and guidance for users. </description>
+      <title>What’s the best way to visualize spatio-temporal data in R?</title>
+      <link>https://reddit.com/r/rstats/comments/1kd2fve/whats_the_best_way_to_visualize_spatiotemporal/</link>
+      <pubDate>Fri, 02 May 2025 14:32:48 +0000</pubDate>
+      <description>Hey folks 👋&#xA;&#xA;I’ve been working on climate-related datasets (temperature, precipitation, vegetation periods, etc.) for different regions in Québec. One challenge I keep running into is: *what’s the most effective way to visualize spatio-temporal data?*&#xA;&#xA;Here are a few options I’ve tested in R — each with pros and cons. Curious what you all think:&#xA;&#xA;🗺️ **1. Animated maps with** `{gganimate}`  &#xA;Great for time-lapse views of change over time.  &#xA;→ [Here’s an example I did for rainfall trends](https://www.johaniefournier.com/blog/cdq_precipitation_viz/)&#xA;&#xA;📊 **2. Interactive time series by region with** `{plotly}`  &#xA;Helpful when you want to hover, zoom, and explore specific values.  &#xA;→ [Example: 30 years of GDD by region](https://www.johaniefournier.com/blog/st_lawrence_lowlands_precipitation_eda/)&#xA;&#xA;🧭 **3. Side-by-side interactive maps with** `{leaflet}`  &#xA;Great for comparing projections (e.g., 2024 vs 2100 climate).  &#xA;→ [Example using Leaflet + CMIP6 data](https://www.johaniefournier.com/blog/ca_temperature_viz/)&#xA;&#xA;🌡️ **4. Heatmaps by region and year**  &#xA;Great for seeing spatial + temporal gradients all at once.  &#xA;→ [Example using `ggplot2` and `vegperiod`](https://www.johaniefournier.com/blog/ca_temperature_viz2/)&#xA;&#xA;I’d love to hear:&#xA;&#xA;* What are your go-to tools for spatio-temporal visualization?&#xA;* Any other R packages you love for this type of data?&#xA;&#xA;Feel free to critique mine too — always learning! 😄</description>
     </item>
   </channel>
 </rss>
