@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Interview with R Users and R-Ladies Warsaw</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kcl7fe/interview_with_r_users_and_rladies_warsaw/</link>
-      <pubDate>Thu, 01 May 2025 22:13:36 +0000</pubDate>
-      <description></description>
+      <title>How much speedup do GPUs give for non-AI tasks</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kcpc4m/how_much_speedup_do_gpus_give_for_nonai_tasks/</link>
+      <pubDate>Fri, 02 May 2025 01:35:47 +0000</pubDate>
+      <description>I already make heavy use of the CPU-based parallelism features in R and can reliably keep all my cores maxed out. So, I&#39;m interested in what sort of performance improvement it&#39;s reasonable to expect from moving to GPU acceleration for various levels of porting effort.&#xA;&#xA;Can the people who regularly use GPU acceleration for statistical work share their experiences?&#xA;&#xA;This is for fairly &#34;ordinary&#34; statistical work. E.g. right now, I need to estimate the same model on a large number of data sets, bootstrap the errors, and do some monte carlo simulations. The performance code all runs in C / C++ and for one model applied to 500 data sets, it would keep all my cores maxed at 100% usage over a long weekend. In a perfect world, I could do \~10k data sets instantly without spending a fortune renting compute capacity. I&#39;m wondering how much faster something like this could be with a GPU and how much effort I would expend to get that performance improvement.&#xA;&#xA;My concerns are two-fold:&#xA;&#xA;1) It seems like 64-bit floating point has a huge performance penalty on GPUs, even on the &#34;professional&#34; ones. And I&#39;m not confident that I am good enough at numerical analysis to intelligently use 32-bit when it has &#34;good enough&#34; precision. (Or do libraries handle this automatically?), how much of hindrance is this in practice?&#xA;&#xA;2) Running code on a GPU does not seem as simple as using a parallel apply. How much effort does it actually take in practice to realize GPU speedups for existing R packages that weren&#39;t written with GPUs in mind? E.g. If I have some estimator from CRAN that calls into some single threaded C or C++ code, is there an easy way to run it in parallel on a GPU across a large number of separate data sets? And for new code, how much low-hanging fruit is there vs. needing to do something labor intensive like write a gpu-specific C++ library (and everything in between)?&#xA;&#xA;Any experiences people can share would be appreciated.</description>
     </item>
   </channel>
 </rss>
