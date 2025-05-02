@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Bus</title>
-      <link>https://reddit.com/r/RStudio/comments/1kcwdiz/bus/</link>
-      <pubDate>Fri, 02 May 2025 09:01:34 +0000</pubDate>
-      <description>Le bus scolaire Vignacourt - Amiens passe toujours en avance.</description>
+      <title>R Commander Help.</title>
+      <link>https://reddit.com/r/RStudio/comments/1kcwz21/r_commander_help/</link>
+      <pubDate>Fri, 02 May 2025 09:45:17 +0000</pubDate>
+      <description>Hi guys! I really need some assistance,  &#xA;I&#39;m following the instructions to find the &#34;simultaneous tests for general linear hypotheses&#34; and I&#39;ve been told to do a one way anova to find this however my Rcmdr isn&#39;t giving me anything else, it&#39;s just giving this:&#xA;&#xA;\&amp;gt; library(multcomp, pos=19)&#xA;&#xA;&#xA;&#xA;\&amp;gt; AnovaModel.3 &amp;lt;- aov(Psyllids \~ Hostplant, data=psyllid)&#xA;&#xA;&#xA;&#xA;\&amp;gt; summary(AnovaModel.3)&#xA;&#xA;Df Sum Sq Mean Sq F value   Pr(&amp;gt;F)    &#xA;&#xA;Hostplant    2  602.3  301.17   15.18 0.000249 \*\*\*&#xA;&#xA;Residuals   15  297.7   19.84                     &#xA;&#xA;\---&#xA;&#xA;Signif. codes:  0 &#39;\*\*\*&#39; 0.001 &#39;\*\*&#39; 0.01 &#39;\*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1&#xA;&#xA;&#xA;&#xA;\&amp;gt; with(psyllid, numSummary(Psyllids, groups=Hostplant, statistics=c(&#34;mean&#34;, &#34;sd&#34;)))&#xA;&#xA;mean       sd data:n&#xA;&#xA;Citrus       27.83333 5.154286      6&#xA;&#xA;Murraya      20.50000 4.722288      6&#xA;&#xA;Rhododendron 13.66667 3.265986      6&#xA;&#xA;&#xA;&#xA;\&amp;gt; local({&#xA;&#xA;\+   .Pairs &amp;lt;- glht(AnovaModel.3, linfct = mcp(Hostplant = &#34;Tukey&#34;))&#xA;&#xA;\+   print(summary(.Pairs)) # pairwise tests&#xA;&#xA;\+   print(confint(.Pairs, level=0.95)) # confidence intervals&#xA;&#xA;\+   print(cld(.Pairs, level=0.05)) # compact letter display&#xA;&#xA;\+   old.oma &amp;lt;- par(oma=c(0, 5, 0, 0))&#xA;&#xA;\+   plot(confint(.Pairs))&#xA;&#xA;\+   par(old.oma)&#xA;&#xA;\+ })&#xA;&#xA;It&#39;s supposed to have letters or something but I&#39;m trying to figure out why mines not giving the proper result.  &#xA;yes I have to use R commander not R studio.   &#xA;Thanks. :)</description>
+    </item>
+    <item>
+      <title>bus</title>
+      <link>https://reddit.com/r/RStudio/comments/1kcwmd4/bus/</link>
+      <pubDate>Fri, 02 May 2025 09:19:28 +0000</pubDate>
+      <description>**Le bus scolaire Vignacourt - Amiens passe toujours en avance.**</description>
     </item>
   </channel>
 </rss>
