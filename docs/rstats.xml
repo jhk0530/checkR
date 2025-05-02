@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Supercharge your R workflows with DuckDB</title>
-      <link>https://reddit.com/r/rstats/comments/1kcmoa3/supercharge_your_r_workflows_with_duckdb/</link>
-      <pubDate>Thu, 01 May 2025 23:21:01 +0000</pubDate>
-      <description></description>
+      <title>normality of residuals not on raw data</title>
+      <link>https://reddit.com/r/rstats/comments/1kctfj0/normality_of_residuals_not_on_raw_data/</link>
+      <pubDate>Fri, 02 May 2025 05:31:24 +0000</pubDate>
+      <description>so i have a question. why are most examples on the internet about the use of shapiro test used on raw data itself rather than the residuals from, say, a linear regression?&#xA;&#xA;kinda confusing esp for those not familiar with stats. would appreciate ur response&#xA;&#xA;heres an example that uses shapiro on raw data and not on residuals  &#xA;[https://rpubs.com/MajstorMaestro/240657](https://rpubs.com/MajstorMaestro/240657)</description>
     </item>
   </channel>
 </rss>
