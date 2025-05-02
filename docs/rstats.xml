@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>normality of residuals not on raw data</title>
-      <link>https://reddit.com/r/rstats/comments/1kctfj0/normality_of_residuals_not_on_raw_data/</link>
-      <pubDate>Fri, 02 May 2025 05:31:24 +0000</pubDate>
-      <description>so i have a question. why are most examples on the internet about the use of shapiro test used on raw data itself rather than the residuals from, say, a linear regression?&#xA;&#xA;kinda confusing esp for those not familiar with stats. would appreciate ur response&#xA;&#xA;heres an example that uses shapiro on raw data and not on residuals  &#xA;[https://rpubs.com/MajstorMaestro/240657](https://rpubs.com/MajstorMaestro/240657)</description>
+      <title>Shinyscholar - a template for creating reproducible shiny apps</title>
+      <link>https://reddit.com/r/rstats/comments/1kczbn4/shinyscholar_a_template_for_creating_reproducible/</link>
+      <pubDate>Fri, 02 May 2025 12:07:39 +0000</pubDate>
+      <description>I&#39;m the developer of this package and am giving a workshop about it next month in case anyone is interested in learning more: [https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.svl2ujruwf92](https://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine#h.svl2ujruwf92) It enables producing shiny apps to conduct complex analyses which are also fully reproducible outside of the app. Other features include being able to load/save at any point, a flexible logging system and guidance for users. </description>
     </item>
   </channel>
 </rss>
