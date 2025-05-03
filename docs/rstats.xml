@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Species distribution models with different observation sources</title>
-      <link>https://reddit.com/r/rstats/comments/1kdqkqg/species_distribution_models_with_different/</link>
-      <pubDate>Sat, 03 May 2025 11:15:09 +0000</pubDate>
-      <description>I’m creating species distribution models for a couple of species. I have two main data sources; camera traps and citizen science. I do not know how much survey effort was used for the citizen science observations. I do know how long the different camera traps were deployed for. Some traps were deployed for a couple of weeks whereas others were deployed for several years. Therefore, the survey effort is highly variable between different camera locations.&#xA;&#xA;I have produced some models with MaxEnt using the dismo package. The results are reasonable but I don’t think that MaxEnt’s presence/pseudo-absence structure is making full use of my dataset.&#xA;&#xA;Can anyone suggest a better solution? &#xA;&#xA;Thanks for any responses.</description>
+      <title>Lasso Regression with metric and categorical data</title>
+      <link>https://reddit.com/r/rstats/comments/1kdvevj/lasso_regression_with_metric_and_categorical_data/</link>
+      <pubDate>Sat, 03 May 2025 15:21:12 +0000</pubDate>
+      <description>Hey, I&#39;m conducting a Lasso regression where my predictors consist of approximately 15 metric and 60 dichotomous variables (dummy coding of 20 categorical variables) with approximately 270 observations. I have the following questions:&#xA;&#xA;1. Does Group Lasso make more sense in my case, and what would be the advantages? Would it be easier to interpret and/or would it make the model more accurate?&#xA;&#xA;2. Does it matter for Lasso whether the dummy coding is created with a reference category or not? Or is it just a matter of whether or not you want to interpret the results in relation to the reference category?&#xA;&#xA;3. In general, is my ratio of metric and categorical or dichotomous variables a problem for the model?&#xA;&#xA;Thank you so much for your help!</description>
     </item>
   </channel>
 </rss>
