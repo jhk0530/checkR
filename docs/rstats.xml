@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Lasso Regression with metric and categorical data</title>
-      <link>https://reddit.com/r/rstats/comments/1kdvevj/lasso_regression_with_metric_and_categorical_data/</link>
-      <pubDate>Sat, 03 May 2025 15:21:12 +0000</pubDate>
-      <description>Hey, I&#39;m conducting a Lasso regression where my predictors consist of approximately 15 metric and 60 dichotomous variables (dummy coding of 20 categorical variables) with approximately 270 observations. I have the following questions:&#xA;&#xA;1. Does Group Lasso make more sense in my case, and what would be the advantages? Would it be easier to interpret and/or would it make the model more accurate?&#xA;&#xA;2. Does it matter for Lasso whether the dummy coding is created with a reference category or not? Or is it just a matter of whether or not you want to interpret the results in relation to the reference category?&#xA;&#xA;3. In general, is my ratio of metric and categorical or dichotomous variables a problem for the model?&#xA;&#xA;Thank you so much for your help!</description>
+      <title>I love R</title>
+      <link>https://reddit.com/r/rstats/comments/1ke62lz/i_love_r/</link>
+      <pubDate>Sat, 03 May 2025 23:25:00 +0000</pubDate>
+      <description>A little bit of context i currently work as a Head of Analytics at a &#34;reputable&#34; company and i am so bored with my current leadership role in analytics, i am so dependent on it because it pays well but i would love to become an individual contributor again and get to work with R everyday. Do you happen to have any tips for me? And can i actually quit and make a living by being an R developer.&#xA;</description>
     </item>
   </channel>
 </rss>
