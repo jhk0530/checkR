@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>I love R</title>
-      <link>https://reddit.com/r/rstats/comments/1ke62lz/i_love_r/</link>
-      <pubDate>Sat, 03 May 2025 23:25:00 +0000</pubDate>
-      <description>A little bit of context i currently work as a Head of Analytics at a &#34;reputable&#34; company and i am so bored with my current leadership role in analytics, i am so dependent on it because it pays well but i would love to become an individual contributor again and get to work with R everyday. Do you happen to have any tips for me? And can i actually quit and make a living by being an R developer.&#xA;</description>
+      <title>Need help installing R</title>
+      <link>https://reddit.com/r/rstats/comments/1kek41e/need_help_installing_r/</link>
+      <pubDate>Sun, 04 May 2025 13:43:01 +0000</pubDate>
+      <description>Edit: i couldn&#39;t add a second picture, so here&#39;s the text of the error message: &#34;An error occured while attempting to load the selected version of R. Please select a different R installation&#34;&#xA;&#xA;Hello everyone, I&#39;ve got some serious problems installing R.  &#xA;I&#39;ve downloaded the most actual version of R and RStudio - and unfortunately each time I receive an error message.  &#xA;I&#39;ve installed and de-installed R and R Studio already 5 times - and each time there was that error message.&#xA;&#xA;Anyone any ideas, what the problem could be?&#xA;&#xA;Thanks in advance for your help !&#xA;&#xA;https://preview.redd.it/al3oyus4srye1.png?width=1093&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cd36a0aab27fd09a8b6c41f39f3381bd710c56dd</description>
     </item>
   </channel>
 </rss>
