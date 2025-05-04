@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Scraping Power BI page using RSelenium</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kd1f30/scraping_power_bi_page_using_rselenium/</link>
-      <pubDate>Fri, 02 May 2025 13:49:03 +0000</pubDate>
-      <description>Hi, everyone&#xA;&#xA;I am trying to scrap the following Power BI page: [https://app.powerbi.com/view?r=eyJrIjoiMmUxZjAzNGItN2VjZi00NWZmLTk3YTMtNzJmMjMwMTNhNGM0IiwidCI6IjhmMGQ0NTJjLWI3YTQtNDk2NC1iODEwLThjMzk3Mzc0NDc3YiIsImMiOjh9](https://app.powerbi.com/view?r=eyJrIjoiMmUxZjAzNGItN2VjZi00NWZmLTk3YTMtNzJmMjMwMTNhNGM0IiwidCI6IjhmMGQ0NTJjLWI3YTQtNDk2NC1iODEwLThjMzk3Mzc0NDc3YiIsImMiOjh9)&#xA;&#xA;I am using Chrome, through RSelenium, since I wasn&#39;t able to scrap the queries in the site. So far, I could extract the text from the page, however I needed to select the tables (in the option &#39;Tabla&#39;) to obtain the proper data, which I couldn&#39;t do so far. Any idea on how to do it?&#xA;&#xA;This is my code so far:&#xA;&#xA;    for (i in 1:30) { &#xA;      elements &amp;lt;- remDr$findElements(using = &#34;xpath&#34;, value = &#34;//*[contains(@class, &#39;visual-container&#39;)]&#34;) if (length(elements) &amp;gt; 0) break Sys.sleep(1) }&#xA;    &#xA;    texts &amp;lt;- sapply(elements, function(el) el$getElementText()) cat(paste(texts, collapse = &#34;\n\n---\n\n&#34;))&#xA;    &#xA;    remDr$close()</description>
+      <title>Credit Risk Modeling</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kec2nr/credit_risk_modeling/</link>
+      <pubDate>Sun, 04 May 2025 05:05:40 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
