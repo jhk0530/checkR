@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Is the Rtweet package not working in 2025?</title>
-      <link>https://reddit.com/r/RStudio/comments/1ke6kd1/is_the_rtweet_package_not_working_in_2025/</link>
-      <pubDate>Sat, 03 May 2025 23:49:46 +0000</pubDate>
-      <description>I&#39;ve authenticated with my bearer token, api key, api secret, etc., &#xA;&#xA;I know that they downgraded the API, but the free version of the X api should still be able to retrieve 100 posts a month or something. &#xA;&#xA;but im still getting errors when searching for tweets on X (this used to work perfectly fine when i ran it back in 2021):&#xA;&#xA;    &amp;gt; tweets_bitcoin &amp;lt;- search_tweets(&#xA;    +   q = &#34;bitcoin&#34;,&#xA;    +   n = 5,                    # number of tweets to retrieve&#xA;    +   include_rts = FALSE,&#xA;    +   retryonratelimit = FALSE&#xA;    + )&#xA;    Error in search_params(q, type = type, include_rts = include_rts, geocode = geocode,  : &#xA;      is.atomic(max_id) &amp;amp;&amp;amp; length(max_id) &amp;lt;= 1L is not TRUE</description>
+      <title>Is There Hope For Me? Beyond Beginner</title>
+      <link>https://reddit.com/r/RStudio/comments/1kef7g6/is_there_hope_for_me_beyond_beginner/</link>
+      <pubDate>Sun, 04 May 2025 08:43:37 +0000</pubDate>
+      <description>Making up a class assignment using R Studio at the last minute, prof said he thought I&#39;d be able to do it. After hours trying and failing to complete the assigned actions on R Studio, I started looking around online, including this subreddit. Even the most basic &#34;for absolute beginners&#34; material is like another language to me. I don&#39;t have any coding knowledge at all and don&#39;t know how I am going to do this. Does anyone know of a &#34;for dummies&#34; type of guide, or help chat, or anything? (and before anyone comments this- yes I am stupid, desperate and screwed)</description>
     </item>
   </channel>
 </rss>
