@@ -9,11 +9,5 @@
       <pubDate>Mon, 05 May 2025 14:17:06 +0000</pubDate>
       <description>Hi everyone,&#xA;I&#39;m working on an assignment, My dataset has 250 + participants , and I ran normality tests&#xA;&#xA;The issue is: all variables failed both the Kolmogorov-Smirnov and Shapiro-Wilk tests (p &amp;lt; .001 in all cases).&#xA;&#xA;&#xA;&#xA;Skewness: 0.92 (males), 1.36 (females)&#xA;&#xA;Kurtosis: ~ -0.5 (male), 0.75 (female)&#xA;&#xA;Median is lower than the mean&#xA;&#xA;Data is on a 1–7 Likert scale&#xA;&#xA;For most other variables, skewness is low to moderate (e.g., -0.3 to 0.6), but 2 are clearly skewed.&#xA;&#xA;I know that with larger n , the Central Limit Theorem suggests I can still use a t-test, pearsons r corelation, but I want to make sure I&#39;m not violating assumptions too severely.&#xA;&#xA;So my questions are:&#xA;&#xA;Is it statistically acceptable to run independent-samples t-</description>
     </item>
-    <item>
-      <title>Request - Help with GGPLOT2 Scatterplot</title>
-      <link>https://reddit.com/r/rstats/comments/1kfc7iw/request_help_with_ggplot2_scatterplot/</link>
-      <pubDate>Mon, 05 May 2025 13:54:50 +0000</pubDate>
-      <description>Hi, I want to plot a scatterplot for a dataframe with 3 columns and 1200 rows. I am using the following command to generate a scatterplot -&#xA;&#xA;ggplot(data, aes(x, y)) + geom\_point() + geom\_text( label=rownames(data), nudge\_x = 0.25, nudge\_y = 0.25)&#xA;&#xA;Since there are about 1200 data points, it gets cluttered. I am interested in plotting a graph in such a way that only Top 20 and Bottom 20 points are labelled, and the other 1160 points not labelled.&#xA;&#xA;Any help will be appreciated. Thanks.</description>
-    </item>
   </channel>
 </rss>
