@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Utilizing GLMs where the coefficient matrix is ln(coefficient)</title>
-      <link>https://reddit.com/r/rstats/comments/1kfwmzt/utilizing_glms_where_the_coefficient_matrix_is/</link>
-      <pubDate>Tue, 06 May 2025 05:09:42 +0000</pubDate>
-      <description>A bit of a weird request - a model specification I&#39;m working with utilizes a log link where the coefficient matrix looks like \[ln(B1), ln(B2), ln(B3), etc.\] where all predictors are categorical predictors. This in order to get the model to become the applicable coefficients multiplied by each other.&#xA;&#xA; Is it possible to do this specification in R without using matrix algebra? </description>
+      <title>Q: Testing for Measurement Invariance (MI)</title>
+      <link>https://reddit.com/r/rstats/comments/1kfzzr1/q_testing_for_measurement_invariance_mi/</link>
+      <pubDate>Tue, 06 May 2025 09:11:41 +0000</pubDate>
+      <description>Hi! So I’m ultimately trying to run a cross-lagged panel model and am checking for measurement invariance first to ensure I at least have metric fit. However, when I put all my variables into one model, it will not converge (or at least is taking 20hours and it still running. Side note: I’m using lavaan in R and have a very old computer).&#xA;&#xA;So my question is: can I test for MI in separate “models”? In other words, for my CLPM, I will be running 6 separate models:&#xA;1. Predictor —&amp;gt; mediator 1 —&amp;gt; outcome 1&#xA;2. Predictor —&amp;gt; mediator 2 —&amp;gt; outcome 1&#xA;3. Predictor —&amp;gt; mediator 3 —&amp;gt; outcome 1&#xA;4. Predictor —&amp;gt; mediator 1—&amp;gt; outcome 2&#xA;5. Predictor —&amp;gt; mediator 2 —&amp;gt; outcome 2&#xA;6. Predictor —&amp;gt; mediator 3 —&amp;gt; outcome 2&#xA;&#xA;I don’t actually specify any paths when testing for MI, but is there a problem with running them separately, including only the variables relevant in each model? This is what I began doing initially, and the models were converging fine. I appreciate any input !!</description>
     </item>
   </channel>
 </rss>
