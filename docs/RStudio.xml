@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help with loop function</title>
-      <link>https://reddit.com/r/RStudio/comments/1kg87f8/help_with_loop_function/</link>
-      <pubDate>Tue, 06 May 2025 16:02:02 +0000</pubDate>
-      <description>I am working on a project to download GBIF occurrence records for a list of species, based on a CSV file I have. The species list  CSV contains over 11,000 species names for an area of interest. I want to automate the process of downloading occurrence records from GBIF for these species. I have code for this but only know how to do it for one species from a list, can I get away to write a loop function.&#xA;&#xA;compiling a subset of data  (15-20% of the CSV species list) for a few hundred species and combining the results into a single CSV file. I have worked out a code for the rest just need help with a loop function&#xA;&#xA; \#obtain data from GBIF via rgbif&#xA;&#xA; \# !! here we can improve the codes to read different species from a species list. or write a loop function to pick up every species name and run the codes&#xA;&#xA;dat &amp;lt;- occ\_search(scientificName = &#34;Marquesia macroura &#34;, limit = 12000, hasCoordinate = T)&#xD;&#xD;&#xA;&#xA;dat &amp;lt;- dat$data</description>
+      <title>Copilot extension: custom indexing of project files?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kgc5sm/copilot_extension_custom_indexing_of_project_files/</link>
+      <pubDate>Tue, 06 May 2025 18:40:12 +0000</pubDate>
+      <description>Is there a way for me to have the Copilot extension index specific files in my project directory? It seems rather random and I assume the sheer number of files in the directory are overwhelming it.  &#xA;  &#xA;Ideally I&#39;d like it to only look at the file I&#39;m editing and then a single txt file that contains various definitions, acronyms, query logic, etc. that it can include in its prompts.</description>
     </item>
   </channel>
 </rss>
