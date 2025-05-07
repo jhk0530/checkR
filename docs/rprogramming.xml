@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Issues Downloading Google Trends Data using R</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kgioqe/issues_downloading_google_trends_data_using_r/</link>
-      <pubDate>Tue, 06 May 2025 23:13:14 +0000</pubDate>
-      <description></description>
+      <title>Needing advice on linear regression and then replacing NA&#39;s with fitted values in RStudio</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kgtoxr/needing_advice_on_linear_regression_and_then/</link>
+      <pubDate>Wed, 07 May 2025 10:09:12 +0000</pubDate>
+      <description>Hey there, am quite new to the data analytics stuff and r/RStudio so I am in need of advice. So, am doing a project and am asked to do: for every variable that has missing value to run a linear regression model using all the rows that dont have NAs. Then I need to replace the NA&#39;s with the fitted values of every model I ran.  &#xA;Variables are: price, sqm, age, feats, ne, cor, tax. The variables with missing values are age and tax.  &#xA;This is done in RStudio&#xA;&#xA;    Dna=apply(is.na(Data), 2, which)&#xA;    lmAGE=lm(AGE~PRICE+SQM+FEATS, Data)&#xA;    lmTAX=lm(TAX~PRICE+SQM+FEATS, Data)&#xA;    na=apply(is.na(Data), 1, which)&#xA;    for (i in na) {&#xA;      prAGE=predict(lmAGE, interval = &#34;prediction&#34;)&#xA;      prTAX=predict(lmTAX, new, interval=&#34;prediction&#34;)&#xA;    }&#xA;&#xA;My problem is, that lm doesnt take into considaration the NA&#39;s, so predict does the same thing, I am currently struggling to think of a way of solving this. If I use the &#34;addNA&#34;, could this work?  &#xA;Or if I use&#xA;&#xA;    new=data.frame(years=c(10,20))&#xA;    &#xA;&#xA;Something like that, but then I cant add all the other non-NA variables.&#xA;&#xA;And how can I do it manually if thats what I need to do?</description>
     </item>
   </channel>
 </rss>
