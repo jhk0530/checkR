@@ -4,6 +4,18 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Ggplot gone crazy</title>
+      <link>https://reddit.com/r/RStudio/comments/1kgzdnc/ggplot_gone_crazy/</link>
+      <pubDate>Wed, 07 May 2025 14:55:43 +0000</pubDate>
+      <description>I’m looking for a funny, hilarious, or totally insane function or package I can use with ggplot2 to make my graphs absurd or entertaining— something more ridiculous than ggbernie. Meme-worthy, cursed or just plain weird— what’s out there? </description>
+    </item>
+    <item>
+      <title>Rstudio for smartphone</title>
+      <link>https://reddit.com/r/RStudio/comments/1kgys0h/rstudio_for_smartphone/</link>
+      <pubDate>Wed, 07 May 2025 14:30:21 +0000</pubDate>
+      <description>Hi fellows, a need to access Rstudio for smartphone. Is the web site Posit Cloud a good choice for it?&#xA;&#xA;If there&#39;s another app for it i would like to know!</description>
+    </item>
+    <item>
       <title>2D Partial Dependence Plots</title>
       <link>https://reddit.com/r/RStudio/comments/1kgxiep/2d_partial_dependence_plots/</link>
       <pubDate>Wed, 07 May 2025 13:35:06 +0000</pubDate>
@@ -14,12 +26,6 @@
       <link>https://reddit.com/r/RStudio/comments/1kgxdei/adverse_impact_analysis_help/</link>
       <pubDate>Wed, 07 May 2025 13:28:43 +0000</pubDate>
       <description>I looked over most of the pinned resources and am looking for help that isn&#39;t there. I am working on writing some code for Adverse Impact analyses and hoping to find some resources to assist. In a perfect world, I would like the code to run the comparison against the highest passing rate for the compared groups automatically, rather than having to go through it stepwise. Any idea where I should be looking?</description>
-    </item>
-    <item>
-      <title>🛠️ Need Help Adding Visual Diff View for Text Changes in Shiny App</title>
-      <link>https://reddit.com/r/RStudio/comments/1kgwqpc/need_help_adding_visual_diff_view_for_text/</link>
-      <pubDate>Wed, 07 May 2025 12:59:41 +0000</pubDate>
-      <description>Hi everyone,&#xA;&#xA;I&#39;m currently working on a Shiny app that compares posts collected over time and highlights changes using Levenshtein distance. The code I&#39;ve implemented calculates edit distances and uses diffChr() (from diffobj) to highlight additions and deletions in a side-by-side HTML format. The goal is to visualize text changes (like deletions, additions, or modifications) between versions of posts.&#xA;&#xA;Here’s a brief overview of what it does:&#xA;&#xA;* Detects matching posts based on IDs.&#xA;* Calculates Levenshtein and normalized distances.&#xA;* Displays the 20 most edited posts.&#xA;* Shows deletions with strikethrough/red background and additions in green.&#xA;&#xA;https://preview.redd.it/dafkryh9ycze1.png?width=1912&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=fd9aa1384593e62a8d3566c9a926959befa14bb1&#xA;&#xA;  &#xA;The core logic is functional, but the visualization is not quite working as expected. Issues I’m facing:&#xA;&#xA;* Some of the HTML formatting doesn&#39;t render consistently inside the DataTable.&#xA;* Additions and deletions are sometimes not aligned clearly for the reader.&#xA;* The user experience of comparing long texts is still clunky.&#xA;&#xA;📌 I&#39;m looking for help to:&#xA;&#xA;* Improve the visual clarity of differences (ideally more like GitHub diffs or side-by-side code comparisons).&#xA;* Enhance alignment of differences between original and modified texts.&#xA;* Possibly replace or supplement diffChr if better options exist in the R ecosystem. If anyone has experience with better text diffing/visualization approaches in Shiny (or even JS integration), I’d really appreciate the help or suggestions.&#xA;&#xA;Thanks in advance 🙏  &#xA;Happy to share more if needed!</description>
     </item>
   </channel>
 </rss>

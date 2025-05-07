@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>🛠️ Need Help Adding Visual Diff View for Text Changes in Shiny App</title>
-      <link>https://reddit.com/r/rstats/comments/1kgwrzh/need_help_adding_visual_diff_view_for_text/</link>
-      <pubDate>Wed, 07 May 2025 13:01:14 +0000</pubDate>
-      <description>Hi everyone,&#xA;&#xA;I&#39;m currently working on a Shiny app that compares posts collected over time and highlights changes using Levenshtein distance. The code I&#39;ve implemented calculates edit distances and uses diffChr() (from diffobj) to highlight additions and deletions in a side-by-side HTML format. The goal is to visualize text changes (like deletions, additions, or modifications) between versions of posts.&#xA;&#xA;Here’s a brief overview of what it does:&#xA;&#xA;* Detects matching posts based on IDs.&#xA;* Calculates Levenshtein and normalized distances.&#xA;* Displays the 20 most edited posts.&#xA;* Shows deletions with strikethrough/red background and additions in green.&#xA;&#xA;https://preview.redd.it/hb8nqjkjycze1.png?width=1080&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=acc7d5542dbbb4f03dd4ce10cbfd95248999fa68&#xA;&#xA;The core logic is functional, but the visualization is not quite working as expected. Issues I’m facing:&#xA;&#xA;* Some of the HTML formatting doesn&#39;t render consistently inside the DataTable.&#xA;* Additions and deletions are sometimes not aligned clearly for the reader.&#xA;* The user experience of comparing long texts is still clunky.&#xA;&#xA;📌 I&#39;m looking for help to:&#xA;&#xA;* Improve the visual clarity of differences (ideally more like GitHub diffs or side-by-side code comparisons).&#xA;* Enhance alignment of differences between original and modified texts.&#xA;* Possibly replace or supplement diffChr if better options exist in the R ecosystem. If anyone has experience with better text diffing/visualization approaches in Shiny (or even JS integration), I’d really appreciate the help or suggestions.&#xA;&#xA;Thanks in advance 🙏  &#xA;Happy to share more if needed!</description>
+      <title>Would anyone be willing to read over an assignment I&#39;ve done? (4 pages)</title>
+      <link>https://reddit.com/r/rstats/comments/1kgz3gj/would_anyone_be_willing_to_read_over_an/</link>
+      <pubDate>Wed, 07 May 2025 14:43:35 +0000</pubDate>
+      <description>It&#39;s on principal components analysis.&#xA;&#xA;I just want someone to check if there&#39;s mistakes</description>
     </item>
   </channel>
 </rss>
