@@ -9,17 +9,5 @@
       <pubDate>Wed, 07 May 2025 19:08:59 +0000</pubDate>
       <description>I&#39;m an economics graduate with a reasonable grasp over stats and econometrics and have worked on R studio for a semester on a research project, but for basic applications ( data visualization mostly). I&#39;m hoping to learn more (at a level where i can be employed for the same) on my own and am willing to take out 3-4 hours a day to learn. I&#39;m fully aware that to reach my goal I&#39;ll need to dedicate at least one year on this (and eventually some projects of my own) and I don&#39;t mind that. But can someone recommend good sources to learn and how I should approach this?&#xA;&#xA;The only problem I had when using it for projects i mentioned earlier was memorizing commands (i constantly referred to a sheet). Solutions to this or any other problems i should anticipate in the process would also be very helpful. </description>
     </item>
-    <item>
-      <title>Writing data to specific range</title>
-      <link>https://reddit.com/r/RStudio/comments/1kh41b6/writing_data_to_specific_range/</link>
-      <pubDate>Wed, 07 May 2025 18:01:42 +0000</pubDate>
-      <description>I make weekly reports and need to copy excel files week to week containing pivot tables but wrote a function that copies the file for me and then updates a specific range that the rest of the summary tables are generated from. The function broke all the connections, anybody have any experience with this? Do I have to continue to copy and paste and then refresh everything? </description>
-    </item>
-    <item>
-      <title>New chart: nested columns</title>
-      <link>https://reddit.com/r/RStudio/comments/1kh3ksc/new_chart_nested_columns/</link>
-      <pubDate>Wed, 07 May 2025 17:43:35 +0000</pubDate>
-      <description>Thought you all might find this interesting. Saw this post on LinkedIn that attempts to solve for the difficulty in interpreting some stacked column charts - it can be awkward showing both the trend in total amounts, as well as trends in each category. The solution: put your total columns *behind* the side-by-side category columns.&#xA;&#xA;For what it’s worth, my company LOVES it. Still a bit complex w/ggplot, but I thought I saw somewhere that someone’s working on a package. &#xA;&#xA;Writeup from Yan Holtz: https://prodigious-trailblazer-3628.kit.com/posts/unstack-this-a-new-chart-type-you-ll-definitely-use&#xA;&#xA;R example: https://gist.github.com/bjulius/47264e8ba54704d7764ddd0ea3fd4b8f&#xA;&#xA;</description>
-    </item>
   </channel>
 </rss>
