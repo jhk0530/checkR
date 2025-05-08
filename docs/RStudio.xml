@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Timeline and Roadmap to learn R Studio for working professional proficiency</title>
-      <link>https://reddit.com/r/RStudio/comments/1kh5q3q/timeline_and_roadmap_to_learn_r_studio_for/</link>
-      <pubDate>Wed, 07 May 2025 19:08:59 +0000</pubDate>
-      <description>I&#39;m an economics graduate with a reasonable grasp over stats and econometrics and have worked on R studio for a semester on a research project, but for basic applications ( data visualization mostly). I&#39;m hoping to learn more (at a level where i can be employed for the same) on my own and am willing to take out 3-4 hours a day to learn. I&#39;m fully aware that to reach my goal I&#39;ll need to dedicate at least one year on this (and eventually some projects of my own) and I don&#39;t mind that. But can someone recommend good sources to learn and how I should approach this?&#xA;&#xA;The only problem I had when using it for projects i mentioned earlier was memorizing commands (i constantly referred to a sheet). Solutions to this or any other problems i should anticipate in the process would also be very helpful. </description>
+      <title>Trouble Importing .xlsx files</title>
+      <link>https://reddit.com/r/RStudio/comments/1khbka7/trouble_importing_xlsx_files/</link>
+      <pubDate>Wed, 07 May 2025 23:16:06 +0000</pubDate>
+      <description>I have used Rstudio before in the past and recently started taking another statistics class. The professor wants us to import an excel file through the &#34;File -&amp;gt; Import Dataset -&amp;gt; From Excel..&#34; method. However, when I do this, Rstudio gets stuck at the &#34;Retrieving Preview Data...&#34; screen and I cannot select the excel sheet I want to pull data from. If I press &#34;cancel&#34; for retrieving preview data, the only option I have for sheet selection is &#34;Default&#34;. I have tried uninstalling and reinstalling R &amp;amp; Rstudio multiple times. I then tried it on my desktop and it worked perfectly fine. &#xA;&#xA;I have a Microsoft Surface Pro 11 with the Snapdragon processor if that helps. &#xA;&#xA;https://preview.redd.it/izjsn9r70gze1.png?width=2512&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3d0f02503e1210a8bee3e5ad2f7cb3b15f064d09&#xA;&#xA;  &#xA;Thanks in advance.</description>
     </item>
   </channel>
 </rss>
