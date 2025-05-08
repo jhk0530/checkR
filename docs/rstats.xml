@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Data science final project</title>
-      <link>https://reddit.com/r/rstats/comments/1kh5b46/data_science_final_project/</link>
-      <pubDate>Wed, 07 May 2025 18:52:35 +0000</pubDate>
-      <description>Hey guys!! I really need help with this google form for my data science final project. This would help me so much with what I’m putting in my rscript. Thank you :)</description>
+      <title>Anyone here ever tried to use a Intel Optane drive for paging when they run out of RAM?</title>
+      <link>https://reddit.com/r/rstats/comments/1khlu4s/anyone_here_ever_tried_to_use_a_intel_optane/</link>
+      <pubDate>Thu, 08 May 2025 09:27:26 +0000</pubDate>
+      <description>Back of a napkin math tells me i need around 500GB of RAM for what I plan to do in R. Im not buying that much RAM. Once you get passed 128 you often need enterprise level MoBos anyway (or at least thats how it was a couple of years ago). I randomly remembered that Intel Optane was a thing a couple of years ago. &#xA;&#xA;For the uninitiated: These were special SSD drives that had random access latency pretty mach right between what RAM and a regular SSD can do. They also had very good sequencial speeds. And they could survive way more read/write cycles than a regular SSD. &#xA;&#xA;So I thought id find a used one and use it as a dedicated paging drive. Im probably gonna try it out anyway, just out of curiosity, bit have any of you tried this before to deal with massive RAM requirements in R?</description>
     </item>
   </channel>
 </rss>
