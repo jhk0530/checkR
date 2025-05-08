@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Anyone here ever tried to use a Intel Optane drive for paging when they run out of RAM?</title>
-      <link>https://reddit.com/r/rstats/comments/1khlu4s/anyone_here_ever_tried_to_use_a_intel_optane/</link>
-      <pubDate>Thu, 08 May 2025 09:27:26 +0000</pubDate>
-      <description>Back of a napkin math tells me i need around 500GB of RAM for what I plan to do in R. Im not buying that much RAM. Once you get passed 128 you often need enterprise level MoBos anyway (or at least thats how it was a couple of years ago). I randomly remembered that Intel Optane was a thing a couple of years ago. &#xA;&#xA;For the uninitiated: These were special SSD drives that had random access latency pretty mach right between what RAM and a regular SSD can do. They also had very good sequencial speeds. And they could survive way more read/write cycles than a regular SSD. &#xA;&#xA;So I thought id find a used one and use it as a dedicated paging drive. Im probably gonna try it out anyway, just out of curiosity, bit have any of you tried this before to deal with massive RAM requirements in R?</description>
+      <title>Is there a more efficient way to process this raster?</title>
+      <link>https://reddit.com/r/rstats/comments/1kht75a/is_there_a_more_efficient_way_to_process_this/</link>
+      <pubDate>Thu, 08 May 2025 15:39:12 +0000</pubDate>
+      <description>I need to do some math to a single-band raster that&#39;s beyond what ArcGIS seems capable of handling. So I brought it into R with the &#34;raster&#34; package.&#xA;&#xA;The way I&#39;ve set up what I need to process is this:&#xA;&#xA;    df &amp;lt;- as.data.frame(raster_name)&#xA;    for (i in 1:nrow(df){&#xA;      rasterVal &amp;lt;- df[i,1]&#xA;      rasterProb &amp;lt;- round(pnorm(rasterVal, mean = 0, sd = 5, lower.tail=FALSE), 2)&#xA;      df[i,2] &amp;lt;- rasterProb&#xA;    }&#xA;&#xA;Then I&#39;ll need to turn the dataframe back into a raster. The for loop seems to take a very, very long time. Even though it seems like an &#34;easy&#34; calculation, the raster does have a few million cells. Is there an approach I could use here that would be faster?</description>
     </item>
   </channel>
 </rss>
