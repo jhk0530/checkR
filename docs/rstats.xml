@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>MMM using R</title>
-      <link>https://reddit.com/r/rstats/comments/1kiihlw/mmm_using_r/</link>
-      <pubDate>Fri, 09 May 2025 13:28:08 +0000</pubDate>
-      <description>I want to do MMM model for paid ads campaigns. Maybe someone knows a good example using r? Robyn package works for channels but not for 100 and more campaigns.&#xA;</description>
+      <title>Need help to figure out how to implement LLM, AI, and predicting performance for tasks</title>
+      <link>https://reddit.com/r/rstats/comments/1kimv6h/need_help_to_figure_out_how_to_implement_llm_ai/</link>
+      <pubDate>Fri, 09 May 2025 16:32:57 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
