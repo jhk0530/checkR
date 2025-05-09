@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Happens every spring</title>
-      <link>https://reddit.com/r/rstats/comments/1kid6s5/happens_every_spring/</link>
-      <pubDate>Fri, 09 May 2025 08:05:18 +0000</pubDate>
-      <description></description>
+      <title>TypR: a statically typed version of the R programming language</title>
+      <link>https://reddit.com/r/rstats/comments/1kifnld/typr_a_statically_typed_version_of_the_r/</link>
+      <pubDate>Fri, 09 May 2025 10:59:09 +0000</pubDate>
+      <description>Written in Rust, this language aim to bring safety, modernity and ease of use for R, leading to better packages both maintainable and scalable !&#xA;&#xA;This project is still new and need some work to be ready to use&#xA;&#xA;The link to the repositity is [here](https://github.com/fabriceHategekimana/typr)</description>
     </item>
   </channel>
 </rss>
