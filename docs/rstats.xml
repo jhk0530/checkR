@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>i strongly enjoy rbind.fill</title>
-      <link>https://reddit.com/r/rstats/comments/1kiycke/i_strongly_enjoy_rbindfill/</link>
-      <pubDate>Sat, 10 May 2025 01:07:38 +0000</pubDate>
-      <description>i love using rbind.fill&#xA;&#xA;do.call(rbind.fill, list(x, y))&#xA;&#xA;its really comfy</description>
+      <title>BS in Mathematics or BS in Applied Mathematics?</title>
+      <link>https://reddit.com/r/rstats/comments/1kj9fk3/bs_in_mathematics_or_bs_in_applied_mathematics/</link>
+      <pubDate>Sat, 10 May 2025 12:44:45 +0000</pubDate>
+      <description>Hi everyone, thank you for reading. I&#39;m wondering whether I should enter into a BS in Mathematics or Applied Mathematics? I am interested in statistics and data science but I do not want to pigeonhole myself. Is going for Applied Mathematics somehow lesser than going for a BS in Maths? Is Applied Mathematics less rigorous? Considering I am interested in a field that is inherently applied, am I going to get lost in the formalism and proofs of a BS in Maths and loose sight of the specific know-how I want to have towards the end of my schooling? Or am I underestimating the ability a rigorous mathematical education gives one? I am afraid of getting lost in a field so abstract that I will be a very clever, book-smart person with zero employability towards the end, heh heh.</description>
     </item>
   </channel>
 </rss>
