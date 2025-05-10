@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Help with demographic apa table summary</title>
+      <link>https://reddit.com/r/RStudio/comments/1kji4wh/help_with_demographic_apa_table_summary/</link>
+      <pubDate>Sat, 10 May 2025 19:23:51 +0000</pubDate>
+      <description>Please help me, because I am loosing my mind over here. I am trying to make an apa summary table of my survey&#39;s demographic in r studio for my bachelor thesis. Tbl_summary works closest to what I want, but it has just one column with number of variable, no mean or SD in other column (I don&#39;t want it in the same column). It seems that I suck at making the EASIEST thing, because correlations and regressions I can do fine. Please help me, tutorials or solutions. I am looking for similar effect as the picture. Thank you!</description>
+    </item>
+    <item>
       <title>geom_bar()</title>
       <link>https://reddit.com/r/RStudio/comments/1kjhnpf/geom_bar/</link>
       <pubDate>Sat, 10 May 2025 19:01:55 +0000</pubDate>
