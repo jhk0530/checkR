@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Need help to figure out how to implement LLM, AI, and predicting performance for tasks</title>
-      <link>https://reddit.com/r/rstats/comments/1kimv6h/need_help_to_figure_out_how_to_implement_llm_ai/</link>
-      <pubDate>Fri, 09 May 2025 16:32:57 +0000</pubDate>
-      <description></description>
+      <title>i strongly enjoy rbind.fill</title>
+      <link>https://reddit.com/r/rstats/comments/1kiycke/i_strongly_enjoy_rbindfill/</link>
+      <pubDate>Sat, 10 May 2025 01:07:38 +0000</pubDate>
+      <description>i love using rbind.fill&#xA;&#xA;do.call(rbind.fill, list(x, y))&#xA;&#xA;its really comfy</description>
     </item>
   </channel>
 </rss>
