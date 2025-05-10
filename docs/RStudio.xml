@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help: extracting polar coordinates from contour images for a GAMMS analysis</title>
-      <link>https://reddit.com/r/RStudio/comments/1kjf480/help_extracting_polar_coordinates_from_contour/</link>
-      <pubDate>Sat, 10 May 2025 17:08:25 +0000</pubDate>
-      <description>Hi everyone, &#xA;&#xA;I have a rather complex question I need help with. I&#39;ve posted it on stack overflow but haven&#39;t received any responses. I have to link to the stack overflow post because there are images and an example dataset. Thank you!&#xA;&#xA;</description>
+      <title>geom_bar()</title>
+      <link>https://reddit.com/r/RStudio/comments/1kjhnpf/geom_bar/</link>
+      <pubDate>Sat, 10 May 2025 19:01:55 +0000</pubDate>
+      <description>SOS!!! &#xA;&#xA;I am a beginner in R and I&#39;m trying to teach myself starting with bar plots. I&#39;m using some fishing data from a friend&#39;s research. So far I&#39;ve learned to create data frames, and input data manually. I then learned to do the same thing but upload from an excel file. Now I am trying to manipulate raw data. &#xA;&#xA;In excel I did the tallies myself for practice but now with the raw data I need the total count for each species tallied. I want to have each individual species listed once on the x-axis and their total on the y. I was able to do it by making the tallies in excel but i cant figure out how to make it tally the count for each individual species if that makes sense. this is my current code that isn&#39;t working. &#xA;&#xA;  &#xA;please help! &#xA;&#xA;  &#xA;  ggplot(November\_raw\_practice, aes(x = reorder(Species, -Count), y = Count)) +&#xA;&#xA;  \# puts bars next to eachother, position = fill would make them stacked proportions, if it were blank it would show combined totals&#xA;&#xA;  geom\_bar(stat = &#39;identity&#39;, fill = &#39;steelblue&#39;) +&#xA;&#xA;  geom\_text(aes(label = Count), vjust = -0.3, size = 3.5) +&#xA;&#xA;  \# takes away gray default background&#xA;&#xA;  theme\_bw()+&#xA;&#xA;  theme(axis.text.x = element\_text(angle = 45, hjust = 1)) +&#xA;&#xA;  \# panel grid major/ minor leaves lines also&#xA;&#xA;  theme(panel.grid.major = element\_blank(),&#xA;&#xA;panel.grid.minor = element\_blank())+&#xA;&#xA;  theme(plot.title = element\_text(hjust = 0.5))&#xA;&#xA;  labs(title = &#34;Count of Species&#34;,&#xA;&#xA;x = &#39;Species&#39;,&#xA;&#xA;y = &#39;Count&#39;)&#xA;&#xA;&#xA;&#xA;https://preview.redd.it/obm9rvwt400f1.png?width=414&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e3ff4ff2523933fc4aca05d01d3bced61cc93ba1&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
