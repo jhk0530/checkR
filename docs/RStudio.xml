@@ -9,11 +9,5 @@
       <pubDate>Sat, 10 May 2025 20:33:48 +0000</pubDate>
       <description>Hello! I have a question. I have a dataset drup\_XR. I want to appoint significances between the means (the mean of the 3 repititions) of Dmax of the groups under the &#39;adj&#39; header (act, das, squ, tren, wat). Below is my code and I get this result: act: ab, das: a, squ: b, tren: a, wat: ab. But seeing that the mean of the squ group is highest, I want to appoint the letter a to it (instead of b). Is it possible to just manually reverse it like this: act: ab, das: b, squ: a, tren: b, wat: ab, or is this statistically incorrect? Anyway, I would like to know how to code this in r with it still being statistically correct. I have to do this 100 more times, so an elegant solution would be helpful. Help :&#39;(.&#xA;&#xA;https://preview.redd.it/utnudgd7m00f1.png?width=326&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ba52e434911bb30957be1ff07b7aa5ac00d10d58&#xA;&#xA; &#xA;&#xA;&#34;shapiro.test(drup\_XR$Dmax)&#xA;&#xA;leveneTest(drup\_XR$Dmax,drup\_XR$adj)&#xA;&#xA; &#xA;&#xA;kruskal.test(Dmax \~ adj, data = drup\_XR)&#xA;&#xA;dunn\_result &amp;lt;- dunn.test(drup\_XR$Dmax, drup\_XR$adj, method = &#34;bonferroni&#34;)&#xA;&#xA; &#xA;&#xA;dunn\_result\_df &amp;lt;- as.data.frame(dunn\_result)&#xA;&#xA;cld\_list\_sizea &amp;lt;- cldList(P.adjusted \~ comparisons, data = dunn\_result\_df)&#xA;&#xA;print(cld\_list\_sizea)&#34;</description>
     </item>
-    <item>
-      <title>Help with demographic apa table summary</title>
-      <link>https://reddit.com/r/RStudio/comments/1kji4wh/help_with_demographic_apa_table_summary/</link>
-      <pubDate>Sat, 10 May 2025 19:23:51 +0000</pubDate>
-      <description>Please help me, because I am loosing my mind over here. I am trying to make an apa summary table of my survey&#39;s demographic in r studio for my bachelor thesis. Tbl_summary works closest to what I want, but it has just one column with number of variable, no mean or SD in other column (I don&#39;t want it in the same column). It seems that I suck at making the EASIEST thing, because correlations and regressions I can do fine. Please help me, tutorials or solutions. I am looking for similar effect as the picture. Thank you!</description>
-    </item>
   </channel>
 </rss>
