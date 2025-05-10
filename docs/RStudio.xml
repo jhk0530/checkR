@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>When RStudio crashes mid-pipe and you havent saved since the Precambrian era</title>
-      <link>https://reddit.com/r/RStudio/comments/1kiomqh/when_rstudio_crashes_midpipe_and_you_havent_saved/</link>
-      <pubDate>Fri, 09 May 2025 17:45:48 +0000</pubDate>
-      <description>Why is RStudio always like “what if... you didn’t need that script you’ve been writing for 3 hours?” Meanwhile, Python folks are over there acting smug with autosave like it’s a human right. We suffer, we Ctrl+S like it&#39;s a religion. Press F to pay respects - or better, press Save.</description>
+      <title>Help: extracting polar coordinates from contour images for a GAMMS analysis</title>
+      <link>https://reddit.com/r/RStudio/comments/1kjf480/help_extracting_polar_coordinates_from_contour/</link>
+      <pubDate>Sat, 10 May 2025 17:08:25 +0000</pubDate>
+      <description>Hi everyone, &#xA;&#xA;I have a rather complex question I need help with. I&#39;ve posted it on stack overflow but haven&#39;t received any responses. I have to link to the stack overflow post because there are images and an example dataset. Thank you!&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
