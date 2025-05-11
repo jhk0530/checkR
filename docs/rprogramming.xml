@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Error in table(FEATS, NE) : all arguments must have the same length (RStudio)</title>
-      <link>https://reddit.com/r/rprogramming/comments/1khzqay/error_in_tablefeats_ne_all_arguments_must_have/</link>
-      <pubDate>Thu, 08 May 2025 20:03:11 +0000</pubDate>
-      <description>This is done in RStudio&#xA;&#xA;I am trying to do multiple barplots, between my qualitative and discete variables. I have removed some NA&#39;s and replaced NA&#39;s through linear regression.  &#xA;For the removal of NA&#39;s I used:&#xA;&#xA;`omit=(which(apply(is.na(Data), 1, sum)&amp;gt;=2))`&#xA;&#xA;`Data=Data[-omit,]`&#xA;&#xA;After that, i wrote this code&#xA;&#xA;`barplot(prop.table(table(FEATS, NE)))` which is what am asked to do , FEATS=features, NE=NorthEast&#xA;&#xA;and when I run the code, it give me this message &#34;Error in table(FEATS, NE) : all arguments must have the same length&#34; &#xA;&#xA;Then I use the length() to see why is happening and there is a difference in the length, qualitative variables NE and COR(corner) have 117 lenght, while the others have 109. &#xA;&#xA;How can I make them the same length? </description>
+      <title>Roast my system design - prepare for interview</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kk9235/roast_my_system_design_prepare_for_interview/</link>
+      <pubDate>Sun, 11 May 2025 19:24:55 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
