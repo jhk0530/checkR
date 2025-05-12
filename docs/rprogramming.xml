@@ -4,6 +4,18 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Excel to R date time conversion</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kl0eue/excel_to_r_date_time_conversion/</link>
+      <pubDate>Mon, 12 May 2025 18:44:05 +0000</pubDate>
+      <description>I am working with an excel data set that I download from a companies website and am needing to pull just the date from a date time string provided. The issue I am running into is when I have R read the data set, the date time values are being read numerically, such as 45767, which to my understanding is days from origin which is 1899-12-30 for excel. I am struggling to get R to convert this numeric value to a date value and adjust for the differences in origins, can anyone provide me with a chunk of code that can process this properly or instruction on how to deal with this issue?</description>
+    </item>
+    <item>
+      <title>Disease Outbreak Mapping, Open Source, and Outreach - Unijos R Users Group in Nigeria Leads the Way</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kl06b4/disease_outbreak_mapping_open_source_and_outreach/</link>
+      <pubDate>Mon, 12 May 2025 18:35:02 +0000</pubDate>
+      <description></description>
+    </item>
+    <item>
       <title>Thoughts on the show “Pantheon?”</title>
       <link>https://reddit.com/r/rprogramming/comments/1kkzl7g/thoughts_on_the_show_pantheon/</link>
       <pubDate>Mon, 12 May 2025 18:11:59 +0000</pubDate>

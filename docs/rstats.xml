@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Question about normality testing and non-parametric tests</title>
-      <link>https://reddit.com/r/rstats/comments/1kkn5i7/question_about_normality_testing_and/</link>
-      <pubDate>Mon, 12 May 2025 08:09:36 +0000</pubDate>
-      <description>Hello everyone !&#xA;&#xA;  &#xA;So that&#39;s something that I feel comes up a lot in statistics forum, subreddit and stackexchange discussion, but given that I don&#39;t have a formal training in statistics (I learned stats through an R specialisation for biostatistics and lot of self-teaching) I don&#39;t really understand this whole debate.&#xA;&#xA;&#xA;&#xA;It seems like some kind of consensus is forming/has been formed that testing for normality with a Pearson/Spearman/Bartlett/Levene before choosing the appropriate test is a bad thing (for reason I still have a hard time understanding too).&#xA;&#xA;&#xA;&#xA;Would that mean that unless your data follow the Central Limit Theorem, in which case you would just go with a Student&#39;s or an ANOVA directly, it&#39;s better to automatically chose a non-parametric test such as a Mann-Whitney or a Kruskal-Wallis ?&#xA;&#xA;Thanks for the answer (and please, explain like I&#39;m five !)</description>
+      <title>Disease Outbreak Mapping, Open Source, and Outreach - Unijos R Users Group in Nigeria Leads the Way</title>
+      <link>https://reddit.com/r/rstats/comments/1kl05q5/disease_outbreak_mapping_open_source_and_outreach/</link>
+      <pubDate>Mon, 12 May 2025 18:34:25 +0000</pubDate>
+      <description>Iko Musa, founder of the Unijos R Users Group at the University of Jos (UNIJOS), Nigeria, spoke with the R Consortium about how the group built an inclusive and cross-disciplinary R community in northern Nigeria.&#xA;&#xA;Iko explained how the group supported students and professionals in transitioning from proprietary tools like SPSS to R. &#xA;&#xA;He highlighted their efforts to improve accessibility through online sessions, providing internet support for undergraduates, and hosting practical events like a recent Meetup on outbreak mapping in R.&#xA;&#xA;[https://r-consortium.org/posts/disease-outbreak-mapping-open-source-and-outreach-unijos-r-users-group-in-nigeria-leads-the-way/](https://r-consortium.org/posts/disease-outbreak-mapping-open-source-and-outreach-unijos-r-users-group-in-nigeria-leads-the-way/)</description>
     </item>
   </channel>
 </rss>
