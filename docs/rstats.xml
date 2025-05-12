@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Disease Outbreak Mapping, Open Source, and Outreach - Unijos R Users Group in Nigeria Leads the Way</title>
-      <link>https://reddit.com/r/rstats/comments/1kl05q5/disease_outbreak_mapping_open_source_and_outreach/</link>
-      <pubDate>Mon, 12 May 2025 18:34:25 +0000</pubDate>
-      <description>Iko Musa, founder of the Unijos R Users Group at the University of Jos (UNIJOS), Nigeria, spoke with the R Consortium about how the group built an inclusive and cross-disciplinary R community in northern Nigeria.&#xA;&#xA;Iko explained how the group supported students and professionals in transitioning from proprietary tools like SPSS to R. &#xA;&#xA;He highlighted their efforts to improve accessibility through online sessions, providing internet support for undergraduates, and hosting practical events like a recent Meetup on outbreak mapping in R.&#xA;&#xA;[https://r-consortium.org/posts/disease-outbreak-mapping-open-source-and-outreach-unijos-r-users-group-in-nigeria-leads-the-way/](https://r-consortium.org/posts/disease-outbreak-mapping-open-source-and-outreach-unijos-r-users-group-in-nigeria-leads-the-way/)</description>
+      <title>Was there ever a &#34;Kable&#34; stand-alone package? (Not Knitr or KableExtra)</title>
+      <link>https://reddit.com/r/rstats/comments/1kl3gwi/was_there_ever_a_kable_standalone_package_not/</link>
+      <pubDate>Mon, 12 May 2025 20:44:18 +0000</pubDate>
+      <description>I was opening a copy of one of my team&#39;s old RMDs in an isolated renv environment for a new task.&#xA;&#xA;I looked at the packages I was loading. I saw that I loaded a package called `kable`, which was separate from knitr and KableExtra.&#xA;&#xA;I can not find any evidence of a package by this name ever existing on CRAN or via a web search. These searches return only references to the function `knitr::kable()` and the `KableExtra` package.&#xA;&#xA;The fact that we were loading it suggests that we did so for a reason, but I can not for the life of me find it on my computer or anywhere else. I even asked my boss (the only other person who uses R on my team) if she knew anything about it, and she did not. We both vaguely remember it existing, but neither of us can tell you where.&#xA;&#xA;Was there ever a package that went by that name?&#xA;&#xA;Was this a strange team-size hallucination?&#xA;&#xA;  &#xA;\*Edit: Fixed a typo</description>
     </item>
   </channel>
 </rss>
