@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R</title>
-      <link>https://reddit.com/r/RStudio/comments/1klj86l/r/</link>
-      <pubDate>Tue, 13 May 2025 11:12:13 +0000</pubDate>
-      <description>For my master&#39;s thesis, I am utilizing an ARDL-PMG model to analyze panel data of European countries in order to differentiate between short- and long-term effects. I am currently coding my model in R, but I can not find any resources on the internet that can guide me in setting up my model in RStudio; I only see resources that utilize EViews or Stata. I am not very savvy when it comes to coding. Does someone perhaps know of a website or forum where there are instructions as to how to code an ARDL-PMG model within RStudio?</description>
+      <title>Data analysis and Interpretation. Academic Research. How do I start?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kljrqk/data_analysis_and_interpretation_academic/</link>
+      <pubDate>Tue, 13 May 2025 11:43:11 +0000</pubDate>
+      <description>As part of my academic paper, I aim to investigate the following research question:&#xA;&#xA;&amp;gt;“How do sociodemographic factors, study behavior, and external commitments influence students’ academic performance?”&#xA;&#xA;So I know that I need to clean the data. I already removed useless variables and renamed the double ones. I assigned the useful variables to the hypothesis. I know that I have to define all variables either as nominal or  ordinal, that&#39;s what I was going to do next.&#xA;&#xA;What I really need would be a YouTube series or somebody who has some experience and tells me what to do and why I would do it. I have 0 experience in R and actually just want to research this topic.&#xA;&#xA;The reason why I am not just getting somebody on fiver is that, I think I might write a better conclusion if I really worked with the numbers/code and so on myself.&#xA;&#xA;To this end, I have already:&#xA;&#xA;* selected the dataset (I can link it if you want),&#xA;* 146 students, 32 variables&#xA;* formulated a research question,&#xA;* defined 3 hypotheses,&#xA;* assigned the relevant variables to each hypothesis.&#xA;&#xA;I am seeking support in performing the statistical analysis using **R**, with a particular focus on:&#xA;&#xA;* error-free code and correct choice of statistical methods,&#xA;* a transparent and reproducible approach,&#xA;* accurate data preprocessing, modeling, and analysis.&#xA;&#xA;**Note**: The analysis must **not** include individual hypothesis tests&#xA;&#xA;# </description>
     </item>
   </channel>
 </rss>
