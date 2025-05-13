@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Inter rater reliability in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1kllj0v/inter_rater_reliability_in_r/</link>
+      <pubDate>Tue, 13 May 2025 13:09:37 +0000</pubDate>
+      <description>Hi everyone,&#xA;&#xA;For my master thesis i need to calculate the inter rater reliability of different raters. I&#39;m working with 4 raters and 3 different subjects. It tried Krippendorff&#39;s alpha in R and it seems like Krippendorff&#39;s alpha doesn&#39;t work because if 3 raters rate the subject the same and 1 rater rates slightly different the Krippendorff&#39;s alpha will be zero or even slightly negative (-0.006). I saw someone on reddit comment: &#39;&#39;If a coder gave the same rating to every item, you have no way of knowing if the coder was great, or was coding with their eyes shut.&#39;&#39; but soome of the subjects are always rated the same because that&#39;s just how the situation was.&#xA;&#xA;To paint a picture: Every rater rates the subject from 1 to 4, with 1 being bad and 4 being great, on different levels (but still on the same subject). I was wondering if anyone can help finding another inter rater reliability test is more applicable here? I was thinking of Fleiss&#39; Kappa but i&#39;m not sure if i&#39;ll run into the same problem again!&#xA;&#xA;Thank you for reading and for your time!</description>
+    </item>
+    <item>
       <title>Data analysis and Interpretation. Academic Research. How do I start?</title>
       <link>https://reddit.com/r/RStudio/comments/1kljrqk/data_analysis_and_interpretation_academic/</link>
       <pubDate>Tue, 13 May 2025 11:43:11 +0000</pubDate>
