@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Statistical Analysis Guidance in RStudio for Amphibian Ecology Study</title>
-      <link>https://reddit.com/r/rstats/comments/1kljx2j/statistical_analysis_guidance_in_rstudio_for/</link>
-      <pubDate>Tue, 13 May 2025 11:51:05 +0000</pubDate>
-      <description>Hello,&#xA;&#xA;I am currently undertaking an internship as part of my Master&#39;s program in Ecology and am encountering challenges in selecting appropriate statistical analyses to perform in RStudio. My research focuses on the relationships between various ecological factors and the presence of amphibians in forest ponds.&#xA;&#xA;I would appreciate guidance on the appropriate analytical approaches for the following cases, specifying the types of variables involved:&#xA;&#xA;1. Relationship between the presence of indicator amphibians and the ecological status of ponds&#xA;   * *Indicator amphibian presence/absence*: binary&#xA;   * *Ecological status of ponds*: categorical (e.g., degraded, moderate, good)&#xA;2. Relationship between amphibian species richness and the functional connectivity of aquatic habitats&#xA;   * *Amphibian species richness*: continuous&#xA;   * *Functional connectivity*: continuous&#xA;3. Relationship between the presence of indicator amphibians and the functional connectivity of aquatic habitats&#xA;   * *Indicator amphibian presence/absence*: binary&#xA;   * *Functional connectivity*: continuous&#xA;4. Relationship between the combined effect of functional connectivity and pond ecological status on the presence of indicator amphibians&#xA;   * *Ecological status of ponds*: categorical&#xA;   * *Functional connectivity*: continuous&#xA;   * *Indicator amphibian presence/absence*: binary&#xA;&#xA;For each scenario, I seek advice on:&#xA;&#xA;* Selecting suitable statistical tests or models&#xA;* Verifying model assumptions (e.g., normality, homoscedasticity, independence)&#xA;* Addressing violations of these assumptions (e.g., data transformations, alternative models)&#xA;* Analyzing final models and interpreting residuals&#xA;&#xA;Thank you in advance for your assistance.</description>
+      <title>preserve legend position with multiple legends</title>
+      <link>https://reddit.com/r/rstats/comments/1klmac5/preserve_legend_position_with_multiple_legends/</link>
+      <pubDate>Tue, 13 May 2025 13:43:44 +0000</pubDate>
+      <description>I have a plot that has two legends, one for shape and one for color.  When my color factor has 3 values in the data, the color legend is above the shape legend.  But when both factors have 2 values in the data, the shape is on top and the color below.&#xA;&#xA;How can I keep the color on top?</description>
     </item>
   </channel>
 </rss>
