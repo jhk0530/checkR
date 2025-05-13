@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Excel to R date time conversion</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kl0eue/excel_to_r_date_time_conversion/</link>
-      <pubDate>Mon, 12 May 2025 18:44:05 +0000</pubDate>
-      <description>I am working with an excel data set that I download from a companies website and am needing to pull just the date from a date time string provided. The issue I am running into is when I have R read the data set, the date time values are being read numerically, such as 45767, which to my understanding is days from origin which is 1899-12-30 for excel. I am struggling to get R to convert this numeric value to a date value and adjust for the differences in origins, can anyone provide me with a chunk of code that can process this properly or instruction on how to deal with this issue?</description>
-    </item>
-    <item>
-      <title>Disease Outbreak Mapping, Open Source, and Outreach - Unijos R Users Group in Nigeria Leads the Way</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kl06b4/disease_outbreak_mapping_open_source_and_outreach/</link>
-      <pubDate>Mon, 12 May 2025 18:35:02 +0000</pubDate>
-      <description></description>
+      <title>Renaming multiple CSV files to match pattern</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kluyvr/renaming_multiple_csv_files_to_match_pattern/</link>
+      <pubDate>Tue, 13 May 2025 19:27:52 +0000</pubDate>
+      <description>I have a number of files that I am working with that have an older naming system that is set up as ####_### with the first four digits being day and month (ddmm). The last 3 digits are the sequential order of the file from production (i.e. _001, _002, _003…). Our new file naming systems is ########. The first four are the file production order (0001, 0002, 0003…) and the last four are day month (ddmm)&#xA;&#xA;Old file naming example: 0403_012, 0403_013, 0503_014…&#xA;&#xA;New file naming example: 00120403, 00130403, 00140503…&#xA;&#xA;I am needing to rename the old files to match the new naming format so that they are in sequential order. I’m hoping this will also eliminate the ordering issue due to day and month being recorded as 0000_ for some of the old files.&#xA;&#xA;And suggestions, libraries, strings of code will be helpful on how to do this.&#xA;</description>
     </item>
   </channel>
 </rss>
