@@ -9,11 +9,5 @@
       <pubDate>Tue, 13 May 2025 15:50:33 +0000</pubDate>
       <description>I&#39;m working on a university project implementing Bayesian Weibull Survival Regression and I&#39;m looking for an interesting, non-medical dataset to demonstrate the model&#39;s applications.&#xA;&#xA;While survival analysis is commonly applied to medical data, I&#39;d like to explore more creative or unconventional applications to showcase the versatility of this statistical approach.&#xA;&#xA;Any suggestions for publicly available datasets would be greatly appreciated!</description>
     </item>
-    <item>
-      <title>Method for analysis (MMM, bayesian MMM)</title>
-      <link>https://reddit.com/r/rstats/comments/1klndil/method_for_analysis_mmm_bayesian_mmm/</link>
-      <pubDate>Tue, 13 May 2025 14:29:17 +0000</pubDate>
-      <description>Hello, i need some help to understand what method to use for my analysis. I have digital ads data (campaign level) from meta, tiktok and google ads. The marketing team wants to see similar results to foshpa (campaign optimization). main metric needed is roas and comparison between modeled one to real one for each campaign. I have each campaigns revenue, which summed up probably is inflated as different platforms might attribute the same orders ( I believe that might be a problem). My data is aggregated weekly i have such metrics as revenue, clicks, impressions and spend. What method would you suggest, similar to MMM but have in mind that i have over 100 campaigns. </description>
-    </item>
   </channel>
 </rss>
