@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Method for analysis (MMM, bayesian MMM)</title>
+      <link>https://reddit.com/r/rstats/comments/1klndil/method_for_analysis_mmm_bayesian_mmm/</link>
+      <pubDate>Tue, 13 May 2025 14:29:17 +0000</pubDate>
+      <description>Hello, i need some help to understand what method to use for my analysis. I have digital ads data (campaign level) from meta, tiktok and google ads. The marketing team wants to see similar results to foshpa (campaign optimization). main metric needed is roas and comparison between modeled one to real one for each campaign. I have each campaigns revenue, which summed up probably is inflated as different platforms might attribute the same orders ( I believe that might be a problem). My data is aggregated weekly i have such metrics as revenue, clicks, impressions and spend. What method would you suggest, similar to MMM but have in mind that i have over 100 campaigns. </description>
+    </item>
+    <item>
       <title>preserve legend position with multiple legends</title>
       <link>https://reddit.com/r/rstats/comments/1klmac5/preserve_legend_position_with_multiple_legends/</link>
       <pubDate>Tue, 13 May 2025 13:43:44 +0000</pubDate>
