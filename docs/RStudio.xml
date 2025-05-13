@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>multiple linear regression visualization</title>
-      <link>https://reddit.com/r/RStudio/comments/1kl82ce/multiple_linear_regression_visualization/</link>
-      <pubDate>Tue, 13 May 2025 00:03:36 +0000</pubDate>
-      <description>how do people usually visualize multiple lin regs? or do you just report the results?</description>
+      <title>R</title>
+      <link>https://reddit.com/r/RStudio/comments/1klj86l/r/</link>
+      <pubDate>Tue, 13 May 2025 11:12:13 +0000</pubDate>
+      <description>For my master&#39;s thesis, I am utilizing an ARDL-PMG model to analyze panel data of European countries in order to differentiate between short- and long-term effects. I am currently coding my model in R, but I can not find any resources on the internet that can guide me in setting up my model in RStudio; I only see resources that utilize EViews or Stata. I am not very savvy when it comes to coding. Does someone perhaps know of a website or forum where there are instructions as to how to code an ARDL-PMG model within RStudio?</description>
     </item>
   </channel>
 </rss>
