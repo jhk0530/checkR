@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Dataset suggestion for Bayesian Weibull Survival regression</title>
-      <link>https://reddit.com/r/rstats/comments/1klperl/dataset_suggestion_for_bayesian_weibull_survival/</link>
-      <pubDate>Tue, 13 May 2025 15:50:33 +0000</pubDate>
-      <description>I&#39;m working on a university project implementing Bayesian Weibull Survival Regression and I&#39;m looking for an interesting, non-medical dataset to demonstrate the model&#39;s applications.&#xA;&#xA;While survival analysis is commonly applied to medical data, I&#39;d like to explore more creative or unconventional applications to showcase the versatility of this statistical approach.&#xA;&#xA;Any suggestions for publicly available datasets would be greatly appreciated!</description>
+      <title>Can not run R markdown</title>
+      <link>https://reddit.com/r/rstats/comments/1klufno/can_not_run_r_markdown/</link>
+      <pubDate>Tue, 13 May 2025 19:06:09 +0000</pubDate>
+      <description>Hi!&#xA;&#xA;I&#39;m facing this frusting error when i knit an r markdown document&#xA;&#xA;Error: could not find function &#34;install.packages&#34;  &#xA;Execution halted&#xA;&#xA;  &#xA;I have tried to reinstall R and Rstudio like 4 times still didn&#39;t work.&#xA;&#xA;Any help will be appreciated</description>
     </item>
   </channel>
 </rss>
