@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help to appoint significances</title>
-      <link>https://reddit.com/r/RStudio/comments/1kjjnt1/help_to_appoint_significances/</link>
-      <pubDate>Sat, 10 May 2025 20:33:48 +0000</pubDate>
-      <description>Hello! I have a question. I have a dataset drup\_XR. I want to appoint significances between the means (the mean of the 3 repititions) of Dmax of the groups under the &#39;adj&#39; header (act, das, squ, tren, wat). Below is my code and I get this result: act: ab, das: a, squ: b, tren: a, wat: ab. But seeing that the mean of the squ group is highest, I want to appoint the letter a to it (instead of b). Is it possible to just manually reverse it like this: act: ab, das: b, squ: a, tren: b, wat: ab, or is this statistically incorrect? Anyway, I would like to know how to code this in r with it still being statistically correct. I have to do this 100 more times, so an elegant solution would be helpful. Help :&#39;(.&#xA;&#xA;https://preview.redd.it/utnudgd7m00f1.png?width=326&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ba52e434911bb30957be1ff07b7aa5ac00d10d58&#xA;&#xA; &#xA;&#xA;&#34;shapiro.test(drup\_XR$Dmax)&#xA;&#xA;leveneTest(drup\_XR$Dmax,drup\_XR$adj)&#xA;&#xA; &#xA;&#xA;kruskal.test(Dmax \~ adj, data = drup\_XR)&#xA;&#xA;dunn\_result &amp;lt;- dunn.test(drup\_XR$Dmax, drup\_XR$adj, method = &#34;bonferroni&#34;)&#xA;&#xA; &#xA;&#xA;dunn\_result\_df &amp;lt;- as.data.frame(dunn\_result)&#xA;&#xA;cld\_list\_sizea &amp;lt;- cldList(P.adjusted \~ comparisons, data = dunn\_result\_df)&#xA;&#xA;print(cld\_list\_sizea)&#34;</description>
+      <title>multiple linear regression visualization</title>
+      <link>https://reddit.com/r/RStudio/comments/1kl82ce/multiple_linear_regression_visualization/</link>
+      <pubDate>Tue, 13 May 2025 00:03:36 +0000</pubDate>
+      <description>how do people usually visualize multiple lin regs? or do you just report the results?</description>
     </item>
   </channel>
 </rss>
