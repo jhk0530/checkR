@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Can not run R markdown</title>
-      <link>https://reddit.com/r/rstats/comments/1klufno/can_not_run_r_markdown/</link>
-      <pubDate>Tue, 13 May 2025 19:06:09 +0000</pubDate>
-      <description>Hi!&#xA;&#xA;I&#39;m facing this frusting error when i knit an r markdown document&#xA;&#xA;Error: could not find function &#34;install.packages&#34;  &#xA;Execution halted&#xA;&#xA;  &#xA;I have tried to reinstall R and Rstudio like 4 times still didn&#39;t work.&#xA;&#xA;Any help will be appreciated</description>
+      <title>Course for ur CV</title>
+      <link>https://reddit.com/r/rstats/comments/1kmd0zr/course_for_ur_cv/</link>
+      <pubDate>Wed, 14 May 2025 11:43:51 +0000</pubDate>
+      <description>Hi everyone, I&#39;m just getting started with R (to pursue a PhD).   &#xA;Do you know of a course that gives a certificate to put on the resume?  &#xA;Thanks :)   &#xA;</description>
     </item>
   </channel>
 </rss>
