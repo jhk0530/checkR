@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>CardioDataSets Package</title>
-      <link>https://reddit.com/r/RStudio/comments/1klu8gl/cardiodatasets_package/</link>
-      <pubDate>Tue, 13 May 2025 18:58:30 +0000</pubDate>
-      <description>💻install.packages(&#34;CardioDataSets&#34;) 📦❤️📊&#xA;&#xA;📖 https://lightbluetitan.github.io/cardiodatasets/&#xA;&#xA;The CardioDataSets package offers a diverse collection of datasets focused on heart and cardiovascular research. It covers topics such as heart disease, myocardial infarction, heart failure, aortic dissection, cardiovascular risk factors, clinical outcomes, drug effects, and mortality trends.&#xA;&#xA;#rstats #rstudio #coding #programming #opensource #datascience #stats #developer #heart #health #medicine #da</description>
+      <title>How to reference code snippet in Rmd?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kml4kw/how_to_reference_code_snippet_in_rmd/</link>
+      <pubDate>Wed, 14 May 2025 17:29:04 +0000</pubDate>
+      <description>  &#xA;I am generating a pdf from the Rmd and I would like the code snippet to show as a listing and the ability to reference it.&#xA;&#xA;  &#xA;Here is an SQL code snippet (I do not need to run it, I just want to show it as a listing). Note: I am using a latex template and have the following &#xA;&#xA;documentclass: book&#xA;&#xA;output: &#xA;&#xA;  bookdown::pdf\_document2:&#xA;&#xA;template: main.tex&#xA;&#xA;citation\_package: biblatex&#xA;&#xA;&#xA;&#xA;\`\`\`{r clabel, echo=TRUE, eval=FALSE, caption=&#34;some caption&#34;}&#xA;&#xA;SELECT \* FROM TABLE;&#xA;&#xA;\`\`\`&#xA;&#xA;I tried many ways to reference this code snippet but none of the below worked.   &#xA;  &#xA;\\@ref(clabel)&#xA;&#xA;\\@ref(code:clabel)&#xA;&#xA;\\@ref(fig:clabel)&#xA;&#xA;&#xA;&#xA;Any idea on how to reference the code snippet?</description>
     </item>
   </channel>
 </rss>
