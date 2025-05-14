@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Renaming multiple CSV files to match pattern</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kluyvr/renaming_multiple_csv_files_to_match_pattern/</link>
-      <pubDate>Tue, 13 May 2025 19:27:52 +0000</pubDate>
-      <description>I have a number of files that I am working with that have an older naming system that is set up as ####_### with the first four digits being day and month (ddmm). The last 3 digits are the sequential order of the file from production (i.e. _001, _002, _003…). Our new file naming systems is ########. The first four are the file production order (0001, 0002, 0003…) and the last four are day month (ddmm)&#xA;&#xA;Old file naming example: 0403_012, 0403_013, 0503_014…&#xA;&#xA;New file naming example: 00120403, 00130403, 00140503…&#xA;&#xA;I am needing to rename the old files to match the new naming format so that they are in sequential order. I’m hoping this will also eliminate the ordering issue due to day and month being recorded as 0000_ for some of the old files.&#xA;&#xA;And suggestions, libraries, strings of code will be helpful on how to do this.&#xA;</description>
+      <title>Loops and functions - send a noob a bone</title>
+      <link>https://reddit.com/r/rprogramming/comments/1km4wr7/loops_and_functions_send_a_noob_a_bone/</link>
+      <pubDate>Wed, 14 May 2025 02:58:21 +0000</pubDate>
+      <description>I am pretty new to R and this is doing my sleep deprived brain in... &#xA;&#xA;I have a list of dataframes that I need to make all the exact same set of functions to. I cant figure out how to make loops work for this - I have also tried making the steps a function and that is coming unstuck also when I try to use a list.&#xA;&#xA;DfNewMMYY %&amp;gt;% DfOldMMYY&#xA;&#xA;  mutate(ChangeVar1=((Var1.x-Var1.y)/Var1.x))%&amp;gt;%&#xA;&#xA;  mutate(ChangeVar2=((Var2.x-Var2.y)/Var2.x))%&amp;gt;%&#xA;&#xA;  mutate (ChangeVar3=((Var3.x-Var3.y)/Var3.x))%&amp;gt;%&#xA;&#xA;  select(c(&#34;VarQ&#34;, &#34;VarP&#34; , &#34;year&#34; , &#34;month.y&#34; , &#34;Var1.y&#34; , &#34;Var2.y&#34; , &#34;Var3.y&#34;, &#34;ChangeVar1&#34;, &#34;ChangeVar2&#34;,&#34;ChangeVar3&#34;))&#xA;&#xA;That same exact thing to 10 Df. Every online help I can see uses the list and loop examples of functions that just &#34;print()&#34; which is not helpful in my context and I cant get it to work. </description>
     </item>
   </channel>
 </rss>
