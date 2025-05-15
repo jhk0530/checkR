@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>rv, a project based package manager</title>
-      <link>https://reddit.com/r/rstats/comments/1kmhh5n/rv_a_project_based_package_manager/</link>
-      <pubDate>Wed, 14 May 2025 15:04:18 +0000</pubDate>
-      <description>Hello there,&#xA;&#xA;We have been building a package manager for R inspired by Cargo in Rust.&#xA;The main idea behind rv is to be explicit about the R version in use as well as declaring which dependencies are used in a `rproject.toml` file. There&#39;s no renv::snapshot equivalent, everything needs to be declared up front, the config file (and resulting lockfile) is the source of truth.&#xA;&#xA;If you have used Cargo/npm/any Python package manager/etc, it will be very familiar. We&#39;ve been replacing most (all?) of our renv usage internally with rv so it&#39;s pretty usable already.&#xA;&#xA;The repo  is https://github.com/A2-ai/rv if you want to check it out!</description>
-    </item>
-    <item>
-      <title>Just nostalgically posting that it’d be nice to run an OLS model again one day…</title>
-      <link>https://reddit.com/r/rstats/comments/1kmgau2/just_nostalgically_posting_that_itd_be_nice_to/</link>
-      <pubDate>Wed, 14 May 2025 14:16:50 +0000</pubDate>
-      <description>Been doing data work for about 12 years now.&#xA;&#xA;Probably haven’t run a single numeric algorithm in like 2 years. Just NLP, regex, engineering UIs, and AI prompting.&#xA;&#xA;I’d love to make a quantitative graph again one day.</description>
+      <title>consolidating ggplot guide_legend specification</title>
+      <link>https://reddit.com/r/rstats/comments/1kn6qn5/consolidating_ggplot_guide_legend_specification/</link>
+      <pubDate>Thu, 15 May 2025 12:18:12 +0000</pubDate>
+      <description>I have a plot with color, shape, alpha, and size determined by a factor.  Right now, in guides(), I have a guide\_legend(position=&#39;inside&#39;) for each of the features (color, size, etc).  Is there a way to say I want the same guide\_legend() for a list of features?</description>
     </item>
   </channel>
 </rss>
