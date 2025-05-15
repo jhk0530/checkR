@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>What are some biggest advancement in R in the last few years?</title>
+      <link>https://reddit.com/r/rstats/comments/1kn8kqc/what_are_some_biggest_advancement_in_r_in_the/</link>
+      <pubDate>Thu, 15 May 2025 13:44:26 +0000</pubDate>
+      <description>I started using R 15+ years ago and reached a level where I would consider myself an expert but haven&#39;t done much coding in R besides some personal toy projects in the last 5 years due to moving more into a leadership role. &#xA;&#xA;I still very much love R and want to get back into it. I saw the introduction and development of Rstudio, Shiny, RMarkdown and Tidyverse. What has been some new development in the past 5 years that I should be aware of as I get back into utilizing R to its full potential?</description>
+    </item>
+    <item>
       <title>consolidating ggplot guide_legend specification</title>
       <link>https://reddit.com/r/rstats/comments/1kn6qn5/consolidating_ggplot_guide_legend_specification/</link>
       <pubDate>Thu, 15 May 2025 12:18:12 +0000</pubDate>
