@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Running statistical tests multiple times at once</title>
-      <link>https://reddit.com/r/RStudio/comments/1kmmp9w/running_statistical_tests_multiple_times_at_once/</link>
-      <pubDate>Wed, 14 May 2025 18:31:09 +0000</pubDate>
-      <description>I don’t know exactly how to word this, but I basically need to run stat tests (wilcoxon, chi-squared) for ~100 different organisms, and I am looking for a way to not have to do it all manually while extracting the test statistics, p-values, and confidence intervals. I also need to run the same tests just for the top 20 values for each organism. I’ve looked at dplyr and have gotten to the point i can isolate the top 20 values per organism, but it does this weird thing where it doesn’t take exactly the top 20 values. Sorry this was kind of a word salad, but any thoughts on how I could do this? I’m trying to avoid asking chatGPT.</description>
+      <title>R studio keeps opening up old code</title>
+      <link>https://reddit.com/r/RStudio/comments/1kn0bm8/r_studio_keeps_opening_up_old_code/</link>
+      <pubDate>Thu, 15 May 2025 05:17:34 +0000</pubDate>
+      <description>Hi everyone&#xA;&#xA;I had a project on R markdown that I saved multiple times in the last night. Today my computer restarted randomly and when I opened it my code was there. However, once I ran it again it went back to a really old version of the code (like two weeks ago), and when I reopen the saved R markdown file it keeps opening up that old version as if it had rewritten it. I know I saved my code and my history appears clean. Sometimes when I reopen it opens the new code but randomly closes again when I try to run it and goes back to the old version. Please I need to get back my old code.</description>
     </item>
   </channel>
 </rss>
