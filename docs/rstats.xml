@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>What are some biggest advancement in R in the last few years?</title>
-      <link>https://reddit.com/r/rstats/comments/1kn8kqc/what_are_some_biggest_advancement_in_r_in_the/</link>
-      <pubDate>Thu, 15 May 2025 13:44:26 +0000</pubDate>
-      <description>I started using R 15+ years ago and reached a level where I would consider myself an expert but haven&#39;t done much coding in R besides some personal toy projects in the last 5 years due to moving more into a leadership role. &#xA;&#xA;I still very much love R and want to get back into it. I saw the introduction and development of Rstudio, Shiny, RMarkdown and Tidyverse. What has been some new development in the past 5 years that I should be aware of as I get back into utilizing R to its full potential?</description>
+      <title>Empirical Conditional Probability Computation Issues</title>
+      <link>https://reddit.com/r/rstats/comments/1knh8yx/empirical_conditional_probability_computation/</link>
+      <pubDate>Thu, 15 May 2025 19:37:36 +0000</pubDate>
+      <description>Hey everyone,&#xA;&#xA;I&#39;m trying to calculate a conditional probability empirically and running into some issues. Effectively, I have a several months of data where I have a continuous observable variable X (taking values between \[0, 10000\] and a binary outcome variable Y (0 or 1). Note that based on what the variable X actually is, as X increases, the probability that Y=0 decreases.&#xA;&#xA;I&#39;m trying to find the threshold value x\* of my continuous observable variable X such that when X=x\*, the probability that Y=0 is 5% or lower, and then that way, I can generalise and say that if X&amp;gt;x\*, I am at least 95% confident that Y = 1.&#xA;&#xA;One problem I have is that that my continuous variable X is quite sparse/scattered: the variable can take values from \[0, 10000\] and, for example, 50% of the data takes value 0, 70% of the data takes values between \[0, 1000\], and 95% of the data takes values between \[0, 3000\].&#xA;&#xA;Initially I thought that I could find x\* such that P(Y = 0 | X &amp;gt; x\*) = 0.05 and find the corresponding x\*, but this does not seem right because this would take into account all values X in \[x\*, 10000\] which isn&#39;t exactly what I want. My current approach is essentially to compute binned conditional probabilities using P(Y = 0 | x &amp;lt; X &amp;lt; x+h ), where \[x, x+h\] are bins on X, take the two bins where the probability crosses 0.05, and use interpolation to get x\*. But due to the sparsity of my data, the results are pretty sensitive to the number of bins (I&#39;m creating the bins such that each bin has the same amount of data except where X=0).&#xA;&#xA;My question is, does this approach make sense, and what techniques can I use to get robust results?&#xA;&#xA;Thanks!</description>
+    </item>
+    <item>
+      <title>Learning R - complete newbie</title>
+      <link>https://reddit.com/r/rstats/comments/1kngxc7/learning_r_complete_newbie/</link>
+      <pubDate>Thu, 15 May 2025 19:24:07 +0000</pubDate>
+      <description>Hi, I&#39;m an undergrad student (biological engineering major) and I&#39;ve just started/planned to learn R in my summer break. I need help as to like what roadmap I can follow and any learning sources and things like that (Textbooks/Online Courses/Any resource ever). &#xA;&#xA;And, How do I practice after learning the concepts?&#xA;&#xA;I have also seen some yt playlists by MarinStatsLectures for R. Is MarinStatsLectures YouTube channel good for learning especiallt since I&#39;m a complete beginner?&#xA;&#xA;Thanks in advance!!</description>
     </item>
   </channel>
 </rss>
