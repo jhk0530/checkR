@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R - rugarch: Help with h-step ahead rolling window forecasts</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kn4yle/r_rugarch_help_with_hstep_ahead_rolling_window/</link>
-      <pubDate>Thu, 15 May 2025 10:35:52 +0000</pubDate>
-      <description>Hello, everybody&#xA;&#xA;I am trying to create a code in R for a rolling window forecast for the S&amp;amp;P 500 with the re-estimation of model parameters at multiple horizons (e.g., one week, one month, and so on). I&#39;m using the &#34;rugarch&#34; package for a simple GARCH(1,1) estimation. So far, I am able to produce the one-step-ahead forecast with the &#34;ugarchroll&#34; function, but unfortunately the package does not allow for h-step-ahead rolling window forecasts, since the &#34;ugarchroll&#34; function does not allow for n.ahead &amp;gt; 1.&#xA;&#xA;Does anyone have a fix for this? AI did not particularly help with this, sadly.&#xA;&#xA;Thanks in advance.</description>
+      <title>A unifying toolbox for handling persistence data - by Aymeric Stamm, Jason Cory Brunson</title>
+      <link>https://reddit.com/r/rprogramming/comments/1ko57j7/a_unifying_toolbox_for_handling_persistence_data/</link>
+      <pubDate>Fri, 16 May 2025 16:29:31 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
