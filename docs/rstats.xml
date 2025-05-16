@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>different p-value in ggbetweenstats and lm results</title>
-      <link>https://reddit.com/r/rstats/comments/1kno8xu/different_pvalue_in_ggbetweenstats_and_lm_results/</link>
-      <pubDate>Fri, 16 May 2025 00:53:36 +0000</pubDate>
-      <description>why is the p value in my ggbetweenstats differnt from the p value  i computed from the lm model? i wanted to perform one way anova, so i made sure the type of the ggbetweenstats output is parametric, and from the lm, i performed an anova on it. tho they have the same variables, it still ddint yield the same results. i tried the non-parametric, both are similar. anyone knows why?&#xA;&#xA;</description>
+      <title>Self-teaching statistics - possible or not ? If yes, how to do it ?</title>
+      <link>https://reddit.com/r/rstats/comments/1knvmxk/selfteaching_statistics_possible_or_not_if_yes/</link>
+      <pubDate>Fri, 16 May 2025 08:17:17 +0000</pubDate>
+      <description>Hello everyone,&#xA;&#xA;The title is a bit self-explanatory but let me add some details and context.&#xA;&#xA;I learned the basic of epidemiology on R during my master degree (two really intensive weeks to be precise) and when I landed my current job, I decided to learn statistics mostly because I like statistics and no one at my current lab is trained. They use basic tests like Students and Mann-Whitney but they clearly don&#39;t know the first thing about the why and when (they got kind of mad when I told them that they&#39;ve apparently been using the wrong test for several years)  &#xA;  &#xA;I found and completed a Coursera Specialization course by the Duke University called &#34;Data Analysis in R&#34; which definitely upped my game and allowed me to get a better understanding of the subject as well as helping me find and understand new informations...&#xA;&#xA;But it&#39;s painfully obvious that I still only skimmed the surface and it bothers me a lot. When I ask questions here, people are often nice enough to explain but there&#39;s so much nuance and complexity that completely elude me&#xA;&#xA;If it was possible, I would have tried to do a master degree in statistics or applied math or something to do parallel to my job but it&#39;s currently not in the realm of possibility (already doing a thesis and have toddler...)&#xA;&#xA;What would you guys suggest I could do to get better at statistics ? Is there book, online courses or thing like that I could do on my free time that would actually go deep into explaining things while remaining understandable for a novice ?&#xA;&#xA;Thank you very much</description>
     </item>
   </channel>
 </rss>
