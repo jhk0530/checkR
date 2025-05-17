@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>A unifying toolbox for handling persistence data - by Aymeric Stamm, Jason Cory Brunson</title>
-      <link>https://reddit.com/r/rprogramming/comments/1ko57j7/a_unifying_toolbox_for_handling_persistence_data/</link>
-      <pubDate>Fri, 16 May 2025 16:29:31 +0000</pubDate>
-      <description></description>
+      <title>Making a table with means and counts</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kp4d8r/making_a_table_with_means_and_counts/</link>
+      <pubDate>Sat, 17 May 2025 21:53:59 +0000</pubDate>
+      <description>This is pretty basic, but I&#39;ve been teaching myself R and I&#39;ve found that sometimes the simplest things are the hardest to find an answer for. &#xA;&#xA;I&#39;ve got a dataset that has a categorical variable (region) and a numeric variable (age). What I want is a simple table that gives me the mean age for each region, as well as showing me how many data points are in each region. I tried: &#xA;&#xA;     measles_age %&amp;gt;%&#xA;       group_by(Region) %&amp;gt;%&#xA;       summarise(mean = mean(Age), n = n()) &#xA;&#xA;But that gave me an error:&#xA;&#xA;    Error in `n()`:&#xA;    ! Must only be used inside data-masking verbs like `mutate()`, `filter()`, and `group_by()`.&#xA;    Run `` to see where the error occurred.Error in `n()`:&#xA;    ! Must only be used inside data-masking verbs like `mutate()`, `filter()`, and `group_by()`.&#xA;    Run `rlang::last_trace()` to see where the error occurred.rlang::last_trace()  &#xA;&#xA;Then I tried it without the n = n(), and that just gave me the overall mean age instead of grouping it by region.  &#xA;</description>
     </item>
   </channel>
 </rss>
