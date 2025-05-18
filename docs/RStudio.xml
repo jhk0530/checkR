@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Frequency Tables in R (like STATA fre)</title>
-      <link>https://reddit.com/r/RStudio/comments/1kox9iz/frequency_tables_in_r_like_stata_fre/</link>
-      <pubDate>Sat, 17 May 2025 16:39:00 +0000</pubDate>
-      <description>Stata has a very useful command `fre` for displaying one-way frequency tables ([http://fmwww.bc.edu/repec/bocode/f/fre.html](http://fmwww.bc.edu/repec/bocode/f/fre.html)). Notably this command displays the value, value label, frequency, percents etc, as in:&#xA;&#xA;    foreign -- Car type&#xA;            -----------------------------------------------------------------&#xA;                                |      Freq.    Percent      Valid       Cum.&#xA;            --------------------+--------------------------------------------&#xA;            Valid   0  Domestic |         52      70.27      70.27      70.27&#xA;                    1  Foreign  |         22      29.73      29.73     100.00&#xA;                    Total       |         74     100.00     100.00&#xA;            Missing .a unknown  |          0       0.00&#xA;            Total               |         74     100.00&#xA;            -----------------------------------------------------------------&#xA;&#xA;As far as I can tell, r/RStudio&#39;s functions such as `freqdist`, `summary`, or `table` are not able to generate the tables in this format: `freqdist` comes closest, but does not display the values, as shown below:&#xA;&#xA;    &amp;gt; freqdist(dsh_525$employment)&#xA;               frequencies percentage cumulativepercentage&#xA;    Unemployed      128473   35.02564             35.02564&#xA;    Employed        238324   64.97436            100.00000&#xA;    Totals          366797  100.00000            100.00000&#xA;    &#xA;&#xA;Is there anyway I can display both values and value labels in the same frequency table?&#xA;&#xA;Thanks - cY</description>
+      <title>Assignment operator -&amp;gt; shortcut in RStudio</title>
+      <link>https://reddit.com/r/RStudio/comments/1kp603a/assignment_operator_shortcut_in_rstudio/</link>
+      <pubDate>Sat, 17 May 2025 23:14:35 +0000</pubDate>
+      <description>I write a lot of tidy code interactively and it&#39;s so natural to me to use the -&amp;gt; assignment operator at the end of the pipe. Indeed, I&#39;d love to have a shortcut for it in Rstudio. Anyone else in the same situation? </description>
     </item>
   </channel>
 </rss>
