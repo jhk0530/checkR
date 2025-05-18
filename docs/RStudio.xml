@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>When RStudio asks if you want to save your workspace… but you KNOW its going to make your life miserable.</title>
-      <link>https://reddit.com/r/RStudio/comments/1kpcx5l/when_rstudio_asks_if_you_want_to_save_your/</link>
-      <pubDate>Sun, 18 May 2025 05:49:46 +0000</pubDate>
-      <description>Every time RStudio pops up with that “Do you want to save your workspace?” prompt, I feel like I’m being asked if I want to make my day 20% more difficult. “Sure, save it - let&#39;s see which obscure error shows up next time.” It&#39;s like playing roulette, but with your sanity. Who’s with me? 😂</description>
+      <title>Mortgage Payment options code review</title>
+      <link>https://reddit.com/r/RStudio/comments/1kpns8n/mortgage_payment_options_code_review/</link>
+      <pubDate>Sun, 18 May 2025 16:20:05 +0000</pubDate>
+      <description>Hey guys, in my free time I&#39;m creating a tool to populate the ideal payment schedule based on a fixed rate mortgage. &#xA;&#xA;My code can be found [here](https://github.com/pmcinelly784/Pub/blob/main/Mortgage%20Payments/House%20Payment%20Tool.qmd) and I&#39;d appreciate some input, specifically on whether or not my formula for BiWeekly payments is accurate, because it seems like it isnt. Thanks!</description>
     </item>
   </channel>
 </rss>
