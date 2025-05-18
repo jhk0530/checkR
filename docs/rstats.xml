@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>A unifying toolbox for handling persistence data - by Aymeric Stamm, Jason Cory Brunson</title>
-      <link>https://reddit.com/r/rstats/comments/1ko57c8/a_unifying_toolbox_for_handling_persistence_data/</link>
-      <pubDate>Fri, 16 May 2025 16:29:16 +0000</pubDate>
-      <description>Topological data analysis (TDA) is a rapidly growing field that uses techniques from algebraic topology to analyze the shape and structure of data. &#xA;&#xA;The {phutil} package provides a unified toolbox for handling persistence data. It offers consistent data structures and methods that work seamlessly with outputs from various TDA packages. &#xA;&#xA;Find out more! &#xA;&#xA;[https://r-consortium.org/posts/unifying-toolbox-for-handling-persistence-data/](https://r-consortium.org/posts/unifying-toolbox-for-handling-persistence-data/)</description>
+      <title>15 New Books added to Big Book of R - Oscar Baruffa</title>
+      <link>https://reddit.com/r/rstats/comments/1kpe9zy/15_new_books_added_to_big_book_of_r_oscar_baruffa/</link>
+      <pubDate>Sun, 18 May 2025 07:22:41 +0000</pubDate>
+      <description>6 English and 9 Portuguese books have been added to the collection of over 400 free, open source books</description>
     </item>
   </channel>
 </rss>
