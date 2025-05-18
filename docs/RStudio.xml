@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Assignment operator -&amp;gt; shortcut in RStudio</title>
-      <link>https://reddit.com/r/RStudio/comments/1kp603a/assignment_operator_shortcut_in_rstudio/</link>
-      <pubDate>Sat, 17 May 2025 23:14:35 +0000</pubDate>
-      <description>I write a lot of tidy code interactively and it&#39;s so natural to me to use the -&amp;gt; assignment operator at the end of the pipe. Indeed, I&#39;d love to have a shortcut for it in Rstudio. Anyone else in the same situation? </description>
+      <title>When RStudio asks if you want to save your workspace… but you KNOW its going to make your life miserable.</title>
+      <link>https://reddit.com/r/RStudio/comments/1kpcx5l/when_rstudio_asks_if_you_want_to_save_your/</link>
+      <pubDate>Sun, 18 May 2025 05:49:46 +0000</pubDate>
+      <description>Every time RStudio pops up with that “Do you want to save your workspace?” prompt, I feel like I’m being asked if I want to make my day 20% more difficult. “Sure, save it - let&#39;s see which obscure error shows up next time.” It&#39;s like playing roulette, but with your sanity. Who’s with me? 😂</description>
     </item>
   </channel>
 </rss>
