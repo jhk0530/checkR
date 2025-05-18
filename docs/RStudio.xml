@@ -4,6 +4,18 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>How to automate Shiny</title>
+      <link>https://reddit.com/r/RStudio/comments/1kpqg5y/how_to_automate_shiny/</link>
+      <pubDate>Sun, 18 May 2025 18:13:13 +0000</pubDate>
+      <description>I&#39;ve been having problems with a project I&#39;m working on... I want to be able to run a script on RStudio everytime new data is entered on an excel sheet, so it can be analysed. I also want my shiny app to show the analysis results automatically on a website. The thing is, I want all of that to happen without having to open RStudio. Is that possible? </description>
+    </item>
+    <item>
+      <title>Olá galera, alguem aqui sabe mexer com o pacote survey??</title>
+      <link>https://reddit.com/r/RStudio/comments/1kppj4h/olá_galera_alguem_aqui_sabe_mexer_com_o_pacote/</link>
+      <pubDate>Sun, 18 May 2025 17:34:42 +0000</pubDate>
+      <description></description>
+    </item>
+    <item>
       <title>Mortgage Payment options code review</title>
       <link>https://reddit.com/r/RStudio/comments/1kpns8n/mortgage_payment_options_code_review/</link>
       <pubDate>Sun, 18 May 2025 16:20:05 +0000</pubDate>
