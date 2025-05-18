@@ -15,11 +15,5 @@
       <pubDate>Sun, 18 May 2025 17:34:42 +0000</pubDate>
       <description></description>
     </item>
-    <item>
-      <title>Mortgage Payment options code review</title>
-      <link>https://reddit.com/r/RStudio/comments/1kpns8n/mortgage_payment_options_code_review/</link>
-      <pubDate>Sun, 18 May 2025 16:20:05 +0000</pubDate>
-      <description>Hey guys, in my free time I&#39;m creating a tool to populate the ideal payment schedule based on a fixed rate mortgage. &#xA;&#xA;My code can be found [here](https://github.com/pmcinelly784/Pub/blob/main/Mortgage%20Payments/House%20Payment%20Tool.qmd) and I&#39;d appreciate some input, specifically on whether or not my formula for BiWeekly payments is accurate, because it seems like it isnt. Thanks!</description>
-    </item>
   </channel>
 </rss>
