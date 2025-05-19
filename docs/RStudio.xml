@@ -9,11 +9,5 @@
       <pubDate>Mon, 19 May 2025 17:16:20 +0000</pubDate>
       <description>Hi all,&#xA;&#xA;newbie here, be gentle.&#xA;&#xA;i have a .txt log file which is tab delimited containing info about my instrument&#39;s status in 5 fields, but some data do not show up until maybe line 400.  So. I am getting only 4 columns, not the actual 5 because data aren&#39;t evident until then.  Python has no problem identifying all 5 columns so I&#39;m very confused about why my R is not.&#xA;&#xA;I have tried both read.delim and read\_delim, both only find 4 not 5 columns.  Thoughts?&#xA;&#xA;log\_filt &amp;lt;- &#34;instrument\_log\_1015.txt&#34; &#xA;&#xA;log\_instance\_path &amp;lt;- paste0(log\_path,log\_filt\[1\]) &#xA;&#xA;log\_instance &amp;lt;- read.delim(log\_instance\_path, header = FALSE)&#xA;&#xA;or&#xA;&#xA;log\_filt &amp;lt;- &#34;instrument\_log\_1015.txt&#34; &#xA;&#xA;log\_instance\_path &amp;lt;- paste0(log\_path,log\_filt\[1\]) &#xA;&#xA;log\_instance &amp;lt;- read\_delim(log\_filt,delim = NULL, col\_types = NULL, guess\_max = 1000)&#xA;&#xA;&#34;result for both: 1550060 obs of 4 variables&#34;&#xA;&#xA;\-jane</description>
     </item>
-    <item>
-      <title>Coding Occupation Data to ISCO-08</title>
-      <link>https://reddit.com/r/RStudio/comments/1kqgq6p/coding_occupation_data_to_isco08/</link>
-      <pubDate>Mon, 19 May 2025 16:54:14 +0000</pubDate>
-      <description>I have survey data that contains self-imputed occupation titles (over 1000). Some have typos, spelling errors, some have a / when they have two jobs etc - it’s messy. I need to standardize these into ISCO-08 using R. Does anyone have any suggestions for the best way to do this? I was considering doing fuzzy matching but not sure where to put the threshold, also not sure which algorithm is best. &#xA;&#xA;Many thanks in advance!</description>
-    </item>
   </channel>
 </rss>
