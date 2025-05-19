@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Intergrating a Shiny app in an existing website</title>
-      <link>https://reddit.com/r/RStudio/comments/1kpseis/intergrating_a_shiny_app_in_an_existing_website/</link>
-      <pubDate>Sun, 18 May 2025 19:36:41 +0000</pubDate>
-      <description>Is it possible to intergrate a shiny app in an existing website? If so, how should I proceed?</description>
+      <title>Command for Multiple linear regression graph</title>
+      <link>https://reddit.com/r/RStudio/comments/1kq84vi/command_for_multiple_linear_regression_graph/</link>
+      <pubDate>Mon, 19 May 2025 10:17:00 +0000</pubDate>
+      <description>Hi, I’m fairly new to Rstudio and was struggling on how to create a graph for my multiple linear regression for my assignment.&#xA;&#xA;I have 3 IV’s and 1 DV (all of the IV’s are DV categorical), I’ve found a command with the ggplot2 package on how to create one but unsure of how to add multiple IV’s to it. If someone could offer some advice or help it would be greatly appreciated </description>
     </item>
   </channel>
 </rss>
