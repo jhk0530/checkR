@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Working directory automatically changes in Rmarkdown (Rookie question)</title>
-      <link>https://reddit.com/r/RStudio/comments/1kqcdfu/working_directory_automatically_changes_in/</link>
-      <pubDate>Mon, 19 May 2025 13:58:23 +0000</pubDate>
-      <description>Hi everyone,&#xA;&#xA;It is with desperation I am making this post - I have an exam in Rstudio in about a week and my Rstudio isn&#39;t working the way I want it to. &#xA;&#xA;Whenever I try to set my Working directory Rstudio automatically changes it back to the original:&#xA;&#xA;&#34;Warning: The working directory was changed to /Users/myname inside a notebook chunk. The working directory will be reset when the chunk is finished running. Use the knitr root.dir option in the setup chunk to change the working directory for notebook chunks.&#34;&#xA;&#xA;  &#xA;I&#39;ve tried everything I could think of and even with help from ChatGPT, uninstalling R and Rstudio twice. &#xA;&#xA;https://preview.redd.it/w1625hwavq1f1.png?width=2146&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e584c34e2f530ee6cd3edb1f0058c58fe3475f5c&#xA;&#xA;In the next chunk I am using the getwd() command, and then it is just set straigt back to &#xA;&#xA;    /Users/myname&#xA;&#xA;Why is it that the remaining &#34;Desktop/dataR&#34; isn&#39;t included in the filepath? &#xA;&#xA;  &#xA;FYI I am on a Macbook M2 - Not sure if this info is helpful.&#xA;&#xA;  &#xA;I am desperate for help, so thanks a lot in advance and sorry for this rookie question, but I&#39;ve litterally tried everything. &#xA;&#xA;</description>
+      <title>Coding Occupation Data to ISCO-08</title>
+      <link>https://reddit.com/r/RStudio/comments/1kqgq6p/coding_occupation_data_to_isco08/</link>
+      <pubDate>Mon, 19 May 2025 16:54:14 +0000</pubDate>
+      <description>I have survey data that contains self-imputed occupation titles (over 1000). Some have typos, spelling errors, some have a / when they have two jobs etc - it’s messy. I need to standardize these into ISCO-08 using R. Does anyone have any suggestions for the best way to do this? I was considering doing fuzzy matching but not sure where to put the threshold, also not sure which algorithm is best. &#xA;&#xA;Many thanks in advance!</description>
     </item>
   </channel>
 </rss>
