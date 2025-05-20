@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Khan Academy for python?</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kqijou/khan_academy_for_python/</link>
-      <pubDate>Mon, 19 May 2025 18:03:44 +0000</pubDate>
-      <description>I like the structure of Khan Academy courses and I was wondering if the programming course is any good, or is it too basic in the sense of being &#34;childish?&#34; Would anyone recommend it?</description>
+      <title>Weird Faceted Plot</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kquw9c/weird_faceted_plot/</link>
+      <pubDate>Tue, 20 May 2025 03:11:46 +0000</pubDate>
+      <description>I am hoping you guys might have a trick for making a faceted plot that plots a treatment and the control on each graph (see below for a mock up). I&#39;m not sure how to do this in ggplot2 (or if it&#39;s even able to compute this using facet).&#xA;&#xA;https://preview.redd.it/c5iijs1nsu1f1.png?width=958&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1f10f8f93976daf050ef06fabdcbf4af00bebf25&#xA;&#xA;My data frame looks like this. I just filter out the elements I am not plotting before graphing because it&#39;s easier.&#xA;&#xA;https://preview.redd.it/cf2xu4gysu1f1.png?width=889&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=74c64b8745481d40c57e46b172f9f23c8c124a8a&#xA;&#xA;If you can help at all, it would be appreciated!  &#xA;</description>
     </item>
   </channel>
 </rss>
