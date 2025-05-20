@@ -9,11 +9,5 @@
       <pubDate>Tue, 20 May 2025 00:31:40 +0000</pubDate>
       <description>Heya all! I am a recent college grad and have been studying R code for several years now. I also recently learned a lot about coding with AI in python, with integrations for chat and coding environments. I am looking to create a project involving a free online R studio-type coding environment with an AI assistant. I would love some advice on what y&#39;all would want out of this! For now my main points of interest to distinguish using this over RStudio is:  &#xA;\- AI context reading: the AI will know your code, data files, and console outputs without you having to copy paste line after line in, making it easier to ask simple questions and get simple responses  &#xA;\- Short and sweet answers: the AI will also answer your questions based on YOUR skill level and knowledge. If you only need to know how to load mtcars data, it will only tell you that! No fluff!&#xA;&#xA;I would love any advice on issues you all have in your daily R coding that could be solved through an AI integration in this manner. I&#39;m really looking to distinguish from ChatGPT and other co-pilot style coding AIs out there through a more seamless integration, rather than a constant back and forth of not-so-great answers and/or problem-solving. Let me know! I&#39;m also open to criticism!</description>
     </item>
-    <item>
-      <title>Easy beginner projects to do in R</title>
-      <link>https://reddit.com/r/rstats/comments/1kqqj5e/easy_beginner_projects_to_do_in_r/</link>
-      <pubDate>Mon, 19 May 2025 23:30:42 +0000</pubDate>
-      <description>Tomorrow I have an interview and it said to be familiar with R. I’m not really sure how familiar they want us to be but I want to do a mini project just in case ! I studied R a little bit while I was in my statistics class and we had to do a project using t.test, 2-p test etc. we also learned the basics of R like mean, median, standard deviation etc. I’m wondering if anyone can recommend a mini project to showcase knowledge! Thank you! </description>
-    </item>
   </channel>
 </rss>
