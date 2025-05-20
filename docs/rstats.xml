@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R online AI environment project -- ADVICE REQUESTED</title>
-      <link>https://reddit.com/r/rstats/comments/1kqrrow/r_online_ai_environment_project_advice_requested/</link>
-      <pubDate>Tue, 20 May 2025 00:31:40 +0000</pubDate>
-      <description>Heya all! I am a recent college grad and have been studying R code for several years now. I also recently learned a lot about coding with AI in python, with integrations for chat and coding environments. I am looking to create a project involving a free online R studio-type coding environment with an AI assistant. I would love some advice on what y&#39;all would want out of this! For now my main points of interest to distinguish using this over RStudio is:  &#xA;\- AI context reading: the AI will know your code, data files, and console outputs without you having to copy paste line after line in, making it easier to ask simple questions and get simple responses  &#xA;\- Short and sweet answers: the AI will also answer your questions based on YOUR skill level and knowledge. If you only need to know how to load mtcars data, it will only tell you that! No fluff!&#xA;&#xA;I would love any advice on issues you all have in your daily R coding that could be solved through an AI integration in this manner. I&#39;m really looking to distinguish from ChatGPT and other co-pilot style coding AIs out there through a more seamless integration, rather than a constant back and forth of not-so-great answers and/or problem-solving. Let me know! I&#39;m also open to criticism!</description>
+      <title>classification algorithms based on longitudinal data</title>
+      <link>https://reddit.com/r/rstats/comments/1kr5e5c/classification_algorithms_based_on_longitudinal/</link>
+      <pubDate>Tue, 20 May 2025 13:51:39 +0000</pubDate>
+      <description>Can someone suggest a R package that is useful for taking longitudinal data and using it for a classification algorithm?</description>
     </item>
   </channel>
 </rss>
