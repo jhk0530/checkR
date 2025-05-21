@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>classification algorithms based on longitudinal data</title>
-      <link>https://reddit.com/r/rstats/comments/1kr5e5c/classification_algorithms_based_on_longitudinal/</link>
-      <pubDate>Tue, 20 May 2025 13:51:39 +0000</pubDate>
-      <description>Can someone suggest a R package that is useful for taking longitudinal data and using it for a classification algorithm?</description>
+      <title>test significance of environmental variables in dbRDA</title>
+      <link>https://reddit.com/r/rstats/comments/1krygy1/test_significance_of_environmental_variables_in/</link>
+      <pubDate>Wed, 21 May 2025 13:56:53 +0000</pubDate>
+      <description>I want to perform dbrda to identify the interaction of environmental variables with ecological abundance data. How do I test for significance of each environmental variable in a DB RDA</description>
     </item>
   </channel>
 </rss>
