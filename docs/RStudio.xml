@@ -4,16 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Outlay Equivalent Ratio</title>
+      <link>https://reddit.com/r/RStudio/comments/1ks25vb/outlay_equivalent_ratio/</link>
+      <pubDate>Wed, 21 May 2025 16:26:45 +0000</pubDate>
+      <description>Does anyone know of an code for computing the &#39;Outlay Equivalent Ratio&#39; and its standard errors as discussed in Deaton&#39;s Analysis of Household Surveys? </description>
+    </item>
+    <item>
       <title>Walkthrough videos</title>
       <link>https://reddit.com/r/RStudio/comments/1ks0whg/walkthrough_videos/</link>
       <pubDate>Wed, 21 May 2025 15:36:27 +0000</pubDate>
       <description>I want to improve my workflow for coding in an academic setting (physician-scientist).&#xA;&#xA;Does anyone doing descriptive statistics, interpretive statistics, machine learning, and reporting results with large datasets/administrative datasets have walkthrough videos so I can learn how to improve my code, learn new ways to analyze data, and learn different ways to report data?&#xA;&#xA;Thank you all!</description>
-    </item>
-    <item>
-      <title>Cochran-Armitage Trend Test</title>
-      <link>https://reddit.com/r/RStudio/comments/1kryx4u/cochranarmitage_trend_test/</link>
-      <pubDate>Wed, 21 May 2025 14:15:39 +0000</pubDate>
-      <description>Hey guys!!! Hope everything is great on your end and your week was as amazing as you so far. &#xA;&#xA;I am currently investigating the trend of antibiotic administration in my department throughout the last decade (2015-2024). I want to draw conclusions whether the dosages have increased or decreased in 9 years time. As I have little background in statistics, I recently came across Cochran-Armitage Trend test, as a possibility to evaluate my assumptions. However the coding in R is a bit confusing to me. Could anybody provide an easy-to-go example? Or suggest any other statistically meaningful way to do my research ? Thank you so much in advance!!! </description>
     </item>
   </channel>
 </rss>
