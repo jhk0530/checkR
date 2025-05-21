@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R changes values during import.</title>
-      <link>https://reddit.com/r/RStudio/comments/1krsj6q/r_changes_values_during_import/</link>
-      <pubDate>Wed, 21 May 2025 08:12:57 +0000</pubDate>
-      <description>I don&#39;t know why, but r changes the values during import. it moves the decimal indicator to the left for some values -  but not for all. why ist that?&#xA;&#xA;[imported r file](https://preview.redd.it/wa7lvnbpf32f1.png?width=85&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=94dcc4cd60882c1a5dc67d823aefcaea3c90a897)&#xA;&#xA;[original .tsv file](https://preview.redd.it/jjs6ib8rf32f1.png?width=83&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=92a5490a3c05421506965a6066af9a5ed5c17b99)&#xA;&#xA;</description>
+      <title>Cochran-Armitage Trend Test</title>
+      <link>https://reddit.com/r/RStudio/comments/1kryx4u/cochranarmitage_trend_test/</link>
+      <pubDate>Wed, 21 May 2025 14:15:39 +0000</pubDate>
+      <description>Hey guys!!! Hope everything is great on your end and your week was as amazing as you so far. &#xA;&#xA;I am currently investigating the trend of antibiotic administration in my department throughout the last decade (2015-2024). I want to draw conclusions whether the dosages have increased or decreased in 9 years time. As I have little background in statistics, I recently came across Cochran-Armitage Trend test, as a possibility to evaluate my assumptions. However the coding in R is a bit confusing to me. Could anybody provide an easy-to-go example? Or suggest any other statistically meaningful way to do my research ? Thank you so much in advance!!! </description>
     </item>
   </channel>
 </rss>
