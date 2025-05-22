@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>For loop to perform paired t-test for each row in a tibble?</title>
-      <link>https://reddit.com/r/rstats/comments/1ks71z8/for_loop_to_perform_paired_ttest_for_each_row_in/</link>
-      <pubDate>Wed, 21 May 2025 19:41:23 +0000</pubDate>
-      <description>Hello! I&#39;m a beginner to R and stats, and I&#39;m trying to perform a paired t-test (and also understand what I&#39;m doing...). I&#39;ve arranged my data looks like this, which I was told would be more compatible with performing t-tests:&#xA;&#xA;https://preview.redd.it/rdm12gs4u62f1.png?width=1288&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d9a0328712a2846ed1cccb3bc096e9caa05762e&#xA;&#xA;In English, I would say, &#34;for each gene, perform a t-test comparing the means of strain1\_half\_lives and strain2\_half\_lives, and pair the values in each vector.&#34;&#xA;&#xA;For example, in the first row, 0.8444763 would be paired with 0.7871189.&#xA;&#xA;I will then do an FDR correction on the p-values.&#xA;&#xA;Thank you so much!</description>
+      <title>Newbie here. Don&#39;t know much, but need help.</title>
+      <link>https://reddit.com/r/rstats/comments/1kscg6o/newbie_here_dont_know_much_but_need_help/</link>
+      <pubDate>Wed, 21 May 2025 23:32:11 +0000</pubDate>
+      <description>I am a doctor who has starting out to do biomedical research involving complex databases of patients, and I have recently learnt that it requires me to learn data languages such as R. Can anyone please share a list of resources I need to procure to start this? Thank you so much for sparing a moment to help me.</description>
     </item>
   </channel>
 </rss>
