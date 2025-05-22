@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help!!!RStudio can&#39;t run on macos 11 Big Sur</title>
-      <link>https://reddit.com/r/RStudio/comments/1kshugs/helprstudio_cant_run_on_macos_11_big_sur/</link>
-      <pubDate>Thu, 22 May 2025 04:14:14 +0000</pubDate>
-      <description>I installed this version of RStudio 2023.09.1+494 from this [this post on Posit Community](https://forum.posit.co/t/rstudio-desktop-releases-on-unsupported-versions-of-macos/176074), but it doesn&#39;t work...even just a simple command like getwd(). RStudio shows message of R Seesion Aborted. R encountered a fatal error. How can I solve this issue?? Did I download the wrong version?</description>
+      <title>Combining multiple excel sheets with different formats?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kskth4/combining_multiple_excel_sheets_with_different/</link>
+      <pubDate>Thu, 22 May 2025 07:30:28 +0000</pubDate>
+      <description>Hi all,&#xA;&#xA;I’m very new to R and am trying to combine multiple excel sheets that all have different formats. Is this possible in RStudio or should I manually combine them outside of the program and then upload? &#xA;&#xA;Also, does anyone know where I can find a list of the main functions/codes? &#xA;&#xA;Thank you!!</description>
     </item>
   </channel>
 </rss>
