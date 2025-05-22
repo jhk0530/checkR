@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>The 80/20 Guide to R You Wish You Read Years Ago</title>
-      <link>https://reddit.com/r/rstats/comments/1ksxz8d/the_8020_guide_to_r_you_wish_you_read_years_ago/</link>
-      <pubDate>Thu, 22 May 2025 18:23:38 +0000</pubDate>
-      <description>Hey r/rstats! After years of R programming, I&#39;ve noticed most intermediate users get stuck writing code that works but isn&#39;t optimal. We learn the basics, get comfortable, but miss the workflow improvements that make the biggest difference.&#xA;&#xA;I just wrote up the handful of changes that transformed my R experience - things like:&#xA;&#xA;* Why DuckDB (and data.table) can handle datasets larger than your RAM&#xA;* How renv solves reproducibility issues&#xA;* When vectorization actually matters (and when it doesn&#39;t)&#xA;* The native pipe |&amp;gt; vs %&amp;gt;% debate&#xA;&#xA;These aren&#39;t advanced techniques - they&#39;re small workflow improvements that compound over time. The kind of stuff I wish someone had told me sooner.&#xA;&#xA;Read the [full article here.](https://open.substack.com/pub/borkar/p/the-8020-guide-to-r-you-wish-you?r=2qg9ny&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=true)&#xA;&#xA;What workflow changes made the biggest difference for you?</description>
+      <title>Nothing worked to break my porn addiction so I made something that did</title>
+      <link>https://reddit.com/r/rstats/comments/1kt4n6o/nothing_worked_to_break_my_porn_addiction_so_i/</link>
+      <pubDate>Thu, 22 May 2025 23:03:21 +0000</pubDate>
+      <description>Not proud to admit it, but I was watching porn almost every day I&#39;d quit for a few days and then relapse over and over again&#xA;I finally realized the willpower method wasn’t working and I needed something stronger.&#xA;&#xA;So I built NSFWLocker a tool that forces you off porn you just have to set the time period and it locks you out.&#xA;&#xA;It’s new, and I’m trying to get the first few people to try it out&#xA;&#xA;Open to feedback, critiques and ideas. This thing helped me stay clean for the first time in years so im hoping it helps someone else too.&#xA;</description>
     </item>
   </channel>
 </rss>

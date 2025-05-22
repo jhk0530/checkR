@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Best R packages and workflows for cleaning &amp;amp; visualizing GC-MS data?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kt3rc2/best_r_packages_and_workflows_for_cleaning/</link>
+      <pubDate>Thu, 22 May 2025 22:21:56 +0000</pubDate>
+      <description>What are your favorite tricks for cleaning and reshaping messy data in R before visualization? I&#39;m working with GC-MS data atm, with various plant profiles of which its always the same species but different organs and cultivars. I’ve been using `tidyverse` and `janitor,` but I’m wondering if there are more specialized packages or workflows others recommend for streamlining this kind of data. I’ve been looking into `MetaboAnalystR` and `xcms` a bit, are those worth diving into for GC-MS workflows, or are there better options out there?&#xA;&#xA;Bonus question: what are some good tools for making GC-MS data (almost endless tables) presentable for journals? I always get stuck with doing it in the excel but I feel like there must be a better way</description>
+    </item>
+    <item>
       <title>NEED HELP RUNNING A OLS REGRESSION</title>
       <link>https://reddit.com/r/RStudio/comments/1kt2jpd/need_help_running_a_ols_regression/</link>
       <pubDate>Thu, 22 May 2025 21:29:25 +0000</pubDate>
