@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Making Computer Vision for R Easily Accessible</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kstfs9/making_computer_vision_for_r_easily_accessible/</link>
-      <pubDate>Thu, 22 May 2025 15:22:08 +0000</pubDate>
-      <description></description>
+      <title>Seeking help with lists, lapply, trying to compute something and getting stuck</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kswuad/seeking_help_with_lists_lapply_trying_to_compute/</link>
+      <pubDate>Thu, 22 May 2025 17:38:05 +0000</pubDate>
+      <description>Hello there, so I&#39;m learning R and getting stumped by this problem. I have a list of 10 data frames, each with about 40,000 rows that apply to a given year (residential electricity rates for a given ZIP code if you&#39;re curious). I&#39;m trying to find how each of those changes year to year, and I&#39;m not sure if I can do it with a lapply function or a for loop or if I have to put everything into one single data frame. And now that I&#39;m typing this I&#39;m remembering not every zip code has data for every year so I definitely need to join everything into one data frame. So if anyone has advice I&#39;m open to it but I think I might have figured out how to do this.</description>
     </item>
   </channel>
 </rss>
