@@ -9,11 +9,5 @@
       <pubDate>Thu, 22 May 2025 12:24:19 +0000</pubDate>
       <description>Hi everyone current grad student here in a MPH program. My bio stats class has inspired me to learn R. I got tired of doing the math by hand for Chi-Squared goodness test, Fisher’s Exact Test, etc.&#xA;&#xA;I have no background in coding and all the resources I have been learning/reading are about copying and pasting a code. I want to understand coding language(variables, logic values, vectors, pipes). I can copy a code but I really would like to understand the background of why I’m writing a code a certain way. </description>
     </item>
-    <item>
-      <title>Encoding German Umlauts with readtext</title>
-      <link>https://reddit.com/r/RStudio/comments/1ksomub/encoding_german_umlauts_with_readtext/</link>
-      <pubDate>Thu, 22 May 2025 11:46:41 +0000</pubDate>
-      <description>Hello, &#xA;I am an absolute beginner with R, so this might be a stupid question but hopefully easy to answer: I am using R for text-mining. R is coding all german Umlauts (äöü) as ? . I used &#34;readtext&#34; to read txt-files. What can I do? </description>
-    </item>
   </channel>
 </rss>
