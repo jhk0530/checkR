@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Making Computer Vision for R Easily Accessible</title>
-      <link>https://reddit.com/r/rstats/comments/1kstfhp/making_computer_vision_for_r_easily_accessible/</link>
-      <pubDate>Thu, 22 May 2025 15:21:47 +0000</pubDate>
-      <description>{kuzco} is an R package that reimagines how image classification and computer vision can be approached using large language models (LLMs). &#xA;&#xA;In this interview, we talk with Frank Hull, director of data science &amp;amp; analytics leading a data science team in the energy sector, an open source contributor, and a developer of {kuzco}. We explore the ideas behind {kuzco}, its use of LLMs, and how it differs from conventional deep learning frameworks like {keras} and {torch} in R. &#xA;&#xA;{kuzco} is open source and the project is actively looking for contributions, both technical and non-technical. &#xA;&#xA;Try it out now! &#xA;&#xA;[https://r-consortium.org/posts/exploring-kuzco-making-computer-vision-for-r-easily-accessible/](https://r-consortium.org/posts/exploring-kuzco-making-computer-vision-for-r-easily-accessible/)</description>
-    </item>
-    <item>
-      <title>What do I do if a package from github requires other packages that no longer exist?</title>
-      <link>https://reddit.com/r/rstats/comments/1kstd55/what_do_i_do_if_a_package_from_github_requires/</link>
-      <pubDate>Thu, 22 May 2025 15:19:08 +0000</pubDate>
-      <description>Basically what the title says. I&#39;m trying to install ellipsenm (a package up on github for ENM ellipsoid analysis) but the installation fails because it seems to require rgdal and rgeos. However both packages were archived in 2023 and don&#39;t exist for my version of R (4.5), their pages on CRAN suggest using sf or terra instead, which I have, but I don&#39;t know how make the installation work with those- if it even is something I can fix myself?&#xA;&#xA;Thank you</description>
+      <title>The 80/20 Guide to R You Wish You Read Years Ago</title>
+      <link>https://reddit.com/r/rstats/comments/1ksxz8d/the_8020_guide_to_r_you_wish_you_read_years_ago/</link>
+      <pubDate>Thu, 22 May 2025 18:23:38 +0000</pubDate>
+      <description>Hey r/rstats! After years of R programming, I&#39;ve noticed most intermediate users get stuck writing code that works but isn&#39;t optimal. We learn the basics, get comfortable, but miss the workflow improvements that make the biggest difference.&#xA;&#xA;I just wrote up the handful of changes that transformed my R experience - things like:&#xA;&#xA;* Why DuckDB (and data.table) can handle datasets larger than your RAM&#xA;* How renv solves reproducibility issues&#xA;* When vectorization actually matters (and when it doesn&#39;t)&#xA;* The native pipe |&amp;gt; vs %&amp;gt;% debate&#xA;&#xA;These aren&#39;t advanced techniques - they&#39;re small workflow improvements that compound over time. The kind of stuff I wish someone had told me sooner.&#xA;&#xA;Read the [full article here.](https://open.substack.com/pub/borkar/p/the-8020-guide-to-r-you-wish-you?r=2qg9ny&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=true)&#xA;&#xA;What workflow changes made the biggest difference for you?</description>
     </item>
   </channel>
 </rss>
