@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Understanding the foundation of R’s language?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kspcsr/understanding_the_foundation_of_rs_language/</link>
+      <pubDate>Thu, 22 May 2025 12:24:19 +0000</pubDate>
+      <description>Hi everyone current grad student here in a MPH program. My bio stats class has inspired me to learn R. I got tired of doing the math by hand for Chi-Squared goodness test, Fisher’s Exact Test, etc.&#xA;&#xA;I have no background in coding and all the resources I have been learning/reading are about copying and pasting a code. I want to understand coding language(variables, logic values, vectors, pipes). I can copy a code but I really would like to understand the background of why I’m writing a code a certain way. </description>
+    </item>
+    <item>
       <title>Encoding German Umlauts with readtext</title>
       <link>https://reddit.com/r/RStudio/comments/1ksomub/encoding_german_umlauts_with_readtext/</link>
       <pubDate>Thu, 22 May 2025 11:46:41 +0000</pubDate>
