@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Outlay Equivalent Ratio</title>
-      <link>https://reddit.com/r/RStudio/comments/1ks25vb/outlay_equivalent_ratio/</link>
-      <pubDate>Wed, 21 May 2025 16:26:45 +0000</pubDate>
-      <description>Does anyone know of an code for computing the &#39;Outlay Equivalent Ratio&#39; and its standard errors as discussed in Deaton&#39;s Analysis of Household Surveys? </description>
+      <title>Help!!!RStudio can&#39;t run on macos 11 Big Sur</title>
+      <link>https://reddit.com/r/RStudio/comments/1kshugs/helprstudio_cant_run_on_macos_11_big_sur/</link>
+      <pubDate>Thu, 22 May 2025 04:14:14 +0000</pubDate>
+      <description>I installed this version of RStudio 2023.09.1+494 from this [this post on Posit Community](https://forum.posit.co/t/rstudio-desktop-releases-on-unsupported-versions-of-macos/176074), but it doesn&#39;t work...even just a simple command like getwd(). RStudio shows message of R Seesion Aborted. R encountered a fatal error. How can I solve this issue?? Did I download the wrong version?</description>
     </item>
   </channel>
 </rss>
