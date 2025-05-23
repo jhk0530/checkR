@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help — getting error message that “contrasts can be applied only to factors with 2 or more levels”</title>
-      <link>https://reddit.com/r/RStudio/comments/1kt82kx/help_getting_error_message_that_contrasts_can_be/</link>
-      <pubDate>Fri, 23 May 2025 01:56:23 +0000</pubDate>
-      <description>I’m pretty new to R and am trying to make a logistic regression from survey data of individuals in the Middle East.&#xA;&#xA;&amp;amp;nbsp;&#xA;&#xA;I coded two separate questions (see attached image) about religious sect for Muslims only and religious sect for Christians only as 2 factors, which I want to include as control variables. However, I run into an error that my factors need 2 or more variables when both already do.&#xA;&#xA;&amp;amp;nbsp;&#xA;&#xA;Also, it’s worth mentioning that when I include JUST the Muslim sect factor or JUST the Christian sect factor in the regression it works fine, so it seems that something about including both at once might be the problem.  &#xA;&#xA;&amp;amp;nbsp;&#xA;&#xA;Would appreciate any help — thanks!&#xA;</description>
+      <title>Jupyter Notebook on ipad and ggplot</title>
+      <link>https://reddit.com/r/RStudio/comments/1ktc3rb/jupyter_notebook_on_ipad_and_ggplot/</link>
+      <pubDate>Fri, 23 May 2025 05:47:04 +0000</pubDate>
+      <description>Hey guys! I have an exam next week and of course  I started preparing way too late. I&#39;m just starting to use R on my jupyter Notebook on my Ipad Air. I&#39;ll need to use ggplot during the exam. I already downloaded the App Juno and installed ggplot on there. Sadly I have no idea how to use ggplot on my jupyter notebook. If you could give me some tips or even better a step by step guide i would really appreciate it! :)</description>
     </item>
   </channel>
 </rss>
