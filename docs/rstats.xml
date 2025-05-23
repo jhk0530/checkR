@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Use rix to restore old environment or &#34;what to do I do if a package from github requires other packages that no longer exist&#34;</title>
-      <link>https://reddit.com/r/rstats/comments/1ktkol6/use_rix_to_restore_old_environment_or_what_to_do/</link>
-      <pubDate>Fri, 23 May 2025 14:16:13 +0000</pubDate>
-      <description>There was this post where OP asked what to do if a package hosted on GitHub requires packages that no longer exist: [https://www.reddit.com/r/rstats/comments/1kstd55/what\_do\_i\_do\_if\_a\_package\_from\_github\_requires/](https://www.reddit.com/r/rstats/comments/1kstd55/what_do_i_do_if_a_package_from_github_requires/)&#xA;&#xA;OP found a solution (there’s an updated version of the package that works with current packages), but in case you ever find yourselves in such a conundrum, you might want to try my package rix, which makes it easy to set up reproducible development environments using the Nix package manager (which you need to install first).&#xA;&#xA;Simply write this script:&#xA;&#xA;    library(&#34;rix&#34;)&#xA;    &#xA;    path_default_nix &amp;lt;- &#34;.&#34;&#xA;    &#xA;    rix(&#xA;    &#xA;      date = &#34;2023-08-15&#34;,&#xA;    &#xA;       r_pkgs = NULL, # add R packages from CRAN here&#xA;    &#xA;       git_pkgs = list(&#xA;    &#xA;        package_name = &#34;ellipsenm&#34;,&#xA;    &#xA;        repo_url = &#34;https://github.com/marlonecobos/ellipsenm&#34;,&#xA;    &#xA;        commit = &#34;0a2b3453f7e1465b197750b486a5e5ed6596a1da&#34;&#xA;    &#xA;      ),&#xA;    &#xA;      ide = &#34;none&#34;, # Change to rstudio for rstudio&#xA;    &#xA;      project_path = path_default_nix,&#xA;    &#xA;      overwrite = TRUE,&#xA;    &#xA;      print = TRUE&#xA;    )  &#xA;&#xA;which will generate the appropriate Nix file defining the environment. You can then build the environment using \`nix-build\` and then activate the environment using \`nix-shell\`. It turns out that \`ellipsenm\` doesn’t list \`formatR\` as one of its dependencies, even though it requires it, so in this particular case you’d need to add \`formatR\` to the list of dependencies in the \`default.nix\` for the expression to build successfully. This is why CRAN is so important!&#xA;&#xA;  &#xA;rix makes it also easy to add Python and Julia packages.&#xA;&#xA;For a 5-minute video intro to rix, take a look at [https://www.youtube.com/watch?v=t4MfjKgqDOc](https://www.youtube.com/watch?v=t4MfjKgqDOc)</description>
+      <title>Are there any screencasts of people making libraries? Bonus points if it&#39;s converting libraries (taking an existing library, transforming it to create a new library with new name)</title>
+      <link>https://reddit.com/r/rstats/comments/1ktpv4a/are_there_any_screencasts_of_people_making/</link>
+      <pubDate>Fri, 23 May 2025 17:47:49 +0000</pubDate>
+      <description>Similar to Hadley&#39;s video &#39;Whole Game&#39; or Julia Silge&#39;s screencats, I was just wondering if there are screencasts for making + transforming libraries.</description>
+    </item>
+    <item>
+      <title>Do u know anyone from narayana vittalwada??</title>
+      <link>https://reddit.com/r/rstats/comments/1ktp1i4/do_u_know_anyone_from_narayana_vittalwada/</link>
+      <pubDate>Fri, 23 May 2025 17:14:54 +0000</pubDate>
+      <description>Do u know anyone from narayana vittalwada??</description>
     </item>
   </channel>
 </rss>
