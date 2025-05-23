@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Nothing worked to break my porn addiction so I made something that did</title>
-      <link>https://reddit.com/r/rstats/comments/1kt4n6o/nothing_worked_to_break_my_porn_addiction_so_i/</link>
-      <pubDate>Thu, 22 May 2025 23:03:21 +0000</pubDate>
-      <description>Not proud to admit it, but I was watching porn almost every day I&#39;d quit for a few days and then relapse over and over again&#xA;I finally realized the willpower method wasn’t working and I needed something stronger.&#xA;&#xA;So I built NSFWLocker a tool that forces you off porn you just have to set the time period and it locks you out.&#xA;&#xA;It’s new, and I’m trying to get the first few people to try it out&#xA;&#xA;Open to feedback, critiques and ideas. This thing helped me stay clean for the first time in years so im hoping it helps someone else too.&#xA;</description>
+      <title>Installing Python in RStudio</title>
+      <link>https://reddit.com/r/rstats/comments/1kt549u/installing_python_in_rstudio/</link>
+      <pubDate>Thu, 22 May 2025 23:25:48 +0000</pubDate>
+      <description>I am having trouble installing Python in my RStudio. I am willing to bet it is not Rocket Science. Does anyone know an easy resource I can refer to so I can write and work with both codes simultaneously? Thank you. </description>
     </item>
   </channel>
 </rss>
