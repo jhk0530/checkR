@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Installing Python in RStudio</title>
-      <link>https://reddit.com/r/rstats/comments/1kt549u/installing_python_in_rstudio/</link>
-      <pubDate>Thu, 22 May 2025 23:25:48 +0000</pubDate>
-      <description>I am having trouble installing Python in my RStudio. I am willing to bet it is not Rocket Science. Does anyone know an easy resource I can refer to so I can write and work with both codes simultaneously? Thank you. </description>
+      <title>Help — getting error message that “contrasts can be applied only to factors with 2 or more levels” (crossposted because my assignment is due soon and I really need to figure this out…)</title>
+      <link>https://reddit.com/r/rstats/comments/1kt9s29/help_getting_error_message_that_contrasts_can_be/</link>
+      <pubDate>Fri, 23 May 2025 03:27:48 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
