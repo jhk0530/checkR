@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Newbie to EBI Image analyser and trying to get the values from a ranged bar chart in .tif file Format</title>
-      <link>https://reddit.com/r/rstats/comments/1ktsrwt/newbie_to_ebi_image_analyser_and_trying_to_get/</link>
-      <pubDate>Fri, 23 May 2025 19:48:33 +0000</pubDate>
-      <description>I&#39;ve been at this for hours, and maybe I&#39;m an idiot and can&#39;t see how this works, but this is wrecking me. I have a greyscale bar chart with the temperature ranges of nine countries and I&#39;m trying to get the min and max values for one country in particular? Would anyone please know how? I&#39;ve tried different types of code but it keeps getting stuck on the image having the wrong number of dimensions, as it seems to have three not two.</description>
-    </item>
-    <item>
-      <title>Struggling with Zero-Inflated, Overdispersed Count Data: Seeking Modeling Advice</title>
-      <link>https://reddit.com/r/rstats/comments/1kts44p/struggling_with_zeroinflated_overdispersed_count/</link>
-      <pubDate>Fri, 23 May 2025 19:20:02 +0000</pubDate>
-      <description>I’m working on predicting what factors influence where biochar facilities are located. I have data from 113 counties across four northern U.S. states. My dataset includes over 30 variables, so I’ve been checking correlations and grouping similar variables to reduce multicollinearity before running regression models.&#xA;&#xA;The outcome I’m studying is the number of biochar facilities in each county (a count variable). One issue I’m facing is that many counties have zero facilities, and I’ve tested and confirmed that the data is zero-inflated. Also, the data is overdispersed — the variance is much higher than the mean — which suggests that a zero-inflated negative binomial (ZINB) regression model would be appropriate.&#xA;&#xA;However, when I run the ZINB model, it doesn’t converge, and the standard errors are extremely large (for example, a coefficient estimate of 20 might have a standard error of 200).&#xA;&#xA;My main goal is to understand which factors significantly influence the establishment of these facilities — not necessarily to create a perfect predictive model.&#xA;&#xA;Given this situation, I’d like to know:&#xA;&#xA;1. Is there any way to improve or preprocess the data to make ZINB work?&#xA;2. Or, is there a different method that would be more suitable for this kind of problem?</description>
+      <title>Is there a package for detecting bot responses in surveys</title>
+      <link>https://reddit.com/r/rstats/comments/1ktuw3m/is_there_a_package_for_detecting_bot_responses_in/</link>
+      <pubDate>Fri, 23 May 2025 21:19:12 +0000</pubDate>
+      <description>To make a long story short, I thought I had the bot detection turned on in Qualtrics, and I was wrong! Anyway, now I have a boatload of data to sift through that might be 90% bots. Is there a package that can help automate this process? &#xA;&#xA;I had found that there was a package called rIP that would do this with IP addresses, but unfortunately, that package has been removed from CRAN as a dependency package has been removed as well. Is there anything similar?</description>
     </item>
   </channel>
 </rss>
