@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Seeking help with lists, lapply, trying to compute something and getting stuck</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kswuad/seeking_help_with_lists_lapply_trying_to_compute/</link>
-      <pubDate>Thu, 22 May 2025 17:38:05 +0000</pubDate>
-      <description>Hello there, so I&#39;m learning R and getting stumped by this problem. I have a list of 10 data frames, each with about 40,000 rows that apply to a given year (residential electricity rates for a given ZIP code if you&#39;re curious). I&#39;m trying to find how each of those changes year to year, and I&#39;m not sure if I can do it with a lapply function or a for loop or if I have to put everything into one single data frame. And now that I&#39;m typing this I&#39;m remembering not every zip code has data for every year so I definitely need to join everything into one data frame. So if anyone has advice I&#39;m open to it but I think I might have figured out how to do this.</description>
+      <title>Made a Minimalist Terminal Puzzle Game with Amazon Q CLI – “Color Puzzle” 🎨🧠</title>
+      <link>https://reddit.com/r/rprogramming/comments/1ktt371/made_a_minimalist_terminal_puzzle_game_with/</link>
+      <pubDate>Fri, 23 May 2025 20:02:02 +0000</pubDate>
+      <description>Hey folks! I wanted to share a small but unique project I recently completed: a **terminal-based color logic puzzle game** called **Color Puzzle** — written in Python with the help of **Amazon Q CLI**.&#xA;&#xA;🧩 **What it is:** You control a color block on a 5x5 grid. Each move (W/A/S/D) shifts your position **and** changes your color based on a secret pattern. The challenge is to reach the **target color** using logic and the fewest moves possible.&#xA;&#xA;⚙️ **Why it&#39;s cool:** I used **Amazon Q CLI** to speed up my coding process right from the terminal. It helped generate core structures, manage logic, and explain tricky parts while I stayed focused in my CLI environment.&#xA;&#xA;\#Amazon,#Q CLI</description>
     </item>
   </channel>
 </rss>
