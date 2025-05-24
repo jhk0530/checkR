@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Is there a package for detecting bot responses in surveys</title>
-      <link>https://reddit.com/r/rstats/comments/1ktuw3m/is_there_a_package_for_detecting_bot_responses_in/</link>
-      <pubDate>Fri, 23 May 2025 21:19:12 +0000</pubDate>
-      <description>To make a long story short, I thought I had the bot detection turned on in Qualtrics, and I was wrong! Anyway, now I have a boatload of data to sift through that might be 90% bots. Is there a package that can help automate this process? &#xA;&#xA;I had found that there was a package called rIP that would do this with IP addresses, but unfortunately, that package has been removed from CRAN as a dependency package has been removed as well. Is there anything similar?</description>
+      <title>Could I please have help recreating this graph??</title>
+      <link>https://reddit.com/r/rstats/comments/1ku1eai/could_i_please_have_help_recreating_this_graph/</link>
+      <pubDate>Sat, 24 May 2025 02:44:38 +0000</pubDate>
+      <description>I have spent a long time trying to replicate this graph and am stuck. I am almost there but can not figure out how to get the diagonal lines crossing the origin right. Here is my current code:&#xA;&#xA;  &#xA;library(datarium)&#xA;&#xA;mod &amp;lt;-lm(sales\~.,data=marketing)  &#xA;X &amp;lt;- model.matrix(mod) #design matrix&#xA;&#xA;y &amp;lt;- marketing$sales #response vector&#xA;&#xA;&#xA;&#xA;e\_hat &amp;lt;- residuals(mod) &#xA;&#xA;y\_hat &amp;lt;- fitted(mod)&#xA;&#xA;student\_res &amp;lt;- rstandard(mod)&#xA;&#xA;cook\_d &amp;lt;- cooks.distance(mod)&#xA;&#xA;lev &amp;lt;- hatvalues(mod)&#xA;&#xA;  &#xA;&#xA;&#xA;my.plot.6 &amp;lt;- function(X, y) {&#xA;&#xA;  plot(lev,&#xA;&#xA;cook\_d,&#xA;&#xA;xlab = &#34;Leverage h\_ii&#34;,&#xA;&#xA;ylab = &#34;Cook&#39;s Distance&#34;,&#xA;&#xA;main = &#34;Cook&#39;s dist vs Leverage \* hii (1 − hii)&#34;,xlim = c(0.003,0.09), ylim = c(0, .3))&#xA;&#xA;&#xA;&#xA;  top\_n &amp;lt;- 3  # Number of top points to label&#xA;&#xA;  top\_cooks &amp;lt;- order(cook\_d, decreasing = TRUE)\[1:top\_n\]&#xA;&#xA;&#xA;&#xA;  text(lev\[top\_cooks\],&#xA;&#xA;cook\_d\[top\_cooks\],&#xA;&#xA;labels = top\_cooks,&#xA;&#xA;pos = 3,&#xA;&#xA;cex = 0.8)&#xA;&#xA;&#xA;&#xA;  lines(lowess(lev, cook\_d), col = &#34;red&#34;, lwd = 2)&#xA;&#xA;  abline(h = 0, lty = 2)&#xA;&#xA;&#xA;&#xA; p &amp;lt;- length(coef(mod))&#xA;&#xA; lev\_seq &amp;lt;- seq(0.001, 0.99, length.out = 100) # avoid 0 and 1&#xA;&#xA; cook\_levels &amp;lt;- c(1, 2, 3, 4, 5, 6)&#xA;&#xA;&#xA;&#xA;for (level in cook\_levels) {&#xA;&#xA;  bound &amp;lt;- level \* lev\_seq / (1 - lev\_seq)&#xA;&#xA;  lines(lev\_seq, bound, lty = 2, col = &#34;gray&#34;)&#xA;&#xA;}&#xA;&#xA;}&#xA;&#xA;my.plot.6(X, y)&#xA;&#xA;&#xA;&#xA;Thank you!!!</description>
     </item>
   </channel>
 </rss>
