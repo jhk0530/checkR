@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Does Preview on Save work?</title>
-      <link>https://reddit.com/r/RStudio/comments/1ku0m62/does_preview_on_save_work/</link>
-      <pubDate>Sat, 24 May 2025 02:01:04 +0000</pubDate>
-      <description>I keep trying to run &#34;Preview on Save&#34; on R notebook in RStudio but it keeps running source() at the end. I attempted to troubleshoot extensively, from deleting R histories and clear caches etc, but to no avail. Am I missing something but is this feature completely not working at all?</description>
+      <title>Why the mean of original sample calculated by boot differs from my manual calculation?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kuebh6/why_the_mean_of_original_sample_calculated_by/</link>
+      <pubDate>Sat, 24 May 2025 15:31:26 +0000</pubDate>
+      <description>I use the boot package for bootstrapping:&#xA;&#xA;    bootstrap_mean &amp;lt;- function(data, indices) {&#xA;      return(mean(data[indices], na.rm = TRUE))&#xA;    }&#xA;    # generate bootstrapped samples&#xA;    boot_with &amp;lt;- boot(entries_with$mood_value, statistic = bootstrap_mean, R = 1000)&#xA;    boot_without &amp;lt;- boot(entries_without$mood_value, statistic = bootstrap_mean, R = 1000)&#xA;&#xA;However, upon closer inspection the original sample&#39;s mean differs from the mean I can calculate &#34;by hand&#34;:&#xA;&#xA;    &amp;gt; boot_with&#xA;    &#xA;    Bootstrap Statistics :&#xA;        original       bias    std. error&#xA;    t1* 2.614035 -0.005561404   0.1602418&#xA;    &#xA;    &amp;gt; mean(entries_with$mood_value, na.rm = TRUE)&#xA;    [1] 2.603175&#xA;&#xA;As you can see, **original** says the mean should equal to 2.614035 according to boot. But my calculation says 2.603175. Why do these calculations differ? Unless I&#39;m misinterpreting what **original** means in the boot package?&#xA;&#xA;Here&#39;s what&#39;s inside my `entries_with$mood_value` array so you can check by yourself:&#xA;&#xA;    &amp;gt; entries_with[[&#34;mood_value&#34;]]&#xA;     [1] 2 4 1 2 1 2 4 5 2 4 1 1 4 3 4 2 4 1 2 1 2 1 2 2 2 2 2 1 4 2 3 2 3 5 4 4 2 2&#xA;    [39] 4 2 2 2 4 1 5 2 2 1 4 2 3 3 4 4 2 2 2 4 4 2 2 2 4</description>
     </item>
   </channel>
 </rss>
