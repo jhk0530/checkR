@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How can I round up categories in R?</title>
-      <link>https://reddit.com/r/RStudio/comments/1kujd0t/how_can_i_round_up_categories_in_r/</link>
-      <pubDate>Sat, 24 May 2025 19:11:33 +0000</pubDate>
-      <description>Hi! I am a newbie, using R for my quantitive research methods class. I was doing some exercises and I have identifid outliers - hotels with 1.5 stars. My guiding solution suggests &#34;rounding these up&#34; to 2 stars. Do any of you have any idea on how can i do that? I think it just means changing a rating from 1.5 stars to 2, but I am not sure how to do that. Any tips will be greatly appreciated.</description>
+      <title>How can I replace a value of one variable with 2 values of another?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kumqs6/how_can_i_replace_a_value_of_one_variable_with_2/</link>
+      <pubDate>Sat, 24 May 2025 21:48:24 +0000</pubDate>
+      <description>I’m analyzing public opinion in several Arab countries. I have a variable indicating country of respondent, which I intend to use as a factor IV in regressions. However, Palestine is one of the countries listed, and the survey whose data I’m using  asked a follow-up question solely to Palestinians as to whether they are in Gaza or the West Bank. Is there a way I could divide the value of Palestine in the country variable into West Bank and Gaza (because I get multicollinearity if I include the Gaza/West Bank variable as well as the default country variable that includes Palestine in the same regression)?&#xA;&#xA;I’m pretty new to R so would appreciate as much help as possible, thanks!</description>
     </item>
   </channel>
 </rss>
