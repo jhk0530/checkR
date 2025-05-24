@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Advice on creating a database that I can search through</title>
-      <link>https://reddit.com/r/RStudio/comments/1ktywsy/advice_on_creating_a_database_that_i_can_search/</link>
-      <pubDate>Sat, 24 May 2025 00:30:22 +0000</pubDate>
-      <description>Hello. I am not an analyst, but I have R experience from college. I am working on an independent project of my own to create a large database of 1000s of excel files. We hope to store it in a network drive, and I am using R to import the files into R, clean up the data, and then merge them all into one large dataframe that I essentially want to call database. I can filter through it using simple commands to look for what I want to, but I was wondering if this is even the correct approach. I did the math and we would be creating, storing, and processing 1G of data. I read that SQL is better at queries, and there was a way using RSQLite command in R I think to incorporate that functionality. Am I out of my depth given I am not an analyst? I am interested in making this work and so far I can make a merged dataset of a couple of excel files. Any advice would be appreciated! </description>
+      <title>Does Preview on Save work?</title>
+      <link>https://reddit.com/r/RStudio/comments/1ku0m62/does_preview_on_save_work/</link>
+      <pubDate>Sat, 24 May 2025 02:01:04 +0000</pubDate>
+      <description>I keep trying to run &#34;Preview on Save&#34; on R notebook in RStudio but it keeps running source() at the end. I attempted to troubleshoot extensively, from deleting R histories and clear caches etc, but to no avail. Am I missing something but is this feature completely not working at all?</description>
     </item>
   </channel>
 </rss>
