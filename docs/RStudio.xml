@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Why the mean of original sample calculated by boot differs from my manual calculation?</title>
-      <link>https://reddit.com/r/RStudio/comments/1kuebh6/why_the_mean_of_original_sample_calculated_by/</link>
-      <pubDate>Sat, 24 May 2025 15:31:26 +0000</pubDate>
-      <description>I use the boot package for bootstrapping:&#xA;&#xA;    bootstrap_mean &amp;lt;- function(data, indices) {&#xA;      return(mean(data[indices], na.rm = TRUE))&#xA;    }&#xA;    # generate bootstrapped samples&#xA;    boot_with &amp;lt;- boot(entries_with$mood_value, statistic = bootstrap_mean, R = 1000)&#xA;    boot_without &amp;lt;- boot(entries_without$mood_value, statistic = bootstrap_mean, R = 1000)&#xA;&#xA;However, upon closer inspection the original sample&#39;s mean differs from the mean I can calculate &#34;by hand&#34;:&#xA;&#xA;    &amp;gt; boot_with&#xA;    &#xA;    Bootstrap Statistics :&#xA;        original       bias    std. error&#xA;    t1* 2.614035 -0.005561404   0.1602418&#xA;    &#xA;    &amp;gt; mean(entries_with$mood_value, na.rm = TRUE)&#xA;    [1] 2.603175&#xA;&#xA;As you can see, **original** says the mean should equal to 2.614035 according to boot. But my calculation says 2.603175. Why do these calculations differ? Unless I&#39;m misinterpreting what **original** means in the boot package?&#xA;&#xA;Here&#39;s what&#39;s inside my `entries_with$mood_value` array so you can check by yourself:&#xA;&#xA;    &amp;gt; entries_with[[&#34;mood_value&#34;]]&#xA;     [1] 2 4 1 2 1 2 4 5 2 4 1 1 4 3 4 2 4 1 2 1 2 1 2 2 2 2 2 1 4 2 3 2 3 5 4 4 2 2&#xA;    [39] 4 2 2 2 4 1 5 2 2 1 4 2 3 3 4 4 2 2 2 4 4 2 2 2 4</description>
+      <title>How can I round up categories in R?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kujd0t/how_can_i_round_up_categories_in_r/</link>
+      <pubDate>Sat, 24 May 2025 19:11:33 +0000</pubDate>
+      <description>Hi! I am a newbie, using R for my quantitive research methods class. I was doing some exercises and I have identifid outliers - hotels with 1.5 stars. My guiding solution suggests &#34;rounding these up&#34; to 2 stars. Do any of you have any idea on how can i do that? I think it just means changing a rating from 1.5 stars to 2, but I am not sure how to do that. Any tips will be greatly appreciated.</description>
     </item>
   </channel>
 </rss>
