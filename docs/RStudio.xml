@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>When to calculate MCAR before or after averaging means for variables</title>
+      <link>https://reddit.com/r/RStudio/comments/1kvdkhf/when_to_calculate_mcar_before_or_after_averaging/</link>
+      <pubDate>Sun, 25 May 2025 21:27:31 +0000</pubDate>
+      <description>Hi everyone, I am a bit stuck on whether I should conduct an MCAR test before I average means for variables eg egalitarianism 1 - 2 - 3  or after I create total columns e.g egalitarianism.total. What are the recommendation on this. Also should I conduct an MCAR test for all my variables even age and gender as they have no missing data.&#xA;&#xA;Thank you so much for your support.</description>
+    </item>
+    <item>
       <title>Question about The Economist graph</title>
       <link>https://reddit.com/r/RStudio/comments/1kvcpm6/question_about_the_economist_graph/</link>
       <pubDate>Sun, 25 May 2025 20:49:51 +0000</pubDate>
