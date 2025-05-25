@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Unsure of what to do for an R project</title>
-      <link>https://reddit.com/r/RStudio/comments/1kuxqqn/unsure_of_what_to_do_for_an_r_project/</link>
-      <pubDate>Sun, 25 May 2025 08:32:46 +0000</pubDate>
-      <description>Hi everyone, I have been trying my best on a piece of work for the past month and a half and I have requested university extensions however I am struggling so much with my work. I don’t know if I am doing the work right. I need to do an assignment on regression and one on mediation. I hope that I am not messaged by scammers :( I am really depressed by this work hope someone can guide me.&#xA;&#xA;I have written some of the code but I am especially stuck on the data cleaning and missingness. Whether or not to impute. In an example the teacher provided they put a histogram to analyse missingness of extreme values however when I put it in R the graphs are all not visible and the scale does not adjust.  I feel so exhausted today I did not sleep at all night and I don’t seem to have the confidence to do this work with the extended deadline creeping up again.&#xA;&#xA;If anyone can help me review my code or anything I would so greatly appreciate it. It’s been very mentally challenging that all my classmates have submitted their work except me.&#xA;&#xA;Perhaps I could DM you my task I need guidance of course not to cheat and I would appreciate anyone’s support on this.&#xA;&#xA;Thank you so much for reading my message!</description>
+      <title>Question about The Economist graph</title>
+      <link>https://reddit.com/r/RStudio/comments/1kvcpm6/question_about_the_economist_graph/</link>
+      <pubDate>Sun, 25 May 2025 20:49:51 +0000</pubDate>
+      <description>Hi everyone — I’m an economist and I code in both **R** and **Python**. I’m a big fan of the visual style used in *The Economist*&#39;s charts. I often use **ggplot2** (in R) and **plotnine** (in Python), but I’ve never been able to fully replicate their chart design — especially with all the editorial elements like the thin red top line, minimalist grid, left-aligned title/subtitle, and clean footer annotations.&#xA;&#xA;Recently, I tried to recreate their style using U.S. unemployment data (from the `economics` dataset in R). I got close, but it still lacks some finishing touches to really match their standard.&#xA;&#xA;Has anyone come across a **GitHub repository, guide, or template** (in R or Python) that shows how to build charts in *The Economist* style — ideally with most of these key elements included?&#xA;&#xA;I&#39;d really appreciate any help or recommendations!</description>
     </item>
   </channel>
 </rss>
