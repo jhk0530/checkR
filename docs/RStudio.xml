@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How can I replace a value of one variable with 2 values of another?</title>
-      <link>https://reddit.com/r/RStudio/comments/1kumqs6/how_can_i_replace_a_value_of_one_variable_with_2/</link>
-      <pubDate>Sat, 24 May 2025 21:48:24 +0000</pubDate>
-      <description>I’m analyzing public opinion in several Arab countries. I have a variable indicating country of respondent, which I intend to use as a factor IV in regressions. However, Palestine is one of the countries listed, and the survey whose data I’m using  asked a follow-up question solely to Palestinians as to whether they are in Gaza or the West Bank. Is there a way I could divide the value of Palestine in the country variable into West Bank and Gaza (because I get multicollinearity if I include the Gaza/West Bank variable as well as the default country variable that includes Palestine in the same regression)?&#xA;&#xA;I’m pretty new to R so would appreciate as much help as possible, thanks!</description>
+      <title>When RStudio crashes right after you forgot to save for 2 hours</title>
+      <link>https://reddit.com/r/RStudio/comments/1kupqpx/when_rstudio_crashes_right_after_you_forgot_to/</link>
+      <pubDate>Sun, 25 May 2025 00:18:27 +0000</pubDate>
+      <description>Nothing humbles you faster than watching your unsaved ggplot masterpiece vanish like a puff of smoke. Meanwhile, VSCode users smirk in auto-save safety like smug time travelers. Save early, save often, or perish in the spinning wheel of doom.</description>
     </item>
   </channel>
 </rss>
