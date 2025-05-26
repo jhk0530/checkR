@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>The code is not executed</title>
+      <link>https://reddit.com/r/RStudio/comments/1kw5ewj/the_code_is_not_executed/</link>
+      <pubDate>Mon, 26 May 2025 21:00:29 +0000</pubDate>
+      <description>Hi all,  &#xA;  &#xA;Recently my RStudio has been having problems running code. It all started when I tried to connect it to GIT without success but from then on it started to present problems when executing code. Even the most basic addition and subtraction commands take minutes to execute and in the end I get no results. &#xA;&#xA;Eventually I get an error message and although I have tried restarting my computer, uninstalling and installing the program nothing works.&#xA;&#xA;I would appreciate your help if anything similar has happened to you.&#xA;&#xA;Thanks a lot &amp;lt;3&#xA;&#xA;https://preview.redd.it/mk25f3g1x63f1.png?width=696&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=bf0b8d332317045a0b367329a75efdb5471fc0d6&#xA;&#xA;</description>
+    </item>
+    <item>
       <title>Which variables how to calculate MCAR for my data</title>
       <link>https://reddit.com/r/RStudio/comments/1kw335j/which_variables_how_to_calculate_mcar_for_my_data/</link>
       <pubDate>Mon, 26 May 2025 19:23:54 +0000</pubDate>
