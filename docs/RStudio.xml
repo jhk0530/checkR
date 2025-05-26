@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>The code is not executed</title>
-      <link>https://reddit.com/r/RStudio/comments/1kw5ewj/the_code_is_not_executed/</link>
-      <pubDate>Mon, 26 May 2025 21:00:29 +0000</pubDate>
-      <description>Hi all,  &#xA;  &#xA;Recently my RStudio has been having problems running code. It all started when I tried to connect it to GIT without success but from then on it started to present problems when executing code. Even the most basic addition and subtraction commands take minutes to execute and in the end I get no results. &#xA;&#xA;Eventually I get an error message and although I have tried restarting my computer, uninstalling and installing the program nothing works.&#xA;&#xA;I would appreciate your help if anything similar has happened to you.&#xA;&#xA;Thanks a lot &amp;lt;3&#xA;&#xA;https://preview.redd.it/mk25f3g1x63f1.png?width=696&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=bf0b8d332317045a0b367329a75efdb5471fc0d6&#xA;&#xA;</description>
+      <title>How to find outliers boxplots for my data and what to do with them</title>
+      <link>https://reddit.com/r/RStudio/comments/1kw7std/how_to_find_outliers_boxplots_for_my_data_and/</link>
+      <pubDate>Mon, 26 May 2025 22:43:24 +0000</pubDate>
+      <description>Hi everyone, I am struggling to identify outliers for my data and remove them. Please could someone help me out with the steps needed.&#xA;&#xA;Thank you&#xA;&#xA;This is my code &#xA;&#xA;# Load necessary libraries&#xA;install.packages(&#34;psych&#34;); library(psych)&#xA;install.packages(&#34;finalfit&#34;); library(finalfit)&#xA;install.packages(&#34;naniar&#34;); library(naniar)&#xA;install.packages(&#34;dplyr&#34;); library(dplyr)&#xA; &#xA;# MARK MISSING DATA&#xA;Dataset[Dataset == 999 | Dataset == -999] &amp;lt;- NA  # Mark as missing&#xA; &#xA;multi.hist(Dataset[, c(&#34;GENDER&#34;, &#34;NegEmot1&#34;, &#34;NegEmot2&#34;, &#34;NegEmot3&#34;, &#34;Egal1&#34;, &#34;Egal2&#34;, &#34;Egal3&#34;, &#34;Ind1&#34;, &#34;Ind2&#34;, &#34;Ind3&#34;, &#34;GovSupport1&#34;, &#34;GovSupport2&#34;, &#34;GovSupport3&#34;)])&#xA; &#xA;# There appears to be a strong outlier present in Ind1 of 44 - this must be removed&#xA;Dataset$Ind1[Dataset$Ind1 == 44] &amp;lt;- 4&#xA;Dataset$AGE[round(Dataset$AGE, 5) == 23.57143] &amp;lt;- 23&#xA;Dataset$Egal1[round(Dataset$Egal1, 6) == 6.090909] &amp;lt;- 6&#xA;Dataset$Egal3[round(Dataset$Egal3, 6) == 3.272727] &amp;lt;- 3&#xA; &#xA;# Rerun multi.hist after cleaning&#xA;multi.hist(Dataset[, c(&#34;GENDER&#34;, &#34;NegEmot1&#34;, &#34;NegEmot2&#34;, &#34;NegEmot3&#34;, &#34;Egal1&#34;, &#34;Egal2&#34;, &#34;Egal3&#34;, &#34;Ind1&#34;, &#34;Ind2&#34;, &#34;Ind3&#34;, &#34;GovSupport1&#34;, &#34;GovSupport2&#34;, &#34;GovSupport3&#34;)])&#xA; &#xA;# MISSINGNESS ASSESSMENT&#xA;head(Dataset)&#xA;str(Dataset)&#xA;summary(Dataset)&#xA; &#xA;Dataset %&amp;gt;% ff_glimpse(names(Dataset))&#xA; &#xA;# MCAR TEST&#xA;MCAR.test &amp;lt;- mcar_test(Dataset)&#xA;MCAR.test$p.value&#xA; &#xA;# The P-Value is 0.1066383- We fail to reject the null → Data is likely MCAR&#xA; &#xA;#OUTLIERS</description>
+    </item>
+    <item>
+      <title>Any idea why levene&#39;s test p value would be so small? Does it means that my data is worthless and an ANOVA test is out of question?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kw79f1/any_idea_why_levenes_test_p_value_would_be_so/</link>
+      <pubDate>Mon, 26 May 2025 22:19:19 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
