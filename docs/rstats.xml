@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Using survey weights in lmer (or an equivalent)</title>
-      <link>https://reddit.com/r/rstats/comments/1kxrds5/using_survey_weights_in_lmer_or_an_equivalent/</link>
-      <pubDate>Wed, 28 May 2025 20:19:39 +0000</pubDate>
-      <description>I have been using R exclusively for about a year after losing access to SAS. In SAS, I would do something like the following&#xA;&#xA;newweight=(weight1)\*(weight2); (per the documentation guidelines)&#xA;&#xA;  &#xA;proc mixed method = ml covtest ic;&#xA;&#xA;class region;&#xA;&#xA;model dv= iv1 iv2 region\_iv&#xA;&#xA;/solution ddfm=bw notest; weight newweight;&#xA;&#xA;random int /subject = region G TYPE = VC;&#xA;&#xA;run;&#xA;&#xA;In R I have&#xA;&#xA;  &#xA;evs$combined\_weight &amp;lt;- evs$dweight \* evs$pweight&#xA;&#xA;&#xA;&#xA;m1 &amp;lt;- lmer(andemo \~ iv1 + iv2 + cntry\_iv1 +&#xA;&#xA;(1 | cntry\_factor), data = evs, weights = combined\_weight)&#xA;&#xA;  &#xA;In this case, I get an error message because the combined weight has negative values. In other cases, the model converges and produces results, but I have read conflicting accounts about how well lmer handles weights, whether I weight the entire dataset or apply the weights to the lmer function. &#xA;&#xA;Would anyone happen to have recommendations for how to move forward? Is there another package for multilevel models that can handle this better?&#xA;&#xA;</description>
+      <title>Which programing langage for market access/clinical trials?</title>
+      <link>https://reddit.com/r/rstats/comments/1kxu9c3/which_programing_langage_for_market/</link>
+      <pubDate>Wed, 28 May 2025 22:15:39 +0000</pubDate>
+      <description>Hi everyone, &#xA;&#xA;I&#39;m going back to (a French) business school to get a Msc in biopharmaceutical management and biotechnology. I am a lawyer, and I really really don&#39;t want to end up in regulatory affairs.&#xA;&#xA;I want to be at the interface between market access and data. I&#39;ll do my internship in a think tank which specialises in AI in health care. I know I am no engeener but I think I can still make myself usefully. If I doesn&#39;t go well, I&#39;ll be going into venture capital or private equity. &#xA;&#xA;R is still a standard in the industry, but is python becoming more and more important? I know a little bit of R. &#xA;&#xA;Thank you :) </description>
     </item>
   </channel>
 </rss>
