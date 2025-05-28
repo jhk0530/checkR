@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Adding tables to word on fixed position</title>
-      <link>https://reddit.com/r/RStudio/comments/1kxagnb/adding_tables_to_word_on_fixed_position/</link>
-      <pubDate>Wed, 28 May 2025 06:51:26 +0000</pubDate>
-      <description>I am currently working on a shiny to generate documents automatically. I am using the officer package, collecting inputs in a shiny and then replacing placeholders in a word doc. Next to simply changing text, I also have some placeholders that are exchanged with flextable objects. The exact way this is done is that the user can choose up to 11 tables by mc, with 11 placeholders in word. Then I loop over every chosen test name, exchange the placeholder with the table object, and then after delete every remaining placeholder. &#xA;My problem is that the tables are always added at the end of the document, instead of where I need them to be. Does anybody know a fix for this?&#xA;Thanks!</description>
+      <title>I&#39;m facing a problem in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1kxmr48/im_facing_a_problem_in_r/</link>
+      <pubDate>Wed, 28 May 2025 17:16:16 +0000</pubDate>
+      <description>I&#39;m copy pasting the Google sheet link in R, to make it tabular presentation in R. It says &#34;//&#34; error&#xA;What to do know? I have already downloaded googlesheet4 package too</description>
     </item>
   </channel>
 </rss>
