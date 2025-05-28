@@ -9,11 +9,5 @@
       <pubDate>Wed, 28 May 2025 18:34:03 +0000</pubDate>
       <description>Hello everyone, I’m studying convergence (in probability, pointwise, almost sure, and in mean) and would like an R script with a computational practice for me to study. I’m a beginner in R and haven’t been able to do anything yet. If you have a commented script, it would help a lot in my studies.</description>
     </item>
-    <item>
-      <title>I&#39;m facing a problem in R</title>
-      <link>https://reddit.com/r/RStudio/comments/1kxmr48/im_facing_a_problem_in_r/</link>
-      <pubDate>Wed, 28 May 2025 17:16:16 +0000</pubDate>
-      <description>I&#39;m copy pasting the Google sheet link in R, to make it tabular presentation in R. It says &#34;//&#34; error&#xA;What to do know? I have already downloaded googlesheet4 package too</description>
-    </item>
   </channel>
 </rss>
