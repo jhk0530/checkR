@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Looking for R Examples to Understand Different Types of Convergence</title>
-      <link>https://reddit.com/r/RStudio/comments/1kxoq4w/looking_for_r_examples_to_understand_different/</link>
-      <pubDate>Wed, 28 May 2025 18:34:03 +0000</pubDate>
-      <description>Hello everyone, I’m studying convergence (in probability, pointwise, almost sure, and in mean) and would like an R script with a computational practice for me to study. I’m a beginner in R and haven’t been able to do anything yet. If you have a commented script, it would help a lot in my studies.</description>
+      <title>DataSetsVerse Package</title>
+      <link>https://reddit.com/r/RStudio/comments/1kxsnzz/datasetsverse_package/</link>
+      <pubDate>Wed, 28 May 2025 21:09:49 +0000</pubDate>
+      <description>The `DataSetsVerse` **is a metapackage that brings together a curated collection of R packages containing domain-specific datasets. It includes** ***time series data, educational metrics, crime records, medical datasets, and oncology research data*****.**  &#xA;[**https://lightbluetitan.github.io/datasetsverse/**](https://lightbluetitan.github.io/datasetsverse/)&#xA;&#xA;https://preview.redd.it/isbmto7p8l3f1.png?width=1037&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b0b219915373b6cc500cc825255298e8c75ae975&#xA;&#xA;Designed to provide researchers, analysts, educators, and data scientists with centralized access to structured and well-documented datasets</description>
     </item>
   </channel>
 </rss>
