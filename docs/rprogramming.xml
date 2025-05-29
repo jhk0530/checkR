@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>First-year college student struggling with R</title>
-      <link>https://reddit.com/r/rprogramming/comments/1kuespp/firstyear_college_student_struggling_with_r/</link>
-      <pubDate>Sat, 24 May 2025 15:52:29 +0000</pubDate>
-      <description></description>
+      <title>Not sure if this can be fixed with R</title>
+      <link>https://reddit.com/r/rprogramming/comments/1kxw2op/not_sure_if_this_can_be_fixed_with_r/</link>
+      <pubDate>Wed, 28 May 2025 23:36:23 +0000</pubDate>
+      <description>I have been making plots using ggplot2 and exporting them as pdf files. When I view these files on my computer (MacBook) I can see the colors on the plot. I added them to a PowerPoint presentation, but when I did the presentation on a PC computer none of the colors were visible (very embarrassing when I went to discuss data points on the plot that were not there). I tried converting the images to jpeg and png. The colors are retained in this format, but the image quality is not as good as the pdf (as it appears on my MacBook) so I would prefer to use pdf files. Is there something I can do when exporting from R to fix this? &#xA;&#xA;To save the plots, I am using the code:&#xA;&#xA;ggsave(file = “file_name.pdf”, plot = file_name)</description>
     </item>
   </channel>
 </rss>
