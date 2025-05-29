@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>NeuroDataSets Package</title>
-      <link>https://reddit.com/r/RStudio/comments/1kyfnj6/neurodatasets_package/</link>
-      <pubDate>Thu, 29 May 2025 16:45:54 +0000</pubDate>
-      <description>The `NeuroDataSets` package offers a rich and diverse collection of datasets focused on the brain, the nervous system, and neurological and psychiatric disorders. It includes data on conditions such as **Parkinson’s disease, Alzheimer’s disease, epilepsy, schizophrenia, gliomas, and mental health**.  &#xA;[https://lightbluetitan.github.io/neurodatasets/](https://lightbluetitan.github.io/neurodatasets/)&#xA;&#xA;https://preview.redd.it/6zk8pjkh2r3f1.png?width=1037&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=88803abc00cbac6021796d164be4bccda355726b&#xA;&#xA;</description>
-    </item>
-    <item>
-      <title>Problem with Mutate and str_count()</title>
-      <link>https://reddit.com/r/RStudio/comments/1kyfcev/problem_with_mutate_and_str_count/</link>
-      <pubDate>Thu, 29 May 2025 16:33:50 +0000</pubDate>
-      <description>hello! I have two dataframes, I will call them df1, and df2. df1 has a column that has the answers to a multiple choice question from google forms, so they are in one cell, separated by commas. Ive already &#34;cleased&#34; the column using grepl, and other stuff, so it basically contains only the letters (yeah, the commas also evaporated). df2 is my try to make my life easier, because I need to count for each possible answer - nine - how many times it was answered. df2 has three columns - first is the &#34;true&#34; text, with all the characters, second is the &#34;cleansed&#34; text that I want to search, and the third column, empty at the moment, is how many times the text appear in the df1 column. the code I tried is:&#xA;&#xA;`df2 &amp;lt;- df2%&amp;gt;%`  &#xA;`mutate(\`number\` = str\_count(df1$\`column\`, truetext))\`&#xA;&#xA;but the following error appears:&#xA;&#xA;    Error in `mutate()`:&#xA;    ℹ In argument: `número = str_count(...)`.&#xA;    Caused by error in `str_count()`:&#xA;    ! Can&#39;t recycle `string` (size 3999) to match `pattern` (size 9).&#xA;&#xA;df1 has 3999 rows.&#xA;&#xA;additional details:&#xA;&#xA;im using \`\` because the real column name has accents and spaces.&#xA;&#xA;Edit: Solved, thanks to u/shujaa-g for the help.</description>
+      <title>type III Anova with nlme?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kyi3za/type_iii_anova_with_nlme/</link>
+      <pubDate>Thu, 29 May 2025 18:22:23 +0000</pubDate>
+      <description>Hi, I&#39;ve been struggling to find a way to perform a type 3 ANOVA on an lme i fit using nlme. I had to consider heteroscedasticity (weights = varIdent), which explains why i&#39;m using nlme. My model includes interactions&#xA;&#xA;I tried using car :: Anova, type 3 but its not compatible with nlme, i&#39;ve also tried anova.lme which doesn&#39;t allow to specify for type 3 anova.&#xA;&#xA;  &#xA;TIA!</description>
     </item>
   </channel>
 </rss>
