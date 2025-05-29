@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>type III Anova with nlme?</title>
-      <link>https://reddit.com/r/RStudio/comments/1kyi3za/type_iii_anova_with_nlme/</link>
-      <pubDate>Thu, 29 May 2025 18:22:23 +0000</pubDate>
-      <description>Hi, I&#39;ve been struggling to find a way to perform a type 3 ANOVA on an lme i fit using nlme. I had to consider heteroscedasticity (weights = varIdent), which explains why i&#39;m using nlme. My model includes interactions&#xA;&#xA;I tried using car :: Anova, type 3 but its not compatible with nlme, i&#39;ve also tried anova.lme which doesn&#39;t allow to specify for type 3 anova.&#xA;&#xA;  &#xA;TIA!</description>
+      <title>is there a function like rename_with but tailored for rows ?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kyoyd6/is_there_a_function_like_rename_with_but_tailored/</link>
+      <pubDate>Thu, 29 May 2025 23:04:48 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
