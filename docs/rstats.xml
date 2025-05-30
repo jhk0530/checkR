@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R Consortium’s Infrastructure Steering Committee (ISC) announcing first round 2025 grant recipients</title>
-      <link>https://reddit.com/r/rstats/comments/1kybpsg/r_consortiums_infrastructure_steering_committee/</link>
-      <pubDate>Thu, 29 May 2025 14:07:59 +0000</pubDate>
-      <description>The R Consortium’s Infrastructure Steering Committee (ISC) is proud to announce the first round of 2025 grant recipients. &#xA;&#xA;Find out about the seven new projects receiving support to enhance and expand the capabilities of the R ecosystem. The projects range from economic policy tools and ecological data pipelines to foundational software engineering improvements.&#xA;&#xA;The post also covers funding news about our Top-Level Projects, R-Ladies+ and R-Universe!&#xA;&#xA;[https://r-consortium.org/posts/r-consortium-awards-first-round-of-2025-isc-grants/](https://r-consortium.org/posts/r-consortium-awards-first-round-of-2025-isc-grants/)</description>
+      <title>model selection : dredge() doesn&#39;t return models&#39; weights</title>
+      <link>https://reddit.com/r/rstats/comments/1kyzikn/model_selection_dredge_doesnt_return_models/</link>
+      <pubDate>Fri, 30 May 2025 09:04:09 +0000</pubDate>
+      <description>Hey,&#xA;&#xA;I&#39;m having a hard time understanding why no weights are calculated for my models (the column is created but is full of NAs). Here is the full model :  &#xA;glmmTMB(LULARB\~etat\_parcelle\*typeMC2+vent+temp+pol+neb+occ\_sol+Axe1+date+heure+mat(pos\_env+0|id\_env)+(1|obs),family = binomial(link=&#34;logit&#34;),data=compil\_env.bi,ziformula=\~1, na.action=&#34;na.pass&#34;)&#xA;&#xA;and a glimpse of my results :&#xA;&#xA;https://preview.redd.it/35sb2nm5xv3f1.png?width=1494&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=67e61e30d54ef9f0211fc5163f38bdfb802de92a&#xA;&#xA;  &#xA;Does anyone could shed a light on this ..?  &#xA;May the dredge() function not handling glmmTMB() or some of its arguments (ziformula for zero-inflated model for example) be the reason of my problem?&#xA;&#xA;Have a good day !</description>
     </item>
   </channel>
 </rss>
