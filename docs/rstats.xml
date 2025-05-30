@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>model selection : dredge() doesn&#39;t return models&#39; weights</title>
-      <link>https://reddit.com/r/rstats/comments/1kyzikn/model_selection_dredge_doesnt_return_models/</link>
-      <pubDate>Fri, 30 May 2025 09:04:09 +0000</pubDate>
-      <description>Hey,&#xA;&#xA;I&#39;m having a hard time understanding why no weights are calculated for my models (the column is created but is full of NAs). Here is the full model :  &#xA;glmmTMB(LULARB\~etat\_parcelle\*typeMC2+vent+temp+pol+neb+occ\_sol+Axe1+date+heure+mat(pos\_env+0|id\_env)+(1|obs),family = binomial(link=&#34;logit&#34;),data=compil\_env.bi,ziformula=\~1, na.action=&#34;na.pass&#34;)&#xA;&#xA;and a glimpse of my results :&#xA;&#xA;https://preview.redd.it/35sb2nm5xv3f1.png?width=1494&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=67e61e30d54ef9f0211fc5163f38bdfb802de92a&#xA;&#xA;  &#xA;Does anyone could shed a light on this ..?  &#xA;May the dredge() function not handling glmmTMB() or some of its arguments (ziformula for zero-inflated model for example) be the reason of my problem?&#xA;&#xA;Have a good day !</description>
+      <title>K-INDSCAL package for R?</title>
+      <link>https://reddit.com/r/rstats/comments/1kz4n55/kindscal_package_for_r/</link>
+      <pubDate>Fri, 30 May 2025 13:46:43 +0000</pubDate>
+      <description>Originally posted on r/AskStatistics but was recommended to post here...  &#xA;&#xA;I want to use a type of multidimensional scaling (MDS) called K-INDSCAL (basically K means clustering and individual differences scaling combined) but I can&#39;t find a pre-existing R package and I can&#39;t figure out how people did it in the papers written about it. [The original paper](https://pubmed.ncbi.nlm.nih.gov/27519687/) has lots of formulas and examples, but no source code or anything.&#xA;&#xA;Has anyone worked with this before and/or can point me in the right direction for how to run this in R? Thanks so much!</description>
     </item>
   </channel>
 </rss>
