@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>identifying multi-word-expressions with quanteda textstats</title>
-      <link>https://reddit.com/r/RStudio/comments/1kz1p4y/identifying_multiwordexpressions_with_quanteda/</link>
-      <pubDate>Fri, 30 May 2025 11:20:53 +0000</pubDate>
-      <description>I am currently preparing my tokens for topic-modeling with R. I want to identify multi-word expressions with Dunning&#39;s G² score using quanteda textstats. How should the values lambda and z be interpreted? Is there a cut-off value? You have refrences to sources to scientific papers? Thank you!</description>
+      <title>R Studio x NextJS integration</title>
+      <link>https://reddit.com/r/RStudio/comments/1kz920r/r_studio_x_nextjs_integration/</link>
+      <pubDate>Fri, 30 May 2025 16:44:53 +0000</pubDate>
+      <description>Hello i need help from someone if its possible to create pdf documents with dynamic data from a NextJS frontend. &#xA;Please lemme know.</description>
     </item>
   </channel>
 </rss>
