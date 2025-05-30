@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>K-INDSCAL package for R?</title>
-      <link>https://reddit.com/r/rstats/comments/1kz4n55/kindscal_package_for_r/</link>
-      <pubDate>Fri, 30 May 2025 13:46:43 +0000</pubDate>
-      <description>Originally posted on r/AskStatistics but was recommended to post here...  &#xA;&#xA;I want to use a type of multidimensional scaling (MDS) called K-INDSCAL (basically K means clustering and individual differences scaling combined) but I can&#39;t find a pre-existing R package and I can&#39;t figure out how people did it in the papers written about it. [The original paper](https://pubmed.ncbi.nlm.nih.gov/27519687/) has lots of formulas and examples, but no source code or anything.&#xA;&#xA;Has anyone worked with this before and/or can point me in the right direction for how to run this in R? Thanks so much!</description>
+      <title>How Do I Test a Moderated Mediation Model with Multiple Moderators in R?</title>
+      <link>https://reddit.com/r/rstats/comments/1kzcit9/how_do_i_test_a_moderated_mediation_model_with/</link>
+      <pubDate>Fri, 30 May 2025 19:03:46 +0000</pubDate>
+      <description>Hello!  &#xA;I’ve been trying to learn R over the past two days and would appreciate some guidance on how to test this model. I’m familiar with SPSS and PROCESS Macro, but PROCESS doesn’t include the model I want to test. I also looked for tutorials, but most videos I found use an R extension of PROCESS, which wasn’t helpful.&#xA;&#xA;Below you can find the model I want to test along with the code I wrote for it.&#xA;&#xA;I would be grateful for any feedback. If you think this approach isn’t ideal and have any suggestions for helpful resources or study materials, please share them with me. Thank you!&#xA;&#xA;https://preview.redd.it/2oydoie6wy3f1.jpg?width=2360&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=25ee9b45eac8803955baf211c397bf6dd141c644&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
