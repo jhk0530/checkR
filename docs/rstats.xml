@@ -9,11 +9,5 @@
       <pubDate>Fri, 30 May 2025 19:51:24 +0000</pubDate>
       <description>I have a dataset with repeated measurements (longitudinal) where observations are influenced by covariates like `age`, `time point`, `sex`, etc. I need to perform regression with **non-negative coefficients** (i.e., no negative parameter estimates), but standard mixed-effects models (e.g., `lme4` in R) are too slow for my use case.&#xA;&#xA;  &#xA;I’m using a fast NNLS implementation (`nnls` in R) due to its speed and constraint on coefficients. However, I have not accounted for the metadata above.&#xA;&#xA;My questions are:&#xA;&#xA;1. Can I split the dataset into groups (e.g., by `sex` or `time point`) and run NNLS separately for each subset? Would this be statistically sound, or is there a better way?&#xA;&#xA;2. Is there a way to incorporate **fixed and random effects** into NNLS (similar to `lmer` but with non-negativity constraints)? Are there existing implementations (R/Python) for this?&#xA;&#xA;3. Are there adaptations of NNLS for longitudinal/hierarchical data? Any published work on NNLS with mixed models?&#xA;&#xA;&#xA;&#xA;</description>
     </item>
-    <item>
-      <title>How Do I Test a Moderated Mediation Model with Multiple Moderators in R?</title>
-      <link>https://reddit.com/r/rstats/comments/1kzcit9/how_do_i_test_a_moderated_mediation_model_with/</link>
-      <pubDate>Fri, 30 May 2025 19:03:46 +0000</pubDate>
-      <description>Hello!  &#xA;I’ve been trying to learn R over the past two days and would appreciate some guidance on how to test this model. I’m familiar with SPSS and PROCESS Macro, but PROCESS doesn’t include the model I want to test. I also looked for tutorials, but most videos I found use an R extension of PROCESS, which wasn’t helpful.&#xA;&#xA;Below you can find the model I want to test along with the code I wrote for it.&#xA;&#xA;I would be grateful for any feedback. If you think this approach isn’t ideal and have any suggestions for helpful resources or study materials, please share them with me. Thank you!&#xA;&#xA;https://preview.redd.it/2oydoie6wy3f1.jpg?width=2360&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=25ee9b45eac8803955baf211c397bf6dd141c644&#xA;&#xA;</description>
-    </item>
   </channel>
 </rss>

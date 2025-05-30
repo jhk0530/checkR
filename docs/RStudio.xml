@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to find help with R-Coding</title>
-      <link>https://reddit.com/r/RStudio/comments/1kzavzf/how_to_find_help_with_rcoding/</link>
-      <pubDate>Fri, 30 May 2025 17:57:31 +0000</pubDate>
-      <description>Hi&#xA;&#xA;I have written my first R-Code to analyze and visualize my survey data that works (after doing my first steps in R). But now I have to adapt the script and I lost many hours with error messages. Is there any possibility to &#34;hire&#34; a R geek who could help me to imporve the script? If yes, is there a platform to search for such a person? Thanks a lot for your suggestions. </description>
+      <title>DS project structure</title>
+      <link>https://reddit.com/r/RStudio/comments/1kzf69d/ds_project_structure/</link>
+      <pubDate>Fri, 30 May 2025 20:52:59 +0000</pubDate>
+      <description>A pretty open ended question. But how can I better structure my demand forecasting project which is not in production ?? Currently I have all function definitions in one .R file and all the calls of the respective functions in a .qmd file. Is this the industry standard to do as well or are there better ways ?? </description>
+    </item>
+    <item>
+      <title>How Do I Test a Moderated Mediation Model with Multiple Moderators in R?</title>
+      <link>https://reddit.com/r/RStudio/comments/1kzeacp/how_do_i_test_a_moderated_mediation_model_with/</link>
+      <pubDate>Fri, 30 May 2025 20:16:33 +0000</pubDate>
+      <description>Hello!&#xA;I’ve been trying to learn R over the past two days and would appreciate some guidance on how to test this model. I’m familiar with SPSS and PROCESS Macro, but PROCESS doesn’t include the model I want to test. I also looked for tutorials, but most videos I found use an R extension of PROCESS, which wasn’t helpful.&#xA;&#xA;Below you can find the model I want to test along with the code I wrote for it.&#xA;&#xA;I would be grateful for any feedback. If you think this approach isn’t ideal and have any suggestions for helpful resources or study materials, please share them with me. Thank you!</description>
     </item>
   </channel>
 </rss>
