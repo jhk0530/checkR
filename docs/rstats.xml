@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>[Question] How to Apply Non-Negative Least Squares (NNLS) to Longitudinal Data with Fixed/Random Effects?</title>
-      <link>https://reddit.com/r/rstats/comments/1kzdo6d/question_how_to_apply_nonnegative_least_squares/</link>
-      <pubDate>Fri, 30 May 2025 19:51:24 +0000</pubDate>
-      <description>I have a dataset with repeated measurements (longitudinal) where observations are influenced by covariates like `age`, `time point`, `sex`, etc. I need to perform regression with **non-negative coefficients** (i.e., no negative parameter estimates), but standard mixed-effects models (e.g., `lme4` in R) are too slow for my use case.&#xA;&#xA;  &#xA;I’m using a fast NNLS implementation (`nnls` in R) due to its speed and constraint on coefficients. However, I have not accounted for the metadata above.&#xA;&#xA;My questions are:&#xA;&#xA;1. Can I split the dataset into groups (e.g., by `sex` or `time point`) and run NNLS separately for each subset? Would this be statistically sound, or is there a better way?&#xA;&#xA;2. Is there a way to incorporate **fixed and random effects** into NNLS (similar to `lmer` but with non-negativity constraints)? Are there existing implementations (R/Python) for this?&#xA;&#xA;3. Are there adaptations of NNLS for longitudinal/hierarchical data? Any published work on NNLS with mixed models?&#xA;&#xA;&#xA;&#xA;</description>
+      <title>Meetups in NYC</title>
+      <link>https://reddit.com/r/rstats/comments/1kzz9g2/meetups_in_nyc/</link>
+      <pubDate>Sat, 31 May 2025 15:06:34 +0000</pubDate>
+      <description>Are there any R programming meetups in the New York metropolitan area? I know of nyhackr, but they seemed to have transformed into an AI/ML meetup. </description>
     </item>
   </channel>
 </rss>

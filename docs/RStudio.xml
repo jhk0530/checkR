@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How do you create error bars using data from a column in Excel?</title>
-      <link>https://reddit.com/r/RStudio/comments/1kziezx/how_do_you_create_error_bars_using_data_from_a/</link>
-      <pubDate>Fri, 30 May 2025 23:12:59 +0000</pubDate>
-      <description>I&#39;m currently trying to make graphical visuals for my PhD research and I&#39;m having some difficulty.&#xA;&#xA;  &#xA;I&#39;m trying to make a bar graph with two variables. I&#39;ve been able to make and tweak the graph to how I want it (so far), but I need to add error bars to each graph.&#xA;&#xA;  &#xA;The thing is I have the values for the error bars in a column in my Excel dataset. I just have no idea how to transfer a column of data into error bars. I&#39;ve looked everywhere online and I&#39;ve only found ways to compute it in R (i.e., &#34;geom\_errorbar(aes(ymin = xxx-sd, ymax = xxx+sd))&#34;) which is what I do not want to do (because it&#39;ll give me a different value--plus I&#39;m not using standard deviation or standard error, I&#39;m using uncertainty). Is this possible to do within ggplot or another package? I&#39;m starting to feel like I&#39;m going to have to painfully make this in Excel.&#xA;&#xA;&#xA;&#xA;Thanks!</description>
+      <title>Meetups in NYC</title>
+      <link>https://reddit.com/r/RStudio/comments/1kzzamt/meetups_in_nyc/</link>
+      <pubDate>Sat, 31 May 2025 15:08:02 +0000</pubDate>
+      <description>Are there any R programming meetups in the New York metropolitan area? I know of nyhackr, but they seemed to have transformed into an AI/ML meetup. </description>
     </item>
   </channel>
 </rss>
