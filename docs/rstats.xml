@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Meetups in NYC</title>
-      <link>https://reddit.com/r/rstats/comments/1kzz9g2/meetups_in_nyc/</link>
-      <pubDate>Sat, 31 May 2025 15:06:34 +0000</pubDate>
-      <description>Are there any R programming meetups in the New York metropolitan area? I know of nyhackr, but they seemed to have transformed into an AI/ML meetup. </description>
+      <title>Need advice on finding datasets</title>
+      <link>https://reddit.com/r/rstats/comments/1l01wyu/need_advice_on_finding_datasets/</link>
+      <pubDate>Sat, 31 May 2025 16:59:48 +0000</pubDate>
+      <description>I have an assessment that requires me to find a dataset from a reputable, open-access source (e.g., Pavlovia, Kaggle, OpenNeuro, GitHub, or similar public archive), that should be suitable for a t-test and an ANOVA analysis. I&#39;ve attempted to explore the aforementioned websites to find datasets, however, I&#39;m having trouble finding appropriate ones (perhaps it&#39;s because I don&#39;t know how to use them properly), with many of the datasets that I&#39;ve found providing only minimal information with no links to the actual paper (particularly the ones on kaggle). Does anybody have any advice/tips for finding suitable datasets?</description>
     </item>
   </channel>
 </rss>
