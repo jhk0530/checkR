@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Time Series Transformation Question</title>
-      <link>https://reddit.com/r/RStudio/comments/1l038g3/time_series_transformation_question/</link>
-      <pubDate>Sat, 31 May 2025 17:55:11 +0000</pubDate>
-      <description>Hello everyone,&#xA;&#xA;I&#39;m new here and also new to programming. I&#39;m currently learning how to analyze time series. I have a question about transforming data using the Box-Cox method—specifically, the difference between applying the transformation inside the `model()` function and doing it beforehand.&#xA;&#xA;I read that one of the main challenges with transforming data is the need to back-transform it. However, my professor wasn’t very clear on this topic. I came across information suggesting that when the transformation is applied **inside** the model creation, the back-transformation is handled automatically. Is this also true if the data is transformed **outside** the model?</description>
+      <title>CardioDataSets Package</title>
+      <link>https://reddit.com/r/RStudio/comments/1l0e77c/cardiodatasets_package/</link>
+      <pubDate>Sun, 01 Jun 2025 02:33:33 +0000</pubDate>
+      <description>The `CardioDataSets` package offers a diverse collection of datasets focused on heart and cardiovascular research. It covers topics such as *heart disease, myocardial infarction, heart failure, aortic dissection, cardiovascular risk factors, clinical outcomes, drug effects*, and *mortality trends*.&#xA;&#xA;[https://lightbluetitan.github.io/cardiodatasets/](https://lightbluetitan.github.io/cardiodatasets/)&#xA;&#xA;https://preview.redd.it/av6rq5t9984f1.png?width=518&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9be5dd2fb41658c1c5ee8c956b2d45dfa1ee5fc4&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
