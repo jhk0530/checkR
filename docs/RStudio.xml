@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Should I remove the interaction term?</title>
+      <link>https://reddit.com/r/RStudio/comments/1l0ffla/should_i_remove_the_interaction_term/</link>
+      <pubDate>Sun, 01 Jun 2025 03:40:32 +0000</pubDate>
+      <description>Hi guys i am running a glm model quasibinomial, with two independant variable, with a response variable as &#34;location&#34; I wanted to see if my independant variables effected each other. &#xA;&#xA;When I generated the model, I found that both the independant ariables were significant to my response. But the interaction between them was not significant. I contemplated removing the interaction. But when I removed them, the anova output changed for which location was significant. &#xA;&#xA;My issue is because I am suppose to show if the independant variables effected each other, I cant remove to the interaction term right? But, if I dont the response variable&#34; location&#34; that is significant  is different with and without the removal. What is the best way forward? &#xA;&#xA;Thank you for any help or suggestions. </description>
+    </item>
+    <item>
       <title>CardioDataSets Package</title>
       <link>https://reddit.com/r/RStudio/comments/1l0e77c/cardiodatasets_package/</link>
       <pubDate>Sun, 01 Jun 2025 02:33:33 +0000</pubDate>
