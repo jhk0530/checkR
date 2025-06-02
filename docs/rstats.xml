@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>i need help</title>
-      <link>https://reddit.com/r/rstats/comments/1l0smt0/i_need_help/</link>
-      <pubDate>Sun, 01 Jun 2025 16:06:43 +0000</pubDate>
-      <description>i want to use R fr data analysis in my research paper   &#xA;im still confused about where to start   &#xA;is there anyone here that can help please </description>
+      <title>R Consortium Webinar: Super‑charging R with Oracle Database: Getting Started with the ROracle Driver</title>
+      <link>https://reddit.com/r/rstats/comments/1l1k8yj/r_consortium_webinar_supercharging_r_with_oracle/</link>
+      <pubDate>Mon, 02 Jun 2025 14:59:54 +0000</pubDate>
+      <description>R Consortium webinar THIS WEEK! June 5, 2025 - 9am PT / 12pm ET &#xA;&#xA;Sign up now! &#xA;[https://r-consortium.org/webinars/super-charging-r-with-oracle-database.html](https://r-consortium.org/webinars/super-charging-r-with-oracle-database.html)&#xA;&#xA;Unlock the power of Oracle Database in R with the ROracle driver. Find out about ROracle installation and configuration steps, key features, performance best practices, and the future roadmap of the driver. &#xA;&#xA;The webinar includes with a practical demo showcasing real-world data exploration and AI vector similarity search.</description>
     </item>
   </channel>
 </rss>
