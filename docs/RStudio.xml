@@ -9,11 +9,5 @@
       <pubDate>Tue, 03 Jun 2025 11:35:26 +0000</pubDate>
       <description></description>
     </item>
-    <item>
-      <title>Issues with Qt theming</title>
-      <link>https://reddit.com/r/RStudio/comments/1l28qa5/issues_with_qt_theming/</link>
-      <pubDate>Tue, 03 Jun 2025 10:48:03 +0000</pubDate>
-      <description>I&#39;m running R studio under linux. But its not respecting the underlying Qt system theme. Using the editor themes I found a match, but the menu bar is still not themed.&#xA;&#xA;Is there any way you can change this in RStudio? You can see the contrast here. &#xA;&#xA;https://preview.redd.it/psm7j7vczo4f1.png?width=1273&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ddae9b3dbaed45c438b6a8ca71980de6b88f385e&#xA;&#xA;</description>
-    </item>
   </channel>
 </rss>
