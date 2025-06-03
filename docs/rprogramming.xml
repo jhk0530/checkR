@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R Consortium Webinar: Super‑charging R with Oracle Database: Getting Started with the ROracle Driver</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l1k9k1/r_consortium_webinar_supercharging_r_with_oracle/</link>
-      <pubDate>Mon, 02 Jun 2025 15:00:29 +0000</pubDate>
-      <description></description>
+      <title>R for the Curious</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l248gv/r_for_the_curious/</link>
+      <pubDate>Tue, 03 Jun 2025 05:47:33 +0000</pubDate>
+      <description>Hey everyone, I created an informational shiny app as part of a capstone project for my statistics class. The app focuses on fundamental R topics and shows demonstrations. I created it to help students and people learning R, and hope to spread continuous learning. Feel free to leave a comment on what I could improve. Thank you&#xA;&#xA;URL to the app:&#xA;https://rforthecurious.shinyapps.io/shiny_app/</description>
     </item>
   </channel>
 </rss>
