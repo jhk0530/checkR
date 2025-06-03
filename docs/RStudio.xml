@@ -4,6 +4,18 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>Help with scrubr package</title>
+      <link>https://reddit.com/r/RStudio/comments/1l2lu18/help_with_scrubr_package/</link>
+      <pubDate>Tue, 03 Jun 2025 20:04:35 +0000</pubDate>
+      <description>Hello all,&#xA;&#xA;I am currently in an online course for R in ecology and ive come across a package listed in the course but it&#39;s unavailable for the version of R on my computer. I&#39;ve tried to access archived versions but was unable to find a solution that works. The package is called &#34;scrubr&#34; and the function in the course helps clean up data (specifically geographical data) by eliminating unlikely or impossible coordinates for a species in a dataset.   &#xA;  &#xA;If its not clear, I am an absolute novice so any help would be greatly appreciated!</description>
+    </item>
+    <item>
+      <title>Need some help separating Jitter categories on ggplot boxplot</title>
+      <link>https://reddit.com/r/RStudio/comments/1l2kw1f/need_some_help_separating_jitter_categories_on/</link>
+      <pubDate>Tue, 03 Jun 2025 19:28:15 +0000</pubDate>
+      <description>&#xA;&#xA;Right now, the jitter points are combined for the control and mutant of each genotype. I need them to be separated... How can I do this?&#xA;&#xA;Here is my code and figure so far:&#xA;&#xA;&#xA;&#xA;ggplot(data=grouppractice, aes(Genotype,Speed,fill=Group))+&#xA;&#xA;  geom\_boxplot()+&#xA;&#xA;  geom\_jitter(width=0.2,size=2)&#xA;&#xA;https://preview.redd.it/81k2be6xjr4f1.png?width=1434&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e60f1febc5d9af6ecb10a4dd5e49128ad52c26b2&#xA;&#xA;</description>
+    </item>
+    <item>
       <title>¿Sabías para que sirve y cuál es la importancia de Reddit?</title>
       <link>https://reddit.com/r/RStudio/comments/1l2jlx0/sabías_para_que_sirve_y_cuál_es_la_importancia_de/</link>
       <pubDate>Tue, 03 Jun 2025 18:30:34 +0000</pubDate>
