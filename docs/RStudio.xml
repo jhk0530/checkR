@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Although I have update R to 4.5, Rstudio is still detecting the R version as 4.4.1. How do I change that?</title>
-      <link>https://reddit.com/r/RStudio/comments/1l24kgj/although_i_have_update_r_to_45_rstudio_is_still/</link>
-      <pubDate>Tue, 03 Jun 2025 06:08:22 +0000</pubDate>
-      <description>Exactly the title. I am using some time series packages which need R version 4.4.3 and above, and so is my R version. But R-studio isnt able to see it and is unable to install those packages. Welp!!</description>
+      <title>Issues with Qt theming</title>
+      <link>https://reddit.com/r/RStudio/comments/1l28qa5/issues_with_qt_theming/</link>
+      <pubDate>Tue, 03 Jun 2025 10:48:03 +0000</pubDate>
+      <description>I&#39;m running R studio under linux. But its not respecting the underlying Qt system theme. Using the editor themes I found a match, but the menu bar is still not themed.&#xA;&#xA;Is there any way you can change this in RStudio? You can see the contrast here. &#xA;&#xA;https://preview.redd.it/psm7j7vczo4f1.png?width=1273&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ddae9b3dbaed45c438b6a8ca71980de6b88f385e&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
