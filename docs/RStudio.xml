@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to group entries in a df into a larger category?</title>
-      <link>https://reddit.com/r/RStudio/comments/1l2qow5/how_to_group_entries_in_a_df_into_a_larger/</link>
-      <pubDate>Tue, 03 Jun 2025 23:25:10 +0000</pubDate>
-      <description>I&#39;m working with some linguistic data and have many different vowels as entries in the &#34;vowel&#34; column of my data frame. I want to sort them into &#34;schwa&#34; and all other vowels for visualization. How am i able to to do this?&#xA;&#xA;https://preview.redd.it/3s0kn0zfqs4f1.png?width=1794&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e864dbce72784cf0c236be5a84e086a1ae352b1b&#xA;&#xA;</description>
+      <title>PulmoDataSets Package 📦📦📦</title>
+      <link>https://reddit.com/r/RStudio/comments/1l30h9j/pulmodatasets_package/</link>
+      <pubDate>Wed, 04 Jun 2025 08:41:06 +0000</pubDate>
+      <description>https://preview.redd.it/zro8h1bdhv4f1.png?width=518&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=361424f5942b3f458f9d38537de908b57de976c5&#xA;&#xA;The **PulmoDataSets** package offers a thematically rich and diverse collection of datasets focused on the **lungs, respiratory system, and associated diseases**. It includes data related to chronic respiratory conditions such as **asthma, chronic bronchitis, and COPD**, as well as infectious diseases like **tuberculosis, pneumonia, influenza, and whooping cough**.  &#xA;[https://lightbluetitan.github.io/pulmodatasets/](https://lightbluetitan.github.io/pulmodatasets/)</description>
     </item>
   </channel>
 </rss>
