@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>GNU GPL / R package / how to aknowledge reuse of 3rd party code?</title>
-      <link>https://reddit.com/r/rstats/comments/1l30bcq/gnu_gpl_r_package_how_to_aknowledge_reuse_of_3rd/</link>
-      <pubDate>Wed, 04 Jun 2025 08:29:51 +0000</pubDate>
-      <description>Hi,  &#xA;I am reusing code from a third party (GNU GPL) in my R package (also GNU GPL).   &#xA;I am planning to publish my package (github, CRAN).   &#xA;Where should I aknowledge the reuse?   &#xA;Do I mention it in the DESCRIPTION file? how?   &#xA;Or do I just insert in my package the unmodified source files?   &#xA;Thanks in advance for your advice.   &#xA;Kr </description>
+      <title>I need students to take through R programming. Also if in need of advanced level excel skills. &#34;Statistic math is the language of the universe&#34;</title>
+      <link>https://reddit.com/r/rstats/comments/1l387ek/i_need_students_to_take_through_r_programming/</link>
+      <pubDate>Wed, 04 Jun 2025 15:16:48 +0000</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>Cor.test Kendall&#39;s tau - what is the difference between T and z scores?</title>
+      <link>https://reddit.com/r/rstats/comments/1l3741b/cortest_kendalls_tau_what_is_the_difference/</link>
+      <pubDate>Wed, 04 Jun 2025 14:33:54 +0000</pubDate>
+      <description>I ran a few Kendall&#39;s tau tests on different variables using a loop. Some of the summary tables provide a T-value (always an integer?) and some provide a z-score. There are no NAs in the data, and I have 40 observations and 12 variables in two &#34;groups&#34;. I tested the correlation between variables A &amp;amp; B and 1-10 (so 20 tests, total). For variable A only 3 observations are the same while all other observations are unique, although I did get a warning that the test could not compute exact p-values with ties (but only when running tests with variable A). I get z-scores for most of the correlations except for \~8 when correlating variable B with variables 1-10 (so these should all be unique) where I get T scores and no warning.&#xA;&#xA;I searched online to understand what the difference is, as the help file does not explain what the T score is. None of the pages I found online explain the difference between the test providing a T or z score; they only discuss one of the two. Generally, they only focus on the p-value and the tau.&#xA;&#xA;I don&#39;t understand why I get different kinds of results for these 8 correlations (i.e., a T score, instead of a z score), so I don&#39;t know how to reproduce it or make dummy data (I don&#39;t want to share my actual data online).&#xA;&#xA;ETA: more details.</description>
     </item>
   </channel>
 </rss>
