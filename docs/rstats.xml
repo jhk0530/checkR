@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Stats</title>
-      <link>https://reddit.com/r/rstats/comments/1l3tkfl/stats/</link>
-      <pubDate>Thu, 05 Jun 2025 07:57:58 +0000</pubDate>
-      <description>Best strats for the dat. I can lock in but I have severe ADHD and OCD</description>
+      <title>Tidy topological machine learning with TDAvec and tdarec by Jason Cory Brunson, Alexsei Luchinsky, Umar Islambekov</title>
+      <link>https://reddit.com/r/rstats/comments/1l40qx4/tidy_topological_machine_learning_with_tdavec_and/</link>
+      <pubDate>Thu, 05 Jun 2025 14:34:30 +0000</pubDate>
+      <description>Topological data analysis (TDA) is a rapidly growing field that uses techniques from algebraic topology to analyze the shape and structure of data. &#xA;&#xA;TDA is increasingly integrated into machine learning. This project introduces two R packages—TDAvec and tdarec—to bridge TDA with the Tidymodels ecosystem, offering efficient persistent homology vectorization and tidy ML pipelines.&#xA;&#xA;The team welcomes bug reports, feature requests, and code contributions from the community!&#xA;&#xA;Find out more: [https://r-consortium.org/posts/tidy-topological-machine-learning-with-tdavec-and-tdarec/](https://r-consortium.org/posts/tidy-topological-machine-learning-with-tdavec-and-tdarec/)</description>
     </item>
   </channel>
 </rss>
