@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Hardware question! Anyone with 128GB?</title>
-      <link>https://reddit.com/r/rstats/comments/1l3h7du/hardware_question_anyone_with_128gb/</link>
-      <pubDate>Wed, 04 Jun 2025 21:10:25 +0000</pubDate>
-      <description>Building a new computer, my main computational demands will be R, complex statistical models.&#xA;I have 64GB and some models still take a few days. Has anyone tried 128GB and noticed it makes a difference? Considering the costs ($$) and benefits</description>
-    </item>
-    <item>
-      <title>Looking for advice on what statistical tests I should run?</title>
-      <link>https://reddit.com/r/rstats/comments/1l3gm8c/looking_for_advice_on_what_statistical_tests_i/</link>
-      <pubDate>Wed, 04 Jun 2025 20:46:14 +0000</pubDate>
-      <description>I have a report due on Monday and I really need some help with figuring out what statistical tests I need to run for my data. I desperately need advice because I cannot for the lfie of me figure out what I need to be doing. I know HOW to use R, I just cannot understand what it is im supposed to do. Linked a google doc of my data and the descriptors for each variable etc as well as my hypothesis but the tldr is:&#xA;&#xA;Does having depression and epilepsy make someone more stigmatised compared to just having epilepsy?&#xA;&#xA;Link:&#xA;&#xA;Data.csv [https://drive.google.com/file/d/1RjxgtMxrUKf4RcN\_YFcYNzig-Daw5qa8/view?usp=sharing](https://drive.google.com/file/d/1RjxgtMxrUKf4RcN_YFcYNzig-Daw5qa8/view?usp=sharing)&#xA;&#xA;Data descriptors.pdf [https://drive.google.com/file/d/1adu3T2AOJUHjnSM2LeuSHp23766vTtaF/view?usp=sharing](https://drive.google.com/file/d/1adu3T2AOJUHjnSM2LeuSHp23766vTtaF/view?usp=sharing)&#xA;&#xA;</description>
+      <title>Stats</title>
+      <link>https://reddit.com/r/rstats/comments/1l3tkfl/stats/</link>
+      <pubDate>Thu, 05 Jun 2025 07:57:58 +0000</pubDate>
+      <description>Best strats for the dat. I can lock in but I have severe ADHD and OCD</description>
     </item>
   </channel>
 </rss>
