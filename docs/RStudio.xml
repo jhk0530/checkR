@@ -9,11 +9,5 @@
       <pubDate>Fri, 06 Jun 2025 19:29:28 +0000</pubDate>
       <description>The [tabled](https://github.com/zhiburt/tabled/) library for Rust is great!&#xA;&#xA;https://raw.githubusercontent.com/zhiburt/tabled/assets/assets/preview-show.gif&#xA;&#xA;For displaying tables in the console, it offers features not found in any other R library.&#xA;For example, word wrapping of column text.&#xA;Who might be interested in creating a new R library (wrapper) for calling the Rust library from R?&#xA;(This isn&#39;t a Posit-specific question, but I&#39;d like to receive some feedback.)</description>
     </item>
-    <item>
-      <title>Extract parameters from a nested list of lm objects</title>
-      <link>https://reddit.com/r/RStudio/comments/1l4zmzr/extract_parameters_from_a_nested_list_of_lm/</link>
-      <pubDate>Fri, 06 Jun 2025 18:24:26 +0000</pubDate>
-      <description>Hello everyone,&#xA;&#xA;(first time posting here -- so please bear with me...)&#xA;&#xA;I have a nested list of lm objects and I am unable to extract the coefficients for every model and put all together into a dataframe.&#xA;&#xA;Could anyone offer some help? I have spent way more time than i care to admit on this and for the life of me i can&#39;t figure this out. Below is an example of the code to create the nested list in case this helps&#xA;&#xA;TIA!&#xA;  &#xA;```{r}&#xA;o&amp;lt;-c(&#34;biomarker1&#34;,  &#34;biomarker2&#34;,  &#34;biomarker3&#34;,  &#34;biomarker4&#34; , &#34;biomarker5&#34;,  &#34;biomarker6&#34; , &#34;biomarker7&#34;, &#34;biomarker8&#34;, &#34;biomarker9&#34;,  &#34;biomarker10&#34;, &#34;biomarker11&#34;)&#xA;params = vector(&#34;list&#34;,length(o))&#xA;names(params) = o&#xA;for(i in o) {&#xA;  for(x in c(&#34;var1&#34;,&#34;var2&#34;, &#34;var3&#34;,&#34;var4&#34;,&#34;var5&#34;)) {&#xA;    fmla &amp;lt;- formula(paste(names(covariates)[names(covariates) %in% i], &#34; ~ &#34;, names(covariates)[names(covariates) %in% x], &#34;+ age_10&#34;))&#xA;    params[[i]][[x]]&amp;lt;-lm(fmla, data = covariates)&#xA;  }&#xA;}&#xA;```&#xA;</description>
-    </item>
   </channel>
 </rss>
