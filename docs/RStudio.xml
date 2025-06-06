@@ -4,6 +4,12 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
+      <title>great Rust library for pretty printing tables on console</title>
+      <link>https://reddit.com/r/RStudio/comments/1l517mm/great_rust_library_for_pretty_printing_tables_on/</link>
+      <pubDate>Fri, 06 Jun 2025 19:29:28 +0000</pubDate>
+      <description>The [tabled](https://github.com/zhiburt/tabled/) library for Rust is great!&#xA;&#xA;https://raw.githubusercontent.com/zhiburt/tabled/assets/assets/preview-show.gif&#xA;&#xA;For displaying tables in the console, it offers features not found in any other R library.&#xA;For example, word wrapping of column text.&#xA;Who might be interested in creating a new R library (wrapper) for calling the Rust library from R?&#xA;(This isn&#39;t a Posit-specific question, but I&#39;d like to receive some feedback.)</description>
+    </item>
+    <item>
       <title>Extract parameters from a nested list of lm objects</title>
       <link>https://reddit.com/r/RStudio/comments/1l4zmzr/extract_parameters_from_a_nested_list_of_lm/</link>
       <pubDate>Fri, 06 Jun 2025 18:24:26 +0000</pubDate>
