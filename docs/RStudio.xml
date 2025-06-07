@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>great Rust library for pretty printing tables on console</title>
-      <link>https://reddit.com/r/RStudio/comments/1l517mm/great_rust_library_for_pretty_printing_tables_on/</link>
-      <pubDate>Fri, 06 Jun 2025 19:29:28 +0000</pubDate>
-      <description>The [tabled](https://github.com/zhiburt/tabled/) library for Rust is great!&#xA;&#xA;https://raw.githubusercontent.com/zhiburt/tabled/assets/assets/preview-show.gif&#xA;&#xA;For displaying tables in the console, it offers features not found in any other R library.&#xA;For example, word wrapping of column text.&#xA;Who might be interested in creating a new R library (wrapper) for calling the Rust library from R?&#xA;(This isn&#39;t a Posit-specific question, but I&#39;d like to receive some feedback.)</description>
+      <title>I need to finish the line of my code, but the code is complete.</title>
+      <link>https://reddit.com/r/RStudio/comments/1l5kih5/i_need_to_finish_the_line_of_my_code_but_the_code/</link>
+      <pubDate>Sat, 07 Jun 2025 13:11:46 +0000</pubDate>
+      <description>https://preview.redd.it/odnpdzwi8i5f1.png?width=503&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f95ae6227e39459aaa3f2dbcfa01e05a8b51216c&#xA;&#xA;I have been looking at this for ages. I can not find what is wrong with my code. It wants me to finish the code but it is complete. When is use lmer and remove &#34;family = binomial&#34; it does work.</description>
+    </item>
+    <item>
+      <title>Rdatasets Archive: 3400 free and documented datasets for fun and exploration</title>
+      <link>https://reddit.com/r/RStudio/comments/1l5k9j5/rdatasets_archive_3400_free_and_documented/</link>
+      <pubDate>Sat, 07 Jun 2025 12:59:51 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
