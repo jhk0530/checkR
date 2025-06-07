@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>FlossPay: Enterprise-Grade, Kernel-Inspired Open Source Payments Aggregator (UPI now, Cards/Crypto soon) — MIT Licensed</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l41zj9/flosspay_enterprisegrade_kernelinspired_open/</link>
-      <pubDate>Thu, 05 Jun 2025 15:24:05 +0000</pubDate>
-      <description></description>
+      <title>R Session Aborted every time I run a command in R</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l5hc9v/r_session_aborted_every_time_i_run_a_command_in_r/</link>
+      <pubDate>Sat, 07 Jun 2025 10:04:21 +0000</pubDate>
+      <description>Hi Guys,&#xA;&#xA;I&#39;m currently using R to complete a google data analytics course and I&#39;m encountering some issues. I use a Macbook Pro from 2015 with an Intel Core i5 that runs macOS Monterey 12.7.6.   &#xA;  &#xA;I have previously downloaded and used R and RStudio on this laptop but yesterday I deleted it all and re-installed. Now, every time I try to run anything in RStudio, I get the notification seen in the photo, before it starts a new session and repeats once again. I have once again deleted it all and re-installed R and RStudio (Version 2024.09.1+394) but I&#39;m still faced with the same issue. Even me just trying to run &#39;q()&#39; in the console or script will cause this issue to occur. Any help would be greatly appreciated as I just want to get to work. Thanks!</description>
     </item>
   </channel>
 </rss>
