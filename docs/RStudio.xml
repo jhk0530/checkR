@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>I need to finish the line of my code, but the code is complete.</title>
-      <link>https://reddit.com/r/RStudio/comments/1l5kih5/i_need_to_finish_the_line_of_my_code_but_the_code/</link>
-      <pubDate>Sat, 07 Jun 2025 13:11:46 +0000</pubDate>
-      <description>https://preview.redd.it/odnpdzwi8i5f1.png?width=503&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f95ae6227e39459aaa3f2dbcfa01e05a8b51216c&#xA;&#xA;I have been looking at this for ages. I can not find what is wrong with my code. It wants me to finish the code but it is complete. When is use lmer and remove &#34;family = binomial&#34; it does work.</description>
-    </item>
-    <item>
-      <title>Rdatasets Archive: 3400 free and documented datasets for fun and exploration</title>
-      <link>https://reddit.com/r/RStudio/comments/1l5k9j5/rdatasets_archive_3400_free_and_documented/</link>
-      <pubDate>Sat, 07 Jun 2025 12:59:51 +0000</pubDate>
-      <description></description>
+      <title>stop asking &#34;Do you want to proceed?&#34; when installing packages</title>
+      <link>https://reddit.com/r/RStudio/comments/1l5t97k/stop_asking_do_you_want_to_proceed_when/</link>
+      <pubDate>Sat, 07 Jun 2025 19:38:02 +0000</pubDate>
+      <description>Sorry if this has been asked previously but searching returned mostly issues with actually installing or updating packages. My packages install just fine. However, I notice that now when I navigate to the packages tab, click install, select package(s), and click OK, RStudio works on installing but then pauses to ask me in the console:&#xA;&#xA;    # Downloading packages -------------------------------------------------------&#xA;    - Downloading *** from CRAN ...          OK [1.6 Mb in 0.99s]&#xA;    - Downloading *** from CRAN ...          OK [158.5 Kb in 0.33s]&#xA;    Successfully downloaded 2 packages in 4.7 seconds.&#xA;    &#xA;    The following package(s) will be installed:&#xA;    - ***  [0.12.5]&#xA;    - ***  [0.2.2]&#xA;    These packages will be installed into &#34;~/RStudio/***/renv/library/windows/R-4.5/x86_64-w64-mingw32&#34;.&#xA;    &#xA;    Do you want to proceed? [Y/n]:&#xA;&#xA;Is this **Do you want to proceed? \[Y/n\]:** because I started using renv? I don&#39;t feel like it used to make me do this extra step. And is there a way in code, renv/project files, or RStudio settings to make it stop asking me / automatically &#34;Y&#34; proceed to complete the install?</description>
     </item>
   </channel>
 </rss>
