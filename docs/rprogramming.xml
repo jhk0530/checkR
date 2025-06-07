@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R Session Aborted every time I run a command in R</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l5hc9v/r_session_aborted_every_time_i_run_a_command_in_r/</link>
-      <pubDate>Sat, 07 Jun 2025 10:04:21 +0000</pubDate>
-      <description>Hi Guys,&#xA;&#xA;I&#39;m currently using R to complete a google data analytics course and I&#39;m encountering some issues. I use a Macbook Pro from 2015 with an Intel Core i5 that runs macOS Monterey 12.7.6.   &#xA;  &#xA;I have previously downloaded and used R and RStudio on this laptop but yesterday I deleted it all and re-installed. Now, every time I try to run anything in RStudio, I get the notification seen in the photo, before it starts a new session and repeats once again. I have once again deleted it all and re-installed R and RStudio (Version 2024.09.1+394) but I&#39;m still faced with the same issue. Even me just trying to run &#39;q()&#39; in the console or script will cause this issue to occur. Any help would be greatly appreciated as I just want to get to work. Thanks!</description>
+      <title>Why is jitter showing points below y=0 when none of my data is &amp;lt;0?</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l5xxfg/why_is_jitter_showing_points_below_y0_when_none/</link>
+      <pubDate>Sat, 07 Jun 2025 23:13:39 +0000</pubDate>
+      <description></description>
+    </item>
+    <item>
+      <title>Revolutionizing Sports With R Programming: Unlock Powerful Insights From Hockey Data</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l5wyk1/revolutionizing_sports_with_r_programming_unlock/</link>
+      <pubDate>Sat, 07 Jun 2025 22:27:12 +0000</pubDate>
+      <description>Revolutionizing Sports With R Programming: Unlock Powerful Insights From Hockey Data&#xA;&#xA;&#xA;https://rprogrammingbooks.com/revolutionizing-sports-with-r-programming-unlock-powerful-insights-from-hockey-data/</description>
     </item>
   </channel>
 </rss>
