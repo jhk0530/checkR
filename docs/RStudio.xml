@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>stop asking &#34;Do you want to proceed?&#34; when installing packages</title>
-      <link>https://reddit.com/r/RStudio/comments/1l5t97k/stop_asking_do_you_want_to_proceed_when/</link>
-      <pubDate>Sat, 07 Jun 2025 19:38:02 +0000</pubDate>
-      <description>Sorry if this has been asked previously but searching returned mostly issues with actually installing or updating packages. My packages install just fine. However, I notice that now when I navigate to the packages tab, click install, select package(s), and click OK, RStudio works on installing but then pauses to ask me in the console:&#xA;&#xA;    # Downloading packages -------------------------------------------------------&#xA;    - Downloading *** from CRAN ...          OK [1.6 Mb in 0.99s]&#xA;    - Downloading *** from CRAN ...          OK [158.5 Kb in 0.33s]&#xA;    Successfully downloaded 2 packages in 4.7 seconds.&#xA;    &#xA;    The following package(s) will be installed:&#xA;    - ***  [0.12.5]&#xA;    - ***  [0.2.2]&#xA;    These packages will be installed into &#34;~/RStudio/***/renv/library/windows/R-4.5/x86_64-w64-mingw32&#34;.&#xA;    &#xA;    Do you want to proceed? [Y/n]:&#xA;&#xA;Is this **Do you want to proceed? \[Y/n\]:** because I started using renv? I don&#39;t feel like it used to make me do this extra step. And is there a way in code, renv/project files, or RStudio settings to make it stop asking me / automatically &#34;Y&#34; proceed to complete the install?</description>
+      <title>Option for Anova Missing</title>
+      <link>https://reddit.com/r/RStudio/comments/1l6lgen/option_for_anova_missing/</link>
+      <pubDate>Sun, 08 Jun 2025 20:03:47 +0000</pubDate>
+      <description>Hi Guys  &#xA;I&#39;m trying to do a Multiway anova for my assignment,   &#xA;I want the ANOVA to help me evaluate the differences between the products for all skin types, dry and oily skin.   &#xA;I assumed the best way to do this is a Multi-way anova because you cannot do a 3 way T test.   &#xA;Please help me, :&#39;(   &#xA;It&#39;s due tomorrow but todays a PH so my lecturer isn&#39;t replying and Idk what to do  &#xA;Can I even compare these data points?  &#xA;Surely I can?!   &#xA;Ahhh.   &#xA;Do I do T tests comparing Dry to All and All to Dry? (I&#39;ve done Dry to Oily already)   &#xA;PLEASE HELP   &#xA;Im so stressed,</description>
     </item>
   </channel>
 </rss>
