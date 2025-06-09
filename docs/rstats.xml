@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Rdatasets Archive: 3400 free and documented datasets for fun and exploration</title>
-      <link>https://reddit.com/r/rstats/comments/1l5k8vr/rdatasets_archive_3400_free_and_documented/</link>
-      <pubDate>Sat, 07 Jun 2025 12:58:57 +0000</pubDate>
-      <description>🚨 Big milestone for Rdatasets 🚨 &#xA;&#xA;The web archive now hosts 3400+ free and documented datasets in CSV format. It&#39;s a fantastic resource for exploration, teaching, and testing! &#xA;&#xA;The archive itself is language-agnostic. Anyone can download and search datasets from the website.&#xA;&#xA;{Rdatasets} is a new [\#RStats](https://bsky.app/hashtag/RStats) 📦 for easy download and search &#xA;&#xA;Web archive: [vincentarelbundock.github.io/Rdatasets](https://vincentarelbundock.github.io/Rdatasets) &#xA;&#xA;R 📦: [vincentarelbundock.github.io/Rdatasetspkg](https://vincentarelbundock.github.io/Rdatasetspkg)&#xA;&#xA;https://preview.redd.it/9ur3sqs26i5f1.jpg?width=2000&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=a921fb97800b1e216ea565e7ed80414eb990cdc6&#xA;&#xA;</description>
+      <title>F-Statistic and R squared</title>
+      <link>https://reddit.com/r/rstats/comments/1l78mfi/fstatistic_and_r_squared/</link>
+      <pubDate>Mon, 09 Jun 2025 16:02:19 +0000</pubDate>
+      <description>Hello,&#xA;&#xA;I am trying to get my head around my single linear regression output in R. In basic terms, my understanding is that the R-squared figure tells me how well the model is fitting the data (the closer to 1, the better it fits the data) and my understand of the F-statistic is that it tells me whether the model as a whole explains the variation in the response variable/s. These both sound like variations of the same thing to me, can someone provide an explanation that might help me understand? Thank you for your help!</description>
     </item>
   </channel>
 </rss>
