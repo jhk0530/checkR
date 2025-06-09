@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Brewing Success with R.U.M.: How Inclusivity Fuels Manchester&#39;s Thriving R Community</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l7bnr0/brewing_success_with_rum_how_inclusivity_fuels/</link>
-      <pubDate>Mon, 09 Jun 2025 17:58:55 +0000</pubDate>
-      <description></description>
+      <title>Which AI model writes the best R code? - posit blog</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l7eybf/which_ai_model_writes_the_best_r_code_posit_blog/</link>
+      <pubDate>Mon, 09 Jun 2025 20:05:27 +0000</pubDate>
+      <description>tl;dr: OpenAI’s o3 and o4-mini and Anthropic’s Claude Sonnet 4 are the current best performers on the set of R coding tasks.&#xA;&#xA;Considering a lot of people here have adversary reaction to LLMs and writing code, what are your thoughts on this? From my perspective, when I&#39;m doing something new and from scratch, I often begin with a bit of back and forth with one of the AI models. Not always the result is correct, but often it gets me far enough to save some time. I basically write pseudo-code to organize my thoughts and ideas, which would be helpful even without the model output. </description>
+    </item>
+    <item>
+      <title>How Can i turn this into weekdays? (uni project)</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l7dmku/how_can_i_turn_this_into_weekdays_uni_project/</link>
+      <pubDate>Mon, 09 Jun 2025 19:14:50 +0000</pubDate>
+      <description>Hi Guys! I wanna turn this data into weekdays so i can analyze it. Anyone any ideas?</description>
     </item>
   </channel>
 </rss>
