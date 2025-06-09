@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>F-Statistic and R squared</title>
-      <link>https://reddit.com/r/rstats/comments/1l78mfi/fstatistic_and_r_squared/</link>
-      <pubDate>Mon, 09 Jun 2025 16:02:19 +0000</pubDate>
-      <description>Hello,&#xA;&#xA;I am trying to get my head around my single linear regression output in R. In basic terms, my understanding is that the R-squared figure tells me how well the model is fitting the data (the closer to 1, the better it fits the data) and my understand of the F-statistic is that it tells me whether the model as a whole explains the variation in the response variable/s. These both sound like variations of the same thing to me, can someone provide an explanation that might help me understand? Thank you for your help!</description>
+      <title>Brewing Success with R.U.M.: How Inclusivity Fuels Manchester&#39;s Thriving R Community</title>
+      <link>https://reddit.com/r/rstats/comments/1l7bngu/brewing_success_with_rum_how_inclusivity_fuels/</link>
+      <pubDate>Mon, 09 Jun 2025 17:58:35 +0000</pubDate>
+      <description>The R Consortium recently had the opportunity to interview Anthony Evans, Martin Herrerias Azcue, Rowan Green, Sian Bladon, and Stavrina Dimosthenous, organizers of the R User Group at the University of Manchester (R.U.M.). &#xA;&#xA;These leaders bring together a diverse community of students, researchers, and staff dedicated to advancing their skills in R programming. Their shared goal is to create an inclusive environment for learning and collaboration, which has driven the growth and success of the R.U.M. community.&#xA;&#xA;Find out more!&#xA;[https://r-consortium.org/posts/brewing-success-with-rum-how-inclusivity-fuels-manchesters-thriving-r-community/](https://r-consortium.org/posts/brewing-success-with-rum-how-inclusivity-fuels-manchesters-thriving-r-community/)</description>
     </item>
   </channel>
 </rss>
