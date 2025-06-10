@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>New vector search algorithm achieves 99% accuracy while protecting IP via Docker &#34;blackbox&#34; approach</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l81ztm/new_vector_search_algorithm_achieves_99_accuracy/</link>
-      <pubDate>Tue, 10 Jun 2025 15:40:54 +0000</pubDate>
-      <description>    ## TL;DR&#xA;    - 🏆 **99.0% Recall@10** + **27,857 QPS** achieved&#xA;    - 📊 **Beat industry standards** by 10-40% across all metrics  &#xA;    - 🔒 **IP protected** with Docker blackbox (no source code exposed)&#xA;    - ✅ **Fully reproducible** via ann-benchmarks framework&#xA;    - 🔗 **PR submitted**: https://github.com/erikbern/ann-benchmarks/pull/596&#xA;    &#xA;    ## What we built&#xA;    Quark Platform algorithms (quark-hnsw, quark-ivf, quark-binary) that significantly outperform existing solutions:&#xA;    &#xA;    | Algorithm | Recall@10 | QPS | Use Case |&#xA;    |-----------|-----------|-----|----------|&#xA;    | **Quark HNSW** | **99.0%** | 5,033 | High accuracy |&#xA;    | **Quark IVF** | 70.5% | **27,857** | Ultra speed |&#xA;    | **Balance** | **98.1%** | 6,119 | Most practical |&#xA;    &#xA;    ## Innovation: Docker Blackbox Approach&#xA;    - ✅ Complete IP protection (compiled libraries only)&#xA;    - ✅ Full reproducibility (anyone can test)&#xA;    - ✅ Standard compliance (BaseANN interface)&#xA;    - ✅ Community verification ready&#xA;    &#xA;    ## Technical Details&#xA;    - **Dataset**: SIFT-1M (200K base, 2K queries)&#xA;    - **Verification**: Independent brute-force ground truth&#xA;    - **Environment**: CPU-only, conservative parameters&#xA;    - **Libraries**: Both FAISS and hnswlib compared&#xA;    &#xA;    ## Call for Testing&#xA;    Docker image ready for community testing:&#xA;    ```bash&#xA;    docker pull quarkplatform/ann-benchmarks:v1.0.0&#xA;    python -m ann_benchmarks --dataset sift-128-euclidean --algorithm quark-hnsw-high1&#xA;    ```&#xA;    &#xA;    Curious about the community&#39;s thoughts on this approach!&#xA;    &#xA;    contact: angelon000@gmail.com</description>
+      <title>I am a new coder and created my first real github website!</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l84ggn/i_am_a_new_coder_and_created_my_first_real_github/</link>
+      <pubDate>Tue, 10 Jun 2025 17:16:41 +0000</pubDate>
+      <description>suggestions are welcome</description>
     </item>
   </channel>
 </rss>
