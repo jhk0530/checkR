@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>I can&#39;t find the function &#34;Rootogram&#34;</title>
-      <link>https://reddit.com/r/RStudio/comments/1l76zxv/i_cant_find_the_function_rootogram/</link>
-      <pubDate>Mon, 09 Jun 2025 14:58:32 +0000</pubDate>
-      <description>I need to plot a rootogram, but RStudio returns an error saying that the function rootogram does not exist. I&#39;m using R version 4.2.2 and have both the ggplot2 and countreg packages installed. However, I can&#39;t seem to find the rootogram function, and I need it for my dissertation. Any help would be greatly appreciated.</description>
+      <title>Rstudio is missing objects even though yesterday it was working fine.</title>
+      <link>https://reddit.com/r/RStudio/comments/1l7sul2/rstudio_is_missing_objects_even_though_yesterday/</link>
+      <pubDate>Tue, 10 Jun 2025 07:45:28 +0000</pubDate>
+      <description>https://preview.redd.it/shzpsugo026f1.png?width=586&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b0118fbdfb97733f0f29ebaa17c2caa6931267b1&#xA;&#xA;I can&#39;t use any function and when i write in the R scripts this erroe keeps coming up. I&#39;ve used R studio for months and idk what changed.&#xA;&#xA;    Error: object &#39;.rs.rpc.get_completions&#39; not found</description>
     </item>
   </channel>
 </rss>
