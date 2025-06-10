@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Which AI model writes the best R code? - posit blog</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l7eybf/which_ai_model_writes_the_best_r_code_posit_blog/</link>
-      <pubDate>Mon, 09 Jun 2025 20:05:27 +0000</pubDate>
-      <description>tl;dr: OpenAI’s o3 and o4-mini and Anthropic’s Claude Sonnet 4 are the current best performers on the set of R coding tasks.&#xA;&#xA;Considering a lot of people here have adversary reaction to LLMs and writing code, what are your thoughts on this? From my perspective, when I&#39;m doing something new and from scratch, I often begin with a bit of back and forth with one of the AI models. Not always the result is correct, but often it gets me far enough to save some time. I basically write pseudo-code to organize my thoughts and ideas, which would be helpful even without the model output. </description>
-    </item>
-    <item>
-      <title>How Can i turn this into weekdays? (uni project)</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l7dmku/how_can_i_turn_this_into_weekdays_uni_project/</link>
-      <pubDate>Mon, 09 Jun 2025 19:14:50 +0000</pubDate>
-      <description>Hi Guys! I wanna turn this data into weekdays so i can analyze it. Anyone any ideas?</description>
+      <title>Thoughts on the field</title>
+      <link>https://reddit.com/r/rprogramming/comments/1l7q359/thoughts_on_the_field/</link>
+      <pubDate>Tue, 10 Jun 2025 04:44:38 +0000</pubDate>
+      <description>I&#39;m a software developer residing in NYC. Been in the game for about 5 years. I don&#39;t work for a tech company. I&#39;m looking for a new position in the field, mainly for better pay. I guess in the age where tech experience and solution is much easier to discover, I can consider myself borderline senior.&#xA;&#xA;I mainly utilize the Javascript ecosystem for full stack dev and use AWS for app infrastructure. In an effort to land a better role, I tried to follow roadmaps for various abstraction technologies and rabbit holes into the low level stratosphere. I furthered my understanding of AWS and new languages like rust. I came to a point, where I burned myself out.&#xA;&#xA;Despite my ADHD, I enjoy meeting other devs in meetups. I try to get to know people, rather than just talk about tech. Besides, I rather talk about sports. Started with purpose to land a new opportunity, but meetups eventually became aimless. Most people in these things are trying to land their first job.&#xA;&#xA;My personality type values structure(sometimes), order(sometimes) and simplicity. I wonder how i ended up in wild waters.&#xA;&#xA;How can one navigate thru this saturated market? Is networking still as effective as it was pre AI saturation? Is skill specialization unimportant to hiring managers?</description>
     </item>
   </channel>
 </rss>
