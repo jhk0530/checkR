@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Truly Comprehensive R Markdown Video Course</title>
-      <link>https://reddit.com/r/RStudio/comments/1l8044m/truly_comprehensive_r_markdown_video_course/</link>
-      <pubDate>Tue, 10 Jun 2025 14:26:41 +0000</pubDate>
-      <description>I am looking for a course that can teach R Markdown.  What I am really interested in getting from such a course is more advanced coverage.  For example, I am looking for a course that will explain how to format the html output (fill headers with desired colors, set header font sizes, center headers, include toc, format code blocks, make sections collapsible, etc.)&#xA;&#xA;I had an employee in my team at my previous employer that could do all of the above and I am trying to learn how to do it myself.&#xA;&#xA;Most/All of the references I am finding provide info that is too basic - I wish someone could build a template for me to build in parallel or even purchase!  The goal is to understand how to do it myself.</description>
-    </item>
-    <item>
-      <title>Guide for learning Shiny</title>
-      <link>https://reddit.com/r/RStudio/comments/1l7zzp0/guide_for_learning_shiny/</link>
-      <pubDate>Tue, 10 Jun 2025 14:21:37 +0000</pubDate>
-      <description>Hi! I&#39;m looking for a guide to learn how to use Shiny in R.  I really like what you can achieve using it (aesthetics, etc).&#xA;&#xA;Which one do you suggest?  Thx</description>
+      <title>Summarise() error - object not found?</title>
+      <link>https://reddit.com/r/RStudio/comments/1l87y4f/summarise_error_object_not_found/</link>
+      <pubDate>Tue, 10 Jun 2025 19:30:02 +0000</pubDate>
+      <description>Hello everyone, I am getting the following error when I try to run my code. That error is: Error in `summarise()`: ℹ In argument: `Median_Strain = median(Strain, na.rm = TRUE)`. Caused by error: ! object &#39;Strain&#39; not found&#xA;&#xA;I am using the following code:&#xA;&#xA;    library(tidyverse) &#xA;    library(cowplot) &#xA;    library(scales) &#xA;    library(readxl) &#xA;    library(ggpubr) &#xA;    library(ggpattern)&#xA;    &#xA;    file_path &amp;lt;- &#34;C:/Users/LookHere/ExampleData.xlsx&#34;&#xA;    &#xA;    sheets &amp;lt;- excel_sheets(file_path)&#xA;    &#xA;    result &amp;lt;- lapply(sheets, function(sheet) { &#xA;      data &amp;lt;- read_excel(file_path, sheet = sheet)&#xA;    &#xA;      data %&amp;gt;% &#xA;        group_by(Side) %&amp;gt;% &#xA;        filter(Strain &amp;lt;= quantile(Strain, 0.95)) %&amp;gt;% &#xA;        summarise(Mean_Strain = mean(Strain, na.rm = TRUE)) %&amp;gt;% &#xA;        summarise(Median_Strain = median(Strain, na.rm = TRUE)) %&amp;gt;% &#xA;        filter(Shear &amp;lt;= quantile(Shear, 0.95)) %&amp;gt;% &#xA;        summarise(Mean_Shear = mean(Shear, na.rm = TRUE)) %&amp;gt;% &#xA;        summarise(Median_Shear = median(Shear, na.rm = TRUE)) %&amp;gt;% &#xA;        ungroup() %&amp;gt;% &#xA;        mutate(Sheet = sheet) &#xA;    }) &#xA;    final_result &amp;lt;- bind_rows(result)&#xA;    &#xA;    write.csv(final_result, &#34;ExampleData_strain_results_FromBottom95%Strains.csv&#34;, row.names = FALSE)&#xA;&#xA;Any idea what is causing this error and how to fix it? The &#34;Strain&#34; object is definitely in my data.</description>
     </item>
   </channel>
 </rss>
