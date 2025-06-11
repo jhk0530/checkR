@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>RStudio won’t run R functions on my Mac (&#34;R session aborted, fatal error&#34;)</title>
-      <link>https://reddit.com/r/RStudio/comments/1l8cyw6/rstudio_wont_run_r_functions_on_my_mac_r_session/</link>
-      <pubDate>Tue, 10 Jun 2025 22:53:07 +0000</pubDate>
-      <description>Hello,&#xA;&#xA;I&#39;m brand new to R, RStudio, and coding in general. I&#39;m using a Mac running macOS BigSur (Version 11.6) with an M1 chip.&#xA;&#xA;Here&#39;s what I have installed:&#xA;&#xA;* R version 4.5.0&#xA;* Rstudio 2023.09.1+494 (which should be compatible with my computer according [this post](https://forum.posit.co/t/rstudio-desktop-releases-on-unsupported-versions-of-macos/176074))&#xA;&#xA;Running basic functions directly in R works fine. However, when I try to run any functions in RStudio, I get this error: &#34;R session aborted, R encountered a fatal error. The session was terminated&#34;&#xA;&#xA;I&#39;ve tried restarting my computer and reinstalling both R and RStudio, but no luck. Any advice for fixing this issue?&amp;gt;!&amp;amp;#x200B;!&amp;lt;</description>
+      <title>Looking for a good real-world example of named entity identification</title>
+      <link>https://reddit.com/r/RStudio/comments/1l8fvhi/looking_for_a_good_realworld_example_of_named/</link>
+      <pubDate>Wed, 11 Jun 2025 01:09:37 +0000</pubDate>
+      <description>TLDR: organizations that I need to check against multiple reference databases are all named something different in each data source.&#xA;&#xA;I’d love to see how others have tackled this issue. &#xA;&#xA;The Long Way: I am currently working on a project that vets a list of charities (submitted by a third party) for reputational risks (details unimportant). &#xA;&#xA;The first tier of vetting checks:&#xA;1. Is the organization legitimate/registered?&#xA;2. Is it facing legal action?&#xA;&#xA;I’m using a combination of locally stored reference data and APIs to check for the existence of each organization in each dataset, and using some pretty cumbersome layered exact and fuzzy/approximate matching logic that’s about 80% accurate at this point. &#xA;&#xA;My experience with named entity recognition is limited to playing around with Spacy, so would love to see how others have effectively tackled similar challenges. </description>
     </item>
   </channel>
 </rss>
