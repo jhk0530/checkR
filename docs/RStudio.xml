@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Scatterplot color with only 2 variables</title>
-      <link>https://reddit.com/r/RStudio/comments/1l8ulzc/scatterplot_color_with_only_2_variables/</link>
-      <pubDate>Wed, 11 Jun 2025 14:48:05 +0000</pubDate>
-      <description>Hi everyone,&#xA;&#xA;I’m trying to make a scatterplot to demonstrate the correlation between two variables. Participants are the same and they’re at the same time point so my .csv file only has two columns (1 for each variable). When I plot this, all my data points are coming out as black since I don’t have a variable to tell ggplot to color by group as.&#xA;&#xA;What line of code can I add so that one of my variables is one color and the other variable is another. &#xA;&#xA;Here’s my current code:&#xA;&#xA;plot &amp;lt;- ggplot(emo_food_diff_scores, aes(x = emo_reg_diff, y = food_reg_diff)) +&#xA;  geom_point(position = &#34;jitter&#34;) +&#xA;scale_color_manual(values=c(&#34;red&#34;,&#34;yellow&#34;))+&#xA;  geom_smooth(method=lm, se=FALSE, fullrange=TRUE) +&#xA;  labs(title=&#34;&#34;, x = &#34;Emotion Regulation&#34;, y = &#34;Food Regulation&#34;) +&#xA;  theme(panel.background = element_blank(),&#xA;        panel.grid.major = element_blank(),&#xA;        axis.ticks = element_blank(),&#xA;        axis.text.x = element_text(size = 10),&#xA;        axis.text.y = element_text(size = 10),&#xA;        axis.title.x = element_text(size=10),&#xA;        axis.title.y = element_text(size = 10),&#xA;        strip.text = element_text(size = 8),&#xA;        strip.background = element_blank())&#xA;plot&#xA;&#xA;Thank you!! </description>
+      <title>Learning how to do basic calculations in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1l9bkiu/learning_how_to_do_basic_calculations_in_r/</link>
+      <pubDate>Thu, 12 Jun 2025 02:45:47 +0000</pubDate>
+      <description>Im taking a an r and stags class right now and im waiting for a textbook to come in because its late. &#xA;&#xA;We are using R studio. I have an assignment to do some calculations using R&#xA;&#xA;I cam certainly do them mathematically but the whole point is to use R&#xA;&#xA;Are there any sites that show you how to do basic calculations i.e average, sum etc  using R&#xA;&#xA;Without the textbook I cant so the assignment unless I find a resource that shows the commands for R to do basic calculations. &#xA;&#xA;Anyone know?</description>
     </item>
   </channel>
 </rss>
