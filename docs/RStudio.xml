@@ -9,11 +9,5 @@
       <pubDate>Fri, 13 Jun 2025 21:49:07 +0000</pubDate>
       <description></description>
     </item>
-    <item>
-      <title>From Wet Lab to Data Crunching: How Can I Level Up in R for Cell Biology?</title>
-      <link>https://reddit.com/r/RStudio/comments/1laqoue/from_wet_lab_to_data_crunching_how_can_i_level_up/</link>
-      <pubDate>Fri, 13 Jun 2025 20:47:50 +0000</pubDate>
-      <description>**Hi everyone,**&#xA;&#xA;I&#39;m a Master&#39;s student in a STEM field, specifically in Cell&amp;amp;Molecular Biology, and this is my first post on Reddit. I’ve started working with R relatively recently and would really appreciate some guidance on how to move forward given the following context:&#xA;&#xA;My knowledge of RStudio is fairly basic. I’ve completed a few online courses and done some self-guided practice. I’m familiar with standard tools like `ggplot`, data frames, list manipulation, and I have a foundation in statistical analysis, including basic inferential statistics, graph creation, some experience with writing functions and using pipes, as well as generating reports with Quarto and R Markdown.&#xA;&#xA;At this point, I’d like to take a more hands-on and focused approach—ideally by working with biological or scientific datasets relevant to my field—so I can better consolidate what I’ve learned. Up until now, most of my practice has involved generic or simulated datasets, so I feel I&#39;m missing the experimental or domain-specific aspect that would tie more directly into my STEM background.&#xA;&#xA;My ultimate goal is to develop a comprehensive project that I could use as a credential or reference in a professional context. I’m aiming to build hybrid skills that bridge wet lab work and data analysis.&#xA;&#xA;That said, I’m looking for recommendations on where I could find:&#xA;&#xA;* Projects aligned with biological or biomedical sciences involving data analysis,&#xA;* Public datasets or R-friendly data frames in my field to work with,&#xA;* Well-structured courses focused on data analysis in experimental science.&#xA;&#xA;Thanks in advance to anyone who’s kind enough to read this long message and contribute to my journey!</description>
-    </item>
   </channel>
 </rss>
