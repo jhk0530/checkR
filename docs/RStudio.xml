@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Have someone used Rstudio to replicate linguistic work?</title>
-      <link>https://reddit.com/r/RStudio/comments/1lad701/have_someone_used_rstudio_to_replicate_linguistic/</link>
-      <pubDate>Fri, 13 Jun 2025 11:10:10 +0000</pubDate>
-      <description>I am a master student trying to complete my project by the end of June- I am trying to find a linguistic literature research in order to replicate it in Rstudio, but I can not find any linguistic literature research to replicate. Can you recommend me sources where I can find them?</description>
+      <title>I built a MCP Server to let you integrate LLMs into RStudio. Here is Sonnet 4 analyzing a very messy dataset. In 7 minutes it provides 1,200 lines of pretty solid code.</title>
+      <link>https://reddit.com/r/RStudio/comments/1lant2q/i_built_a_mcp_server_to_let_you_integrate_llms/</link>
+      <pubDate>Fri, 13 Jun 2025 18:47:13 +0000</pubDate>
+      <description>For context, I posted about this months ago but installation was a bit burdensome. I&#39;ve made the installer (hopefully) much easier and included an explanation of how to use it with Cursor. &#xA;&#xA;As you can see I prompted it with very specific asks. Had I just provided it the data set and said good luck lil buddy it likely would not have done so well. &#xA;&#xA;&#xA;&#xA;[https://github.com/IMNMV/ClaudeR](https://github.com/IMNMV/ClaudeR)</description>
     </item>
   </channel>
 </rss>
