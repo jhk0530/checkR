@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>na.rn type strange behavour</title>
-      <link>https://reddit.com/r/rprogramming/comments/1l95uva/narn_type_strange_behavour/</link>
-      <pubDate>Wed, 11 Jun 2025 22:14:14 +0000</pubDate>
-      <description>Is this some sort of bug in dplyr?&#xA;&#xA;Notice the type, instead of na.rm it is na.rn and it gives the sum of the row plus one when set to true.&#xA;&#xA;    library(tidyverse)&#xA;    &#xA;    data = tibble(col1 = c(1, 1, 2, 2),&#xA;                  col2 = c(1, 2, 3, 4))&#xA;    &#xA;    data %&amp;gt;%&#xA;      group_by(col1) %&amp;gt;%&#xA;      summarise(col2 = sum(col2, na.rn = T))&#xA;    &#xA;    data %&amp;gt;%&#xA;      group_by(col1) %&amp;gt;%&#xA;      summarise(col2 = sum(col2, na.rn = F))&#xA;    &#xA;&#xA;</description>
+      <title>Which laptop is recommended for MS in Business Analytics (budget is max 1000 USD)</title>
+      <link>https://reddit.com/r/rprogramming/comments/1lb5bd1/which_laptop_is_recommended_for_ms_in_business/</link>
+      <pubDate>Sat, 14 Jun 2025 10:13:02 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
