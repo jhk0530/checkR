@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Hi can someone help me to resolve a problem with rstudio plis its for a homework</title>
-      <link>https://reddit.com/r/RStudio/comments/1las4ry/hi_can_someone_help_me_to_resolve_a_problem_with/</link>
-      <pubDate>Fri, 13 Jun 2025 21:49:07 +0000</pubDate>
-      <description></description>
+      <title>Need help rotating SpatRaster</title>
+      <link>https://reddit.com/r/RStudio/comments/1lb5jh7/need_help_rotating_spatraster/</link>
+      <pubDate>Sat, 14 Jun 2025 10:28:33 +0000</pubDate>
+      <description>  &#xA;Hello everyone,  &#xA;  &#xA;I&#39;m looking for a way to rotate a SpatRaster so that it aligns with the x- and y-axes. I need it on the one hand for a nicer visualization, on the other hand to avoid, that the white corners are considered part of the raster (with NA values) when I further process the data.  &#xA;I created the raster from LiDAR (.las) data by using the pixel\_metrics() function of lidR package.&#xA;&#xA;For me the spatial Information is not really relevant in this case, so I&#39;d be also happy if there&#39;s a solution that includes, removing the spatial information, to make things easier.  &#xA;&#xA;&#xA;Thanks a lot in advance, I tired to figure it out somehow myself, but I&#39;m stuck!&#xA;&#xA;[Axes show coordinates.](https://preview.redd.it/e3nrnaxodv6f1.png?width=555&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e50fa7b77d6063f060e446110f0db3492f6c8faf)&#xA;&#xA;  &#xA;</description>
+    </item>
+    <item>
+      <title>Help Spline Term cox reg</title>
+      <link>https://reddit.com/r/RStudio/comments/1lb5hrs/help_spline_term_cox_reg/</link>
+      <pubDate>Sat, 14 Jun 2025 10:25:24 +0000</pubDate>
+      <description>Hi everyone. I was following this tutorial (https://cran.r-project.org/web/packages/survival/vignettes/splines.pdf) but every time I tried with my dataset It results in &#34;Error in xtfrm.data.frame(x) : cannot xtfrm data frames&#34; when using termplot&#xA;&#xA;Following the tutorial with the mgus data everything works fine (it&#39;s just copy paste lol). When it come to my data troubles start. I have 3 variable, status (coded 1 or 0), time (continuous integer), and predictor (continuous, decimal). Searching for errors I realised that I needed at least two terms in the model so I computed a dummy variable (first continuous, decimal, both polite and negative, then only positive, then only positive and integer then factorial) and it didn&#39;t work. So I tried to make predictor continuous integer and still nothing. Data are imported from Excell. &#xA;&#xA;any suggestion? </description>
     </item>
   </channel>
 </rss>
