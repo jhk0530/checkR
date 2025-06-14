@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Struggling with replacing NAs for date data in R</title>
-      <link>https://reddit.com/r/rstats/comments/1lah3ht/struggling_with_replacing_nas_for_date_data_in_r/</link>
-      <pubDate>Fri, 13 Jun 2025 14:17:47 +0000</pubDate>
-      <description>Hi!&#xA;&#xA;I&#39;ve rarely worked with date data in R, so I could use some help. I wrote the below code after using as.Date().&#xA;&#xA;I get appropriate 1s for dates from last fall and appropriate 2s for dates from this spring, however I keep getting NAs for all the other cells when I want to change those NAs to zeros. I&#39;ve tried a couple different solutions like replace\_na() to no avail. Those cells are still NAs.&#xA;&#xA;Any help/guidance would be appreciated! There must be something specific about dates that I don&#39;t know enough about to troubleshoot on my own.&#xA;&#xA;`mydata$newvar &amp;lt;- ifelse(mydata$date &amp;gt;= &#39;2024-08-01&#39; &amp;amp; mydata$date &amp;lt; &#39;2025-01-01&#39;, 1, #fall`&#xA;&#xA;`ifelse(mydata$date &amp;gt;= &#39;2025-01-01&#39;, 2, #spring`&#xA;&#xA;`ifelse(is.na(mydata$date), 0, 0)))`</description>
+      <title>I converted most of tune library from tidymodels. It is now mostly using tidytable instead of using dplyr and tidyr (and hopefully purrr and tibble in the future). It still needs a bit of work to convert completely, but unfamiliar with library development. Can I ask for some feedback?</title>
+      <link>https://reddit.com/r/rstats/comments/1lb7kri/i_converted_most_of_tune_library_from_tidymodels/</link>
+      <pubDate>Sat, 14 Jun 2025 12:29:59 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
