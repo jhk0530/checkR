@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help in statistics</title>
-      <link>https://reddit.com/r/rstats/comments/1lbp6fa/help_in_statistics/</link>
-      <pubDate>Sun, 15 Jun 2025 02:06:07 +0000</pubDate>
-      <description>I am currently in a college program, Bachelor in Psychology, and I am having to retake a statistics class! I am SO lost. It is definitely not what I expected and I am struggling. I am almost willing to pay someone to complete the class for me! It is a 6 week course and I am over a week behind, I completed the first week. Any tips, suggestions, resources… or any one smart looking to make some extra money?!</description>
+      <title>Two-Wave vs. Three-Wave Mediation in lavaan</title>
+      <link>https://reddit.com/r/rstats/comments/1lc3att/twowave_vs_threewave_mediation_in_lavaan/</link>
+      <pubDate>Sun, 15 Jun 2025 15:41:04 +0000</pubDate>
+      <description>Hi everyone, my main question is: Under what conditions is it fine to conduct a two-wave mediation analysis of a treatment effect? I want to understand what mediated the effect of an intervention on the outcome in an RCT (intervention N = 78 vs waitlist-control N = 80). I have my data at three time points: pre, post (8 weeks) and follow-up (3 months) and several potential mediators. In my spaghetti plots I see that the change in my variables happened between T1 and T2 both in the mediators and outcome and than remained more or less stable until follow-up. Does this suggest that I should stick to a two-wave mediation (pre-post) or is there value in conducting a three-wave mediation? In case of three-wave mediation I am thinking of Cross-lagged Mediation or Parallel Latent Growth Curve Model, but I would use Sum Scores of my questionnaires, as modeling latent factors with my items would be too complex for my sample size. Would such an approach be fine? Do you have any suggestions for conducting a mediation analysis given my study design? I am grateful for any insights!</description>
     </item>
   </channel>
 </rss>
