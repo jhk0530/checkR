@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Why does some console output get highlighted? How to turn off highlighting</title>
-      <link>https://reddit.com/r/RStudio/comments/1lbv7kh/why_does_some_console_output_get_highlighted_how/</link>
-      <pubDate>Sun, 15 Jun 2025 08:13:50 +0000</pubDate>
-      <description>Rstudio version 2025.08.0 Build 158 (20250529)&#xA;&#xA;R version 4.3.3 on RHEL 9&#xA;&#xA;</description>
+      <title>Unable to Auto-number my tables created using gtsummary</title>
+      <link>https://reddit.com/r/RStudio/comments/1lc28yf/unable_to_autonumber_my_tables_created_using/</link>
+      <pubDate>Sun, 15 Jun 2025 14:55:44 +0000</pubDate>
+      <description>When I render a Bookdown document with a gtsummary table, the caption prints the raw ID (#tab:baseline) (or whatever the chunk label is) instead of hiding it and replacing \\@ref(tab:baseline) with “Table 1”. Every workaround I’ve seen (moving the anchor, dropping bold, relying on the chunk label, etc.) still leaves the label visible.&#xA;&#xA;\---&#xA;&#xA;title: &#34;Results\_example&#34;&#xA;&#xA;output: &#xA;&#xA;  bookdown::html\_document2:&#xA;&#xA;toc: true&#xA;&#xA;number\_sections: true&#xA;&#xA;   &#xA;&#xA;\---&#xA;&#xA;&#xA;&#xA;\`\`\`{r}&#xA;&#xA;library(gtsummary)&#xA;&#xA;\`\`\`&#xA;&#xA;&#xA;&#xA;\`\`\`{r, baseline , echo = FALSE, results = &#39;asis&#39;, include = TRUE}&#xA;&#xA;trial |&amp;gt;&#xA;&#xA;  tbl\_summary(by = trt, includ = c(age, grade)) |&amp;gt;&#xA;&#xA;  add\_p(pvalue\_fun = label\_style\_pvalue(digits = 2)) |&amp;gt;&#xA;&#xA;  add\_overall() |&amp;gt;&#xA;&#xA;  add\_n() |&amp;gt;&#xA;&#xA;  modify\_header(label \~ &#34;\*\*Variable\*\*&#34;) |&amp;gt;&#xA;&#xA;  modify\_spanning\_header(c(&#34;stat\_1&#34;, &#34;stat\_2&#34;) \~ &#34;\*\*Treatment Received\*\*&#34;) |&amp;gt;&#xA;&#xA;  modify\_footnote\_header(&#34;Median (IQR) or Frequency (%)&#34;, columns = all\_stat\_cols()) |&amp;gt;&#xA;&#xA;  modify\_caption(&#34;\*\*(\\\\#tab:baseline) Patient Characteristics\*\*&#34;) |&amp;gt;&#xA;&#xA;  bold\_labels()&#xA;&#xA;\`\`\`&#xA;&#xA;inserting (\\\\#tab:baseline) numbers the table successfully, but the chunk label remains. I am unable to get rid of that. The only solution that has worked so far is converting to a flex table  &#xA;(\\#tab:baseline )**Table 1: Patient Characteristics**</description>
     </item>
   </channel>
 </rss>
