@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Creating a pivot table with one column and multiple rows</title>
-      <link>https://reddit.com/r/RStudio/comments/1lbosoo/creating_a_pivot_table_with_one_column_and/</link>
-      <pubDate>Sun, 15 Jun 2025 01:45:36 +0000</pubDate>
-      <description>Hi everyone, apologies if this is dumb question but I’m having trouble making a correct pivot table with one column and multiple rows. Is it suppose to be table(“column, “row1, “row2) ? Any clarification would be appreciated !</description>
+      <title>Why does some console output get highlighted? How to turn off highlighting</title>
+      <link>https://reddit.com/r/RStudio/comments/1lbv7kh/why_does_some_console_output_get_highlighted_how/</link>
+      <pubDate>Sun, 15 Jun 2025 08:13:50 +0000</pubDate>
+      <description>Rstudio version 2025.08.0 Build 158 (20250529)&#xA;&#xA;R version 4.3.3 on RHEL 9&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
