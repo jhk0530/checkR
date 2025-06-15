@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Open call for new mods</title>
-      <link>https://reddit.com/r/RStudio/comments/1lblmz0/open_call_for_new_mods/</link>
-      <pubDate>Sat, 14 Jun 2025 23:03:33 +0000</pubDate>
-      <description>Hi friends,&#xA;&#xA;I’ve been reducing my Reddit usage for mental health, and at this point I’m pretty much only logging on to check mod reports. I’d rather the community be led by someone that’s more active day-to-day.&#xA;&#xA;If you’re interested in taking over moderation of this sub, send us a message on modmail. I’ll also check comments at some point, but it may be a few days. &#xA;&#xA;Thanks!</description>
+      <title>Creating a pivot table with one column and multiple rows</title>
+      <link>https://reddit.com/r/RStudio/comments/1lbosoo/creating_a_pivot_table_with_one_column_and/</link>
+      <pubDate>Sun, 15 Jun 2025 01:45:36 +0000</pubDate>
+      <description>Hi everyone, apologies if this is dumb question but I’m having trouble making a correct pivot table with one column and multiple rows. Is it suppose to be table(“column, “row1, “row2) ? Any clarification would be appreciated !</description>
     </item>
   </channel>
 </rss>
