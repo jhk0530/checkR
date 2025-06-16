@@ -4,16 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Anyone using LLM&#39;s locally with R?</title>
-      <link>https://reddit.com/r/rstats/comments/1lch575/anyone_using_llms_locally_with_r/</link>
-      <pubDate>Mon, 16 Jun 2025 02:01:01 +0000</pubDate>
-      <description>I&#39;m interested in people&#39;s experiences with using LLM&#39;s locally to help with coding tasks in R. I&#39;m still fairly new to all this stuff but it seems the main advantages of doing this compared to API-based integration is that it doesn&#39;t cost anything, and it offers some element of data security? Ollama seems to be the main tool in this space.&#xA;&#xA;So, is anyone using these models locally in R? How specced out are your computers (RAM etc) vs model parameter count? (I have a 64Gb Mac M2 which I have to actually try but seems might run a 32b parameter model reasonably) What models do you use? How do they compare to API-based cloud models? How secure is your data in a local LLM environment (i.e. does it get uploaded at all)?&#xA;&#xA;Thanks.</description>
-    </item>
-    <item>
-      <title>Help summarize this for a stupid person to get?</title>
-      <link>https://reddit.com/r/rstats/comments/1lcgv85/help_summarize_this_for_a_stupid_person_to_get/</link>
-      <pubDate>Mon, 16 Jun 2025 01:46:34 +0000</pubDate>
-      <description></description>
+      <title>Finlay-Wilkinson Stability Analysis</title>
+      <link>https://reddit.com/r/rstats/comments/1lcxe5s/finlaywilkinson_stability_analysis/</link>
+      <pubDate>Mon, 16 Jun 2025 16:28:09 +0000</pubDate>
+      <description>Does anyone here have any experience working with Finlay-Wilkinson analysis? I&#39;m struggling to figure this one out, but I&#39;ve been asked to include it in a manuscript. &#xA;&#xA;  &#xA;I have been looking into gxeFw in the statgenGxE package but I don&#39;t understand the &#39;TD&#39; object. &#xA;&#xA;  &#xA;Any guidance would be appreciated!</description>
     </item>
   </channel>
 </rss>
