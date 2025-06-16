@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Could there be a market for helping design  Shiny UI?</title>
-      <link>https://reddit.com/r/RStudio/comments/1ld0jya/could_there_be_a_market_for_helping_design_shiny/</link>
-      <pubDate>Mon, 16 Jun 2025 18:24:47 +0000</pubDate>
-      <description>Hey everyone!&#xA;&#xA;For my master’s project, I built an app using Shiny, and I really enjoyed it, especially the design side of things like layout, color choices, and making the UI intuitive. What surprised me, though, was how much time it all took to learn and implement. Between figuring out Shiny itself and all the UI design, it ended up taking a big chunk of my development time, sometimes more than the core analysis!&#xA;&#xA;It got me thinking: is there a potential niche or market for offering Shiny UI design as a service? Something that could help researchers or devs get a polished, user-friendly layout quickly, so they can focus more on the underlying analysis or backend logic.&#xA;&#xA;Has anyone seen this kind of service offered, if so where?&#xA;&#xA;This is not an ad for services.   &#xA;</description>
+      <title>infectiousR Package</title>
+      <link>https://reddit.com/r/RStudio/comments/1ld66h5/infectiousr_package/</link>
+      <pubDate>Mon, 16 Jun 2025 22:04:27 +0000</pubDate>
+      <description>[The infectiousR package provides a seamless interface to access real-time data on infectious diseases through the disease.sh API, a RESTful API offering global health statistics. The package enables users to explore up-to-date information on disease outbreaks, vaccination progress, and surveillance metrics across countries, continents, and U.S. states.It includes a set of API-related functions to retrieve real-time statistics on COVID-19, influenza-like illnesses from the Centers for Disease Control and Prevention \(CDC\), and vaccination coverage worldwide.](https://preview.redd.it/c3hmmnpq3d7f1.png?width=518&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c002faeb0b61c676687f883ef7259b3fcacf2304)&#xA;&#xA;[https://lightbluetitan.github.io/infectiousr/](https://lightbluetitan.github.io/infectiousr/)</description>
     </item>
   </channel>
 </rss>
