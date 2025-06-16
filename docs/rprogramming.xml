@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rprogramming/</link>
     <description>Reddit r/rprogramming 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to bypass GitHub caching? [SOLVED]</title>
-      <link>https://reddit.com/r/rprogramming/comments/1lcfwll/how_to_bypass_github_caching_solved/</link>
-      <pubDate>Mon, 16 Jun 2025 00:56:27 +0000</pubDate>
-      <description>I&#39;ve had a problem with the github caching, I have an auto-updater in a program I use, it gets the old version everytime.&#xA;&#xA;  &#xA;Solution: Use the commit api on your file. (e.g https://api.github.com/repos/USER/REPO/commits?path=foo.lua)&#xA;&#xA;  &#xA;Use the sha in the response, then download it using https://raw.githubusercontent.com/USER/REPO/9d62753ef7862d18f32341dff6df1e06b8e05f78/foo.lua)  &#xA;the hash in the url after the REPO/&#xA;&#xA;&#xA;&#xA;**Why does this work?**  &#xA;Github caches the response of any file on [raw.githubusercontent.com](http://raw.githubusercontent.com) and you always download from the latest url link.&#xA;&#xA;API is never cached, that&#39;s important. So it downloads the commit using hashes, It doesn&#39;t matter if the commit URL is hashed since it IS the latest commit.&#xA;&#xA;Happy programming!</description>
+      <title>R Consortium Working Group Webinar! R for Health Technology Assessment (HTA): Identifying Needs, Streamlining Processes, and Building Bridges</title>
+      <link>https://reddit.com/r/rprogramming/comments/1lcz2f2/r_consortium_working_group_webinar_r_for_health/</link>
+      <pubDate>Mon, 16 Jun 2025 17:30:52 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
