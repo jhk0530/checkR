@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Can SOMEONE PLEASE HELP</title>
-      <link>https://reddit.com/r/RStudio/comments/1lcit9h/can_someone_please_help/</link>
-      <pubDate>Mon, 16 Jun 2025 03:30:05 +0000</pubDate>
-      <description>If someone is decently good at RSTUDIO can I please DM you. I genuinely am going to cry if I can’t figure out how to do this crap. I’m going to get in trouble if I paste my code here but I don’t understand how to fix the code and plot </description>
+      <title>Estimating vegetation shadows from LiDAR point clouds</title>
+      <link>https://reddit.com/r/RStudio/comments/1lcnrwo/estimating_vegetation_shadows_from_lidar_point/</link>
+      <pubDate>Mon, 16 Jun 2025 08:47:21 +0000</pubDate>
+      <description>Hi everyone,&#xA;&#xA;I&#39;m working with airborne LiDAR point cloud data across a fairly large area (Mediterranean region), and I&#39;m processing the data in R, mainly using packages like lidR, terra and some custom workflows.&#xA;&#xA;Now I’m at a point where I’d like to simulate cast shadows from vegetation, based on a given sun angle (azimuth and elevation). I’m especially interested in cross-shading: how nearby vegetation patches cast shadows on each other and on the ground.&#xA;&#xA;The idea is to create realistic shadow patterns based on the 3D vegetation structure ideally as raste to study how light availability shapes habitat conditions for thermophilic species (like reptiles relying on sun exposure to thermoregulate).&#xA;&#xA;* I found some references to the insol package (which had functions like shade() to simulate topographic shading), and also solrad, but they seem no longer maintained, and I haven’t been able to get them to install properly.&#xA;* I’ve also looked at general solar radiation tools (like those in terra or raster), but they mostly account for terrain shadows, not vegetation. SO has anyone combined lidR, rayshader or even external tools for this kind of task?&#xA;&#xA;Any advice, ideas, or shared experiences would be super welcome! I&#39;d really love to avoid reinventing the wheel if something usable already exists, or at least build on what&#39;s been tried before.&#xA;&#xA;Thanks in advance!</description>
+    </item>
+    <item>
+      <title>Looking for Project Ideas</title>
+      <link>https://reddit.com/r/RStudio/comments/1lcngv1/looking_for_project_ideas/</link>
+      <pubDate>Mon, 16 Jun 2025 08:26:00 +0000</pubDate>
+      <description>Been out of college for a little while, no job yet, figured I should start using R again.&#xA;&#xA;I&#39;d appreciate any ideas for projects or fun things to do in R.&#xA;&#xA;Thanks!</description>
     </item>
   </channel>
 </rss>
