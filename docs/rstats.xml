@@ -4,10 +4,16 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Two-Wave vs. Three-Wave Mediation in lavaan</title>
-      <link>https://reddit.com/r/rstats/comments/1lc3att/twowave_vs_threewave_mediation_in_lavaan/</link>
-      <pubDate>Sun, 15 Jun 2025 15:41:04 +0000</pubDate>
-      <description>Hi everyone, my main question is: Under what conditions is it fine to conduct a two-wave mediation analysis of a treatment effect? I want to understand what mediated the effect of an intervention on the outcome in an RCT (intervention N = 78 vs waitlist-control N = 80). I have my data at three time points: pre, post (8 weeks) and follow-up (3 months) and several potential mediators. In my spaghetti plots I see that the change in my variables happened between T1 and T2 both in the mediators and outcome and than remained more or less stable until follow-up. Does this suggest that I should stick to a two-wave mediation (pre-post) or is there value in conducting a three-wave mediation? In case of three-wave mediation I am thinking of Cross-lagged Mediation or Parallel Latent Growth Curve Model, but I would use Sum Scores of my questionnaires, as modeling latent factors with my items would be too complex for my sample size. Would such an approach be fine? Do you have any suggestions for conducting a mediation analysis given my study design? I am grateful for any insights!</description>
+      <title>Anyone using LLM&#39;s locally with R?</title>
+      <link>https://reddit.com/r/rstats/comments/1lch575/anyone_using_llms_locally_with_r/</link>
+      <pubDate>Mon, 16 Jun 2025 02:01:01 +0000</pubDate>
+      <description>I&#39;m interested in people&#39;s experiences with using LLM&#39;s locally to help with coding tasks in R. I&#39;m still fairly new to all this stuff but it seems the main advantages of doing this compared to API-based integration is that it doesn&#39;t cost anything, and it offers some element of data security? Ollama seems to be the main tool in this space.&#xA;&#xA;So, is anyone using these models locally in R? How specced out are your computers (RAM etc) vs model parameter count? (I have a 64Gb Mac M2 which I have to actually try but seems might run a 32b parameter model reasonably) What models do you use? How do they compare to API-based cloud models? How secure is your data in a local LLM environment (i.e. does it get uploaded at all)?&#xA;&#xA;Thanks.</description>
+    </item>
+    <item>
+      <title>Help summarize this for a stupid person to get?</title>
+      <link>https://reddit.com/r/rstats/comments/1lcgv85/help_summarize_this_for_a_stupid_person_to_get/</link>
+      <pubDate>Mon, 16 Jun 2025 01:46:34 +0000</pubDate>
+      <description></description>
     </item>
   </channel>
 </rss>
