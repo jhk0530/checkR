@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Anyone mind helping me with my code</title>
-      <link>https://reddit.com/r/RStudio/comments/1ld015k/anyone_mind_helping_me_with_my_code/</link>
-      <pubDate>Mon, 16 Jun 2025 18:05:24 +0000</pubDate>
-      <description>It’s pretty simple code, if I could get help on discord or even through DMs that would be fine. </description>
+      <title>Could there be a market for helping design  Shiny UI?</title>
+      <link>https://reddit.com/r/RStudio/comments/1ld0jya/could_there_be_a_market_for_helping_design_shiny/</link>
+      <pubDate>Mon, 16 Jun 2025 18:24:47 +0000</pubDate>
+      <description>Hey everyone!&#xA;&#xA;For my master’s project, I built an app using Shiny, and I really enjoyed it, especially the design side of things like layout, color choices, and making the UI intuitive. What surprised me, though, was how much time it all took to learn and implement. Between figuring out Shiny itself and all the UI design, it ended up taking a big chunk of my development time, sometimes more than the core analysis!&#xA;&#xA;It got me thinking: is there a potential niche or market for offering Shiny UI design as a service? Something that could help researchers or devs get a polished, user-friendly layout quickly, so they can focus more on the underlying analysis or backend logic.&#xA;&#xA;Has anyone seen this kind of service offered, if so where?&#xA;&#xA;This is not an ad for services.   &#xA;</description>
     </item>
   </channel>
 </rss>
