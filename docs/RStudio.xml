@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Fisher&#39;s test instead of chi-square (students using chatGPT)</title>
-      <link>https://reddit.com/r/RStudio/comments/1ldk8dy/fishers_test_instead_of_chisquare_students_using/</link>
-      <pubDate>Tue, 17 Jun 2025 11:04:36 +0000</pubDate>
-      <description>Hi everyone&#xA;&#xA;I am working as a datamanger in cardiovascular research and also help students at the department with data management and basic statistics. I experienced that chatGPT has made R more accessible for beginners. However, some students make some strange errors when they try to solve issues using chatGPT rather than simply looking at the dataset.&#xA;&#xA;One thing I experienced multiple times now, is that I advise students to use either chi-square test or t-test to compare baseline characteristics for two groups  (depending if the variable is continuous). Then they end up doing a Fisher&#39;s test. Of course they cannot explain why they chose this test because chatGPT made their code...&#xA;&#xA;I have not been using Fisher&#39;s test much myself. But is it a good/superior test for basic comparison of baseline characteristics?</description>
+      <title>Help plotting data with big differences.</title>
+      <link>https://reddit.com/r/RStudio/comments/1ldryev/help_plotting_data_with_big_differences/</link>
+      <pubDate>Tue, 17 Jun 2025 16:38:28 +0000</pubDate>
+      <description>Hi all, &#xA;I need to plot the Young&#39;s modulus of 2 seperate datasets. The problem is, that the values of set_1 are much (like really much) higher, the the ones of set_2. &#xA;Currently I plot a split violin (each set has 2 subsets) with a boxplot for each set. &#xA;My initial thought was to use a log 10 axis scale, but this won&#39;t visualize the data well.&#xA;Secondly I thought of the faceted view, which also won&#39;t work, because I would have to have 2 y-axis, with the same variable only scaled differently -not very scientific. &#xA;Now I am helpless visualizing the data. I would appreciate help or hints, how it could be done. &#xA;&#xA;PS.: 2 seperate plots are also not really helpful. &#xA;&#xA;Thank you!</description>
     </item>
   </channel>
 </rss>
