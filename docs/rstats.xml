@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>New Free R Consortium Webinar: From Paper to Pixels: Digitizing Water Quality Data Collection with Posit and Esri Integration</title>
-      <link>https://reddit.com/r/rstats/comments/1ldsx9h/new_free_r_consortium_webinar_from_paper_to/</link>
-      <pubDate>Tue, 17 Jun 2025 17:14:45 +0000</pubDate>
-      <description>New, free R Consortium webinar featuring speakers from the Virginia Department of Environmental Quality!&#xA;&#xA;From Paper to Pixels: Digitizing Water Quality Data Collection with Posit and Esri Integration&#xA;&#xA;June 27, 10am PT / 1pm ET&#xA;&#xA;The Virginia Department of Environmental Quality (DEQ) is responsible for administering laws and regulations associated with air quality, water quality and supply, renewable energy, and land protection in the Commonwealth of Virginia. These responsibilities generate tremendous quantities of data from monitoring environmental quality, managing permitting processes across environmental media, responding to pollution events, and more. The data collected by DEQ requires management and analysis to gain insight, inform decision making, and meet legal and public obligations.&#xA;&#xA;In this webinar, we will focus on the integration of our Posit and Esri environments to modernize data collection methods for water quality monitoring. We&#39;ll begin with a review of historic water quality data collection processes. Then, we’ll present the architecture of these environments and describe how they were leveraged to modernize mobile data collection at DEQ.&#xA;&#xA;Speakers&#xA;&#xA;* Joe Famularo - Analytics System Administrator&#xA;* Maddie Moore - GIS System Administrator&#xA;* Emma Jones - Water Monitoring Supervisor&#xA;* Scott Hasinger - Water Monitoring Supervisor&#xA;&#xA;### Register now! [https://r-consortium.org/webinars/from-paper-to-pixels-digitizing-water-quality-data-collection-with-posit-and-esri-integration.html](https://r-consortium.org/webinars/from-paper-to-pixels-digitizing-water-quality-data-collection-with-posit-and-esri-integration.html)</description>
+      <title>Categorical data plot</title>
+      <link>https://reddit.com/r/rstats/comments/1ldw2y1/categorical_data_plot/</link>
+      <pubDate>Tue, 17 Jun 2025 19:14:46 +0000</pubDate>
+      <description>Years ago, there was a plot of the Titanic disaster data. I think Wickam did it, but I can&#39;t find it anywhere. It&#xA;&#xA;wasn&#39;t the usual type of plot, but kind of a cumulative plot connecting each variable. Anybody remember this?</description>
     </item>
   </channel>
 </rss>
