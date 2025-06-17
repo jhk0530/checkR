@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Need a Quick Boost in Views – Let’s Help Each Other!</title>
-      <link>https://reddit.com/r/rstats/comments/1ldd3qi/need_a_quick_boost_in_views_lets_help_each_other/</link>
-      <pubDate>Tue, 17 Jun 2025 03:33:26 +0000</pubDate>
-      <description></description>
+      <title>Mental Health Stats Help</title>
+      <link>https://reddit.com/r/rstats/comments/1ldhl4r/mental_health_stats_help/</link>
+      <pubDate>Tue, 17 Jun 2025 08:12:40 +0000</pubDate>
+      <description>I am trying to go back to my grad days and pull all of my stats info from my brain but things aren’t clicking. So I am reaching out here for help. I work in community mental health. We use the PHQ-9 and GAD-7 to track clients progress through an online program that allows us to pull analytics. Some of the stats just aren’t making sense though and there are some concerns we have about their back end. First being the baseline they use is just the first data point so if they score with high mood the first session (which sometimes clients do because they don’t share honestly until there is therapeutic alliance) then all future stats will seem below baseline and when we pull analytics we see a pattern of reliable deterioration which doesn’t feel like an accurate representation. Shouldn’t a baseline be more than one data point? It seems like one data point is holding way too much power. Another concern is that I don’t believe the program is picking up data points that are outliers of the general trend. If the client has a stressful week and their scores dip once it seems to greatly effect their percentage of reliable change over years even. I don’t want to play around too much with the backend of the program but it feels like there are multiple inaccuracies that I can’t quite put my finger on. I tried looking in scholarly journals to see recommendations on how statistical analysis is done on their assessments but couldn’t find much. Any insight or pointing me in the right direction would be appreciated.</description>
     </item>
   </channel>
 </rss>
