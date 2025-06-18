@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Categorical data plot</title>
-      <link>https://reddit.com/r/rstats/comments/1ldw2y1/categorical_data_plot/</link>
-      <pubDate>Tue, 17 Jun 2025 19:14:46 +0000</pubDate>
-      <description>Years ago, there was a plot of the Titanic disaster data. I think Wickam did it, but I can&#39;t find it anywhere. It&#xA;&#xA;wasn&#39;t the usual type of plot, but kind of a cumulative plot connecting each variable. Anybody remember this?</description>
+      <title>[HELP] Can someone peer review my Week 2/3 assignment in Coursera&#39;s R Programming course (JHU)</title>
+      <link>https://reddit.com/r/rstats/comments/1lenkce/help_can_someone_peer_review_my_week_23/</link>
+      <pubDate>Wed, 18 Jun 2025 17:45:27 +0000</pubDate>
+      <description>Hey everyone,&#xA;&#xA;I just completed **Programming Assignment 2 – Lexical Scoping** from the Johns Hopkins R Programming course on Coursera and I&#39;m looking for someone to peer review my submission. I’ve put a lot of effort into writing clean, readable code that follows the assignment guidelines – especially the use of lexical scoping, caching, and S3-style object interaction.&#xA;&#xA;Here’s the direct link to the peer review task:  &#xA;👉 [https://www.coursera.org/learn/r-programming/peer/tNy8H/programming-assignment-2-lexical-scoping/review/3e7D-kw3EfC3HxLq3CFnvQ](https://www.coursera.org/learn/r-programming/peer/tNy8H/programming-assignment-2-lexical-scoping/review/3e7D-kw3EfC3HxLq3CFnvQ)&#xA;&#xA;# What I focused on in my code:&#xA;&#xA;* **Proper use of closures** in the `makeCacheMatrix()` function to store and retrieve the matrix and its inverse.&#xA;* Efficient caching in `cacheSolve()` to avoid unnecessary recomputation.&#xA;* I included **input validation** and made sure everything works with real-world matrices, not just examples.&#xA;* Clean formatting and plenty of comments to make it easy to follow.&#xA;&#xA;If you&#39;re currently in the same course or have taken it before, I’d be super grateful if you could review my submission and leave an honest (but constructive 😅) evaluation. I’m aiming for top quality and trying to learn as much as possible.&#xA;&#xA;Thanks a ton in advance 🙌</description>
     </item>
   </channel>
 </rss>
