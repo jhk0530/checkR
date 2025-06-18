@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Help plotting data with big differences.</title>
-      <link>https://reddit.com/r/RStudio/comments/1ldryev/help_plotting_data_with_big_differences/</link>
-      <pubDate>Tue, 17 Jun 2025 16:38:28 +0000</pubDate>
-      <description>Hi all, &#xA;I need to plot the Young&#39;s modulus of 2 seperate datasets. The problem is, that the values of set_1 are much (like really much) higher, the the ones of set_2. &#xA;Currently I plot a split violin (each set has 2 subsets) with a boxplot for each set. &#xA;My initial thought was to use a log 10 axis scale, but this won&#39;t visualize the data well.&#xA;Secondly I thought of the faceted view, which also won&#39;t work, because I would have to have 2 y-axis, with the same variable only scaled differently -not very scientific. &#xA;Now I am helpless visualizing the data. I would appreciate help or hints, how it could be done. &#xA;&#xA;PS.: 2 seperate plots are also not really helpful. &#xA;&#xA;Thank you!</description>
+      <title>Psychology grad: No idea where to start with R</title>
+      <link>https://reddit.com/r/RStudio/comments/1leg3z9/psychology_grad_no_idea_where_to_start_with_r/</link>
+      <pubDate>Wed, 18 Jun 2025 12:42:55 +0000</pubDate>
+      <description>So I&#39;m a psychology grad and will be getting my Masters in Clinical Psych later this year. &#xA;&#xA;We have not touched R at all! We have heard of it here and there but we have never used it. &#xA;&#xA;At our last stats lecture, we were told it would be beneficial to look up R and get some experience with it. &#xA;&#xA;Now I am looking at jobs and a lot of places are saying they&#39;d like us to have knowledge on R.&#xA;&#xA;I feel let down by my university for not letting us get our hands on this (especially considering in previous years they have taught a whole module on R and other subjects still do get taught R)&#xA;&#xA;ANYWAY! I want to build my experience, but I have no idea where to start.&#xA;&#xA;Are there any decent (cheap as I&#39;m still a poor student) online courses that go over R?&#xA;&#xA;Even if it&#39;s only at a foundation level. </description>
     </item>
   </channel>
 </rss>
