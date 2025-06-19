@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>What did I do wrong?</title>
-      <link>https://reddit.com/r/RStudio/comments/1lfddus/what_did_i_do_wrong/</link>
-      <pubDate>Thu, 19 Jun 2025 15:16:39 +0000</pubDate>
-      <description>I&#39;m working on a dataset about movies and I&#39;m new to rstudio.&#xA;&#xA;Scatterplot looks off? Can you tell me what&#39;s wrong with it?&#xA;&#xA;merged\_data &amp;lt;- merge(movie\_data, ratings\_export, by = &#34;movie\_id&#34;)&#xA;&#xA;filtered\_data &amp;lt;- subset(merged\_data, runtime &amp;gt;= 0 &amp;amp; runtime &amp;lt;= 150 &amp;amp; rating\_val &amp;gt;= 1 &amp;amp; rating\_val &amp;lt;= 10)&#xA;&#xA;plot(filtered\_data$runtime, filtered\_data$rating\_val,&#xA;&#xA;main = &#34;Popularity vs Runtime&#34;,&#xA;&#xA;xlab = &#34;Runtime (min)&#34;,&#xA;&#xA;ylab = &#34;Rating&#34;,&#xA;&#xA;col = &#34;orchid&#34;,&#xA;&#xA;pch = 15,&#xA;&#xA;xlim = c(0, 400),&#xA;&#xA;ylim = c(1, 10),&#xA;&#xA;cex = 1.2)&#xA;&#xA;https://preview.redd.it/1w0ytd8zhw7f1.png?width=812&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5a766ea527ca38d9018c4eabca4b5de8536f1c34&#xA;&#xA;</description>
+      <title>My code is still in the script, but everything is blank</title>
+      <link>https://reddit.com/r/RStudio/comments/1lfiaxq/my_code_is_still_in_the_script_but_everything_is/</link>
+      <pubDate>Thu, 19 Jun 2025 18:31:55 +0000</pubDate>
+      <description>This is a little difficult to explain, but any time I open my R Script, the text is there, but I can&#39;t see it. I can highlight it, move my cursor between the characters, and copy and paste it. But it&#39;s as if the text is white against a white background. Any fixes for this?</description>
     </item>
   </channel>
 </rss>
