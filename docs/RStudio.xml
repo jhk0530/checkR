@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>My code is still in the script, but everything is blank</title>
-      <link>https://reddit.com/r/RStudio/comments/1lfiaxq/my_code_is_still_in_the_script_but_everything_is/</link>
-      <pubDate>Thu, 19 Jun 2025 18:31:55 +0000</pubDate>
-      <description>This is a little difficult to explain, but any time I open my R Script, the text is there, but I can&#39;t see it. I can highlight it, move my cursor between the characters, and copy and paste it. But it&#39;s as if the text is white against a white background. Any fixes for this?</description>
+      <title>How to add constraint to mlogit?</title>
+      <link>https://reddit.com/r/RStudio/comments/1lg3wyc/how_to_add_constraint_to_mlogit/</link>
+      <pubDate>Fri, 20 Jun 2025 13:24:23 +0000</pubDate>
+      <description>I am estimating a random utility model using mlogit (both using multinomial logit and mixed logit). A priori, I would like to constrain the maximum likelihood estimator to only allow beta\_1 to take a positive value. However, there appear to be no way to do that? &#xA;&#xA;Is my only option to switch to another package? Logitr at least allows the setting that a given random parameter can only vary within the positive space. I would prefer to keep my code set up around mlogit, so if anybody has run into the same issue, please let me know!&#xA;&#xA;  &#xA;This Stack Overflow question is related, but never got answered: [https://stackoverflow.com/questions/38187352/constrained-multinomial-logistic-regression-in-r-using-mlogit](https://stackoverflow.com/questions/38187352/constrained-multinomial-logistic-regression-in-r-using-mlogit)&#xA;&#xA;ChatGPT told me to pass the constraints = list(ineqQ = ..., ineqB = ...) type argument from MaxLik into the mlogit function, but mlogit simply ignores it. </description>
     </item>
   </channel>
 </rss>
