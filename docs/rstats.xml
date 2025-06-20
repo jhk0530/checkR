@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R Markdown runs all code from the very beginning when I run a single line or a single chunk</title>
-      <link>https://reddit.com/r/rstats/comments/1lfrgcm/r_markdown_runs_all_code_from_the_very_beginning/</link>
-      <pubDate>Fri, 20 Jun 2025 01:15:13 +0000</pubDate>
-      <description>I&#39;ve just updated my RStudio version to see if that would fix it, but nope. I&#39;m now on RStudio 2025.05.1+513 &#34;Mariposa Orchid&#34; Release (ab7c1bc795c7dcff8f26215b832a3649a19fc16c, 2025-06-01) for windows.&#xA;&#xA;Visually, I think my chunks are set up correctly. i.e., no loose backticks.&#xA;&#xA;Anyone know how to fix this or what causes it?&#xA;&#xA;  &#xA;I didn&#39;t have this issue last week, and I don&#39;t think anything had changed.</description>
+      <title>What is missing from R according to you? What are your best recommendations?</title>
+      <link>https://reddit.com/r/rstats/comments/1lg6bzr/what_is_missing_from_r_according_to_you_what_are/</link>
+      <pubDate>Fri, 20 Jun 2025 15:07:20 +0000</pubDate>
+      <description>R is an amazing programming language, and I really enjoy coding with it. It remains unmatched in statistics thanks to its large ecosystem for that purpose. However, we have entered an era where everyone only talks about AI (LLMs), and many packages are moving in this direction [there are at least 30 such packages](https://luisdva.github.io/llmsr-book/r-pkgs.html).&#xA;&#xA;While the enthusiasm is impressive, I wonder if we might be overlooking other ideas that could be more useful for the community? For example, I&#39;m surprised there isn&#39;t an equivalent to Python&#39;s Transformers library. Are there other themes that deserve our attention?&#xA;&#xA;So, I am interested in your opinion. What kind of package do you need? Is there a package that you appreciate but deserves more recognition? It would be great if you could answer these questions while specifying your profession and/or current use of R. For example:&#xA;&#xA;&#34;I am a Geography researcher, and I work extensively on 3D map visualization. It would be useful to have a package that... We don&#39;t talk enough about the package...&#34;&#xA;&#xA;Thank you in advance!</description>
     </item>
   </channel>
 </rss>
