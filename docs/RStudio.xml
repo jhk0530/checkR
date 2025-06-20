@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>How to add constraint to mlogit?</title>
-      <link>https://reddit.com/r/RStudio/comments/1lg3wyc/how_to_add_constraint_to_mlogit/</link>
-      <pubDate>Fri, 20 Jun 2025 13:24:23 +0000</pubDate>
-      <description>I am estimating a random utility model using mlogit (both using multinomial logit and mixed logit). A priori, I would like to constrain the maximum likelihood estimator to only allow beta\_1 to take a positive value. However, there appear to be no way to do that? &#xA;&#xA;Is my only option to switch to another package? Logitr at least allows the setting that a given random parameter can only vary within the positive space. I would prefer to keep my code set up around mlogit, so if anybody has run into the same issue, please let me know!&#xA;&#xA;  &#xA;This Stack Overflow question is related, but never got answered: [https://stackoverflow.com/questions/38187352/constrained-multinomial-logistic-regression-in-r-using-mlogit](https://stackoverflow.com/questions/38187352/constrained-multinomial-logistic-regression-in-r-using-mlogit)&#xA;&#xA;ChatGPT told me to pass the constraints = list(ineqQ = ..., ineqB = ...) type argument from MaxLik into the mlogit function, but mlogit simply ignores it. </description>
+      <title>Cleaning Reddit post in R</title>
+      <link>https://reddit.com/r/RStudio/comments/1lgbrxa/cleaning_reddit_post_in_r/</link>
+      <pubDate>Fri, 20 Jun 2025 18:47:20 +0000</pubDate>
+      <description>Hey everyone! For a personal summer project, I’m planning to do topic modeling on posts and comments from a movie subreddit. Has anyone successfully used R to clean Reddit data before? Is tidytext powerful enough for cleaning reddit posts and comments? Any tips or experiences would be appreciated! </description>
     </item>
   </channel>
 </rss>
