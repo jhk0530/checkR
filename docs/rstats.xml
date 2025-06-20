@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Redistribute category values proportionally across two other categories by group</title>
-      <link>https://reddit.com/r/rstats/comments/1lflw7a/redistribute_category_values_proportionally/</link>
-      <pubDate>Thu, 19 Jun 2025 20:59:07 +0000</pubDate>
-      <description>I have this table, and I want to reassign the case counts when the cause is C55. I want to redistribute it mathematically according to the proportion between C53 and C54 (that is, if both have 1, assign 50% of C55 to each). Always round down, and if there is any remaining whole number, assign it to C53. This should all be done separately for each age group.&#xA;&#xA;    # A tibble: 26 × 4&#xA;        SEXO CAUSA GRUPEDAD CUENTA&#xA;       &#xA;    &amp;lt;dbl&amp;gt;&#xA;     &#xA;    &amp;lt;chr&amp;gt;&#xA;     &#xA;    &amp;lt;chr&amp;gt;&#xA;         &#xA;    &amp;lt;dbl&amp;gt;&#xA;     1     2 C55   55 a 59       1&#xA;     2     2 C54   70 a 74       1&#xA;     3     2 C54   80 y mas      1&#xA;     4     2 C53   45 a 49       5&#xA;     5     2 C54   60 a 64       1&#xA;     6     2 C53   50 a 54       1&#xA;     7     2 C53   80 y mas      2&#xA;     8     2 C54   55 a 59       1&#xA;     9     2 C53   65 a 69       3&#xA;    10     2 C55   75 a 79       3&#xA;    # ℹ 16 more rows</description>
+      <title>R Markdown runs all code from the very beginning when I run a single line or a single chunk</title>
+      <link>https://reddit.com/r/rstats/comments/1lfrgcm/r_markdown_runs_all_code_from_the_very_beginning/</link>
+      <pubDate>Fri, 20 Jun 2025 01:15:13 +0000</pubDate>
+      <description>I&#39;ve just updated my RStudio version to see if that would fix it, but nope. I&#39;m now on RStudio 2025.05.1+513 &#34;Mariposa Orchid&#34; Release (ab7c1bc795c7dcff8f26215b832a3649a19fc16c, 2025-06-01) for windows.&#xA;&#xA;Visually, I think my chunks are set up correctly. i.e., no loose backticks.&#xA;&#xA;Anyone know how to fix this or what causes it?&#xA;&#xA;  &#xA;I didn&#39;t have this issue last week, and I don&#39;t think anything had changed.</description>
     </item>
   </channel>
 </rss>
