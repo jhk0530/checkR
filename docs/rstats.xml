@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>What is missing from R according to you? What are your best recommendations?</title>
-      <link>https://reddit.com/r/rstats/comments/1lg6bzr/what_is_missing_from_r_according_to_you_what_are/</link>
-      <pubDate>Fri, 20 Jun 2025 15:07:20 +0000</pubDate>
-      <description>R is an amazing programming language, and I really enjoy coding with it. It remains unmatched in statistics thanks to its large ecosystem for that purpose. However, we have entered an era where everyone only talks about AI (LLMs), and many packages are moving in this direction [there are at least 30 such packages](https://luisdva.github.io/llmsr-book/r-pkgs.html).&#xA;&#xA;While the enthusiasm is impressive, I wonder if we might be overlooking other ideas that could be more useful for the community? For example, I&#39;m surprised there isn&#39;t an equivalent to Python&#39;s Transformers library. Are there other themes that deserve our attention?&#xA;&#xA;So, I am interested in your opinion. What kind of package do you need? Is there a package that you appreciate but deserves more recognition? It would be great if you could answer these questions while specifying your profession and/or current use of R. For example:&#xA;&#xA;&#34;I am a Geography researcher, and I work extensively on 3D map visualization. It would be useful to have a package that... We don&#39;t talk enough about the package...&#34;&#xA;&#xA;Thank you in advance!</description>
+      <title>Beginner trying to teach</title>
+      <link>https://reddit.com/r/rstats/comments/1lgosqn/beginner_trying_to_teach/</link>
+      <pubDate>Sat, 21 Jun 2025 05:18:32 +0000</pubDate>
+      <description>I took a course in college where I learned R, but I rarely used it afterwards meaning I&#39;m relearning. Well now I&#39;m teaching AP Stats and want to connect real data to using R. My students are on Chromebooks and I found Posit Cloud for them to use. I am in the process of creating a guided lesson for the students to work through using a dataset I&#39;ll be sharing with them through Google Drive.&#xA;&#xA;The issue I am having is when I assign a variable from the dataset it starts to cause problems.&#xA;&#xA;`&amp;gt; sent&amp;lt;-rawdata$Text_Messages_Sent_Yesterday #rawdata is the dataset`&#xA;&#xA;I know the dataset has empty values and it appears to be classified as a list. What can I do to clean up the values for sent, so that they are numeric and the NULLs are removed? My goal is to be able to calculate mean and sd of the &#34;number of text messages sent yesterday&#39; since it is 400+ data points. Data was pulled from Census at School.&#xA;&#xA;[Copy of Datafile](https://docs.google.com/spreadsheets/d/1jmSCbDCgnfU9hNTrydYtwBfwfpFOngiYsXbxdY1xfsk/copy)&#xA;&#xA;</description>
     </item>
   </channel>
 </rss>
