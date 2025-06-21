@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/rstats/</link>
     <description>Reddit r/rstats 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>Beginner trying to teach</title>
-      <link>https://reddit.com/r/rstats/comments/1lgosqn/beginner_trying_to_teach/</link>
-      <pubDate>Sat, 21 Jun 2025 05:18:32 +0000</pubDate>
-      <description>I took a course in college where I learned R, but I rarely used it afterwards meaning I&#39;m relearning. Well now I&#39;m teaching AP Stats and want to connect real data to using R. My students are on Chromebooks and I found Posit Cloud for them to use. I am in the process of creating a guided lesson for the students to work through using a dataset I&#39;ll be sharing with them through Google Drive.&#xA;&#xA;The issue I am having is when I assign a variable from the dataset it starts to cause problems.&#xA;&#xA;`&amp;gt; sent&amp;lt;-rawdata$Text_Messages_Sent_Yesterday #rawdata is the dataset`&#xA;&#xA;I know the dataset has empty values and it appears to be classified as a list. What can I do to clean up the values for sent, so that they are numeric and the NULLs are removed? My goal is to be able to calculate mean and sd of the &#34;number of text messages sent yesterday&#39; since it is 400+ data points. Data was pulled from Census at School.&#xA;&#xA;[Copy of Datafile](https://docs.google.com/spreadsheets/d/1jmSCbDCgnfU9hNTrydYtwBfwfpFOngiYsXbxdY1xfsk/copy)&#xA;&#xA;</description>
+      <title>How AI Is Reshaping Labour Markets</title>
+      <link>https://reddit.com/r/rstats/comments/1lgulm6/how_ai_is_reshaping_labour_markets/</link>
+      <pubDate>Sat, 21 Jun 2025 11:42:39 +0000</pubDate>
+      <description>The transformative power of AI is no longer a distant theory, it’s redefining how we work *right now*. From optimising supply chains in manufacturing to driving credit decisions in finance, AI is accelerating efficiency across industries. **But what does this mean for workers, inequality, and the structure of our economies?**&#xA;&#xA;In Timberlake Consultants&#39; latest blog post, we explore how intelligent machines are:&#xA;&#xA;* Streamlining production and reducing human error,&#xA;* Changing risk management and investment strategies in finance,&#xA;* Personalising marketing and enabling dynamic pricing in consumer markets,&#xA;* …while also contributing to job polarisation, income inequality, and structural shifts in labour demand.&#xA;&#xA;The post dives into current academic findings and includes key insights on **AI’s double-edged effect** — boosting productivity, but also raising concerns around fairness, displacement, and long-term labour market resilience.&#xA;&#xA;Read the full piece here: [AI: The Future of Labour Markets – Timberlake Consultants](https://timberlake.co/uk/blog/AI-The-Future-of-Labor-Markets.html)</description>
     </item>
   </channel>
 </rss>
