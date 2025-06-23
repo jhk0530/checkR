@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>R tutorial data filtering</title>
-      <link>https://reddit.com/r/RStudio/comments/1lhfr7k/r_tutorial_data_filtering/</link>
-      <pubDate>Sun, 22 Jun 2025 04:54:40 +0000</pubDate>
-      <description>Data filtering tutorial&#xA;&#xA;https://preview.redd.it/ig6efoymte8f1.png?width=2816&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=57c72671fdf0eba6c30d4a14fae7134ebf5c8a8e&#xA;&#xA;Bloody easy question. The issue is, how do I even know there is a column called &#34;dest&#34;? It&#39;s not allowing my to View(nycflights13) (object not found). I&#39;m pretty sure there is some easy solution here but it&#39;s frustrating me to no end. &#xA;&#xA;Help! Please?</description>
+      <title>Binning Data To Represent Every 10 Minutes</title>
+      <link>https://reddit.com/r/RStudio/comments/1li4anb/binning_data_to_represent_every_10_minutes/</link>
+      <pubDate>Mon, 23 Jun 2025 01:32:55 +0000</pubDate>
+      <description>PLEASE HELP!&#xA;&#xA;I am trying to average a lot of data together to create a sizeable graph. I currently took a large sum of data every day continuously for about 11 days. The data was taken throughout the entirety of the 11 days every 8 seconds. This data is different variables of chlorophyll. I am trying to overlay it with temperature and salinity data that has been taken continuously for the 11 days as well, but it was taken every one minute.&#xA;&#xA;I am trying to average both data sets to represent every ten minutes to have less data to work with, which will also make it easier to overlay. I attempted to do this with a pivot table but it is too time consuming since it would only average every minute, so I&#39;m trying to find an R Code or anything else I can complete it with. If anyone is able to help me I&#39;d extremely appreciate it. If you need to contact me for more information please let me know! Ill do anything.</description>
     </item>
   </channel>
 </rss>
