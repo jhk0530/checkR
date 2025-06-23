@@ -4,10 +4,10 @@
     <link>https://www.reddit.com/r/RStudio/</link>
     <description>Reddit r/RStudio 서브레딧에서 최근 2시간 동안 작성된 글들입니다.</description>
     <item>
-      <title>CNA help</title>
-      <link>https://reddit.com/r/RStudio/comments/1lic3mp/cna_help/</link>
-      <pubDate>Mon, 23 Jun 2025 09:24:08 +0000</pubDate>
-      <description>I have no experience at all, but I need to lear it very fast. I don&#39;t want to learn Rstudio in general, what I need is to learn Rstudio for CNA. Anyone available for lessons?</description>
+      <title>glimpse Not Working</title>
+      <link>https://reddit.com/r/RStudio/comments/1lifmvd/glimpse_not_working/</link>
+      <pubDate>Mon, 23 Jun 2025 12:45:02 +0000</pubDate>
+      <description>I’m a university student who is using the free version of RStudio on my Mac. I’m trying to complete this assignment using a template and whenever I keep trying to use the glimpse function I keep getting an error message. I have tidyverse downloaded too, so I’m not sure why I keep getting this error.</description>
     </item>
   </channel>
 </rss>
